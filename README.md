@@ -4,10 +4,11 @@ An autonomous Python agent designed to curate Generative AI news, draft platform
 
 ## Features
 - **Automated News Curation**: Fetches RSS feeds from leading AI research labs and uses Google's `Gemma 3` model to curate the top stories.
-- **State Manager (Duplicate Protection)**: Persistently tracks discovered articles in `data/state.json` to guarantee the agent only publishes genuinely new articles, safely halting if no fresh news is found.
+- **State Manager (Duplicate Protection)**: Persistently tracks discovered articles in `data/articles_state.json` to guarantee the agent only publishes genuinely new articles, safely halting if no fresh news is found.
 - **Resilient AI Pipeline**: Features an Exponential Backoff Retry mechanism to natively bypass Google API `504` timeouts, keeping the agent crash-proof.
-- **Dynamic Image Generation**: Synthesizes a vibrant, 3D cartoonized background image. Overlays a highly professional `Courier New Bold` headline with high-contrast inverted highlight boxes using Pillow.
+- **Dynamic Image Generation**: Synthesizes a vibrant, 3D cartoonized background image. Overlays a highly professional `Roboto-Black` headline with high-contrast inverted highlight boxes. Automatically stamps a 220px circular 5-Star agency badge watermark in the top corner using Pillow.
 - **Make.com Webhook Bridge**: Bypasses strict LinkedIn/Facebook API limitations by routing a unified `multipart/form-data` payload containing the text and image directly into a Make.com Custom Webhook for flawless enterprise-grade distribution.
+- **GitHub Actions CI/CD**: Fully automated deployment running on a 6-hour cron schedule. It executes the entire pipeline securely in the cloud and automatically commits state tracking back to the repository for true zero-touch autonomy.
 
 ## Setup & Installation
 

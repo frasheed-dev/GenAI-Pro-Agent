@@ -104,8 +104,8 @@ def draw_highlighted_text(draw, img_width, img_height, headline, font):
 
 def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awesome_path):
     try:
-        font_social = ImageFont.truetype("courbd.ttf", size=24)
-        font_icons = ImageFont.truetype(font_awesome_path, size=28)
+        font_social = ImageFont.truetype(font_regular_path, size=30)
+        font_icons = ImageFont.truetype(font_awesome_path, size=35)
     except Exception as e:
         print("Could not load Courier New. Using default.")
         font_social = ImageFont.load_default()
