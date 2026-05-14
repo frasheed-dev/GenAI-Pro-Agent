@@ -116,7 +116,8 @@ def generate_audio(text, output_path="drafts/voiceover.mp3", subs_path="drafts/s
     
     vtt_path = subs_path.replace('.ass', '.vtt')
     
-    python_exe = r"C:\Users\frasheed\miniconda3\python.exe"
+    import sys
+    python_exe = sys.executable
     command = [
         python_exe, "-m", "edge_tts",
         "--text", text,
@@ -152,8 +153,8 @@ def compile_video(image_path, audio_path, subs_path, output_path="drafts/final_v
     # if they contain spaces. Use the relative path to bypass the bug.
     sub_rel = subs_path.replace('\\', '/')
     
-    # Use the absolute path to ffmpeg since it's failing in the command prompt
-    FFMPEG_PATH = r"C:\ffmpeg\bin\ffmpeg.exe"
+    # Use the system path for ffmpeg to support both Windows and Linux Github Actions
+    FFMPEG_PATH = "ffmpeg"
     
     # Complex Filter Graph:
     # 1. Create waveform
