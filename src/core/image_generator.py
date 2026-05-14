@@ -10,12 +10,15 @@ def create_circular_mask(size):
     draw.ellipse((0, 0) + size, fill=255)
     return mask
 
-def download_font(font_path="Roboto-Black.ttf", url="https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-Black.ttf"):
-    if not os.path.exists(font_path):
+def download_font(font_path="Roboto-Black.ttf", url="https://raw.githubusercontent.com/googlefonts/roboto/main/src/hinted/Roboto-Black.ttf"):
+    if not os.path.exists(font_path) or os.path.getsize(font_path) < 1000:
         print(f"Downloading font: {font_path}...")
         r = requests.get(url)
-        with open(font_path, "wb") as f:
-            f.write(r.content)
+        if r.status_code == 200:
+            with open(font_path, "wb") as f:
+                f.write(r.content)
+        else:
+            print(f"Warning: Failed to download {font_path} (Status {r.status_code})")
     return font_path
 
 def generate_background(prompt):
@@ -186,7 +189,7 @@ def create_news_image(image_prompt, headline, output_path="drafts/news_image.png
     draw = ImageDraw.Draw(img)
     
     font_path = download_font()
-    fa_path = download_font("fa-brands-400.ttf", "https://github.com/FortAwesome/Font-Awesome/raw/master/webfonts/fa-brands-400.ttf")
+    fa_path = download_font("fa-brands-400.ttf", "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/webfonts/fa-brands-400.ttf")
     
     try:
         font = ImageFont.truetype(font_path, size=75)
