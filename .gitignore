@@ -1,0 +1,34 @@
+# Environment Variables
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Drafts and temporary image generation files
+drafts/
+branding/badge_concept*.png
+branding/banner_concept*.png
+branding/concept*.png
+branding/agent_concept*.png
+copy_*.py
+
+# Wait! Do NOT ignore data/state.json - the Github Action needs it!
+# But we can ignore general logs if we have them
+logs/
+
+# Exclude other unrelated projects from this repository
+GenAI-main/
+VibeVoice-main/
