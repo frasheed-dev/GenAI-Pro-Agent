@@ -250,7 +250,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-11T23:00:00+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-14T23:36:18.433441+00:00",
+            "linkedin": "2026-05-14T23:36:40.553149+00:00"
+        },
+        "updated_at": "2026-05-14T23:36:40.553155+00:00"
     },
     "https://openai.com/signals/research/2026q1-update": {
         "title": "How ChatGPT adoption broadened in early 2026",
@@ -586,7 +591,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T19:12:03+00:00",
         "discovered_at": "2026-05-14T23:30:06.421402+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-14T23:36:18.432319+00:00",
+            "linkedin": "2026-05-14T23:36:40.552057+00:00"
+        },
+        "updated_at": "2026-05-14T23:36:40.552074+00:00"
     },
     "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/": {
         "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
