@@ -46,11 +46,13 @@ def draw_highlighted_text(draw, img_width, img_height, headline, font):
     CLR_FG_ALT = "#cdcdff" 
     CLR_BG = "#143d59" 
     
-    lines = wrap_text(headline, font, img_width - 150)
+    lines = wrap_text(headline, font, img_width - 80)
     
-    line_spacing = 40 # Increased spacing to prevent overlap
-    dummy_bbox = font.getbbox("A")
-    line_height = dummy_bbox[3] - dummy_bbox[1]
+    line_spacing = 20
+    dummy_bbox = font.getbbox("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz")
+    text_top = dummy_bbox[1]
+    text_bottom = dummy_bbox[3]
+    line_height = text_bottom - text_top
     
     total_text_height = (line_height * len(lines)) + (line_spacing * (len(lines) - 1))
     
@@ -62,6 +64,21 @@ def draw_highlighted_text(draw, img_width, img_height, headline, font):
         line_width = font.getlength(clean_line)
         current_x = (img_width - line_width) / 2
         
+        # Pre-calculate the maximum descender for any highlighted word on this line
+        # This ensures 'status' and 'quo' have identical flush box heights!
+        max_hl_descent = 0
+        temp_hl = False
+        for w in words:
+            if w.startswith('*'): temp_hl = True
+            if temp_hl:
+                c_w = w.replace('*', '')
+                if c_w:
+                    max_hl_descent = max(max_hl_descent, font.getbbox(c_w)[3])
+            if '*' in w and not w.startswith('*'):
+                temp_hl = False
+            elif w.startswith('*') and w.endswith('*') and len(w) > 1:
+                temp_hl = False
+                
         is_highlighted = False
         
         for word in words:
@@ -81,13 +98,15 @@ def draw_highlighted_text(draw, img_width, img_height, headline, font):
             
             if is_highlighted:
                 padding_x = 10
-                padding_y_top = -10 # Shift the top of the box down
-                padding_y_bottom = 30 # Greatly extend the bottom to cover descenders
+                padding_y_top = 10
+                padding_y_bottom = 10
                 
                 box_x0 = current_x - padding_x
-                box_y0 = current_y - padding_y_top
+                box_y0 = current_y + text_top - padding_y_top
                 box_x1 = current_x + font.getlength(word) + padding_x
-                box_y1 = current_y + line_height + padding_y_bottom
+                
+                # Use the line's maximum highlighted descender so adjacent words are perfectly flush
+                box_y1 = current_y + max_hl_descent + padding_y_bottom
                 
                 draw.rectangle([box_x0, box_y0, box_x1, box_y1], fill=CLR_PRIMARY)
                 draw.text((current_x, current_y), word, font=font, fill=CLR_BG)
@@ -103,56 +122,84 @@ def draw_highlighted_text(draw, img_width, img_height, headline, font):
         current_y += line_height + line_spacing
 
 def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awesome_path):
+    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
     try:
-        font_social = ImageFont.truetype(font_regular_path, size=30)
-        font_icons = ImageFont.truetype(font_awesome_path, size=35)
+        # We use the main Roboto font for maximum reliability and cohesive branding
+        font_social = ImageFont.truetype(font_regular_path, size=33)
+        font_icons = ImageFont.truetype(font_awesome_path, size=38)
     except Exception as e:
-        print("Could not load Courier New. Using default.")
+        print("Could not load fonts. Using default.")
         font_social = ImageFont.load_default()
         font_icons = ImageFont.load_default()
 
     CLR_YELLOW = "#F4B41A" 
     CLR_BLUE = "#143d59" 
     
-    # --- Top Left Branding (Logo Paste) ---
-    # The script is in src/core/, so the root is two directories up
-    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-    logo_path = os.path.join(root_dir, "branding", "final_logo.png")
+    # --- Top Left Branding (Typographic Circular Badge) ---
+    try:
+        font_logo = ImageFont.truetype(font_regular_path, size=50)
+    except Exception:
+        font_logo = ImageFont.load_default()
+
+    brand_x = 40
+    brand_y = 40
     
-    if os.path.exists(logo_path):
-        try:
-            logo = Image.open(logo_path).convert("RGBA")
-            
-            # Crop out the excess blue square background to tightly hug the circular badge
-            logo_w, logo_h = logo.size
-            crop_margin = int(logo_w * 0.12)
-            logo = logo.crop((crop_margin, crop_margin, logo_w - crop_margin, logo_h - crop_margin))
-            
-            logo_size = 220 
-            logo = logo.resize((logo_size, logo_size), Image.Resampling.LANCZOS)
-            mask = create_circular_mask((logo_size, logo_size))
-            logo.putalpha(mask)
-            img.paste(logo, (40, 40), logo)
-        except Exception as e:
-            print(f"Could not paste logo: {e}")
+    text_gen = "Gen "
+    text_ai = "AI"
+    text_pro = "Pro"
+    
+    # Calculate widths
+    w_gen = font_logo.getlength(text_gen)
+    w_ai = font_logo.getlength(text_ai)
+    w_line1 = w_gen + w_ai
+    w_line2 = font_logo.getlength(text_pro)
+    
+    # Calculate circle diameter to comfortably fit the longest line
+    max_w = max(w_line1, w_line2)
+    circle_d = int(max_w + 70) # 35px padding on all sides
+    
+    # Create a separate transparent image for the badge
+    badge = Image.new('RGBA', (circle_d, circle_d), (0, 0, 0, 0))
+    badge_draw = ImageDraw.Draw(badge)
+    
+    # Draw semi-transparent black perfect circle
+    badge_draw.ellipse([0, 0, circle_d, circle_d], fill=(0, 0, 0, 180))
+        
+    # Calculate centered Y positions
+    total_h = 100 # approx height of two 50px lines
+    start_y = (circle_d - total_h) / 2 - 10 # Shift up slightly for font margins
+    
+    # Draw Line 1: Centered "Gen AI"
+    line1_x = (circle_d - w_line1) / 2
+    badge_draw.text((line1_x, start_y), text_gen, font=font_logo, fill="#FFFFFF")
+    badge_draw.text((line1_x + w_gen, start_y), text_ai, font=font_logo, fill="#F4B41A")
+    
+    # Draw Line 2: Centered "PRO"
+    line2_x = (circle_d - w_line2) / 2
+    badge_draw.text((line2_x, start_y + 50), text_pro, font=font_logo, fill="#F4B41A")
+    
+    # Paste the circular badge onto the main image using itself as the alpha mask
+    img.paste(badge, (brand_x, brand_y), badge)
     
     # --- Bottom Social Links ---
     social_y = img_height - 80 # Lifted up slightly
     
     # Facebook
     fb_icon = "\uf09a"
-    fb_text = " /genaipro"
+    fb_text = "/genaipro"
+    fb_gap = 12
     fb_x = 40
     draw.text((fb_x, social_y), fb_icon, font=font_icons, fill=(255, 255, 255, 230))
-    draw.text((fb_x + font_icons.getlength(fb_icon), social_y), fb_text, font=font_social, fill=(255, 255, 255, 230))
+    draw.text((fb_x + font_icons.getlength(fb_icon) + fb_gap, social_y), fb_text, font=font_social, fill=(255, 255, 255, 230))
     
     # LinkedIn
     li_icon = "\uf08c"
-    li_text = " /company/genaipro"
-    li_width = font_icons.getlength(li_icon) + font_social.getlength(li_text)
+    li_text = "/company/genaipro"
+    li_gap = 12
+    li_width = font_icons.getlength(li_icon) + li_gap + font_social.getlength(li_text)
     li_x = img_width - li_width - 40
     draw.text((li_x, social_y), li_icon, font=font_icons, fill=(255, 255, 255, 230))
-    draw.text((li_x + font_icons.getlength(li_icon), social_y), li_text, font=font_social, fill=(255, 255, 255, 230))
+    draw.text((li_x + font_icons.getlength(li_icon) + li_gap, social_y), li_text, font=font_social, fill=(255, 255, 255, 230))
 
 def create_news_image(image_prompt, headline, output_path="drafts/news_image.png"):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
