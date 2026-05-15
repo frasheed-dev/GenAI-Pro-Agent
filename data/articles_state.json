@@ -563,7 +563,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T00:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421374+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:07:16.988037+00:00",
+            "linkedin": "2026-05-15T22:07:35.180150+00:00"
+        },
+        "updated_at": "2026-05-15T22:07:35.180156+00:00"
     },
     "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
         "title": "Our response to the TanStack npm supply chain attack",
@@ -803,6 +808,11 @@
         "source": "AI News",
         "published_date": "2026-05-15T15:02:00+00:00",
         "discovered_at": "2026-05-15T19:38:35.141997+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:07:16.986758+00:00",
+            "linkedin": "2026-05-15T22:07:35.178908+00:00"
+        },
+        "updated_at": "2026-05-15T22:07:35.178921+00:00"
     }
 }
