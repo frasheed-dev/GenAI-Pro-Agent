@@ -561,7 +561,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-13T00:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421378+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T08:50:21.223142+00:00",
+            "linkedin": "2026-05-15T08:50:39.129653+00:00"
+        },
+        "updated_at": "2026-05-15T08:50:39.129660+00:00"
     },
     "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/": {
         "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -589,7 +594,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T19:57:20+00:00",
         "discovered_at": "2026-05-14T23:30:06.421398+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T08:50:21.221888+00:00",
+            "linkedin": "2026-05-15T08:50:39.127895+00:00"
+        },
+        "updated_at": "2026-05-15T08:50:39.127906+00:00"
     },
     "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/": {
         "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
@@ -702,6 +712,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-14T09:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421450+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/sea-david-chen": {
+        "title": "Sea's View on the Future of Agentic Software Development with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-14T20:30:00+00:00",
+        "discovered_at": "2026-05-15T08:49:40.584041+00:00",
         "status": "PENDING"
     }
 }
