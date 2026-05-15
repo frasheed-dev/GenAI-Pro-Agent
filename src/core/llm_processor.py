@@ -100,6 +100,7 @@ def draft_social_post(platform, curated_articles):
         "3️⃣ THE HOOK-AND-HOLD CTA (Drive Comments)\n"
         "- End the post with a thought-provoking, controversial, or highly engaging question to force people to comment. (e.g., 'Are we moving too fast? Drop your thoughts below.')\n\n"
         "ADDITIONAL GUIDELINES:\n"
+        "- CRITICAL: Do NOT actually output the section titles/headers (like 'THE TL;DR' or 'WHY IT MATTERS'). Weave these parts naturally into a seamless post.\n"
         "- Do NOT use markdown formatting (like **bold** or *italics*). Social platforms render these as literal asterisks.\n"
         f"{platform_instructions}\n"
         "- Put the Source Links at the very bottom.\n"
