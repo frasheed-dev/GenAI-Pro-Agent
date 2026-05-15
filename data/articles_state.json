@@ -323,7 +323,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-13T15:00:00+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T03:30:05.920184+00:00",
+            "linkedin": "2026-05-15T03:30:24.050211+00:00"
+        },
+        "updated_at": "2026-05-15T03:30:24.050217+00:00"
     },
     "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/": {
         "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
@@ -664,7 +669,12 @@
         "source": "AI News",
         "published_date": "2026-05-14T10:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421437+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T03:30:05.919023+00:00",
+            "linkedin": "2026-05-15T03:30:24.049047+00:00"
+        },
+        "updated_at": "2026-05-15T03:30:24.049061+00:00"
     },
     "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/": {
         "title": "Top real estate app development companies in the US: Abilities and costs",
