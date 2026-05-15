@@ -547,7 +547,11 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T13:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421368+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T14:11:48.525877+00:00"
+        },
+        "updated_at": "2026-05-15T14:11:48.525883+00:00"
     },
     "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
         "title": "Helping ChatGPT better recognize context in sensitive conversations",
@@ -587,7 +591,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T20:58:55+00:00",
         "discovered_at": "2026-05-14T23:30:06.421395+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T14:11:48.524572+00:00"
+        },
+        "updated_at": "2026-05-15T14:11:48.524587+00:00"
     },
     "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/": {
         "title": "What happens when AI starts building itself?",
@@ -719,6 +727,27 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T20:30:00+00:00",
         "discovered_at": "2026-05-15T08:49:40.584041+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/": {
+        "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-15T14:00:00+00:00",
+        "discovered_at": "2026-05-15T14:10:14.288689+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/": {
+        "title": "Osaurus brings both local and cloud AI models to your Mac",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-15T12:19:48+00:00",
+        "discovered_at": "2026-05-15T14:10:14.288698+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/": {
+        "title": "How Chinese short dramas became AI content machines",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-15T09:00:00+00:00",
+        "discovered_at": "2026-05-15T14:10:14.288710+00:00",
         "status": "PENDING"
     }
 }
