@@ -18,7 +18,7 @@ def extract_text(response):
             return "".join([part.text for part in response.candidates[0].content.parts])
         return ""
 
-def generate_with_retry(prompt, max_retries=3, delay=10):
+def generate_with_retry(prompt, max_retries=5, delay=15):
     """Wraps the Gemini API call with exponential backoff retry logic to handle 504 timeouts."""
     for attempt in range(max_retries):
         try:
@@ -86,15 +86,24 @@ def draft_social_post(platform, curated_articles):
         platform_instructions = "- Keep it professional and engaging."
 
     prompt = (
-        f"You are a professional Tech/AI Influencer on {platform.capitalize()}. Write an engaging post "
+        f"You are a bold, highly opinionated Tech/AI Influencer on {platform.capitalize()}. Write an engaging, highly interactive post "
         "summarizing the following Generative AI news developments.\n\n"
-        "Guidelines:\n"
-        "- Start with a very strong, attention-grabbing hook.\n"
-        "- Summarize the key points clearly using bullet points.\n"
-        "- Do NOT use markdown formatting (like **bold** or *italics*). Use plain text only, because social platforms do not support markdown.\n"
+        "CRITICAL FORMATTING RULES:\n"
+        "You MUST structure the post EXACTLY into these three sections:\n\n"
+        "1️⃣ START WITH A MASSIVE HOOK & KEY TAKEAWAYS (The TL;DR)\n"
+        "- Start with a single, punchy, scroll-stopping sentence.\n"
+        "- Immediately follow with 2-3 short bullet points summarizing the actual news.\n"
+        "- Use relevant emojis for the bullet points to make it visually scannable.\n\n"
+        "2️⃣ WHY IT MATTERS (The Influencer Take)\n"
+        "- Provide a bold opinion, insider perspective, or edgy commentary on what this news actually means for the industry.\n"
+        "- Do not just report the facts—tell them why they should care.\n\n"
+        "3️⃣ THE HOOK-AND-HOLD CTA (Drive Comments)\n"
+        "- End the post with a thought-provoking, controversial, or highly engaging question to force people to comment. (e.g., 'Are we moving too fast? Drop your thoughts below.')\n\n"
+        "ADDITIONAL GUIDELINES:\n"
+        "- Do NOT use markdown formatting (like **bold** or *italics*). Social platforms render these as literal asterisks.\n"
         f"{platform_instructions}\n"
-        "- Include the source links at the bottom.\n"
-        "- Add 3-5 relevant hashtags at the very end.\n\n"
+        "- Put the Source Links at the very bottom.\n"
+        "- Add 3-5 hyper-relevant, niche hashtags at the very end (avoid generic tags like #AI).\n\n"
         "News Developments:\n"
     )
     

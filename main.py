@@ -73,7 +73,8 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
                 print("\n[Stage 3.5] Video generation is paused (GENERATE_VIDEO=False). Skipping to posting...")
                 
     else:
-        print("Failed to generate universal image metadata. Proceeding without image.")
+        print("Failed to generate universal image metadata. Aborting to prevent Make.com errors (scenario requires image).")
+        return
     
     # --- Platform Posting Loop ---
     # Define the platforms we want to post to
