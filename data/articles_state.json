@@ -460,7 +460,12 @@
         "source": "AI News",
         "published_date": "2026-05-13T12:43:38+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T19:39:16.548170+00:00",
+            "linkedin": "2026-05-15T19:39:35.248768+00:00"
+        },
+        "updated_at": "2026-05-15T19:39:35.248775+00:00"
     },
     "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/": {
         "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
@@ -748,6 +753,46 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-15T09:00:00+00:00",
         "discovered_at": "2026-05-15T14:10:14.288710+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/personal-finance-chatgpt": {
+        "title": "A new personal finance experience in ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-05-15T00:00:00+00:00",
+        "discovered_at": "2026-05-15T19:38:35.141968+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/": {
+        "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-15T19:24:16+00:00",
+        "discovered_at": "2026-05-15T19:38:35.141977+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/": {
+        "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-15T18:14:44+00:00",
+        "discovered_at": "2026-05-15T19:38:35.141983+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/": {
+        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-15T16:00:00+00:00",
+        "discovered_at": "2026-05-15T19:38:35.141987+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T19:39:16.546798+00:00",
+            "linkedin": "2026-05-15T19:39:35.247454+00:00"
+        },
+        "updated_at": "2026-05-15T19:39:35.247469+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/": {
+        "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
+        "source": "AI News",
+        "published_date": "2026-05-15T15:02:00+00:00",
+        "discovered_at": "2026-05-15T19:38:35.141997+00:00",
         "status": "PENDING"
     }
 }
