@@ -75,48 +75,87 @@ def draft_social_post(platform, curated_articles):
     """
     if not curated_articles:
         return "No significant GenAI news to post today."
-        
+
+    # ── Platform-specific voice ───────────────────────────────────────────────
     if platform.lower() == "linkedin":
-        platform_instructions = "- Keep the tone professional, insightful, and slightly conversational.\n- Keep the total length under 1500 characters."
+        platform_instructions = (
+            "PLATFORM: LinkedIn\n"
+            "- Voice: Write like a senior AI researcher sharing insights with industry peers over coffee. "
+            "Knowledgeable, direct, occasionally dry about AI hype. Never corporate or press-release-y.\n"
+            "- Structure: A strong specific opening line (not a question, not 'I'm excited to share'), "
+            "2-3 sentences of substantive context and your actual opinion, then optionally a closing question — "
+            "but ONLY if it genuinely invites real disagreement or debate. Skip it if it would feel forced.\n"
+            "- Length: 900-1,400 characters. Substantive enough to be worth reading, short enough to finish.\n"
+            "- Format: Flowing prose with single line breaks between paragraphs. No bullet points.\n"
+        )
     elif platform.lower() == "x" or platform.lower() == "twitter":
         platform_instructions = (
-            "- X (Twitter) STRICT requirements — this is a single tweet, not a thread:\n"
-            "- The ENTIRE post must be 260 characters or fewer (we attach an image so no URL needed).\n"
-            "- Line 1: A single scroll-stopping hook sentence. Bold, opinionated, slightly controversial.\n"
-            "- Lines 2-4: Exactly 2-3 ultra-short bullet points using ⚡ or 🔥 emojis. Each bullet max 60 chars.\n"
-            "- Final line: 1-2 hyper-niche hashtags ONLY (e.g. #GenAI #LLMOps). Never generic tags like #AI or #Tech.\n"
-            "- Do NOT include any URLs — the image card is the visual anchor.\n"
-            "- Do NOT use 'Thread:', numbering, or section headers — single standalone tweet.\n"
-            "- Tone: punchy, viral tech Twitter. Think hot take, not press release.\n"
+            "PLATFORM: X (Twitter) — single standalone tweet, NOT a thread.\n"
+            "- The ENTIRE post must be 260 characters or fewer.\n"
+            "- Line 1: One scroll-stopping sentence with a specific fact or counterintuitive angle. Not hype.\n"
+            "- Lines 2-3: 2 ultra-short bullets with ⚡ or 🔥 emojis. Max 55 chars each.\n"
+            "- Final line: 1-2 hyper-niche hashtags only (e.g. #GenAI #LLMOps). Never #AI or #Tech.\n"
+            "- No URLs. No 'Thread:'. No section headers. Write it like a real person, not a bot.\n"
         )
     elif platform.lower() == "facebook":
-        platform_instructions = "- Make it engaging for a broader audience, slightly more casual than LinkedIn but still informative.\n- Keep the total length under 1500 characters."
+        platform_instructions = (
+            "PLATFORM: Facebook\n"
+            "- Voice: Write like a knowledgeable friend explaining big AI news to a curious but "
+            "non-technical audience. Warm, approachable, grounded. Never condescending.\n"
+            "- If you use a technical term, briefly explain it in plain English right after.\n"
+            "- Structure: One attention-grabbing opener, the news explained simply, why a normal person "
+            "should care about it, and a genuine conversational question at the end.\n"
+            "- Length: 800-1,200 characters. Easy to read on mobile in under 30 seconds.\n"
+            "- Emojis: 2-4 total, placed where they add meaning — not as decoration.\n"
+        )
     elif platform.lower() == "instagram":
-        platform_instructions = "- Optimize for Instagram: heavy focus on visual storytelling, highly engaging, very casual and punchy.\n- CRITICAL: Instagram does not allow clickable links in captions. Do NOT include any raw URLs in the text. Say 'Check the link in bio for sources' if needed.\n- Use lots of line breaks and generous emojis."
+        platform_instructions = (
+            "PLATFORM: Instagram\n"
+            "- Voice: Sharp, punchy, visual in its language. Every line should be able to stand alone.\n"
+            "- Structure: Hook line (max 10 words), 4-6 short lines with a blank line between each, "
+            "end with a statement or question that makes someone want to save or share the post.\n"
+            "- CRITICAL: Instagram does NOT allow clickable links in captions. Do NOT include raw URLs. "
+            "Only say 'link in bio' if there's a genuinely relevant resource to direct people to.\n"
+            "- Emojis: 1-2 per line max, purposefully chosen. Not spammed.\n"
+            "- Length: 600-900 characters. Short enough to read before the fold.\n"
+        )
     else:
-        platform_instructions = "- Keep it professional and engaging."
+        platform_instructions = "- Keep it professional, direct, and genuinely useful to the reader.\n"
 
+    # ── Core prompt ───────────────────────────────────────────────────────────
     prompt = (
-        f"You are a bold, highly opinionated Tech/AI Influencer on {platform.capitalize()}. Write an engaging, highly interactive post "
-        "summarizing the following Generative AI news developments.\n\n"
-        "CRITICAL FORMATTING RULES:\n"
-        "You MUST structure the post EXACTLY into these three sections:\n\n"
-        "1️⃣ START WITH A MASSIVE HOOK & KEY TAKEAWAYS (The TL;DR)\n"
-        "- Start with a single, punchy, scroll-stopping sentence.\n"
-        "- Immediately follow with 2-3 short bullet points summarizing the actual news.\n"
-        "- Use relevant emojis for the bullet points to make it visually scannable.\n\n"
-        "2️⃣ WHY IT MATTERS (The Influencer Take)\n"
-        "- Provide a bold opinion, insider perspective, or edgy commentary on what this news actually means for the industry.\n"
-        "- Do not just report the facts—tell them why they should care.\n\n"
-        "3️⃣ THE HOOK-AND-HOLD CTA (Drive Comments)\n"
-        "- End the post with a thought-provoking, controversial, or highly engaging question to force people to comment. (e.g., 'Are we moving too fast? Drop your thoughts below.')\n\n"
-        "ADDITIONAL GUIDELINES:\n"
-        "- CRITICAL: Do NOT actually output the section titles/headers (like 'THE TL;DR' or 'WHY IT MATTERS'). Weave these parts naturally into a seamless post.\n"
-        "- Do NOT use markdown formatting (like **bold** or *italics*). Social platforms render these as literal asterisks.\n"
+        f"You are the voice of GenAI Pro on {platform.capitalize()} — a sharp, slightly irreverent AI "
+        "industry analyst who cuts through hype to explain what's actually happening. "
+        "Think: technically credible, occasionally dry, always substantive. "
+        "You write like a real person who genuinely follows this space, not a content marketing bot. "
+        "Your readers are smart, skeptical of AI hype, and can smell a template a mile away.\n\n"
+
+        "Write a post summarizing the following Generative AI news developments.\n\n"
+
+        "STRUCTURAL GUIDANCE (guidelines, not a rigid template to fill in):\n"
+        "- Open with something that earns the scroll: a surprising specific detail, a counterintuitive angle, "
+        "or a sharp observation. NOT a rhetorical question opener. NOT 'Big news:' or 'Hot take:'.\n"
+        "- Deliver the actual news with your perspective woven through it — what you genuinely think "
+        "about it, not just what happened. Your opinion should feel earned, not tacked on.\n"
+        "- Close with something that invites a real response: a prediction people can agree or argue with, "
+        "or a question with no obvious answer. Avoid 'What do you think?' and 'Thoughts?' endings.\n"
+        "- The whole post must read like one cohesive piece a real human wrote, not a template filled in.\n\n"
+
+        "BANNED PHRASES — using any of these is an automatic failure:\n"
+        "'game-changer', 'revolutionary', 'This changes everything', 'The future is here', "
+        "'Let's unpack', 'Let's dive in', 'Mind-blowing', 'Drop your thoughts below', "
+        "'The AI race is heating up', 'We're entering a new era', 'Excited to share', "
+        "'Hot take:', 'Big news!', 'buckle up', 'It's official', 'paradigm shift', "
+        "'The future of AI', 'rapidly evolving', 'landscape'.\n\n"
+
+        "FORMATTING RULES:\n"
+        "- Do NOT use markdown like **bold** or *italics* — social platforms show these as literal asterisks.\n"
+        "- Do NOT output any section headings or labels from these instructions.\n\n"
+
         f"{platform_instructions}\n"
     )
 
-    # X has a strict char limit — source links and footer hashtags are handled in platform_instructions
+    # X has a strict char limit — source links and hashtags are handled in platform_instructions
     is_x = platform.lower() in ("x", "twitter")
     if not is_x:
         prompt += (
@@ -124,10 +163,10 @@ def draft_social_post(platform, curated_articles):
             "- Add 3-5 hyper-relevant, niche hashtags at the very end (avoid generic tags like #AI).\n"
         )
     prompt += "\nNews Developments:\n"
-    
+
     for article in curated_articles:
         prompt += f"- {article['title']} ({article['source']}): {article['summary']} [Link: {article['link']}]\n"
-        
+
     print(f"Asking Gemini to draft the {platform.capitalize()} post...")
     try:
         response = generate_with_retry(prompt)

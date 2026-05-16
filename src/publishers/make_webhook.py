@@ -7,9 +7,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ─── Image Hosting Config ─────────────────────────────────────────────────────
-# Set IMAGE_HOST=dropbox in .env for production reliability.
-# Set IMAGE_HOST=catbox  in .env for zero-config anonymous hosting (testing only).
-IMAGE_HOST = os.getenv("IMAGE_HOST", "catbox").lower()
+# IMAGE_HOST options (set in .env or GitHub Secrets):
+#   imgbb   → ImgBB API (default, free, works from GitHub Actions cloud IPs)
+#   dropbox → Dropbox API (reliable, permanent, requires DROPBOX_ACCESS_TOKEN)
+#   catbox  → Catbox.moe (anonymous, zero-config, but blocks cloud/CI IPs — local testing only)
+IMAGE_HOST = os.getenv("IMAGE_HOST", "imgbb").lower()
 
 
 def _convert_to_jpeg(image_path: str) -> io.BytesIO:
@@ -26,8 +28,10 @@ def _convert_to_jpeg(image_path: str) -> io.BytesIO:
 
 
 def _upload_to_catbox(jpeg_buffer: io.BytesIO) -> str:
-    """Uploads a JPEG buffer to Catbox.moe and returns a public direct URL."""
-    print("   📤 Uploading JPEG to Catbox.moe...")
+    """Uploads a JPEG buffer to Catbox.moe and returns a public direct URL.
+    WARNING: Catbox blocks cloud/CI provider IPs (GitHub Actions). Use for local testing only.
+    """
+    print("   📤 Uploading JPEG to Catbox.moe (local testing only)...")
     res = requests.post(
         "https://catbox.moe/user/api.php",
         data={"reqtype": "fileupload"},
@@ -37,6 +41,34 @@ def _upload_to_catbox(jpeg_buffer: io.BytesIO) -> str:
     url = res.text.strip()
     if not url.startswith("http"):
         raise ValueError(f"Catbox returned unexpected response: {url}")
+    return url
+
+
+def _upload_to_imgbb(jpeg_buffer: io.BytesIO) -> str:
+    """
+    Uploads a JPEG buffer to ImgBB and returns a public direct image URL.
+    ImgBB is a proper image hosting API — works from cloud/CI IPs (GitHub Actions).
+    Requires IMGBB_API_KEY in .env / GitHub Secrets.
+    Get a free key at: https://api.imgbb.com
+    """
+    api_key = os.getenv("IMGBB_API_KEY")
+    if not api_key:
+        raise ValueError("IMGBB_API_KEY is not set in .env or GitHub Secrets")
+
+    import base64
+    print("   📤 Uploading JPEG to ImgBB...")
+    image_data = base64.b64encode(jpeg_buffer.read()).decode("utf-8")
+    res = requests.post(
+        "https://api.imgbb.com/1/upload",
+        params={"key": api_key},
+        data={"image": image_data}
+    )
+    res.raise_for_status()
+    result = res.json()
+    if not result.get("success"):
+        raise ValueError(f"ImgBB upload failed: {result}")
+    # Use display_url — a direct CDN link ending in .jpg, suitable for Instagram
+    url = result["data"]["display_url"]
     return url
 
 
@@ -102,9 +134,12 @@ def _get_public_image_url(image_path: str) -> str:
     print(f"🌍 Converting PNG → JPEG and uploading via [{IMAGE_HOST.upper()}]...")
     jpeg_buffer = _convert_to_jpeg(image_path)
 
-    if IMAGE_HOST == "dropbox":
+    if IMAGE_HOST == "imgbb":
+        return _upload_to_imgbb(jpeg_buffer)
+    elif IMAGE_HOST == "dropbox":
         return _upload_to_dropbox(jpeg_buffer)
     else:
+        # catbox — only use for local testing, NOT GitHub Actions (cloud IPs are blocked)
         return _upload_to_catbox(jpeg_buffer)
 
 
