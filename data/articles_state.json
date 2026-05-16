@@ -905,7 +905,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T23:00:00+00:00",
         "discovered_at": "2026-05-16T20:25:33.082582+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:58:25.178639+00:00",
+            "linkedin": "2026-05-16T21:58:54.711848+00:00"
+        },
+        "updated_at": "2026-05-16T21:58:54.711862+00:00"
     },
     "https://openai.com/index/databricks": {
         "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
@@ -923,7 +928,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T23:00:00+00:00",
         "discovered_at": "2026-05-16T20:25:33.082582+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:58:25.180315+00:00",
+            "linkedin": "2026-05-16T21:58:54.713457+00:00"
+        },
+        "updated_at": "2026-05-16T21:58:54.713464+00:00"
     },
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
         "title": "How sales teams use Codex",
