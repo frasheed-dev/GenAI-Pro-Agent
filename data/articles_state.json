@@ -833,7 +833,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-15T09:00:00+00:00",
         "discovered_at": "2026-05-15T14:10:14.288710+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T22:03:27.373323+00:00",
+            "linkedin": "2026-05-16T22:04:18.365392+00:00"
+        },
+        "updated_at": "2026-05-16T22:04:18.365404+00:00"
     },
     "https://openai.com/index/personal-finance-chatgpt": {
         "title": "A new personal finance experience in ChatGPT",
@@ -940,7 +945,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T23:00:00+00:00",
         "discovered_at": "2026-05-16T20:25:33.082582+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T22:03:27.374912+00:00",
+            "linkedin": "2026-05-16T22:04:18.366985+00:00"
+        },
+        "updated_at": "2026-05-16T22:04:18.366993+00:00"
     },
     "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/": {
         "title": "The haves and have nots of the AI gold rush",
