@@ -137,7 +137,7 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     
     # --- Top Left Branding (Typographic Circular Badge) ---
     try:
-        font_logo = ImageFont.truetype(font_regular_path, size=50)
+        font_logo = ImageFont.truetype(font_regular_path, size=40)
     except Exception:
         font_logo = ImageFont.load_default()
 
@@ -156,7 +156,7 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     
     # Calculate circle diameter to comfortably fit the longest line
     max_w = max(w_line1, w_line2)
-    circle_d = int(max_w + 70) # 35px padding on all sides
+    circle_d = int(max_w + 55) # ~27px padding on each side
     
     # Create a separate transparent image for the badge
     badge = Image.new('RGBA', (circle_d, circle_d), (0, 0, 0, 0))
@@ -166,8 +166,8 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     badge_draw.ellipse([0, 0, circle_d, circle_d], fill=(0, 0, 0, 180))
         
     # Calculate centered Y positions
-    total_h = 100 # approx height of two 50px lines
-    start_y = (circle_d - total_h) / 2 - 10 # Shift up slightly for font margins
+    total_h = 80 # approx height of two 40px lines
+    start_y = (circle_d - total_h) / 2 - 8 # Shift up slightly for font margins
     
     # Draw Line 1: Centered "Gen AI"
     line1_x = (circle_d - w_line1) / 2
@@ -176,7 +176,7 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     
     # Draw Line 2: Centered "PRO"
     line2_x = (circle_d - w_line2) / 2
-    badge_draw.text((line2_x, start_y + 50), text_pro, font=font_logo, fill="#F4B41A")
+    badge_draw.text((line2_x, start_y + 40), text_pro, font=font_logo, fill="#F4B41A")
     
     # Paste the circular badge onto the main image using itself as the alpha mask
     img.paste(badge, (brand_x, brand_y), badge)
@@ -184,7 +184,7 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     # --- Bottom Social Links ---
     social_y = img_height - 80 # Lifted up slightly
     
-    # Facebook
+    # Facebook (Left)
     fb_icon = "\uf09a"
     fb_text = "/genaipro"
     fb_gap = 12
@@ -192,7 +192,16 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     draw.text((fb_x, social_y), fb_icon, font=font_icons, fill=(255, 255, 255, 230))
     draw.text((fb_x + font_icons.getlength(fb_icon) + fb_gap, social_y), fb_text, font=font_social, fill=(255, 255, 255, 230))
     
-    # LinkedIn
+    # Instagram (Center)
+    ig_icon = "\uf16d"
+    ig_text = "@gen_ai_pro"
+    ig_gap = 12
+    ig_width = font_icons.getlength(ig_icon) + ig_gap + font_social.getlength(ig_text)
+    ig_x = (img_width - ig_width) / 2
+    draw.text((ig_x, social_y), ig_icon, font=font_icons, fill=(255, 255, 255, 230))
+    draw.text((ig_x + font_icons.getlength(ig_icon) + ig_gap, social_y), ig_text, font=font_social, fill=(255, 255, 255, 230))
+    
+    # LinkedIn (Right)
     li_icon = "\uf08c"
     li_text = "/company/genaipro"
     li_gap = 12

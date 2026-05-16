@@ -1,42 +1,169 @@
 import os
+import io
 import requests
+from PIL import Image
 from dotenv import load_dotenv
 
 load_dotenv()
 
+# ─── Image Hosting Config ─────────────────────────────────────────────────────
+# Set IMAGE_HOST=dropbox in .env for production reliability.
+# Set IMAGE_HOST=catbox  in .env for zero-config anonymous hosting (testing only).
+IMAGE_HOST = os.getenv("IMAGE_HOST", "catbox").lower()
+
+
+def _convert_to_jpeg(image_path: str) -> io.BytesIO:
+    """
+    Converts any image file (PNG, etc.) to JPEG in-memory.
+    Instagram Graph API strictly requires JPEG format.
+    Returns a BytesIO buffer — no temp file written to disk.
+    """
+    img = Image.open(image_path).convert("RGB")  # PNG has alpha channel; JPEG does not
+    buffer = io.BytesIO()
+    img.save(buffer, format="JPEG", quality=95)
+    buffer.seek(0)
+    return buffer
+
+
+def _upload_to_catbox(jpeg_buffer: io.BytesIO) -> str:
+    """Uploads a JPEG buffer to Catbox.moe and returns a public direct URL."""
+    print("   📤 Uploading JPEG to Catbox.moe...")
+    res = requests.post(
+        "https://catbox.moe/user/api.php",
+        data={"reqtype": "fileupload"},
+        files={"fileToUpload": ("image.jpg", jpeg_buffer, "image/jpeg")}
+    )
+    res.raise_for_status()
+    url = res.text.strip()
+    if not url.startswith("http"):
+        raise ValueError(f"Catbox returned unexpected response: {url}")
+    return url
+
+
+def _upload_to_dropbox(jpeg_buffer: io.BytesIO) -> str:
+    """
+    Uploads a JPEG buffer to Dropbox and returns a public direct download URL.
+    Requires DROPBOX_ACCESS_TOKEN in .env.
+    Files are stored at /GenAI-Pro/instagram_post.jpg (overwritten each run).
+    """
+    token = os.getenv("DROPBOX_ACCESS_TOKEN")
+    if not token:
+        raise ValueError("DROPBOX_ACCESS_TOKEN is not set in .env")
+
+    print("   📤 Uploading JPEG to Dropbox...")
+    upload_res = requests.post(
+        "https://content.dropboxapi.com/2/files/upload",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Dropbox-API-Arg": '{"path": "/GenAI-Pro/instagram_post.jpg", "mode": "overwrite", "autorename": false}',
+            "Content-Type": "application/octet-stream"
+        },
+        data=jpeg_buffer.read()
+    )
+    upload_res.raise_for_status()
+
+    # Create (or re-use) a shared link and convert to a direct download URL
+    link_res = requests.post(
+        "https://api.dropboxapi.com/2/sharing/create_shared_link_with_settings",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json"
+        },
+        json={"path": "/GenAI-Pro/instagram_post.jpg", "settings": {"requested_visibility": "public"}}
+    )
+
+    # If link already exists Dropbox returns 409 — fetch the existing one instead
+    if link_res.status_code == 409:
+        list_res = requests.post(
+            "https://api.dropboxapi.com/2/sharing/list_shared_links",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json"
+            },
+            json={"path": "/GenAI-Pro/instagram_post.jpg", "direct_only": True}
+        )
+        list_res.raise_for_status()
+        shared_url = list_res.json()["links"][0]["url"]
+    else:
+        link_res.raise_for_status()
+        shared_url = link_res.json()["url"]
+
+    # Convert Dropbox share URL to a direct download URL for Instagram Graph API
+    # e.g. https://www.dropbox.com/s/xxx/file.jpg?dl=0  →  https://dl.dropboxusercontent.com/s/xxx/file.jpg
+    direct_url = shared_url.replace("www.dropbox.com", "dl.dropboxusercontent.com").replace("?dl=0", "")
+    return direct_url
+
+
+def _get_public_image_url(image_path: str) -> str:
+    """
+    Converts the local PNG image to JPEG and uploads it to the configured host.
+    Returns a publicly accessible direct URL for the Instagram Graph API.
+    """
+    print(f"🌍 Converting PNG → JPEG and uploading via [{IMAGE_HOST.upper()}]...")
+    jpeg_buffer = _convert_to_jpeg(image_path)
+
+    if IMAGE_HOST == "dropbox":
+        return _upload_to_dropbox(jpeg_buffer)
+    else:
+        return _upload_to_catbox(jpeg_buffer)
+
+
 def post_to_make(platform: str, text: str, image_path: str = None) -> bool:
     """
     Sends the post data (and image file) to a Make.com Webhook.
-    Make.com handles the OAuth and native posting to LinkedIn/Facebook.
+    Make.com handles the OAuth and native posting to LinkedIn/Facebook/Instagram.
+
+    Instagram flow:
+      - Image is converted PNG → JPEG (Instagram Graph API requirement)
+      - JPEG is uploaded to Dropbox or Catbox to get a public URL
+      - Payload is sent as clean JSON (NOT multipart) so Make.com surfaces image_url
+    Facebook/LinkedIn flow:
+      - Binary image file is attached as multipart/form-data
     """
     webhook_url = os.getenv("MAKE_WEBHOOK_URL")
-    
+
     if not webhook_url:
         print("❌ Error: MAKE_WEBHOOK_URL is not defined in .env")
-        print("Please create a custom webhook in Make.com and add the URL to your .env file.")
         return False
-        
+
     print(f"📡 Sending payload to Make.com Webhook for {platform}...")
-    
+
     data = {
         "platform": platform.lower(),
-        "text": text
+        "text": text,
+        "image_url": ""  # Always present so Make.com's schema always includes this field
     }
-    
+
+    # ── Instagram: public URL required, clean JSON payload ────────────────────
+    if platform.lower() == "instagram":
+        if not image_path or not os.path.exists(image_path):
+            print("❌ Instagram requires an image but none was found. Aborting.")
+            return False
+        try:
+            data["image_url"] = _get_public_image_url(image_path)
+            if not data["image_url"]:
+                print("❌ Image host returned an empty URL. Aborting to prevent Make.com validation error.")
+                return False
+            print(f"✅ Public JPEG URL: {data['image_url']}")
+        except Exception as e:
+            print(f"❌ Failed to generate public image URL: {e}")
+            return False
+
+    # ── Facebook / LinkedIn: binary file upload via multipart ─────────────────
+    # Instagram is explicitly excluded — sending multipart buries image_url from Make.com's mapper.
     files = None
-    if image_path and os.path.exists(image_path):
+    if image_path and os.path.exists(image_path) and platform.lower() != "instagram":
         files = {
             "image": (os.path.basename(image_path), open(image_path, "rb"), "image/png")
         }
-        
+
     try:
         if files:
-            # Send as multipart/form-data so the image is uploaded directly to Make.com
             response = requests.post(webhook_url, data=data, files=files)
         else:
-            # If no files, just send as standard JSON
+            # Instagram (and any platform without a file) sends as clean JSON
             response = requests.post(webhook_url, json=data)
-            
+
         response.raise_for_status()
         print("✅ Successfully triggered Make.com Webhook!")
         return True

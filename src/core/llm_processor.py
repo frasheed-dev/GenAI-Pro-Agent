@@ -79,9 +79,20 @@ def draft_social_post(platform, curated_articles):
     if platform.lower() == "linkedin":
         platform_instructions = "- Keep the tone professional, insightful, and slightly conversational.\n- Keep the total length under 1500 characters."
     elif platform.lower() == "x" or platform.lower() == "twitter":
-        platform_instructions = "- Keep it punchy, engaging, and suitable for a Twitter thread format.\n- Ensure it's concise, ideally under 280 characters per thought."
+        platform_instructions = (
+            "- X (Twitter) STRICT requirements — this is a single tweet, not a thread:\n"
+            "- The ENTIRE post must be 260 characters or fewer (we attach an image so no URL needed).\n"
+            "- Line 1: A single scroll-stopping hook sentence. Bold, opinionated, slightly controversial.\n"
+            "- Lines 2-4: Exactly 2-3 ultra-short bullet points using ⚡ or 🔥 emojis. Each bullet max 60 chars.\n"
+            "- Final line: 1-2 hyper-niche hashtags ONLY (e.g. #GenAI #LLMOps). Never generic tags like #AI or #Tech.\n"
+            "- Do NOT include any URLs — the image card is the visual anchor.\n"
+            "- Do NOT use 'Thread:', numbering, or section headers — single standalone tweet.\n"
+            "- Tone: punchy, viral tech Twitter. Think hot take, not press release.\n"
+        )
     elif platform.lower() == "facebook":
         platform_instructions = "- Make it engaging for a broader audience, slightly more casual than LinkedIn but still informative.\n- Keep the total length under 1500 characters."
+    elif platform.lower() == "instagram":
+        platform_instructions = "- Optimize for Instagram: heavy focus on visual storytelling, highly engaging, very casual and punchy.\n- CRITICAL: Instagram does not allow clickable links in captions. Do NOT include any raw URLs in the text. Say 'Check the link in bio for sources' if needed.\n- Use lots of line breaks and generous emojis."
     else:
         platform_instructions = "- Keep it professional and engaging."
 
@@ -103,10 +114,16 @@ def draft_social_post(platform, curated_articles):
         "- CRITICAL: Do NOT actually output the section titles/headers (like 'THE TL;DR' or 'WHY IT MATTERS'). Weave these parts naturally into a seamless post.\n"
         "- Do NOT use markdown formatting (like **bold** or *italics*). Social platforms render these as literal asterisks.\n"
         f"{platform_instructions}\n"
-        "- Put the Source Links at the very bottom.\n"
-        "- Add 3-5 hyper-relevant, niche hashtags at the very end (avoid generic tags like #AI).\n\n"
-        "News Developments:\n"
     )
+
+    # X has a strict char limit — source links and footer hashtags are handled in platform_instructions
+    is_x = platform.lower() in ("x", "twitter")
+    if not is_x:
+        prompt += (
+            "- Put the Source Links at the very bottom.\n"
+            "- Add 3-5 hyper-relevant, niche hashtags at the very end (avoid generic tags like #AI).\n"
+        )
+    prompt += "\nNews Developments:\n"
     
     for article in curated_articles:
         prompt += f"- {article['title']} ({article['source']}): {article['summary']} [Link: {article['link']}]\n"

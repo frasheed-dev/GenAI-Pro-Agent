@@ -222,7 +222,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-13T10:00:00+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:46:29.984183+00:00",
+            "linkedin": "2026-05-15T22:47:05.881282+00:00",
+            "instagram": "2026-05-15T22:47:23.922605+00:00"
+        },
+        "updated_at": "2026-05-15T22:47:23.922605+00:00"
     },
     "https://openai.com/academy/how-finance-teams-use-codex": {
         "title": "How finance teams use Codex",
@@ -295,7 +301,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-13T18:49:42+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T23:05:35.719225+00:00",
+            "linkedin": "2026-05-15T23:05:53.418685+00:00",
+            "instagram": "2026-05-15T23:06:13.447088+00:00"
+        },
+        "updated_at": "2026-05-15T23:06:13.447088+00:00"
     },
     "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/": {
         "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
@@ -512,7 +524,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-13T17:09:03+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:57:58.591469+00:00",
+            "linkedin": "2026-05-15T22:58:24.907159+00:00",
+            "instagram": "2026-05-15T22:58:44.597086+00:00"
+        },
+        "updated_at": "2026-05-15T22:58:44.597086+00:00"
     },
     "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/": {
         "title": "Three things in AI to watch, according to a Nobel-winning economist",
@@ -563,7 +581,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T00:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421374+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:37:06.880674+00:00",
+            "linkedin": "2026-05-15T22:37:24.268337+00:00"
+        },
+        "updated_at": "2026-05-15T22:37:24.269324+00:00"
     },
     "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
         "title": "Our response to the TanStack npm supply chain attack",
@@ -589,7 +612,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T21:30:44+00:00",
         "discovered_at": "2026-05-14T23:30:06.421391+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "linkedin": "2026-05-16T21:17:31.855016+00:00"
+        },
+        "updated_at": "2026-05-16T21:17:31.855016+00:00"
     },
     "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/": {
         "title": "OpenAI says Codex is coming to your phone",
@@ -631,7 +658,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T19:05:01+00:00",
         "discovered_at": "2026-05-14T23:30:06.421405+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "instagram": "2026-05-16T21:19:35.468432+00:00"
+        },
+        "updated_at": "2026-05-16T21:19:35.468432+00:00"
     },
     "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/": {
         "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
@@ -650,14 +681,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T15:20:18+00:00",
         "discovered_at": "2026-05-14T23:30:06.421412+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "linkedin": "2026-05-16T21:17:31.873347+00:00"
+        },
+        "updated_at": "2026-05-16T21:17:31.873347+00:00"
     },
     "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/": {
         "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T14:01:14+00:00",
         "discovered_at": "2026-05-14T23:30:06.421416+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T23:05:35.700008+00:00",
+            "linkedin": "2026-05-15T23:05:53.401136+00:00",
+            "instagram": "2026-05-15T23:06:13.429515+00:00"
+        },
+        "updated_at": "2026-05-15T23:06:13.429515+00:00"
     },
     "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/": {
         "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
@@ -671,7 +712,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T14:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421422+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:57:58.572873+00:00",
+            "linkedin": "2026-05-15T22:58:24.889280+00:00",
+            "instagram": "2026-05-15T22:58:44.568521+00:00"
+        },
+        "updated_at": "2026-05-15T22:58:44.568521+00:00"
     },
     "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/": {
         "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
@@ -711,14 +758,24 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-14T13:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421444+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:16:01.371675+00:00"
+        },
+        "updated_at": "2026-05-16T21:16:01.371675+00:00"
     },
     "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/": {
         "title": "Establishing AI and data sovereignty in the age of autonomous systems",
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-14T13:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421447+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:02:48.033080+00:00",
+            "linkedin": "2026-05-16T21:03:06.289511+00:00",
+            "instagram": "2026-05-16T21:03:25.469732+00:00"
+        },
+        "updated_at": "2026-05-16T21:03:25.469732+00:00"
     },
     "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/": {
         "title": "The shock of seeing your body used in deepfake porn",
@@ -732,7 +789,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T20:30:00+00:00",
         "discovered_at": "2026-05-15T08:49:40.584041+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:46:29.964641+00:00",
+            "linkedin": "2026-05-15T22:47:05.851623+00:00",
+            "instagram": "2026-05-15T22:47:23.899102+00:00"
+        },
+        "updated_at": "2026-05-15T22:47:23.899102+00:00"
     },
     "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/": {
         "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
@@ -751,7 +814,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-15T12:19:48+00:00",
         "discovered_at": "2026-05-15T14:10:14.288698+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "instagram": "2026-05-16T20:41:12.060453+00:00"
+        },
+        "updated_at": "2026-05-16T20:41:12.060453+00:00"
     },
     "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/": {
         "title": "How Chinese short dramas became AI content machines",
@@ -777,7 +844,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-15T19:24:16+00:00",
         "discovered_at": "2026-05-15T19:38:35.141977+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "instagram": "2026-05-16T21:19:35.451863+00:00"
+        },
+        "updated_at": "2026-05-16T21:19:35.451863+00:00"
     },
     "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/": {
         "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
@@ -803,6 +874,96 @@
         "source": "AI News",
         "published_date": "2026-05-15T15:02:00+00:00",
         "discovered_at": "2026-05-15T19:38:35.141997+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-15T22:37:06.864701+00:00",
+            "linkedin": "2026-05-15T22:37:24.251778+00:00"
+        },
+        "updated_at": "2026-05-15T22:37:24.251778+00:00"
+    },
+    "https://openai.com/index/malta-chatgpt-plus-partnership": {
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "source": "OpenAI",
+        "published_date": "2026-05-15T23:00:00+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "instagram": "2026-05-16T20:41:12.041787+00:00"
+        },
+        "updated_at": "2026-05-16T20:41:12.041787+00:00"
+    },
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
+        "title": "How business operations teams use Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-14T23:00:00+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/databricks": {
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "source": "OpenAI",
+        "published_date": "2026-05-14T23:00:00+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "instagram": "2026-05-16T20:27:00.719335+00:00"
+        },
+        "updated_at": "2026-05-16T20:27:00.719335+00:00"
+    },
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+        "title": "How data science teams use Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-14T23:00:00+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+        "title": "How sales teams use Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-14T23:00:00+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/": {
+        "title": "The haves and have nots of the AI gold rush",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-16T19:17:16+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/": {
+        "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-16T17:54:28+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:16:01.354377+00:00"
+        },
+        "updated_at": "2026-05-16T21:16:01.354377+00:00"
+    },
+    "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/": {
+        "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-16T14:33:33+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "instagram": "2026-05-16T20:27:00.694719+00:00"
+        },
+        "updated_at": "2026-05-16T20:27:00.694719+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/": {
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-15T22:39:35+00:00",
+        "discovered_at": "2026-05-16T20:25:33.082582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:02:48.015078+00:00",
+            "linkedin": "2026-05-16T21:03:06.256397+00:00",
+            "instagram": "2026-05-16T21:03:25.452723+00:00"
+        },
+        "updated_at": "2026-05-16T21:03:25.452723+00:00"
     }
 }

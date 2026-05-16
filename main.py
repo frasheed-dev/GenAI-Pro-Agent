@@ -77,8 +77,7 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
         return
     
     # --- Platform Posting Loop ---
-    # Define the platforms we want to post to
-    platforms = selected_platforms if selected_platforms else ["Facebook", "LinkedIn"]
+    platforms = selected_platforms if selected_platforms else ["Facebook", "LinkedIn", "Instagram"]
     
     for platform in platforms:
         print(f"\n[Stage 4] Pausing for 15 seconds to respect Gemini Free Tier rate limits...")
@@ -126,16 +125,20 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="GenAI Pro Agent")
-    parser.add_argument("--platform", type=str, choices=["facebook", "linkedin", "all"], default="all", help="Platform to post to")
+    parser.add_argument("--platform", type=str, choices=["facebook", "linkedin", "instagram", "x", "all"], default="all", help="Platform to post to")
     parser.add_argument("--draft", type=str, choices=["true", "false"], help="Run in draft mode (True) or autonomous mode (False)")
     args = parser.parse_args()
     
     # Parse platforms
-    selected_platforms = ["Facebook", "LinkedIn"]
+    selected_platforms = ["Facebook", "LinkedIn", "Instagram"]
     if args.platform.lower() == "facebook":
         selected_platforms = ["Facebook"]
     elif args.platform.lower() == "linkedin":
         selected_platforms = ["LinkedIn"]
+    elif args.platform.lower() == "instagram":
+        selected_platforms = ["Instagram"]
+    elif args.platform.lower() == "x":
+        selected_platforms = ["X"]
         
     # Parse autonomous mode
     is_autonomous = AUTONOMOUS_MODE
