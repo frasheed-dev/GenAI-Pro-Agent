@@ -737,7 +737,12 @@
         "source": "OpenAI",
         "published_date": "2026-05-14T20:30:00+00:00",
         "discovered_at": "2026-05-15T08:49:40.584041+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T02:53:41.856237+00:00",
+            "linkedin": "2026-05-16T02:53:59.390488+00:00"
+        },
+        "updated_at": "2026-05-16T02:53:59.390494+00:00"
     },
     "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/": {
         "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
@@ -814,5 +819,24 @@
             "linkedin": "2026-05-15T22:07:35.178908+00:00"
         },
         "updated_at": "2026-05-15T22:07:35.178921+00:00"
+    },
+    "https://openai.com/index/databricks": {
+        "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+        "source": "OpenAI",
+        "published_date": "2026-05-15T00:00:00+00:00",
+        "discovered_at": "2026-05-16T02:52:25.717938+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T02:53:41.854707+00:00",
+            "linkedin": "2026-05-16T02:53:59.389005+00:00"
+        },
+        "updated_at": "2026-05-16T02:53:59.389019+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/": {
+        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-15T23:39:35+00:00",
+        "discovered_at": "2026-05-16T02:52:25.717954+00:00",
+        "status": "PENDING"
     }
 }
