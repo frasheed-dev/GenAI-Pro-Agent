@@ -662,7 +662,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T14:01:14+00:00",
         "discovered_at": "2026-05-14T23:30:06.421416+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T08:05:38.840833+00:00",
+            "linkedin": "2026-05-16T08:06:00.988889+00:00"
+        },
+        "updated_at": "2026-05-16T08:06:00.988903+00:00"
     },
     "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/": {
         "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
@@ -676,7 +681,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T14:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421422+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T08:05:38.842182+00:00",
+            "linkedin": "2026-05-16T08:06:00.990256+00:00"
+        },
+        "updated_at": "2026-05-16T08:06:00.990263+00:00"
     },
     "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/": {
         "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
@@ -837,6 +847,27 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-15T23:39:35+00:00",
         "discovered_at": "2026-05-16T02:52:25.717954+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+        "title": "How sales teams use Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-15T00:00:00+00:00",
+        "discovered_at": "2026-05-16T08:04:37.667181+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
+        "title": "How business operations teams use Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-15T00:00:00+00:00",
+        "discovered_at": "2026-05-16T08:04:37.667187+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+        "title": "How data science teams use Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-15T00:00:00+00:00",
+        "discovered_at": "2026-05-16T08:04:37.667191+00:00",
         "status": "PENDING"
     }
 }
