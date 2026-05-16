@@ -605,7 +605,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T22:47:51+00:00",
         "discovered_at": "2026-05-14T23:30:06.421386+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:44:23.088084+00:00",
+            "linkedin": "2026-05-16T21:44:54.422659+00:00"
+        },
+        "updated_at": "2026-05-16T21:44:54.422671+00:00"
     },
     "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/": {
         "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
@@ -782,7 +787,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-14T09:00:00+00:00",
         "discovered_at": "2026-05-14T23:30:06.421450+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T21:44:23.089642+00:00",
+            "linkedin": "2026-05-16T21:44:54.424096+00:00"
+        },
+        "updated_at": "2026-05-16T21:44:54.424143+00:00"
     },
     "https://openai.com/index/sea-david-chen": {
         "title": "Sea's View on the Future of Agentic Software Development with Codex",
