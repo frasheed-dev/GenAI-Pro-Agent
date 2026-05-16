@@ -705,7 +705,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-14T05:24:39+00:00",
         "discovered_at": "2026-05-14T23:30:06.421430+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T19:05:14.594898+00:00",
+            "linkedin": "2026-05-16T19:05:34.828349+00:00"
+        },
+        "updated_at": "2026-05-16T19:05:34.828357+00:00"
     },
     "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/": {
         "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
@@ -886,5 +891,24 @@
         "published_date": "2026-05-16T00:00:00+00:00",
         "discovered_at": "2026-05-16T13:21:57.561245+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/": {
+        "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-16T18:54:28+00:00",
+        "discovered_at": "2026-05-16T19:04:31.205619+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/": {
+        "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-16T15:33:33+00:00",
+        "discovered_at": "2026-05-16T19:04:31.205626+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T19:05:14.593462+00:00",
+            "linkedin": "2026-05-16T19:05:34.826930+00:00"
+        },
+        "updated_at": "2026-05-16T19:05:34.826943+00:00"
     }
 }
