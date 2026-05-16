@@ -512,7 +512,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-13T17:09:03+00:00",
         "discovered_at": "2026-05-13T20:58:25.976382+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T13:22:47.911019+00:00",
+            "linkedin": "2026-05-16T13:23:15.465904+00:00"
+        },
+        "updated_at": "2026-05-16T13:23:15.465912+00:00"
     },
     "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/": {
         "title": "Three things in AI to watch, according to a Nobel-winning economist",
@@ -847,7 +852,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-15T23:39:35+00:00",
         "discovered_at": "2026-05-16T02:52:25.717954+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-16T13:22:47.909695+00:00",
+            "linkedin": "2026-05-16T13:23:15.464605+00:00"
+        },
+        "updated_at": "2026-05-16T13:23:15.464616+00:00"
     },
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
         "title": "How sales teams use Codex",
@@ -868,6 +878,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-15T00:00:00+00:00",
         "discovered_at": "2026-05-16T08:04:37.667191+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/malta-chatgpt-plus-partnership": {
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "source": "OpenAI",
+        "published_date": "2026-05-16T00:00:00+00:00",
+        "discovered_at": "2026-05-16T13:21:57.561245+00:00",
         "status": "PENDING"
     }
 }
