@@ -868,7 +868,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-15T18:14:44+00:00",
         "discovered_at": "2026-05-15T19:38:35.141983+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-17T19:10:28.890584+00:00",
+            "linkedin": "2026-05-17T19:10:53.698221+00:00"
+        },
+        "updated_at": "2026-05-17T19:10:53.698232+00:00"
     },
     "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/": {
         "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
@@ -993,5 +998,19 @@
             "instagram": "2026-05-16T21:03:25.452723+00:00"
         },
         "updated_at": "2026-05-16T21:03:25.452723+00:00"
+    },
+    "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/": {
+        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-17T16:32:04+00:00",
+        "discovered_at": "2026-05-17T19:09:48.708946+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/": {
+        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-17T16:05:00+00:00",
+        "discovered_at": "2026-05-17T19:09:48.708952+00:00",
+        "status": "PENDING"
     }
 }
