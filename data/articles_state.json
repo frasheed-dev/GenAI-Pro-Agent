@@ -1077,5 +1077,52 @@
             "instagram": "2026-05-18T15:33:32.948772+00:00"
         },
         "updated_at": "2026-05-18T15:33:32.948780+00:00"
+    },
+    "https://openai.com/index/dell-codex-enterprise-partnership": {
+        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "source": "OpenAI",
+        "published_date": "2026-05-18T10:00:00+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285822+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T19:46:00.074493+00:00",
+            "linkedin": "2026-05-18T19:46:18.585763+00:00",
+            "instagram": "2026-05-18T19:46:40.008378+00:00"
+        },
+        "updated_at": "2026-05-18T19:46:40.008384+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/": {
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T19:27:52+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285829+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T19:46:00.072807+00:00",
+            "linkedin": "2026-05-18T19:46:18.584111+00:00",
+            "instagram": "2026-05-18T19:46:40.006791+00:00"
+        },
+        "updated_at": "2026-05-18T19:46:40.006804+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/": {
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T17:34:43+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285832+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/": {
+        "title": "What to expect from Google this week",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-18T17:35:43+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285840+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/": {
+        "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-18T16:01:39+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285843+00:00",
+        "status": "PENDING"
     }
 }
