@@ -1012,5 +1012,31 @@
         "published_date": "2026-05-17T16:05:00+00:00",
         "discovered_at": "2026-05-17T19:09:48.708952+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/": {
+        "title": "Apple’s Siri revamp could include auto-deleting chats",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-17T20:15:00+00:00",
+        "discovered_at": "2026-05-18T03:39:20.001040+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T03:40:33.550825+00:00",
+            "linkedin": "2026-05-18T03:40:51.833953+00:00",
+            "instagram": "2026-05-18T03:41:09.851704+00:00"
+        },
+        "updated_at": "2026-05-18T03:41:09.851720+00:00"
+    },
+    "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/": {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-17T19:46:34+00:00",
+        "discovered_at": "2026-05-18T03:39:20.001047+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T03:40:33.552564+00:00",
+            "linkedin": "2026-05-18T03:40:51.835564+00:00",
+            "instagram": "2026-05-18T03:41:09.853342+00:00"
+        },
+        "updated_at": "2026-05-18T03:41:09.853349+00:00"
     }
 }
