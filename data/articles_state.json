@@ -1051,5 +1051,31 @@
             "instagram": "2026-05-18T10:04:47.456410+00:00"
         },
         "updated_at": "2026-05-18T10:04:47.456423+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/": {
+        "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T14:56:47+00:00",
+        "discovered_at": "2026-05-18T15:31:57.220492+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T15:32:55.054073+00:00",
+            "linkedin": "2026-05-18T15:33:14.488104+00:00",
+            "instagram": "2026-05-18T15:33:32.947141+00:00"
+        },
+        "updated_at": "2026-05-18T15:33:32.947156+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/": {
+        "title": "South Korea’s LetinAR is building optics behind AI glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T11:00:00+00:00",
+        "discovered_at": "2026-05-18T15:31:57.220498+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T15:32:55.055714+00:00",
+            "linkedin": "2026-05-18T15:33:14.489944+00:00",
+            "instagram": "2026-05-18T15:33:32.948772+00:00"
+        },
+        "updated_at": "2026-05-18T15:33:32.948780+00:00"
     }
 }
