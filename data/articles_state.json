@@ -1116,7 +1116,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-18T17:35:43+00:00",
         "discovered_at": "2026-05-18T19:45:03.285840+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T15:21:19.733439+00:00",
+            "linkedin": "2026-05-19T15:21:40.671347+00:00",
+            "instagram": "2026-05-19T15:22:04.367711+00:00"
+        },
+        "updated_at": "2026-05-19T15:22:04.367718+00:00"
     },
     "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/": {
         "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
@@ -1149,13 +1155,26 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-19T00:53:10+00:00",
         "discovered_at": "2026-05-19T03:32:29.742547+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T15:21:19.731673+00:00",
+            "linkedin": "2026-05-19T15:21:40.669454+00:00",
+            "instagram": "2026-05-19T15:22:04.365941+00:00"
+        },
+        "updated_at": "2026-05-19T15:22:04.365957+00:00"
     },
     "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/": {
         "title": "AI is a matter of power, infrastructure and security: TechEx North America",
         "source": "AI News",
         "published_date": "2026-05-19T01:36:26+00:00",
         "discovered_at": "2026-05-19T09:42:24.463355+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/": {
+        "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+        "source": "AI News",
+        "published_date": "2026-05-19T10:00:00+00:00",
+        "discovered_at": "2026-05-19T15:20:39.900615+00:00",
         "status": "PENDING"
     }
 }
