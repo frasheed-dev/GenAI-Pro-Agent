@@ -1176,5 +1176,150 @@
         "published_date": "2026-05-19T10:00:00+00:00",
         "discovered_at": "2026-05-19T15:20:39.900615+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-content-provenance": {
+        "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+        "source": "OpenAI",
+        "published_date": "2026-05-19T10:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041185+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/": {
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T19:15:31+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041192+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/": {
+        "title": "Google’s Genie world model can now simulate real streets with Street View",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:51:39+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041195+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/": {
+        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:51:30+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041199+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T19:53:00.463214+00:00",
+            "linkedin": "2026-05-19T19:53:22.048883+00:00",
+            "instagram": "2026-05-19T19:53:40.455572+00:00"
+        },
+        "updated_at": "2026-05-19T19:53:40.455583+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/": {
+        "title": "How to use Google’s new information agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:50:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041202+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/": {
+        "title": "Google Search as you know it is over",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:46:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041205+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/": {
+        "title": "Google’s AI now lets you talk to your Gmail inbox",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041211+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/": {
+        "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041215+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/": {
+        "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041218+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/": {
+        "title": "OpenAI is making it easier to check if an image was made by their models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041222+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/": {
+        "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041225+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/": {
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041228+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/": {
+        "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041232+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/": {
+        "title": "Google adds voice-based prompting to Docs and Keep",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041235+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/": {
+        "title": "Google just declared itself a contender in AI design",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041238+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/": {
+        "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041241+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/": {
+        "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041244+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/": {
+        "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T15:43:04+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041247+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think": {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "source": "VentureBeat AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041252+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T19:53:00.465115+00:00",
+            "linkedin": "2026-05-19T19:53:22.050718+00:00",
+            "instagram": "2026-05-19T19:53:40.457475+00:00"
+        },
+        "updated_at": "2026-05-19T19:53:40.457482+00:00"
     }
 }
