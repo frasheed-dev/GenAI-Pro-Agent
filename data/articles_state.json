@@ -1150,5 +1150,12 @@
         "published_date": "2026-05-19T00:53:10+00:00",
         "discovered_at": "2026-05-19T03:32:29.742547+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/": {
+        "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+        "source": "AI News",
+        "published_date": "2026-05-19T01:36:26+00:00",
+        "discovered_at": "2026-05-19T09:42:24.463355+00:00",
+        "status": "PENDING"
     }
 }
