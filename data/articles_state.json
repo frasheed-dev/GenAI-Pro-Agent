@@ -1196,7 +1196,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-19T17:51:39+00:00",
         "discovered_at": "2026-05-19T19:52:22.041195+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T15:20:14.888135+00:00",
+            "linkedin": "2026-05-20T15:20:33.528428+00:00",
+            "instagram": "2026-05-20T15:20:51.853922+00:00"
+        },
+        "updated_at": "2026-05-20T15:20:51.853930+00:00"
     },
     "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/": {
         "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
@@ -1428,6 +1434,61 @@
         "source": "OpenAI",
         "published_date": "2026-05-20T00:00:00+00:00",
         "discovered_at": "2026-05-20T09:33:44.244974+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/": {
+        "title": "AI search startups are blowing up",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T15:04:45+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322107+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/": {
+        "title": "Stability AI releases a new audio model that can create six-minute songs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T15:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322113+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/": {
+        "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T14:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322116+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/": {
+        "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T14:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322121+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/": {
+        "title": "Figma adds an AI assistant to its collaborative canvas",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T13:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322125+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/": {
+        "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+        "source": "AI News",
+        "published_date": "2026-05-20T10:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322132+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T15:20:14.886270+00:00",
+            "linkedin": "2026-05-20T15:20:33.526479+00:00",
+            "instagram": "2026-05-20T15:20:51.852011+00:00"
+        },
+        "updated_at": "2026-05-20T15:20:51.852024+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/": {
+        "title": "Roundtables: Inside the Musk v. Altman Trial",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-19T20:15:18+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322137+00:00",
         "status": "PENDING"
     }
 }
