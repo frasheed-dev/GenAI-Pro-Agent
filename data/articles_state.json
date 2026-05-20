@@ -1249,7 +1249,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-19T17:45:00+00:00",
         "discovered_at": "2026-05-19T19:52:22.041215+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T20:15:15.553852+00:00",
+            "linkedin": "2026-05-20T20:15:33.309154+00:00",
+            "instagram": "2026-05-20T20:15:52.065296+00:00"
+        },
+        "updated_at": "2026-05-20T20:15:52.065303+00:00"
     },
     "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/": {
         "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
@@ -1489,6 +1495,40 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-19T20:15:18+00:00",
         "discovered_at": "2026-05-20T15:19:35.322137+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "source": "OpenAI",
+        "published_date": "2026-05-20T00:00:00+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940283+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T20:15:15.551917+00:00",
+            "linkedin": "2026-05-20T20:15:33.307216+00:00",
+            "instagram": "2026-05-20T20:15:52.063353+00:00"
+        },
+        "updated_at": "2026-05-20T20:15:52.063366+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/": {
+        "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T19:47:20+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940292+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/": {
+        "title": "OpenAI barrels toward IPO that may happen in September",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T17:24:24+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940295+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/": {
+        "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T14:00:00+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940302+00:00",
         "status": "PENDING"
     }
 }
