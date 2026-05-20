@@ -1244,7 +1244,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-19T17:45:00+00:00",
         "discovered_at": "2026-05-19T19:52:22.041218+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T03:34:14.982771+00:00",
+            "linkedin": "2026-05-20T03:34:35.046770+00:00",
+            "instagram": "2026-05-20T03:34:55.565539+00:00"
+        },
+        "updated_at": "2026-05-20T03:34:55.565545+00:00"
     },
     "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/": {
         "title": "OpenAI is making it easier to check if an image was made by their models",
@@ -1272,7 +1278,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-19T17:45:00+00:00",
         "discovered_at": "2026-05-19T19:52:22.041232+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T03:34:14.980669+00:00",
+            "linkedin": "2026-05-20T03:34:35.044661+00:00",
+            "instagram": "2026-05-20T03:34:55.563290+00:00"
+        },
+        "updated_at": "2026-05-20T03:34:55.563303+00:00"
     },
     "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/": {
         "title": "Google adds voice-based prompting to Docs and Keep",
@@ -1321,5 +1333,82 @@
             "instagram": "2026-05-19T19:53:40.457475+00:00"
         },
         "updated_at": "2026-05-19T19:53:40.457482+00:00"
+    },
+    "https://openai.com/index/introducing-openai-for-singapore": {
+        "title": "Introducing OpenAI for Singapore",
+        "source": "OpenAI",
+        "published_date": "2026-05-20T11:30:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684130+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/": {
+        "title": "Google just declared itself a contender in AI design at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:33:30+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684139+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/": {
+        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:25:31+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684142+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/": {
+        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:16:25+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684146+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/": {
+        "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:08:51+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684149+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/": {
+        "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T20:11:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684155+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/": {
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T19:15:31+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684159+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/": {
+        "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684166+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/": {
+        "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684169+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/": {
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684173+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/": {
+        "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+        "source": "AI News",
+        "published_date": "2026-05-19T19:18:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684178+00:00",
+        "status": "PENDING"
     }
 }
