@@ -1574,7 +1574,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T00:21:21+00:00",
         "discovered_at": "2026-05-21T03:39:36.933098+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T19:54:56.568041+00:00",
+            "linkedin": "2026-05-21T19:55:18.542828+00:00",
+            "instagram": "2026-05-21T19:55:36.837367+00:00"
+        },
+        "updated_at": "2026-05-21T19:55:36.837380+00:00"
     },
     "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/": {
         "title": "Clouted wants to take the guesswork out of making short videos go viral",
@@ -1588,7 +1594,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-20T22:26:08+00:00",
         "discovered_at": "2026-05-21T03:39:36.933106+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T19:54:56.570456+00:00",
+            "linkedin": "2026-05-21T19:55:18.545297+00:00",
+            "instagram": "2026-05-21T19:55:36.839682+00:00"
+        },
+        "updated_at": "2026-05-21T19:55:36.839689+00:00"
     },
     "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/": {
         "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
@@ -1670,6 +1682,62 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-21T14:30:45+00:00",
         "discovered_at": "2026-05-21T15:25:44.251710+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/adventhealth": {
+        "title": "AdventHealth advances whole-person care with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-05-21T12:00:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808771+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/": {
+        "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T19:45:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808780+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/": {
+        "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T19:19:05+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808786+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/": {
+        "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T17:30:45+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808790+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/": {
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T15:27:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808793+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/": {
+        "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T15:27:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808796+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/": {
+        "title": "Spotify takes on Google’s NotebookLM with its new app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T15:27:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808799+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/": {
+        "title": "Scaling creativity in the age of AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-21T19:16:43+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808808+00:00",
         "status": "PENDING"
     }
 }
