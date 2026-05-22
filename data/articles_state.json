@@ -1706,7 +1706,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-21T14:30:45+00:00",
         "discovered_at": "2026-05-21T15:25:44.251710+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T14:39:17.790972+00:00",
+            "linkedin": "2026-05-22T14:39:35.669187+00:00",
+            "instagram": "2026-05-22T14:39:54.249918+00:00"
+        },
+        "updated_at": "2026-05-22T14:39:54.249925+00:00"
     },
     "https://openai.com/index/adventhealth": {
         "title": "AdventHealth advances whole-person care with OpenAI",
@@ -1777,5 +1783,18 @@
         "published_date": "2026-05-22T09:00:00+00:00",
         "discovered_at": "2026-05-22T09:23:14.710497+00:00",
         "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/": {
+        "title": "Google I/O showed how the path for AI-driven science is shifting",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-22T10:00:00+00:00",
+        "discovered_at": "2026-05-22T14:38:40.695617+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T14:39:17.788618+00:00",
+            "linkedin": "2026-05-22T14:39:35.666533+00:00",
+            "instagram": "2026-05-22T14:39:54.247510+00:00"
+        },
+        "updated_at": "2026-05-22T14:39:54.247524+00:00"
     }
 }
