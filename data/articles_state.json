@@ -1554,7 +1554,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-20T00:00:00+00:00",
         "discovered_at": "2026-05-21T03:39:36.933084+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T09:24:18.889648+00:00",
+            "linkedin": "2026-05-22T09:24:36.584933+00:00",
+            "instagram": "2026-05-22T09:24:54.577027+00:00"
+        },
+        "updated_at": "2026-05-22T09:24:54.577034+00:00"
     },
     "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/": {
         "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
@@ -1653,7 +1659,13 @@
         "source": "AI News",
         "published_date": "2026-05-21T08:00:00+00:00",
         "discovered_at": "2026-05-21T09:40:42.194582+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T09:24:18.887248+00:00",
+            "linkedin": "2026-05-22T09:24:36.582570+00:00",
+            "instagram": "2026-05-22T09:24:54.574602+00:00"
+        },
+        "updated_at": "2026-05-22T09:24:54.574614+00:00"
     },
     "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/": {
         "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
@@ -1757,6 +1769,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-21T20:41:05+00:00",
         "discovered_at": "2026-05-22T03:38:01.453151+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/": {
+        "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+        "source": "AI News",
+        "published_date": "2026-05-22T09:00:00+00:00",
+        "discovered_at": "2026-05-22T09:23:14.710497+00:00",
         "status": "PENDING"
     }
 }
