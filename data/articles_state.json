@@ -1672,7 +1672,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T14:00:00+00:00",
         "discovered_at": "2026-05-21T15:25:44.251683+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T19:45:17.218956+00:00",
+            "linkedin": "2026-05-22T19:45:36.070685+00:00",
+            "instagram": "2026-05-22T19:46:09.282502+00:00"
+        },
+        "updated_at": "2026-05-22T19:46:09.282508+00:00"
     },
     "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/": {
         "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
@@ -1796,5 +1802,60 @@
             "instagram": "2026-05-22T14:39:54.247510+00:00"
         },
         "updated_at": "2026-05-22T14:39:54.247524+00:00"
+    },
+    "https://openai.com/index/gartner-2026-agentic-coding-leader": {
+        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "source": "OpenAI",
+        "published_date": "2026-05-22T00:00:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176765+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/": {
+        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T18:17:07+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176774+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/": {
+        "title": "You can no longer Google the word ‘disregard’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T16:16:48+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176779+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/": {
+        "title": "We tried Google’s AI glasses and they’re almost there",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T15:37:15+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176783+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/": {
+        "title": "SpaceX files to go public, and the math requires a little faith",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T14:30:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176787+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/": {
+        "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+        "source": "AI News",
+        "published_date": "2026-05-22T10:00:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176794+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T19:45:17.216456+00:00",
+            "linkedin": "2026-05-22T19:45:36.068178+00:00",
+            "instagram": "2026-05-22T19:46:09.280077+00:00"
+        },
+        "updated_at": "2026-05-22T19:46:09.280087+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/": {
+        "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+        "source": "AI News",
+        "published_date": "2026-05-22T10:00:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176797+00:00",
+        "status": "PENDING"
     }
 }
