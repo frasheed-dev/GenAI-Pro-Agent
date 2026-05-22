@@ -82,11 +82,12 @@ def draft_social_post(platform, curated_articles):
             "PLATFORM: LinkedIn\n"
             "- Voice: Write like a senior AI researcher sharing insights with industry peers over coffee. "
             "Knowledgeable, direct, occasionally dry about AI hype. Never corporate or press-release-y.\n"
-            "- Structure: A strong specific opening line (not a question, not 'I'm excited to share'), "
-            "2-3 sentences of substantive context and your actual opinion, then optionally a closing question — "
-            "but ONLY if it genuinely invites real disagreement or debate. Skip it if it would feel forced.\n"
-            "- Length: 900-1,400 characters. Substantive enough to be worth reading, short enough to finish.\n"
-            "- Format: Flowing prose with single line breaks between paragraphs. No bullet points.\n"
+            "- Structure: Start with a single punchy sentence that earns the stop-scroll. "
+            "Then deliver your analysis and opinion in short bursts — 1 to 2 sentences, then a blank line, "
+            "then the next thought. Never chain more than 2 sentences without a blank line between them. "
+            "Close with a statement or question that invites real disagreement — skip it if it feels forced.\n"
+            "- Length: 900-1,400 characters.\n"
+            "- Format: Short lines. Blank lines between every thought. No bullet points. No walls of text.\n"
         )
     elif platform.lower() == "x" or platform.lower() == "twitter":
         platform_instructions = (
@@ -102,22 +103,23 @@ def draft_social_post(platform, curated_articles):
             "PLATFORM: Facebook\n"
             "- Voice: Write like a knowledgeable friend explaining big AI news to a curious but "
             "non-technical audience. Warm, approachable, grounded. Never condescending.\n"
-            "- If you use a technical term, briefly explain it in plain English right after.\n"
-            "- Structure: One attention-grabbing opener, the news explained simply, why a normal person "
-            "should care about it, and a genuine conversational question at the end.\n"
-            "- Length: 800-1,200 characters. Easy to read on mobile in under 30 seconds.\n"
+            "- If you use a technical term, briefly explain it in plain English right after — inline, not in a separate block.\n"
+            "- Structure: One punchy opener sentence. Then a blank line. Then explain the news simply in "
+            "short bursts of 1-2 sentences with a blank line between each. Why should a normal person care? "
+            "Answer that in 1-2 sentences. End with a genuine conversational question.\n"
+            "- Length: 800-1,200 characters. Every sentence should be readable on mobile in a single glance.\n"
             "- Emojis: 2-4 total, placed where they add meaning — not as decoration.\n"
         )
     elif platform.lower() == "instagram":
         platform_instructions = (
             "PLATFORM: Instagram\n"
-            "- Voice: Sharp, punchy, visual in its language. Every line should be able to stand alone.\n"
-            "- Structure: Hook line (max 10 words), 4-6 short lines with a blank line between each, "
-            "end with a statement or question that makes someone want to save or share the post.\n"
-            "- CRITICAL: Instagram does NOT allow clickable links in captions. Do NOT include raw URLs. "
-            "Only say 'link in bio' if there's a genuinely relevant resource to direct people to.\n"
-            "- Emojis: 1-2 per line max, purposefully chosen. Not spammed.\n"
-            "- Length: 600-900 characters. Short enough to read before the fold.\n"
+            "- Voice: Sharp, punchy. Every single line must be able to stand completely alone.\n"
+            "- Structure: One hook line (max 8 words). Then a blank line. Then 4-6 standalone lines, "
+            "each separated by a blank line. Close with one line that makes someone want to save or share.\n"
+            "- CRITICAL: Do NOT include any raw URLs in the caption. Never. Not even shortened ones. "
+            "Only write 'link in bio' if there is genuinely something to link to.\n"
+            "- Emojis: 1 per line maximum. Purposefully chosen, not decorative.\n"
+            "- Length: 500-800 characters. Shorter is better. Read-before-the-fold is the goal.\n"
         )
     else:
         platform_instructions = "- Keep it professional, direct, and genuinely useful to the reader.\n"
@@ -133,13 +135,13 @@ def draft_social_post(platform, curated_articles):
         "Write a post summarizing the following Generative AI news developments.\n\n"
 
         "STRUCTURAL GUIDANCE (guidelines, not a rigid template to fill in):\n"
-        "- Open with something that earns the scroll: a surprising specific detail, a counterintuitive angle, "
-        "or a sharp observation. NOT a rhetorical question opener. NOT 'Big news:' or 'Hot take:'.\n"
-        "- Deliver the actual news with your perspective woven through it — what you genuinely think "
-        "about it, not just what happened. Your opinion should feel earned, not tacked on.\n"
+        "- Open with a single sentence that earns the stop-scroll: a surprising specific detail, "
+        "a counterintuitive angle, or a sharp observation. NOT a rhetorical question. NOT 'Big news:' or 'Hot take:'.\n"
+        "- Deliver the actual news with your perspective woven through it. What do you genuinely think? "
+        "Your opinion should feel earned, not tacked on.\n"
         "- Close with something that invites a real response: a prediction people can agree or argue with, "
         "or a question with no obvious answer. Avoid 'What do you think?' and 'Thoughts?' endings.\n"
-        "- The whole post must read like one cohesive piece a real human wrote, not a template filled in.\n\n"
+        "- The whole post must read like something a real human wrote in one sitting, not a template filled in.\n\n"
 
         "BANNED PHRASES — using any of these is an automatic failure:\n"
         "'game-changer', 'revolutionary', 'This changes everything', 'The future is here', "
@@ -148,9 +150,12 @@ def draft_social_post(platform, curated_articles):
         "'Hot take:', 'Big news!', 'buckle up', 'It's official', 'paradigm shift', "
         "'The future of AI', 'rapidly evolving', 'landscape'.\n\n"
 
-        "FORMATTING RULES:\n"
+        "FORMATTING RULES — these are non-negotiable:\n"
         "- Do NOT use markdown like **bold** or *italics* — social platforms show these as literal asterisks.\n"
-        "- Do NOT output any section headings or labels from these instructions.\n\n"
+        "- Do NOT output any section headings or labels from these instructions.\n"
+        "- AERATED FORMAT IS MANDATORY: Write in short sentences. Put a blank line after every 1-2 sentences. "
+        "No paragraph should ever exceed 2 sentences. Each line must be able to stand alone and pull "
+        "the reader to the next. A wall of text is an automatic failure regardless of content quality.\n\n"
 
         f"{platform_instructions}\n"
     )

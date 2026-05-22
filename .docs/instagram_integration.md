@@ -15,15 +15,18 @@ The Python engine handles both format conversion and public URL generation auton
 - **Public Hosting:** The JPEG buffer is uploaded to the configured image host (see Section 3).
 - **Webhook Payload:** The returned direct URL is injected as `image_url` in the Make.com JSON payload.
 
-## 3. Image Hosting: Catbox (Testing) vs Dropbox (Production)
+## 3. Image Hosting: ImgBB (Default) vs Dropbox (Production)
 Controlled by the `IMAGE_HOST` variable in `.env`:
 
 | Setting | Host | Use Case |
 |---|---|---|
-| `IMAGE_HOST=catbox` | Catbox.moe (anonymous CDN) | Testing — zero config, no credentials |
-| `IMAGE_HOST=dropbox` | Dropbox API | Production — reliable, permanent, owned |
+| `IMAGE_HOST=imgbb` | ImgBB API (CDN) | **Default — works from GitHub Actions cloud IPs.** Free tier, direct `.jpg` CDN links. Requires `IMGBB_API_KEY`. |
+| `IMAGE_HOST=dropbox` | Dropbox API | Production — reliable, permanent, owned storage. Requires `DROPBOX_ACCESS_TOKEN`. |
+| `IMAGE_HOST=catbox` | Catbox.moe | Local testing only. Blocked on GitHub Actions cloud IPs (412 error). |
 
-**Dropbox setup:** Generate a Dropbox API token and add it to `.env` as `DROPBOX_ACCESS_TOKEN`. Files are stored at `/GenAI-Pro/instagram_post.jpg` and overwritten each run. The share URL is automatically converted to a `dl.dropboxusercontent.com` direct link required by Instagram.
+**ImgBB setup:** Sign up at https://api.imgbb.com, copy your API key, add it as `IMGBB_API_KEY` in `.env` and as a GitHub Secret. Set `IMAGE_HOST=imgbb`.
+
+**Dropbox setup (optional):** Generate a Dropbox API token and add it to `.env` as `DROPBOX_ACCESS_TOKEN`. Files are stored at `/GenAI-Pro/instagram_post.jpg` and overwritten each run. The share URL is automatically converted to a `dl.dropboxusercontent.com` direct link required by Instagram.
 
 ## 4. The image_url Visibility Fix (Make.com Schema Bug)
 **Problem:** Make.com's webhook module was learning the data schema from Facebook/LinkedIn runs, which sent `multipart/form-data` (binary file upload). In multipart payloads, Make.com buries form fields and they don't appear in the module's field mapper — so `image_url` was invisible.
@@ -36,9 +39,9 @@ This makes `image_url` fully visible in Make.com's schema and mappable to the In
 
 **To reteach Make.com the schema** after this fix, run:
 ```bash
-python tests/test_instagram_webhook.py
+python tests/test_instagram_webhook.py --retrain
 ```
-While Make.com's webhook module is in "Re-determine data structure" mode. Then map `image_url` → `Photo URL`.
+While Make.com's webhook module is in "Re-determine data structure" mode. This sends a full multipart payload containing ALL fields (including `image.name`, `image.data`, and `image_url`) so all three platform routes remain correctly mapped. Then re-map `image_url` → `Photo URL` in the Instagram route.
 
 ## 5. LLM Drafting Adjustments
 - **File:** `src/core/llm_processor.py`

@@ -18,7 +18,7 @@ Our strategic funnel is:
 - **Publishers (all via `make_webhook.py`):**
   - `Facebook` — ✅ Live. Sends `multipart/form-data` with binary image. Make.com → Facebook Pages "Create a Post with Photos".
   - `LinkedIn` — ✅ Live. Sends `multipart/form-data` with binary image. Make.com → LinkedIn "Create a Company Image Post". Maps `image.name` → `fileName` and `image.data` → `data`.
-  - `Instagram` — ✅ Pipeline built, Make.com mapping in progress. Sends clean JSON with `image_url` (a public JPEG URL). Make.com → Instagram for Business "Create a photo post". Maps `image_url` → `Photo URL`.
+  - `Instagram` — ✅ **Live and confirmed end-to-end (2026-05-22).** Sends clean JSON with `image_url` (a public JPEG URL via ImgBB). Make.com → Instagram for Business "Create a photo post". Maps `image_url` → `Photo URL`.
 - **CLI Orchestration:** `main.py` is fully configurable via `argparse`, allowing testing of individual platforms (`--platform facebook|linkedin|instagram|all`) and enforcing live/draft mode execution (`--draft true|false`).
 
 ## Instagram Integration — Technical Notes
@@ -47,19 +47,30 @@ This sends a multipart payload that contains ALL fields: `platform`, `text`, `im
 
 The `--instagram` flag (JSON only) is available for isolated testing but must always be followed by `--retrain`.
 
+## Platform Performance Data (as of 2026-05-22)
+
+| Platform | Status | 7-Day Results | Key Insight |
+|---|---|---|---|
+| **LinkedIn** | ✅ Best channel | ~1,999 impressions / 15 days, 30 reactions | Personal profile (Farhan, PhD) outperforms company page. Data-backed analytical posts 30-40× better than opinion posts. |
+| **Facebook** | ✅ Live, low ROI | 321 views / 7 days, 2 net follows | Structurally throttled for new pages — Facebook's business model. Keep posting (zero cost), no extra engineering investment until 1K+ followers. |
+| **Instagram** | ✅ Live, zero reach (static) | 0 views, 0 interactions | Instagram's algorithm does not distribute static image posts from new accounts. Static image posts are effectively invisible. Reels is the only organic growth lever. |
+
 ## Pending Blockers
-- **Instagram Live Test:** The full end-to-end Instagram post (Python → Catbox → Make.com → Instagram Graph API) has not yet been confirmed live. Next step: run `--retrain` to restore the Make.com schema, then test with `python main.py --platform instagram`.
-- **Dropbox Setup (Optional):** For production reliability, generate a Dropbox API token and set `IMAGE_HOST=dropbox` + `DROPBOX_ACCESS_TOKEN=<token>` in `.env`. Until then, Catbox is the active host.
+- **Instagram Static Images = Zero Reach:** Confirmed after 7 days of live data. Static image posts on Instagram receive 0 organic views from non-followers. The pipeline is technically working but the format is the bottleneck. **Fix: Build the Reels/Short-Form Video pipeline.** This is the #1 next technical priority.
+- **Dropbox Setup (Optional):** For production reliability, generate a Dropbox API token and set `IMAGE_HOST=dropbox` + `DROPBOX_ACCESS_TOKEN=<token>` in `.env`. ImgBB is the current active host and working reliably from GitHub Actions cloud IPs.
 
 ## Next Steps / Future Roadmap
-- [ ] **Confirm Instagram Live Post:** Run full end-to-end test after Make.com schema is restored.
-- [ ] **Switch to Dropbox:** For production robustness, configure Dropbox as the image host.
+- [x] **Confirm Instagram Live Post:** ✅ Confirmed end-to-end (2026-05-22).
+- [x] **Prompt Engineering — Aerated Format (2026-05-23):** The LLM drafting prompt was updated to enforce a short-sentence, aerated writing style across all platforms. Mandatory blank lines between every 1-2 sentences. "Wall of text" is now an automatic failure condition in the prompt. This was driven by live performance data showing dense paragraphs underperform on LinkedIn vs. spaced, punchy post styles.
+- [ ] **The Video Engine (Shorts/Reels) — HIGHEST PRIORITY:** Instagram static images confirmed at 0 views. Reels/Shorts receive algorithmic boosts to non-followers by default. Infrastructure (`video_generator.py`, `tts_engine.py`, `kinetic_captions.py`, `ffmpeg`) already exists. Needs wiring into `main.py` and a Make.com Reels route.
+- [ ] **Beehiiv Newsletter — HIGH PRIORITY:** Start now even with 0 subscribers. Email is the only owned audience asset; social algorithms are unreliable. Simple landing page + newsletter subscribe form.
 - [ ] **Expanded Sourcing:** Add substantially more RSS feeds (TechCrunch, specialized Substacks) to provide a deeper pool of news for the LLM to curate.
-- [ ] **The Telegram Bot:** Build a Webhook/Telegram integration so co-founders can trigger the agent on-demand, specifying exactly how many posts to generate.
-- [ ] **The Video Engine (Shorts/Reels):** Implement an `ffmpeg`-based pipeline to convert our visual assets and LLM scripts into automated vertical videos with AI voiceovers, unlocking YouTube, TikTok, and Instagram Reels.
-- [ ] **Build `x_twitter.py`:** Add X (Twitter) to the publisher stack to capture the highly active AI tech community.
-- [ ] **The Web Hub:** Revive `genai-pro.com` with an integrated Beehiiv/ConvertKit newsletter capture form.
-- [ ] **Monetization:** Update LLM prompts to seamlessly inject newsletter CTAs and affiliate links into the social copy.
+- [ ] **Switch to Dropbox:** For production robustness, configure Dropbox as the image host (ImgBB working for now).
+- [ ] **The Telegram Bot:** Build a Webhook/Telegram integration so co-founders can trigger the agent on-demand.
+- [ ] **Build `x_twitter.py`:** X (Twitter) integration paused (API cost $100/month). Code preserved. Reactivate when other platforms show meaningful traction.
+- [ ] **The Web Hub:** Revive `genai-pro.com` with an integrated Beehiiv newsletter capture form.
+- [ ] **SaaS Abstraction:** Refactor the agent for multi-niche deployment (crypto, finance, real estate) at $99-299/month. Core architecture is already niche-agnostic.
+- [ ] **Monetization:** Update LLM prompts to inject newsletter CTAs and affiliate links into social copy.
 
 ## Session Memory
 *This file serves as a persistent memory bank. If context is lost or a new chat session is opened, the user can instruct the AI to read `.docs/project_context.md` to instantly get up to speed.*
