@@ -1012,5 +1012,850 @@
         "published_date": "2026-05-17T16:05:00+00:00",
         "discovered_at": "2026-05-17T19:09:48.708952+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/": {
+        "title": "Apple’s Siri revamp could include auto-deleting chats",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-17T20:15:00+00:00",
+        "discovered_at": "2026-05-18T03:39:20.001040+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T03:40:33.550825+00:00",
+            "linkedin": "2026-05-18T03:40:51.833953+00:00",
+            "instagram": "2026-05-18T03:41:09.851704+00:00"
+        },
+        "updated_at": "2026-05-18T03:41:09.851720+00:00"
+    },
+    "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/": {
+        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-17T19:46:34+00:00",
+        "discovered_at": "2026-05-18T03:39:20.001047+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T03:40:33.552564+00:00",
+            "linkedin": "2026-05-18T03:40:51.835564+00:00",
+            "instagram": "2026-05-18T03:41:09.853342+00:00"
+        },
+        "updated_at": "2026-05-18T03:41:09.853349+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/": {
+        "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+        "source": "AI News",
+        "published_date": "2026-05-18T10:00:00+00:00",
+        "discovered_at": "2026-05-18T10:03:35.062933+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T10:04:12.096924+00:00",
+            "linkedin": "2026-05-18T10:04:29.607440+00:00",
+            "instagram": "2026-05-18T10:04:47.456410+00:00"
+        },
+        "updated_at": "2026-05-18T10:04:47.456423+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/": {
+        "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T14:56:47+00:00",
+        "discovered_at": "2026-05-18T15:31:57.220492+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T15:32:55.054073+00:00",
+            "linkedin": "2026-05-18T15:33:14.488104+00:00",
+            "instagram": "2026-05-18T15:33:32.947141+00:00"
+        },
+        "updated_at": "2026-05-18T15:33:32.947156+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/": {
+        "title": "South Korea’s LetinAR is building optics behind AI glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T11:00:00+00:00",
+        "discovered_at": "2026-05-18T15:31:57.220498+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T15:32:55.055714+00:00",
+            "linkedin": "2026-05-18T15:33:14.489944+00:00",
+            "instagram": "2026-05-18T15:33:32.948772+00:00"
+        },
+        "updated_at": "2026-05-18T15:33:32.948780+00:00"
+    },
+    "https://openai.com/index/dell-codex-enterprise-partnership": {
+        "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "source": "OpenAI",
+        "published_date": "2026-05-18T10:00:00+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285822+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T19:46:00.074493+00:00",
+            "linkedin": "2026-05-18T19:46:18.585763+00:00",
+            "instagram": "2026-05-18T19:46:40.008378+00:00"
+        },
+        "updated_at": "2026-05-18T19:46:40.008384+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/": {
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T19:27:52+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285829+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-18T19:46:00.072807+00:00",
+            "linkedin": "2026-05-18T19:46:18.584111+00:00",
+            "instagram": "2026-05-18T19:46:40.006791+00:00"
+        },
+        "updated_at": "2026-05-18T19:46:40.006804+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/": {
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T17:34:43+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285832+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/": {
+        "title": "What to expect from Google this week",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-18T17:35:43+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285840+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T15:21:19.733439+00:00",
+            "linkedin": "2026-05-19T15:21:40.671347+00:00",
+            "instagram": "2026-05-19T15:22:04.367711+00:00"
+        },
+        "updated_at": "2026-05-19T15:22:04.367718+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/": {
+        "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-18T16:01:39+00:00",
+        "discovered_at": "2026-05-18T19:45:03.285843+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T03:33:32.660865+00:00",
+            "linkedin": "2026-05-19T03:33:57.267084+00:00",
+            "instagram": "2026-05-19T03:34:31.659045+00:00"
+        },
+        "updated_at": "2026-05-19T03:34:31.659052+00:00"
+    },
+    "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/": {
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-18T21:29:31+00:00",
+        "discovered_at": "2026-05-19T03:32:29.742533+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T03:33:32.659125+00:00",
+            "linkedin": "2026-05-19T03:33:57.265173+00:00",
+            "instagram": "2026-05-19T03:34:31.657311+00:00"
+        },
+        "updated_at": "2026-05-19T03:34:31.657326+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/": {
+        "title": "Here’s why Elon Musk lost his suit against OpenAI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-19T00:53:10+00:00",
+        "discovered_at": "2026-05-19T03:32:29.742547+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T15:21:19.731673+00:00",
+            "linkedin": "2026-05-19T15:21:40.669454+00:00",
+            "instagram": "2026-05-19T15:22:04.365941+00:00"
+        },
+        "updated_at": "2026-05-19T15:22:04.365957+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/": {
+        "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+        "source": "AI News",
+        "published_date": "2026-05-19T01:36:26+00:00",
+        "discovered_at": "2026-05-19T09:42:24.463355+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/": {
+        "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+        "source": "AI News",
+        "published_date": "2026-05-19T10:00:00+00:00",
+        "discovered_at": "2026-05-19T15:20:39.900615+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-content-provenance": {
+        "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+        "source": "OpenAI",
+        "published_date": "2026-05-19T10:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041185+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/": {
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T19:15:31+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041192+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/": {
+        "title": "Google’s Genie world model can now simulate real streets with Street View",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:51:39+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041195+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T15:20:14.888135+00:00",
+            "linkedin": "2026-05-20T15:20:33.528428+00:00",
+            "instagram": "2026-05-20T15:20:51.853922+00:00"
+        },
+        "updated_at": "2026-05-20T15:20:51.853930+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/": {
+        "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:51:30+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041199+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T19:53:00.463214+00:00",
+            "linkedin": "2026-05-19T19:53:22.048883+00:00",
+            "instagram": "2026-05-19T19:53:40.455572+00:00"
+        },
+        "updated_at": "2026-05-19T19:53:40.455583+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/": {
+        "title": "How to use Google’s new information agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:50:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041202+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/": {
+        "title": "Google Search as you know it is over",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:46:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041205+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T09:34:20.573742+00:00",
+            "linkedin": "2026-05-20T09:34:39.743452+00:00",
+            "instagram": "2026-05-20T09:34:58.007187+00:00"
+        },
+        "updated_at": "2026-05-20T09:34:58.007200+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/": {
+        "title": "Google’s AI now lets you talk to your Gmail inbox",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041211+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/": {
+        "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041215+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T20:15:15.553852+00:00",
+            "linkedin": "2026-05-20T20:15:33.309154+00:00",
+            "instagram": "2026-05-20T20:15:52.065296+00:00"
+        },
+        "updated_at": "2026-05-20T20:15:52.065303+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/": {
+        "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041218+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T03:34:14.982771+00:00",
+            "linkedin": "2026-05-20T03:34:35.046770+00:00",
+            "instagram": "2026-05-20T03:34:55.565539+00:00"
+        },
+        "updated_at": "2026-05-20T03:34:55.565545+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/": {
+        "title": "OpenAI is making it easier to check if an image was made by their models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041222+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/": {
+        "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041225+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/": {
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041228+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/": {
+        "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041232+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T03:34:14.980669+00:00",
+            "linkedin": "2026-05-20T03:34:35.044661+00:00",
+            "instagram": "2026-05-20T03:34:55.563290+00:00"
+        },
+        "updated_at": "2026-05-20T03:34:55.563303+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/": {
+        "title": "Google adds voice-based prompting to Docs and Keep",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041235+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/": {
+        "title": "Google just declared itself a contender in AI design",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041238+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/": {
+        "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041241+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/": {
+        "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041244+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/": {
+        "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T15:43:04+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041247+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T09:34:20.575707+00:00",
+            "linkedin": "2026-05-20T09:34:39.745477+00:00",
+            "instagram": "2026-05-20T09:34:58.009321+00:00"
+        },
+        "updated_at": "2026-05-20T09:34:58.009328+00:00"
+    },
+    "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think": {
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "source": "VentureBeat AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-19T19:52:22.041252+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-19T19:53:00.465115+00:00",
+            "linkedin": "2026-05-19T19:53:22.050718+00:00",
+            "instagram": "2026-05-19T19:53:40.457475+00:00"
+        },
+        "updated_at": "2026-05-19T19:53:40.457482+00:00"
+    },
+    "https://openai.com/index/introducing-openai-for-singapore": {
+        "title": "Introducing OpenAI for Singapore",
+        "source": "OpenAI",
+        "published_date": "2026-05-20T11:30:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684130+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/": {
+        "title": "Google just declared itself a contender in AI design at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:33:30+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684139+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/": {
+        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:25:31+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684142+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T09:41:18.110486+00:00",
+            "linkedin": "2026-05-21T09:41:36.636876+00:00",
+            "instagram": "2026-05-21T09:42:04.312579+00:00"
+        },
+        "updated_at": "2026-05-21T09:42:04.312586+00:00"
+    },
+    "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/": {
+        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:16:25+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684146+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/": {
+        "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T21:08:51+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684149+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/": {
+        "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T20:11:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684155+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/": {
+        "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T19:15:31+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684159+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/": {
+        "title": "Google’s new Universal Cart wants to follow your entire shopping journey across the internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684166+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/": {
+        "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684169+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/": {
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-19T17:45:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684173+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/": {
+        "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+        "source": "AI News",
+        "published_date": "2026-05-19T19:18:00+00:00",
+        "discovered_at": "2026-05-20T03:33:26.684178+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/the-next-phase-of-education-for-countries": {
+        "title": "The next phase of OpenAI’s Education for Countries",
+        "source": "OpenAI",
+        "published_date": "2026-05-20T00:00:00+00:00",
+        "discovered_at": "2026-05-20T09:33:44.244974+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/": {
+        "title": "AI search startups are blowing up",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T15:04:45+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322107+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/": {
+        "title": "Stability AI releases a new audio model that can create six-minute songs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T15:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322113+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/": {
+        "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T14:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322116+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/": {
+        "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T14:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322121+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/": {
+        "title": "Figma adds an AI assistant to its collaborative canvas",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T13:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322125+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T15:26:58.811345+00:00",
+            "linkedin": "2026-05-21T15:27:16.974281+00:00",
+            "instagram": "2026-05-21T15:27:35.224607+00:00"
+        },
+        "updated_at": "2026-05-21T15:27:35.224614+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/": {
+        "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+        "source": "AI News",
+        "published_date": "2026-05-20T10:00:00+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322132+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T15:20:14.886270+00:00",
+            "linkedin": "2026-05-20T15:20:33.526479+00:00",
+            "instagram": "2026-05-20T15:20:51.852011+00:00"
+        },
+        "updated_at": "2026-05-20T15:20:51.852024+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/": {
+        "title": "Roundtables: Inside the Musk v. Altman Trial",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-19T20:15:18+00:00",
+        "discovered_at": "2026-05-20T15:19:35.322137+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+        "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "source": "OpenAI",
+        "published_date": "2026-05-20T00:00:00+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940283+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-20T20:15:15.551917+00:00",
+            "linkedin": "2026-05-20T20:15:33.307216+00:00",
+            "instagram": "2026-05-20T20:15:52.063353+00:00"
+        },
+        "updated_at": "2026-05-20T20:15:52.063366+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/": {
+        "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T19:47:20+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940292+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/": {
+        "title": "OpenAI barrels toward IPO that may happen in September",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T17:24:24+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940295+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T03:40:41.952222+00:00",
+            "linkedin": "2026-05-21T03:40:59.309732+00:00",
+            "instagram": "2026-05-21T03:41:25.035870+00:00"
+        },
+        "updated_at": "2026-05-21T03:41:25.035878+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/": {
+        "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T14:00:00+00:00",
+        "discovered_at": "2026-05-20T20:14:35.940302+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/ramp": {
+        "title": "How Ramp engineers accelerate code review with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-20T00:00:00+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933084+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T09:24:18.889648+00:00",
+            "linkedin": "2026-05-22T09:24:36.584933+00:00",
+            "instagram": "2026-05-22T09:24:54.577027+00:00"
+        },
+        "updated_at": "2026-05-22T09:24:54.577034+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/": {
+        "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T00:28:31+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933092+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T15:26:58.809018+00:00",
+            "linkedin": "2026-05-21T15:27:16.971796+00:00",
+            "instagram": "2026-05-21T15:27:35.222232+00:00"
+        },
+        "updated_at": "2026-05-21T15:27:35.222246+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/": {
+        "title": "Anthropic says it’s about to have its first profitable quarter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T00:21:21+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933098+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T19:54:56.568041+00:00",
+            "linkedin": "2026-05-21T19:55:18.542828+00:00",
+            "instagram": "2026-05-21T19:55:36.837367+00:00"
+        },
+        "updated_at": "2026-05-21T19:55:36.837380+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/": {
+        "title": "Clouted wants to take the guesswork out of making short videos go viral",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T22:30:45+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933102+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/": {
+        "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T22:26:08+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933106+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T19:54:56.570456+00:00",
+            "linkedin": "2026-05-21T19:55:18.545297+00:00",
+            "instagram": "2026-05-21T19:55:36.839682+00:00"
+        },
+        "updated_at": "2026-05-21T19:55:36.839689+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/": {
+        "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T22:03:51+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933109+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T03:38:58.377856+00:00",
+            "linkedin": "2026-05-22T03:39:16.433865+00:00",
+            "instagram": "2026-05-22T03:39:37.646469+00:00"
+        },
+        "updated_at": "2026-05-22T03:39:37.646477+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/": {
+        "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T21:55:49+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933112+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/": {
+        "title": "Anthropic will pay xAI $1.25B per month for compute",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T21:29:22+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933116+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T09:41:18.108100+00:00",
+            "linkedin": "2026-05-21T09:41:36.634376+00:00",
+            "instagram": "2026-05-21T09:42:04.310294+00:00"
+        },
+        "updated_at": "2026-05-21T09:42:04.310309+00:00"
+    },
+    "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/": {
+        "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-20T20:28:27+00:00",
+        "discovered_at": "2026-05-21T03:39:36.933119+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-21T03:40:41.949823+00:00",
+            "linkedin": "2026-05-21T03:40:59.307339+00:00",
+            "instagram": "2026-05-21T03:41:25.033565+00:00"
+        },
+        "updated_at": "2026-05-21T03:41:25.033579+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/": {
+        "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+        "source": "AI News",
+        "published_date": "2026-05-21T08:00:00+00:00",
+        "discovered_at": "2026-05-21T09:40:42.194582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T09:24:18.887248+00:00",
+            "linkedin": "2026-05-22T09:24:36.582570+00:00",
+            "instagram": "2026-05-22T09:24:54.574602+00:00"
+        },
+        "updated_at": "2026-05-22T09:24:54.574614+00:00"
+    },
+    "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/": {
+        "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T14:00:00+00:00",
+        "discovered_at": "2026-05-21T15:25:44.251683+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T19:45:17.218956+00:00",
+            "linkedin": "2026-05-22T19:45:36.070685+00:00",
+            "instagram": "2026-05-22T19:46:09.282502+00:00"
+        },
+        "updated_at": "2026-05-22T19:46:09.282508+00:00"
+    },
+    "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/": {
+        "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T14:00:00+00:00",
+        "discovered_at": "2026-05-21T15:25:44.251689+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/": {
+        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T13:52:23+00:00",
+        "discovered_at": "2026-05-21T15:25:44.251695+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T03:38:58.375374+00:00",
+            "linkedin": "2026-05-22T03:39:16.431242+00:00",
+            "instagram": "2026-05-22T03:39:37.643988+00:00"
+        },
+        "updated_at": "2026-05-22T03:39:37.644005+00:00"
+    },
+    "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/": {
+        "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T13:38:42+00:00",
+        "discovered_at": "2026-05-21T15:25:44.251700+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/": {
+        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-21T14:30:45+00:00",
+        "discovered_at": "2026-05-21T15:25:44.251710+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T14:39:17.790972+00:00",
+            "linkedin": "2026-05-22T14:39:35.669187+00:00",
+            "instagram": "2026-05-22T14:39:54.249918+00:00"
+        },
+        "updated_at": "2026-05-22T14:39:54.249925+00:00"
+    },
+    "https://openai.com/index/adventhealth": {
+        "title": "AdventHealth advances whole-person care with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-05-21T12:00:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808771+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/": {
+        "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T19:45:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808780+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/": {
+        "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T19:19:05+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808786+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/": {
+        "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T17:30:45+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808790+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/": {
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T15:27:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808793+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/": {
+        "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T15:27:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808796+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/": {
+        "title": "Spotify takes on Google’s NotebookLM with its new app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-21T15:27:00+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808799+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/": {
+        "title": "Scaling creativity in the age of AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-21T19:16:43+00:00",
+        "discovered_at": "2026-05-21T19:54:01.808808+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/": {
+        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-21T20:41:05+00:00",
+        "discovered_at": "2026-05-22T03:38:01.453151+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/": {
+        "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
+        "source": "AI News",
+        "published_date": "2026-05-22T09:00:00+00:00",
+        "discovered_at": "2026-05-22T09:23:14.710497+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/": {
+        "title": "Google I/O showed how the path for AI-driven science is shifting",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-22T10:00:00+00:00",
+        "discovered_at": "2026-05-22T14:38:40.695617+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T14:39:17.788618+00:00",
+            "linkedin": "2026-05-22T14:39:35.666533+00:00",
+            "instagram": "2026-05-22T14:39:54.247510+00:00"
+        },
+        "updated_at": "2026-05-22T14:39:54.247524+00:00"
+    },
+    "https://openai.com/index/gartner-2026-agentic-coding-leader": {
+        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "source": "OpenAI",
+        "published_date": "2026-05-22T00:00:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176765+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/": {
+        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T18:17:07+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176774+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/": {
+        "title": "You can no longer Google the word ‘disregard’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T16:16:48+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176779+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/": {
+        "title": "We tried Google’s AI glasses and they’re almost there",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T15:37:15+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176783+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/": {
+        "title": "SpaceX files to go public, and the math requires a little faith",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T14:30:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176787+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/": {
+        "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
+        "source": "AI News",
+        "published_date": "2026-05-22T10:00:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176794+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T19:45:17.216456+00:00",
+            "linkedin": "2026-05-22T19:45:36.068178+00:00",
+            "instagram": "2026-05-22T19:46:09.280077+00:00"
+        },
+        "updated_at": "2026-05-22T19:46:09.280087+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/": {
+        "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
+        "source": "AI News",
+        "published_date": "2026-05-22T10:00:00+00:00",
+        "discovered_at": "2026-05-22T19:44:41.176797+00:00",
+        "status": "PENDING"
     }
 }
