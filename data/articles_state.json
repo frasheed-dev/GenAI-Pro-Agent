@@ -1607,7 +1607,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-20T22:03:51+00:00",
         "discovered_at": "2026-05-21T03:39:36.933109+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T03:38:58.377856+00:00",
+            "linkedin": "2026-05-22T03:39:16.433865+00:00",
+            "instagram": "2026-05-22T03:39:37.646469+00:00"
+        },
+        "updated_at": "2026-05-22T03:39:37.646477+00:00"
     },
     "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/": {
         "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
@@ -1668,7 +1674,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T13:52:23+00:00",
         "discovered_at": "2026-05-21T15:25:44.251695+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-22T03:38:58.375374+00:00",
+            "linkedin": "2026-05-22T03:39:16.431242+00:00",
+            "instagram": "2026-05-22T03:39:37.643988+00:00"
+        },
+        "updated_at": "2026-05-22T03:39:37.644005+00:00"
     },
     "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/": {
         "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
@@ -1738,6 +1750,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-21T19:16:43+00:00",
         "discovered_at": "2026-05-21T19:54:01.808808+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/": {
+        "title": "Roundtables: Can AI Learn to Understand the World?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-21T20:41:05+00:00",
+        "discovered_at": "2026-05-22T03:38:01.453151+00:00",
         "status": "PENDING"
     }
 }
