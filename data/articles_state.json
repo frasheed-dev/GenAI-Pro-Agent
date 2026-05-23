@@ -1788,7 +1788,13 @@
         "source": "AI News",
         "published_date": "2026-05-22T09:00:00+00:00",
         "discovered_at": "2026-05-22T09:23:14.710497+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T02:56:23.996579+00:00",
+            "linkedin": "2026-05-23T02:56:51.534429+00:00",
+            "instagram": "2026-05-23T02:57:15.454785+00:00"
+        },
+        "updated_at": "2026-05-23T02:57:15.454792+00:00"
     },
     "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/": {
         "title": "Google I/O showed how the path for AI-driven science is shifting",
@@ -1829,7 +1835,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-22T15:37:15+00:00",
         "discovered_at": "2026-05-22T19:44:41.176783+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T02:56:23.993841+00:00",
+            "linkedin": "2026-05-23T02:56:51.531681+00:00",
+            "instagram": "2026-05-23T02:57:15.452132+00:00"
+        },
+        "updated_at": "2026-05-23T02:57:15.452148+00:00"
     },
     "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/": {
         "title": "SpaceX files to go public, and the math requires a little faith",
@@ -1856,6 +1868,34 @@
         "source": "AI News",
         "published_date": "2026-05-22T10:00:00+00:00",
         "discovered_at": "2026-05-22T19:44:41.176797+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/virgin-atlantic": {
+        "title": "How Virgin Atlantic ships faster with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-22T00:00:00+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577762+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/": {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T23:03:33+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577769+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/": {
+        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T21:02:36+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577773+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/": {
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T20:40:48+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577776+00:00",
         "status": "PENDING"
     }
 }
