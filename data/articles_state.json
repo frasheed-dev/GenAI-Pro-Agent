@@ -1772,7 +1772,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T15:27:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808796+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T13:25:36.467737+00:00",
+            "linkedin": "2026-05-23T13:25:54.983869+00:00",
+            "instagram": "2026-05-23T13:26:13.899506+00:00"
+        },
+        "updated_at": "2026-05-23T13:26:13.899512+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/": {
         "title": "Spotify takes on Google’s NotebookLM with its new app",
@@ -1826,7 +1832,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-22T00:00:00+00:00",
         "discovered_at": "2026-05-22T19:44:41.176765+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T13:25:36.464925+00:00",
+            "linkedin": "2026-05-23T13:25:54.981308+00:00",
+            "instagram": "2026-05-23T13:26:13.896951+00:00"
+        },
+        "updated_at": "2026-05-23T13:26:13.896961+00:00"
     },
     "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/": {
         "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
@@ -1908,6 +1920,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-22T20:40:48+00:00",
         "discovered_at": "2026-05-23T02:55:13.577776+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/": {
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-23T13:00:00+00:00",
+        "discovered_at": "2026-05-23T13:24:58.803099+00:00",
         "status": "PENDING"
     }
 }
