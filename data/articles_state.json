@@ -1765,7 +1765,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T15:27:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808793+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T19:11:06.185320+00:00",
+            "linkedin": "2026-05-23T19:11:24.565294+00:00",
+            "instagram": "2026-05-23T19:11:42.989226+00:00"
+        },
+        "updated_at": "2026-05-23T19:11:42.989233+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/": {
         "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
@@ -1799,7 +1805,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-21T20:41:05+00:00",
         "discovered_at": "2026-05-22T03:38:01.453151+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T19:11:06.182538+00:00",
+            "linkedin": "2026-05-23T19:11:24.562667+00:00",
+            "instagram": "2026-05-23T19:11:42.986406+00:00"
+        },
+        "updated_at": "2026-05-23T19:11:42.986422+00:00"
     },
     "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/": {
         "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
@@ -1927,6 +1939,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-23T13:00:00+00:00",
         "discovered_at": "2026-05-23T13:24:58.803099+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/": {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-23T15:08:00+00:00",
+        "discovered_at": "2026-05-23T19:10:25.791368+00:00",
         "status": "PENDING"
     }
 }
