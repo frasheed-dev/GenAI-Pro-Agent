@@ -1732,7 +1732,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T19:45:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808780+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T08:20:52.925666+00:00",
+            "linkedin": "2026-05-23T08:21:11.223541+00:00",
+            "instagram": "2026-05-23T08:21:30.435623+00:00"
+        },
+        "updated_at": "2026-05-23T08:21:30.435636+00:00"
     },
     "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/": {
         "title": "Six search engines worth trying now that Google isn’t really Google anymore",
@@ -1746,7 +1752,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T17:30:45+00:00",
         "discovered_at": "2026-05-21T19:54:01.808790+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T08:20:52.928033+00:00",
+            "linkedin": "2026-05-23T08:21:11.225883+00:00",
+            "instagram": "2026-05-23T08:21:30.437967+00:00"
+        },
+        "updated_at": "2026-05-23T08:21:30.437975+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/": {
         "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
