@@ -1685,7 +1685,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T14:00:00+00:00",
         "discovered_at": "2026-05-21T15:25:44.251689+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T08:30:02.319283+00:00",
+            "linkedin": "2026-05-24T08:30:19.922097+00:00",
+            "instagram": "2026-05-24T08:30:38.174162+00:00"
+        },
+        "updated_at": "2026-05-24T08:30:38.174168+00:00"
     },
     "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/": {
         "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
@@ -1916,7 +1922,13 @@
         "source": "AI News",
         "published_date": "2026-05-22T10:00:00+00:00",
         "discovered_at": "2026-05-22T19:44:41.176797+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T08:30:02.316580+00:00",
+            "linkedin": "2026-05-24T08:30:19.919480+00:00",
+            "instagram": "2026-05-24T08:30:38.171562+00:00"
+        },
+        "updated_at": "2026-05-24T08:30:38.171571+00:00"
     },
     "https://openai.com/index/virgin-atlantic": {
         "title": "How Virgin Atlantic ships faster with Codex",
