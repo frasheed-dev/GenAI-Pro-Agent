@@ -1725,7 +1725,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-21T12:00:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808771+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T03:35:40.648742+00:00",
+            "linkedin": "2026-05-24T03:35:59.879418+00:00",
+            "instagram": "2026-05-24T03:36:20.868632+00:00"
+        },
+        "updated_at": "2026-05-24T03:36:20.868639+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/": {
         "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
@@ -1791,7 +1797,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T15:27:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808799+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T03:35:40.645835+00:00",
+            "linkedin": "2026-05-24T03:35:59.876744+00:00",
+            "instagram": "2026-05-24T03:36:20.866009+00:00"
+        },
+        "updated_at": "2026-05-24T03:36:20.866024+00:00"
     },
     "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/": {
         "title": "Scaling creativity in the age of AI",
