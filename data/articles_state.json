@@ -1947,7 +1947,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-22T00:00:00+00:00",
         "discovered_at": "2026-05-23T02:55:13.577762+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T19:17:48.955000+00:00",
+            "linkedin": "2026-05-24T19:18:14.556362+00:00",
+            "instagram": "2026-05-24T19:18:33.298561+00:00"
+        },
+        "updated_at": "2026-05-24T19:18:33.298569+00:00"
     },
     "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/": {
         "title": "AI is being used to resurrect the voices of dead pilots",
@@ -1968,7 +1974,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-22T20:40:48+00:00",
         "discovered_at": "2026-05-23T02:55:13.577776+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T19:17:48.952231+00:00",
+            "linkedin": "2026-05-24T19:18:14.553557+00:00",
+            "instagram": "2026-05-24T19:18:33.295793+00:00"
+        },
+        "updated_at": "2026-05-24T19:18:33.295809+00:00"
     },
     "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/": {
         "title": "Elon Musk has given up on solar power (on Earth)",
@@ -1982,6 +1994,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-23T15:08:00+00:00",
         "discovered_at": "2026-05-23T19:10:25.791368+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/": {
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T15:00:00+00:00",
+        "discovered_at": "2026-05-24T19:16:46.346310+00:00",
         "status": "PENDING"
     }
 }
