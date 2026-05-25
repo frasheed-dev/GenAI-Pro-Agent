@@ -1685,7 +1685,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T14:00:00+00:00",
         "discovered_at": "2026-05-21T15:25:44.251689+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T08:30:02.319283+00:00",
+            "linkedin": "2026-05-24T08:30:19.922097+00:00",
+            "instagram": "2026-05-24T08:30:38.174162+00:00"
+        },
+        "updated_at": "2026-05-24T08:30:38.174168+00:00"
     },
     "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/": {
         "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
@@ -1725,49 +1731,91 @@
         "source": "OpenAI",
         "published_date": "2026-05-21T12:00:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808771+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T03:35:40.648742+00:00",
+            "linkedin": "2026-05-24T03:35:59.879418+00:00",
+            "instagram": "2026-05-24T03:36:20.868632+00:00"
+        },
+        "updated_at": "2026-05-24T03:36:20.868639+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/": {
         "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T19:45:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808780+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T08:20:52.925666+00:00",
+            "linkedin": "2026-05-23T08:21:11.223541+00:00",
+            "instagram": "2026-05-23T08:21:30.435623+00:00"
+        },
+        "updated_at": "2026-05-23T08:21:30.435636+00:00"
     },
     "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/": {
         "title": "Six search engines worth trying now that Google isn’t really Google anymore",
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T19:19:05+00:00",
         "discovered_at": "2026-05-21T19:54:01.808786+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T13:26:46.756092+00:00",
+            "linkedin": "2026-05-24T13:27:09.664970+00:00",
+            "instagram": "2026-05-24T13:27:27.838139+00:00"
+        },
+        "updated_at": "2026-05-24T13:27:27.838145+00:00"
     },
     "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/": {
         "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T17:30:45+00:00",
         "discovered_at": "2026-05-21T19:54:01.808790+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T08:20:52.928033+00:00",
+            "linkedin": "2026-05-23T08:21:11.225883+00:00",
+            "instagram": "2026-05-23T08:21:30.437967+00:00"
+        },
+        "updated_at": "2026-05-23T08:21:30.437975+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/": {
         "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T15:27:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808793+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T19:11:06.185320+00:00",
+            "linkedin": "2026-05-23T19:11:24.565294+00:00",
+            "instagram": "2026-05-23T19:11:42.989226+00:00"
+        },
+        "updated_at": "2026-05-23T19:11:42.989233+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/": {
         "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T15:27:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808796+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T13:25:36.467737+00:00",
+            "linkedin": "2026-05-23T13:25:54.983869+00:00",
+            "instagram": "2026-05-23T13:26:13.899506+00:00"
+        },
+        "updated_at": "2026-05-23T13:26:13.899512+00:00"
     },
     "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/": {
         "title": "Spotify takes on Google’s NotebookLM with its new app",
         "source": "TechCrunch AI",
         "published_date": "2026-05-21T15:27:00+00:00",
         "discovered_at": "2026-05-21T19:54:01.808799+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T03:35:40.645835+00:00",
+            "linkedin": "2026-05-24T03:35:59.876744+00:00",
+            "instagram": "2026-05-24T03:36:20.866009+00:00"
+        },
+        "updated_at": "2026-05-24T03:36:20.866024+00:00"
     },
     "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/": {
         "title": "Scaling creativity in the age of AI",
@@ -1781,14 +1829,26 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-21T20:41:05+00:00",
         "discovered_at": "2026-05-22T03:38:01.453151+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T19:11:06.182538+00:00",
+            "linkedin": "2026-05-23T19:11:24.562667+00:00",
+            "instagram": "2026-05-23T19:11:42.986406+00:00"
+        },
+        "updated_at": "2026-05-23T19:11:42.986422+00:00"
     },
     "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/": {
         "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
         "source": "AI News",
         "published_date": "2026-05-22T09:00:00+00:00",
         "discovered_at": "2026-05-22T09:23:14.710497+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T02:56:23.996579+00:00",
+            "linkedin": "2026-05-23T02:56:51.534429+00:00",
+            "instagram": "2026-05-23T02:57:15.454785+00:00"
+        },
+        "updated_at": "2026-05-23T02:57:15.454792+00:00"
     },
     "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/": {
         "title": "Google I/O showed how the path for AI-driven science is shifting",
@@ -1808,7 +1868,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-22T00:00:00+00:00",
         "discovered_at": "2026-05-22T19:44:41.176765+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T13:25:36.464925+00:00",
+            "linkedin": "2026-05-23T13:25:54.981308+00:00",
+            "instagram": "2026-05-23T13:26:13.896951+00:00"
+        },
+        "updated_at": "2026-05-23T13:26:13.896961+00:00"
     },
     "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/": {
         "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
@@ -1822,14 +1888,26 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-22T16:16:48+00:00",
         "discovered_at": "2026-05-22T19:44:41.176779+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T13:26:46.753828+00:00",
+            "linkedin": "2026-05-24T13:27:09.662858+00:00",
+            "instagram": "2026-05-24T13:27:27.836102+00:00"
+        },
+        "updated_at": "2026-05-24T13:27:27.836115+00:00"
     },
     "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/": {
         "title": "We tried Google’s AI glasses and they’re almost there",
         "source": "TechCrunch AI",
         "published_date": "2026-05-22T15:37:15+00:00",
         "discovered_at": "2026-05-22T19:44:41.176783+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-23T02:56:23.993841+00:00",
+            "linkedin": "2026-05-23T02:56:51.531681+00:00",
+            "instagram": "2026-05-23T02:57:15.452132+00:00"
+        },
+        "updated_at": "2026-05-23T02:57:15.452148+00:00"
     },
     "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/": {
         "title": "SpaceX files to go public, and the math requires a little faith",
@@ -1856,6 +1934,149 @@
         "source": "AI News",
         "published_date": "2026-05-22T10:00:00+00:00",
         "discovered_at": "2026-05-22T19:44:41.176797+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T08:30:02.316580+00:00",
+            "linkedin": "2026-05-24T08:30:19.919480+00:00",
+            "instagram": "2026-05-24T08:30:38.171562+00:00"
+        },
+        "updated_at": "2026-05-24T08:30:38.171571+00:00"
+    },
+    "https://openai.com/index/virgin-atlantic": {
+        "title": "How Virgin Atlantic ships faster with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-22T00:00:00+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577762+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T19:17:48.955000+00:00",
+            "linkedin": "2026-05-24T19:18:14.556362+00:00",
+            "instagram": "2026-05-24T19:18:33.298561+00:00"
+        },
+        "updated_at": "2026-05-24T19:18:33.298569+00:00"
+    },
+    "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/": {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T23:03:33+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577769+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T03:48:47.383251+00:00",
+            "linkedin": "2026-05-25T03:49:22.191575+00:00",
+            "instagram": "2026-05-25T03:49:42.165106+00:00"
+        },
+        "updated_at": "2026-05-25T03:49:42.165113+00:00"
+    },
+    "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/": {
+        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T21:02:36+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577773+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/": {
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T20:40:48+00:00",
+        "discovered_at": "2026-05-23T02:55:13.577776+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-24T19:17:48.952231+00:00",
+            "linkedin": "2026-05-24T19:18:14.553557+00:00",
+            "instagram": "2026-05-24T19:18:33.295793+00:00"
+        },
+        "updated_at": "2026-05-24T19:18:33.295809+00:00"
+    },
+    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/": {
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-23T13:00:00+00:00",
+        "discovered_at": "2026-05-23T13:24:58.803099+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/": {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-23T15:08:00+00:00",
+        "discovered_at": "2026-05-23T19:10:25.791368+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T10:06:59.825303+00:00",
+            "linkedin": "2026-05-25T10:07:23.085044+00:00",
+            "instagram": "2026-05-25T10:07:45.284483+00:00"
+        },
+        "updated_at": "2026-05-25T10:07:45.284490+00:00"
+    },
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/": {
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T15:00:00+00:00",
+        "discovered_at": "2026-05-24T19:16:46.346310+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T10:06:59.822641+00:00",
+            "linkedin": "2026-05-25T10:07:23.082382+00:00",
+            "instagram": "2026-05-25T10:07:45.281810+00:00"
+        },
+        "updated_at": "2026-05-25T10:07:45.281822+00:00"
+    },
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/": {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T21:39:21+00:00",
+        "discovered_at": "2026-05-25T03:47:20.369582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T03:48:47.380655+00:00",
+            "linkedin": "2026-05-25T03:49:22.188985+00:00",
+            "instagram": "2026-05-25T03:49:42.162425+00:00"
+        },
+        "updated_at": "2026-05-25T03:49:42.162438+00:00"
+    },
+    "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/": {
+        "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-25T14:30:00+00:00",
+        "discovered_at": "2026-05-25T14:53:32.997051+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/": {
+        "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-25T14:00:00+00:00",
+        "discovered_at": "2026-05-25T14:53:32.997057+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
+        "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+        "source": "OpenAI",
+        "published_date": "2026-05-25T00:00:00+00:00",
+        "discovered_at": "2026-05-25T19:39:21.956040+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T19:40:00.466452+00:00",
+            "linkedin": "2026-05-25T19:40:17.710105+00:00"
+        },
+        "updated_at": "2026-05-25T19:40:17.710112+00:00"
+    },
+    "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/": {
+        "title": "What ClickUp’s mass layoff tells us about the future of work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-25T16:00:00+00:00",
+        "discovered_at": "2026-05-25T19:39:21.956047+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T19:40:00.463460+00:00",
+            "linkedin": "2026-05-25T19:40:17.707320+00:00"
+        },
+        "updated_at": "2026-05-25T19:40:17.707333+00:00"
+    },
+    "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/": {
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-25T15:09:41+00:00",
+        "discovered_at": "2026-05-25T19:39:21.956050+00:00",
         "status": "PENDING"
     },
     "https://openai.com/index/virgin-atlantic": {
