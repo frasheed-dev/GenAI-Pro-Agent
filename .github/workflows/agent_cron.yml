@@ -36,21 +36,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
-          # Install PyTorch CPU (to save bandwidth and install time)
-          pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-          
-          # Install VibeVoice extras if needed
-          # (Assuming transformers/accelerate are in requirements.txt or installed here)
-          pip install accelerate transformers soundfile
-
-      - name: Cache HuggingFace Models
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/huggingface
-          key: ${{ runner.os }}-huggingface-${{ hashFiles('**/VibeVoice-main/**') }}
-          restore-keys: |
-            ${{ runner.os }}-huggingface-
 
       - name: Run Autonomous Agent
         env:
@@ -58,11 +43,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           MAKE_WEBHOOK_URL: ${{ secrets.MAKE_WEBHOOK_URL }}
           IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
-          DROPBOX_ACCESS_TOKEN: ${{ secrets.DROPBOX_ACCESS_TOKEN }}
-          IMAGE_HOST: 'dropbox'
+          IMAGE_HOST: 'imgbb'
           AUTONOMOUS_MODE: 'true'
         run: |
-          python reel_main.py --publish
+          python main.py
 
       - name: Commit State Tracking
         # Only run this step if state.json was modified
