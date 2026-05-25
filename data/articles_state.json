@@ -1960,7 +1960,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-22T23:03:33+00:00",
         "discovered_at": "2026-05-23T02:55:13.577769+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T03:48:47.383251+00:00",
+            "linkedin": "2026-05-25T03:49:22.191575+00:00",
+            "instagram": "2026-05-25T03:49:42.165106+00:00"
+        },
+        "updated_at": "2026-05-25T03:49:42.165113+00:00"
     },
     "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/": {
         "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
@@ -2002,5 +2008,18 @@
         "published_date": "2026-05-24T15:00:00+00:00",
         "discovered_at": "2026-05-24T19:16:46.346310+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/": {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T21:39:21+00:00",
+        "discovered_at": "2026-05-25T03:47:20.369582+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T03:48:47.380655+00:00",
+            "linkedin": "2026-05-25T03:49:22.188985+00:00",
+            "instagram": "2026-05-25T03:49:42.162425+00:00"
+        },
+        "updated_at": "2026-05-25T03:49:42.162438+00:00"
     }
 }
