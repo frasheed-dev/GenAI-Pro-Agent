@@ -2000,14 +2000,26 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-23T15:08:00+00:00",
         "discovered_at": "2026-05-23T19:10:25.791368+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T10:06:59.825303+00:00",
+            "linkedin": "2026-05-25T10:07:23.085044+00:00",
+            "instagram": "2026-05-25T10:07:45.284483+00:00"
+        },
+        "updated_at": "2026-05-25T10:07:45.284490+00:00"
     },
     "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/": {
         "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
         "source": "TechCrunch AI",
         "published_date": "2026-05-24T15:00:00+00:00",
         "discovered_at": "2026-05-24T19:16:46.346310+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T10:06:59.822641+00:00",
+            "linkedin": "2026-05-25T10:07:23.082382+00:00",
+            "instagram": "2026-05-25T10:07:45.281810+00:00"
+        },
+        "updated_at": "2026-05-25T10:07:45.281822+00:00"
     },
     "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/": {
         "title": "Everyone is navigating AI security in real time — even Google",
