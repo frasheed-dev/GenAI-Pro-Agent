@@ -1975,14 +1975,26 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-23T12:00:00+00:00",
         "discovered_at": "2026-05-24T22:54:33.700016+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T22:22:43.860841+00:00",
+            "linkedin": "2026-05-25T22:23:20.130495+00:00",
+            "instagram": "2026-05-25T22:23:53.980722+00:00"
+        },
+        "updated_at": "2026-05-25T22:23:53.980722+00:00"
     },
     "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/": {
         "title": "Ferrari is using IBM’s AI to create F1 superfans",
         "source": "TechCrunch AI",
         "published_date": "2026-05-23T14:08:00+00:00",
         "discovered_at": "2026-05-24T22:54:33.700016+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T22:22:43.832857+00:00",
+            "linkedin": "2026-05-25T22:23:20.080726+00:00",
+            "instagram": "2026-05-25T22:23:53.927752+00:00"
+        },
+        "updated_at": "2026-05-25T22:23:53.927752+00:00"
     },
     "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/": {
         "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
