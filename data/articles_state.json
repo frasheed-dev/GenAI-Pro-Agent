@@ -2047,5 +2047,36 @@
         "published_date": "2026-05-25T14:00:00+00:00",
         "discovered_at": "2026-05-25T14:53:32.997057+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
+        "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+        "source": "OpenAI",
+        "published_date": "2026-05-25T00:00:00+00:00",
+        "discovered_at": "2026-05-25T19:39:21.956040+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T19:40:00.466452+00:00",
+            "linkedin": "2026-05-25T19:40:17.710105+00:00"
+        },
+        "updated_at": "2026-05-25T19:40:17.710112+00:00"
+    },
+    "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/": {
+        "title": "What ClickUp’s mass layoff tells us about the future of work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-25T16:00:00+00:00",
+        "discovered_at": "2026-05-25T19:39:21.956047+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-25T19:40:00.463460+00:00",
+            "linkedin": "2026-05-25T19:40:17.707320+00:00"
+        },
+        "updated_at": "2026-05-25T19:40:17.707333+00:00"
+    },
+    "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/": {
+        "title": "The pope’s AI encyclical isn’t really about AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-25T15:09:41+00:00",
+        "discovered_at": "2026-05-25T19:39:21.956050+00:00",
+        "status": "PENDING"
     }
 }
