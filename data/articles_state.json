@@ -1857,5 +1857,61 @@
         "published_date": "2026-05-22T10:00:00+00:00",
         "discovered_at": "2026-05-22T19:44:41.176797+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/virgin-atlantic": {
+        "title": "How Virgin Atlantic ships faster with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-21T23:00:00+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/": {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T20:39:21+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/": {
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T14:00:00+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/": {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-23T14:08:00+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/": {
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-23T12:00:00+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/": {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T22:03:33+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/": {
+        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T20:02:36+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/": {
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-22T19:40:48+00:00",
+        "discovered_at": "2026-05-24T22:54:33.700016+00:00",
+        "status": "PENDING"
     }
 }

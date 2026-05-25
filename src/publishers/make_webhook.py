@@ -125,6 +125,59 @@ def _upload_to_dropbox(jpeg_buffer: io.BytesIO) -> str:
     direct_url = shared_url.replace("www.dropbox.com", "dl.dropboxusercontent.com").replace("?dl=0", "")
     return direct_url
 
+def _upload_video_to_dropbox(video_path: str) -> str:
+    """
+    Uploads an MP4 file to Dropbox and returns a public direct download URL.
+    Required for Instagram Reels Graph API.
+    Files are stored at /GenAI-Pro/instagram_reel.mp4 (overwritten each run).
+    """
+    token = os.getenv("DROPBOX_ACCESS_TOKEN")
+    if not token:
+        raise ValueError("DROPBOX_ACCESS_TOKEN is not set in .env")
+
+    print(f"   📤 Uploading MP4 to Dropbox: {os.path.basename(video_path)}")
+    
+    with open(video_path, "rb") as f:
+        upload_res = requests.post(
+            "https://content.dropboxapi.com/2/files/upload",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Dropbox-API-Arg": '{"path": "/GenAI-Pro/instagram_reel.mp4", "mode": "overwrite", "autorename": false}',
+                "Content-Type": "application/octet-stream"
+            },
+            data=f
+        )
+    upload_res.raise_for_status()
+
+    # Create (or re-use) a shared link and convert to a direct download URL
+    link_res = requests.post(
+        "https://api.dropboxapi.com/2/sharing/create_shared_link_with_settings",
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json"
+        },
+        json={"path": "/GenAI-Pro/instagram_reel.mp4", "settings": {"requested_visibility": "public"}}
+    )
+
+    if link_res.status_code == 409:
+        list_res = requests.post(
+            "https://api.dropboxapi.com/2/sharing/list_shared_links",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json"
+            },
+            json={"path": "/GenAI-Pro/instagram_reel.mp4", "direct_only": True}
+        )
+        list_res.raise_for_status()
+        shared_url = list_res.json()["links"][0]["url"]
+    else:
+        link_res.raise_for_status()
+        shared_url = link_res.json()["url"]
+
+    # Convert Dropbox share URL to a direct download URL
+    direct_url = shared_url.replace("www.dropbox.com", "dl.dropboxusercontent.com").replace("?dl=0", "")
+    return direct_url
+
 
 def _get_public_image_url(image_path: str) -> str:
     """
@@ -169,8 +222,25 @@ def post_to_make(platform: str, text: str, image_path: str = None) -> bool:
         "image_url": ""  # Always present so Make.com's schema always includes this field
     }
 
+    # ── Instagram Reel: public URL required (MP4) ───────────────────────────
+    if platform.lower() == "instagram_reel":
+        if not image_path or not os.path.exists(image_path) or not image_path.endswith(".mp4"):
+            print("❌ Instagram Reels requires an MP4 file. Aborting.")
+            return False
+        try:
+            data["video_url"] = _upload_video_to_dropbox(image_path)
+            if not data["video_url"]:
+                print("❌ Dropbox upload failed. Aborting.")
+                return False
+            print(f"✅ Public MP4 URL: {data['video_url']}")
+            # Make.com expects the URL in 'image_url' parameter for the generic webhook mapping
+            data["image_url"] = data["video_url"]
+        except Exception as e:
+            print(f"❌ Failed to generate public video URL: {e}")
+            return False
+
     # ── Instagram: public URL required, clean JSON payload ────────────────────
-    if platform.lower() == "instagram":
+    elif platform.lower() == "instagram":
         if not image_path or not os.path.exists(image_path):
             print("❌ Instagram requires an image but none was found. Aborting.")
             return False
@@ -185,9 +255,9 @@ def post_to_make(platform: str, text: str, image_path: str = None) -> bool:
             return False
 
     # ── Facebook / LinkedIn: binary file upload via multipart ─────────────────
-    # Instagram is explicitly excluded — sending multipart buries image_url from Make.com's mapper.
+    # Instagram/Instagram Reels are explicitly excluded — sending multipart buries image_url from Make.com's mapper.
     files = None
-    if image_path and os.path.exists(image_path) and platform.lower() != "instagram":
+    if image_path and os.path.exists(image_path) and platform.lower() not in ("instagram", "instagram_reel"):
         files = {
             "image": (os.path.basename(image_path), open(image_path, "rb"), "image/png")
         }

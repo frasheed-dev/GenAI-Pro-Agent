@@ -10,9 +10,9 @@ def create_circular_mask(size):
     draw.ellipse((0, 0) + size, fill=255)
     return mask
 
-def generate_background(prompt):
+def generate_background(prompt, width=1080, height=1350):
     print(f"Generating background image for: {prompt}")
-    url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width=1080&height=1350&nologo=true"
+    url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
     response = requests.get(url)
     if response.status_code == 200:
         return Image.open(BytesIO(response.content))
@@ -248,4 +248,63 @@ def create_news_image(image_prompt, headline, output_path="drafts/news_image.png
     img = img.convert("RGB")
     img.save(output_path)
     print(f"Saved generated image to {output_path}")
+    return output_path
+
+def create_slide_image(image_prompt, slide_index, total_slides, output_path):
+    """
+    Creates a 1080x1920 PNG background for a Reel slide.
+    Bakes in the gradient, branding, and slide indicator, but leaves the center/lower-third empty for ffmpeg text.
+    """
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    
+    img = generate_background(image_prompt, width=1080, height=1920)
+    if not img:
+        return None
+        
+    img = img.resize((1080, 1920))
+    img = img.convert("RGBA")
+    
+    # Draw dark gradient on bottom half for text readability
+    overlay = Image.new('RGBA', img.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(overlay)
+    
+    height = img.size[1]
+    width = img.size[0]
+    
+    for y in range(int(height * 0.5), height):
+        alpha = int(((y - (height * 0.5)) / (height * 0.5)) * 240)
+        draw.line([(0, y), (width, y)], fill=(20, 61, 89, alpha))
+        
+    img = Image.alpha_composite(img, overlay)
+    draw = ImageDraw.Draw(img)
+    
+    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+    font_path = os.path.join(root_dir, "assets", "fonts", "Roboto-Black.ttf")
+    fa_path = os.path.join(root_dir, "assets", "fonts", "fa-brands-400.ttf")
+    
+    # Bake in the logo and social icons
+    draw_branding(img, draw, width, height, font_path, fa_path)
+    
+    # Add slide indicator (e.g. "1 / 5") at top right
+    try:
+        font_indicator = ImageFont.truetype(font_path, size=40)
+    except:
+        font_indicator = ImageFont.load_default()
+        
+    indicator_text = f"{slide_index} / {total_slides}"
+    ind_w = font_indicator.getlength(indicator_text)
+    
+    # Draw pill-shaped or rounded rectangle box for the indicator
+    pad_x, pad_y = 20, 10
+    box_x1 = width - ind_w - (pad_x * 2) - 40
+    box_y1 = 40
+    box_x2 = width - 40
+    box_y2 = 40 + 40 + (pad_y * 2)
+    
+    draw.rounded_rectangle([box_x1, box_y1, box_x2, box_y2], radius=20, fill=(20, 61, 89, 200), outline="#F4B41A", width=3)
+    draw.text((box_x1 + pad_x, box_y1 + pad_y), indicator_text, font=font_indicator, fill="#F4B41A")
+    
+    img = img.convert("RGB")
+    img.save(output_path)
+    print(f"Saved slide {slide_index}/{total_slides} image to {output_path}")
     return output_path

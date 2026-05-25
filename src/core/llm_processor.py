@@ -236,6 +236,66 @@ def generate_image_metadata(post_content):
         print(f"Error generating image metadata: {e}")
         return None
 
+def draft_reel_script(curated_articles):
+    """
+    Takes curated articles and drafts a 3-6 slide script for a short-form video (Reel).
+    Returns a parsed JSON object containing the slides.
+    """
+    if not curated_articles:
+        return None
+
+    print("Pausing for 15 seconds to respect Gemini Free Tier rate limits...")
+    time.sleep(15)
+
+    prompt = (
+        "You are an expert short-form video producer (Instagram Reels/TikTok). "
+        "Create a fast-paced, highly engaging video script based on the following AI news.\n\n"
+        "RULES:\n"
+        "- Decide the number of slides (between 3 and 6) based on how complex the story is.\n"
+        "- Slide 1 must be a powerful hook.\n"
+        "- The narration must be conversational, sharp, and energetic (like a tech YouTuber).\n"
+        "- The caption must be an ultra-short (5-10 words maximum) on-screen summary of the narration.\n"
+        "- CRITICAL: Inside the caption, wrap the 1 or 2 most important keywords in asterisks (e.g. 'The *future* is here').\n"
+        "- The image_prompt must describe a visually stunning background for an AI image generator "
+        "(cinematic, no text, no words, abstract technology or dramatic visualization).\n\n"
+        "News Developments:\n"
+    )
+
+    for article in curated_articles:
+        prompt += f"- {article['title']} ({article['source']}): {article['summary']}\n"
+
+    prompt += (
+        "\nReturn the result STRICTLY as a valid JSON object following this exact schema:\n"
+        "{\n"
+        '  "slides": [\n'
+        "    {\n"
+        '      "narration": "...",\n'
+        '      "caption": "...",\n'
+        '      "image_prompt": "..."\n'
+        "    }\n"
+        "  ]\n"
+        "}\n"
+    )
+
+    print("Asking Gemini to draft the Reel script...")
+    try:
+        response = generate_with_retry(prompt)
+        text = extract_text(response).strip()
+        
+        # Clean up markdown formatting if the LLM wrapped it
+        text = text.replace('```json', '').replace('```', '').strip()
+        
+        # Robust extraction
+        match = re.search(r'\{.*\}', text, re.DOTALL)
+        if match:
+            text = match.group(0)
+            
+        parsed = json.loads(text)
+        return parsed
+    except Exception as e:
+        print(f"Error drafting reel script: {e}")
+        return None
+
 if __name__ == "__main__":
     sample_articles = [
         {"title": "OpenAI releases GPT-5", "link": "http://openai.com", "source": "OpenAI Blog", "summary": "The new model is here and it is incredibly fast and smart.", "published_at": "2023-10-27"}

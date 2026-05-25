@@ -71,10 +71,14 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
                     print("Failed to draft video script.")
             else:
                 print("\n[Stage 3.5] Video generation is paused (GENERATE_VIDEO=False). Skipping to posting...")
+        else:
+            print("\n❌ CRITICAL ERROR: Image generation via pollinations.ai failed (create_news_image returned None).")
+            print("Aborting the entire process to prevent sending incomplete payloads to Make.com.")
+            sys.exit(1)
                 
     else:
-        print("Failed to generate universal image metadata. Aborting to prevent Make.com errors (scenario requires image).")
-        return
+        print("\n❌ CRITICAL ERROR: Failed to generate universal image metadata from Gemini. Aborting to prevent Make.com errors (scenario requires image).")
+        sys.exit(1)
     
     # --- Platform Posting Loop ---
     platforms = selected_platforms if selected_platforms else ["Facebook", "LinkedIn", "Instagram"]
@@ -87,9 +91,10 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
         post_content = draft_social_post(platform, curated)
         
         # Check if generation actually succeeded
-        if "Error generation failed" in post_content:
-            print(f"Encountered an issue with generation for {platform}: {post_content}")
-            continue
+        if not post_content or "Error generation failed" in post_content:
+            print(f"\n❌ CRITICAL ERROR: Post preparation failed for {platform} (LLM drafting issue).")
+            print(f"Aborting the entire process to prevent sending incomplete payloads to Make.com. Reason: {post_content}")
+            sys.exit(1)
         
         # 5. Publish / Draft Mode
         if is_autonomous:
@@ -103,7 +108,9 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
                 for article in curated:
                     mark_as_published(article["link"], platform.lower())
             else:
-                print(f"Failed to hand off payload for {platform}.")
+                print(f"\n❌ CRITICAL ERROR: Make.com Webhook failed to process or upload image for {platform}.")
+                print("Aborting further platform posting to prevent cascading scenario crashes.")
+                sys.exit(1)
                 
         else:
             print(f"\n[Stage 5] 🛡️ APPROVAL MODE: Saving draft locally for {platform}...")
