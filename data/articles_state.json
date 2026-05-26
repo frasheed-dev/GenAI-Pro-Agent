@@ -2066,5 +2066,19 @@
         "published_date": "2026-05-25T15:09:41+00:00",
         "discovered_at": "2026-05-25T19:39:21.956050+00:00",
         "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/": {
+        "title": "A reality check on the AI jobs hysteria",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-26T09:00:00+00:00",
+        "discovered_at": "2026-05-26T09:56:22.491458+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/": {
+        "title": "It’s time to address the looming crisis in entry-level work.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-26T09:00:00+00:00",
+        "discovered_at": "2026-05-26T09:56:22.491464+00:00",
+        "status": "PENDING"
     }
 }
