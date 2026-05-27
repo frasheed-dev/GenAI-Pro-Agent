@@ -2072,14 +2072,26 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-26T09:00:00+00:00",
         "discovered_at": "2026-05-26T09:56:22.491458+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-27T09:46:42.116151+00:00",
+            "linkedin": "2026-05-27T09:46:59.823898+00:00",
+            "instagram": "2026-05-27T09:47:17.479359+00:00"
+        },
+        "updated_at": "2026-05-27T09:47:17.479373+00:00"
     },
     "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/": {
         "title": "It’s time to address the looming crisis in entry-level work.",
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-26T09:00:00+00:00",
         "discovered_at": "2026-05-26T09:56:22.491464+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-27T09:46:42.119119+00:00",
+            "linkedin": "2026-05-27T09:46:59.826817+00:00",
+            "instagram": "2026-05-27T09:47:17.482240+00:00"
+        },
+        "updated_at": "2026-05-27T09:47:17.482249+00:00"
     },
     "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/": {
         "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
