@@ -2258,7 +2258,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-27T12:30:00+00:00",
         "discovered_at": "2026-05-27T15:41:04.765550+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-27T20:19:07.844801+00:00",
+            "linkedin": "2026-05-27T20:19:25.081533+00:00",
+            "instagram": "2026-05-27T20:19:43.525199+00:00"
+        },
+        "updated_at": "2026-05-27T20:19:43.525205+00:00"
     },
     "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/": {
         "title": "Tech CEOs are apparently suffering from AI psychosis",
@@ -2279,6 +2285,68 @@
         "source": "AI News",
         "published_date": "2026-05-27T12:38:44+00:00",
         "discovered_at": "2026-05-27T15:41:04.765563+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/warp": {
+        "title": "Warp’s big bet on building open source with GPT-5.5",
+        "source": "OpenAI",
+        "published_date": "2026-05-27T00:00:00+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347895+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/election-safeguards-2026": {
+        "title": "Election information and safeguards in 2026",
+        "source": "OpenAI",
+        "published_date": "2026-05-27T00:00:00+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347901+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/": {
+        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-27T20:10:00+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347904+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/": {
+        "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-27T19:39:45+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347907+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/": {
+        "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-27T18:39:17+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347909+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-27T20:19:07.842355+00:00",
+            "linkedin": "2026-05-27T20:19:25.079095+00:00",
+            "instagram": "2026-05-27T20:19:43.522770+00:00"
+        },
+        "updated_at": "2026-05-27T20:19:43.522783+00:00"
+    },
+    "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/": {
+        "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-27T18:00:00+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347914+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/": {
+        "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-27T16:00:00+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347917+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/": {
+        "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-27T13:04:20+00:00",
+        "discovered_at": "2026-05-27T20:18:30.347922+00:00",
         "status": "PENDING"
     }
 }
