@@ -2139,5 +2139,38 @@
             "instagram": "2026-05-26T20:11:10.108261+00:00"
         },
         "updated_at": "2026-05-26T20:11:10.108268+00:00"
+    },
+    "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/": {
+        "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-26T22:32:56+00:00",
+        "discovered_at": "2026-05-27T03:46:43.391733+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-27T03:47:38.064716+00:00",
+            "linkedin": "2026-05-27T03:48:04.294591+00:00",
+            "instagram": "2026-05-27T03:48:22.896444+00:00"
+        },
+        "updated_at": "2026-05-27T03:48:22.896459+00:00"
+    },
+    "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/": {
+        "title": "Xreal, Google’s smart glasses partner, thinks it has finally mastered this notoriously tricky industry",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-24T19:00:00+00:00",
+        "discovered_at": "2026-05-27T03:46:43.391743+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/": {
+        "title": "Autonomous AI systems test governance in physical environments",
+        "source": "AI News",
+        "published_date": "2026-05-26T10:00:00+00:00",
+        "discovered_at": "2026-05-27T03:46:43.391747+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-27T03:47:38.067590+00:00",
+            "linkedin": "2026-05-27T03:48:04.297434+00:00",
+            "instagram": "2026-05-27T03:48:22.899254+00:00"
+        },
+        "updated_at": "2026-05-27T03:48:22.899261+00:00"
     }
 }
