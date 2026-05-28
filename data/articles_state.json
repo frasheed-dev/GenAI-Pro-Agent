@@ -2400,5 +2400,94 @@
         "published_date": "2026-05-28T10:00:00+00:00",
         "discovered_at": "2026-05-28T10:01:18.206019+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/": {
+        "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T15:36:00+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790750+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/": {
+        "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T15:35:43+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790756+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/": {
+        "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T14:45:13+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790760+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T15:55:10.682048+00:00",
+            "linkedin": "2026-05-28T15:55:28.907553+00:00",
+            "instagram": "2026-05-28T15:55:47.777647+00:00"
+        },
+        "updated_at": "2026-05-28T15:55:47.777656+00:00"
+    },
+    "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/": {
+        "title": "RSI is the new AGI — and it’s just as hard to pin down",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T14:30:17+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790766+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/": {
+        "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T14:30:00+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790770+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/": {
+        "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T14:28:47+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790774+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/": {
+        "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T14:00:00+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790777+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/": {
+        "title": "Visa invests in Replit to power agentic payments for developers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T14:00:00+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790781+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/": {
+        "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T13:00:00+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790784+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/": {
+        "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+        "source": "AI News",
+        "published_date": "2026-05-28T14:55:43+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790791+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T15:55:10.678156+00:00",
+            "linkedin": "2026-05-28T15:55:28.904074+00:00",
+            "instagram": "2026-05-28T15:55:47.774268+00:00"
+        },
+        "updated_at": "2026-05-28T15:55:47.774303+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/": {
+        "title": "The AI Hype Index: AI gets booed in graduation season",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-28T09:51:11+00:00",
+        "discovered_at": "2026-05-28T15:54:34.790796+00:00",
+        "status": "PENDING"
     }
 }
