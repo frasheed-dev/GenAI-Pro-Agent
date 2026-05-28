@@ -2190,7 +2190,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-27T07:00:00+00:00",
         "discovered_at": "2026-05-27T15:41:04.765516+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T10:01:54.243992+00:00",
+            "linkedin": "2026-05-28T10:02:12.461503+00:00",
+            "instagram": "2026-05-28T10:02:30.607262+00:00"
+        },
+        "updated_at": "2026-05-28T10:02:30.607269+00:00"
     },
     "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/": {
         "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
@@ -2366,13 +2372,33 @@
         "source": "OpenAI",
         "published_date": "2026-05-27T11:00:00+00:00",
         "discovered_at": "2026-05-28T03:34:40.315721+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T10:01:54.240837+00:00",
+            "linkedin": "2026-05-28T10:02:12.458263+00:00",
+            "instagram": "2026-05-28T10:02:30.604131+00:00"
+        },
+        "updated_at": "2026-05-28T10:02:30.604146+00:00"
     },
     "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/": {
         "title": "Why Google’s AI can’t spell Google (or anything else)",
         "source": "TechCrunch AI",
         "published_date": "2026-05-28T00:17:41+00:00",
         "discovered_at": "2026-05-28T03:34:40.315729+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/": {
+        "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T07:00:00+00:00",
+        "discovered_at": "2026-05-28T10:01:18.206005+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/": {
+        "title": "NBA plans AI system for automatic out-of-bounds calls",
+        "source": "AI News",
+        "published_date": "2026-05-28T10:00:00+00:00",
+        "discovered_at": "2026-05-28T10:01:18.206019+00:00",
         "status": "PENDING"
     }
 }
