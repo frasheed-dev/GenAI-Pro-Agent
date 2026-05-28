@@ -2489,5 +2489,59 @@
         "published_date": "2026-05-28T09:51:11+00:00",
         "discovered_at": "2026-05-28T15:54:34.790796+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/openai-frontier-governance-framework": {
+        "title": "OpenAI’s Frontier Governance Framework",
+        "source": "OpenAI",
+        "published_date": "2026-05-28T00:00:00+00:00",
+        "discovered_at": "2026-05-28T20:23:23.197207+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/": {
+        "title": "Asana acquires no-code agent-builder Stack AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T20:06:07+00:00",
+        "discovered_at": "2026-05-28T20:23:23.197215+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/": {
+        "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T18:52:51+00:00",
+        "discovered_at": "2026-05-28T20:23:23.197219+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T20:23:59.041561+00:00",
+            "linkedin": "2026-05-28T20:24:16.284347+00:00",
+            "instagram": "2026-05-28T20:24:34.259217+00:00"
+        },
+        "updated_at": "2026-05-28T20:24:34.259233+00:00"
+    },
+    "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/": {
+        "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T18:32:25+00:00",
+        "discovered_at": "2026-05-28T20:23:23.197224+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/": {
+        "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T17:30:00+00:00",
+        "discovered_at": "2026-05-28T20:23:23.197228+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/": {
+        "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T17:00:09+00:00",
+        "discovered_at": "2026-05-28T20:23:23.197232+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T20:23:59.044929+00:00",
+            "linkedin": "2026-05-28T20:24:16.287831+00:00",
+            "instagram": "2026-05-28T20:24:34.262574+00:00"
+        },
+        "updated_at": "2026-05-28T20:24:34.262582+00:00"
     }
 }
