@@ -2292,7 +2292,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-27T00:00:00+00:00",
         "discovered_at": "2026-05-27T20:18:30.347895+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T03:35:17.608694+00:00",
+            "linkedin": "2026-05-28T03:35:35.951074+00:00",
+            "instagram": "2026-05-28T03:35:54.506457+00:00"
+        },
+        "updated_at": "2026-05-28T03:35:54.506464+00:00"
     },
     "https://openai.com/index/election-safeguards-2026": {
         "title": "Election information and safeguards in 2026",
@@ -2340,13 +2346,33 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-27T16:00:00+00:00",
         "discovered_at": "2026-05-27T20:18:30.347917+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-28T03:35:17.605681+00:00",
+            "linkedin": "2026-05-28T03:35:35.948081+00:00",
+            "instagram": "2026-05-28T03:35:54.503454+00:00"
+        },
+        "updated_at": "2026-05-28T03:35:54.503468+00:00"
     },
     "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/": {
         "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
         "source": "TechCrunch AI",
         "published_date": "2026-05-27T13:04:20+00:00",
         "discovered_at": "2026-05-27T20:18:30.347922+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cisco": {
+        "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-27T11:00:00+00:00",
+        "discovered_at": "2026-05-28T03:34:40.315721+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/": {
+        "title": "Why Google’s AI can’t spell Google (or anything else)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T00:17:41+00:00",
+        "discovered_at": "2026-05-28T03:34:40.315729+00:00",
         "status": "PENDING"
     }
 }
