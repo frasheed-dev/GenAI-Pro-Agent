@@ -2318,7 +2318,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-27T20:10:00+00:00",
         "discovered_at": "2026-05-27T20:18:30.347904+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-29T03:35:37.522163+00:00",
+            "linkedin": "2026-05-29T03:36:03.508730+00:00",
+            "instagram": "2026-05-29T03:36:22.119808+00:00"
+        },
+        "updated_at": "2026-05-29T03:36:22.119815+00:00"
     },
     "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/": {
         "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
@@ -2543,5 +2549,32 @@
             "instagram": "2026-05-28T20:24:34.262574+00:00"
         },
         "updated_at": "2026-05-28T20:24:34.262582+00:00"
+    },
+    "https://openai.com/index/endava": {
+        "title": "How Endava builds an agentic organization with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-28T12:00:00+00:00",
+        "discovered_at": "2026-05-29T03:34:53.320485+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/": {
+        "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T00:44:37+00:00",
+        "discovered_at": "2026-05-29T03:34:53.320494+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/": {
+        "title": "The internet is being rebuilt for machines",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-28T21:24:01+00:00",
+        "discovered_at": "2026-05-29T03:34:53.320499+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-29T03:35:37.518835+00:00",
+            "linkedin": "2026-05-29T03:36:03.505418+00:00",
+            "instagram": "2026-05-29T03:36:22.116460+00:00"
+        },
+        "updated_at": "2026-05-29T03:36:22.116473+00:00"
     }
 }
