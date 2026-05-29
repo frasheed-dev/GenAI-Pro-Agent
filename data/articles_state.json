@@ -2595,5 +2595,59 @@
             "instagram": "2026-05-29T09:59:02.693670+00:00"
         },
         "updated_at": "2026-05-29T09:59:02.693683+00:00"
+    },
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+        "title": "Strengthening societal resilience with Rosalind Biodefense",
+        "source": "OpenAI",
+        "published_date": "2026-05-29T03:00:00+00:00",
+        "discovered_at": "2026-05-29T15:31:15.679176+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-29T15:32:11.337504+00:00",
+            "linkedin": "2026-05-29T15:33:17.652747+00:00",
+            "instagram": "2026-05-29T15:33:35.915504+00:00"
+        },
+        "updated_at": "2026-05-29T15:33:35.915510+00:00"
+    },
+    "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/": {
+        "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T14:15:00+00:00",
+        "discovered_at": "2026-05-29T15:31:15.679186+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/": {
+        "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T14:00:00+00:00",
+        "discovered_at": "2026-05-29T15:31:15.679189+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/": {
+        "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T12:00:00+00:00",
+        "discovered_at": "2026-05-29T15:31:15.679192+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/": {
+        "title": "Anthropic releases Claude Opus 4.8",
+        "source": "AI News",
+        "published_date": "2026-05-29T10:44:00+00:00",
+        "discovered_at": "2026-05-29T15:31:15.679198+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-29T15:32:11.334744+00:00",
+            "linkedin": "2026-05-29T15:33:17.650043+00:00",
+            "instagram": "2026-05-29T15:33:35.912795+00:00"
+        },
+        "updated_at": "2026-05-29T15:33:35.912810+00:00"
+    },
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/": {
+        "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-05-29T10:00:00+00:00",
+        "discovered_at": "2026-05-29T15:31:15.679202+00:00",
+        "status": "PENDING"
     }
 }
