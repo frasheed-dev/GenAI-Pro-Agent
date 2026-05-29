@@ -2501,7 +2501,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-28T00:00:00+00:00",
         "discovered_at": "2026-05-28T20:23:23.197207+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-29T09:58:18.201755+00:00",
+            "linkedin": "2026-05-29T09:58:36.931698+00:00",
+            "instagram": "2026-05-29T09:59:02.696729+00:00"
+        },
+        "updated_at": "2026-05-29T09:59:02.696738+00:00"
     },
     "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/": {
         "title": "Asana acquires no-code agent-builder Stack AI",
@@ -2576,5 +2582,18 @@
             "instagram": "2026-05-29T03:36:22.116460+00:00"
         },
         "updated_at": "2026-05-29T03:36:22.116473+00:00"
+    },
+    "https://openai.com/index/mufg": {
+        "title": "MUFG aims to become AI-native with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-05-28T00:00:00+00:00",
+        "discovered_at": "2026-05-29T09:57:34.432835+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-29T09:58:18.198707+00:00",
+            "linkedin": "2026-05-29T09:58:36.928656+00:00",
+            "instagram": "2026-05-29T09:59:02.693670+00:00"
+        },
+        "updated_at": "2026-05-29T09:59:02.693683+00:00"
     }
 }
