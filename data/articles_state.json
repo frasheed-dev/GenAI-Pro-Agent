@@ -2284,7 +2284,13 @@
         "source": "AI News",
         "published_date": "2026-05-27T13:12:06+00:00",
         "discovered_at": "2026-05-27T15:41:04.765560+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T08:28:54.494259+00:00",
+            "linkedin": "2026-05-30T08:29:13.292741+00:00",
+            "instagram": "2026-05-30T08:29:39.295574+00:00"
+        },
+        "updated_at": "2026-05-30T08:29:39.295581+00:00"
     },
     "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/": {
         "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
@@ -2731,5 +2737,18 @@
         "published_date": "2026-05-29T13:00:00+00:00",
         "discovered_at": "2026-05-30T03:23:11.301219+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/": {
+        "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+        "source": "AI News",
+        "published_date": "2026-05-29T16:24:58+00:00",
+        "discovered_at": "2026-05-30T08:28:08.695890+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T08:28:54.490690+00:00",
+            "linkedin": "2026-05-30T08:29:13.289020+00:00",
+            "instagram": "2026-05-30T08:29:39.292005+00:00"
+        },
+        "updated_at": "2026-05-30T08:29:39.292022+00:00"
     }
 }
