@@ -2514,7 +2514,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-28T20:06:07+00:00",
         "discovered_at": "2026-05-28T20:23:23.197215+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T03:23:49.993851+00:00",
+            "linkedin": "2026-05-30T03:24:08.680666+00:00",
+            "instagram": "2026-05-30T03:24:26.766143+00:00"
+        },
+        "updated_at": "2026-05-30T03:24:26.766152+00:00"
     },
     "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/": {
         "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
@@ -2648,6 +2654,82 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-05-29T10:00:00+00:00",
         "discovered_at": "2026-05-29T15:31:15.679202+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/boston-childrens-hospital": {
+        "title": "Boston Children’s uses AI to unlock new diagnoses",
+        "source": "OpenAI",
+        "published_date": "2026-05-29T12:00:00+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301178+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/braintrust": {
+        "title": "How Braintrust turns customer requests into code with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-05-29T12:00:00+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301185+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+        "title": "A shared playbook for trustworthy third party evaluations",
+        "source": "OpenAI",
+        "published_date": "2026-05-29T00:00:00+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301190+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/": {
+        "title": "Coders are refusing to work without AI — and that could come back to bite them",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T22:14:22+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301198+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/": {
+        "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T18:49:19+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301202+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/": {
+        "title": "What happens when companies become too AI-pilled?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T17:57:05+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301205+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/": {
+        "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T17:27:13+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301209+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T03:23:49.990287+00:00",
+            "linkedin": "2026-05-30T03:24:08.677087+00:00",
+            "instagram": "2026-05-30T03:24:26.762528+00:00"
+        },
+        "updated_at": "2026-05-30T03:24:26.762544+00:00"
+    },
+    "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/": {
+        "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T16:13:47+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301212+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/": {
+        "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T14:00:00+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301216+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/": {
+        "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-29T13:00:00+00:00",
+        "discovered_at": "2026-05-30T03:23:11.301219+00:00",
         "status": "PENDING"
     }
 }
