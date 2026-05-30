@@ -2686,14 +2686,26 @@
         "source": "OpenAI",
         "published_date": "2026-05-29T12:00:00+00:00",
         "discovered_at": "2026-05-30T03:23:11.301185+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T19:16:38.581984+00:00",
+            "linkedin": "2026-05-30T19:16:59.640440+00:00",
+            "instagram": "2026-05-30T19:17:17.837204+00:00"
+        },
+        "updated_at": "2026-05-30T19:17:17.837219+00:00"
     },
     "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
         "title": "A shared playbook for trustworthy third party evaluations",
         "source": "OpenAI",
         "published_date": "2026-05-29T00:00:00+00:00",
         "discovered_at": "2026-05-30T03:23:11.301190+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T19:16:38.585677+00:00",
+            "linkedin": "2026-05-30T19:16:59.644074+00:00",
+            "instagram": "2026-05-30T19:17:17.840824+00:00"
+        },
+        "updated_at": "2026-05-30T19:17:17.840831+00:00"
     },
     "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/": {
         "title": "Coders are refusing to work without AI — and that could come back to bite them",
@@ -2768,6 +2780,27 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-30T13:00:00+00:00",
         "discovered_at": "2026-05-30T13:29:02.805540+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/": {
+        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T16:30:00+00:00",
+        "discovered_at": "2026-05-30T19:15:57.193468+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/": {
+        "title": "Meta is reportedly developing an AI pendant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T15:59:58+00:00",
+        "discovered_at": "2026-05-30T19:15:57.193475+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/": {
+        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T15:30:00+00:00",
+        "discovered_at": "2026-05-30T19:15:57.193479+00:00",
         "status": "PENDING"
     }
 }
