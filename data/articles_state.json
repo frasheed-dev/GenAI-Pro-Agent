@@ -2425,7 +2425,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-28T15:35:43+00:00",
         "discovered_at": "2026-05-28T15:54:34.790756+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T13:29:39.434502+00:00",
+            "linkedin": "2026-05-30T13:29:57.739510+00:00",
+            "instagram": "2026-05-30T13:30:21.296586+00:00"
+        },
+        "updated_at": "2026-05-30T13:30:21.296593+00:00"
     },
     "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/": {
         "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
@@ -2667,7 +2673,13 @@
         "source": "OpenAI",
         "published_date": "2026-05-29T12:00:00+00:00",
         "discovered_at": "2026-05-30T03:23:11.301178+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-30T13:29:39.431001+00:00",
+            "linkedin": "2026-05-30T13:29:57.735991+00:00",
+            "instagram": "2026-05-30T13:30:21.293126+00:00"
+        },
+        "updated_at": "2026-05-30T13:30:21.293138+00:00"
     },
     "https://openai.com/index/braintrust": {
         "title": "How Braintrust turns customer requests into code with Codex",
@@ -2750,5 +2762,12 @@
             "instagram": "2026-05-30T08:29:39.292005+00:00"
         },
         "updated_at": "2026-05-30T08:29:39.292022+00:00"
+    },
+    "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/": {
+        "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T13:00:00+00:00",
+        "discovered_at": "2026-05-30T13:29:02.805540+00:00",
+        "status": "PENDING"
     }
 }
