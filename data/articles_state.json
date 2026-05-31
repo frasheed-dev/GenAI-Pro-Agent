@@ -2411,7 +2411,13 @@
         "source": "AI News",
         "published_date": "2026-05-28T10:00:00+00:00",
         "discovered_at": "2026-05-28T10:01:18.206019+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T08:45:47.153183+00:00",
+            "linkedin": "2026-05-31T08:46:05.153724+00:00",
+            "instagram": "2026-05-31T08:46:23.165915+00:00"
+        },
+        "updated_at": "2026-05-31T08:46:23.165923+00:00"
     },
     "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/": {
         "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
@@ -2552,7 +2558,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-28T18:32:25+00:00",
         "discovered_at": "2026-05-28T20:23:23.197224+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T13:45:48.075911+00:00",
+            "linkedin": "2026-05-31T13:46:23.485939+00:00",
+            "instagram": "2026-05-31T13:46:59.644976+00:00"
+        },
+        "updated_at": "2026-05-31T13:46:59.644988+00:00"
     },
     "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/": {
         "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
@@ -2586,7 +2598,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T00:44:37+00:00",
         "discovered_at": "2026-05-29T03:34:53.320494+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T03:50:35.155970+00:00",
+            "linkedin": "2026-05-31T03:50:53.661980+00:00",
+            "instagram": "2026-05-31T03:51:12.078838+00:00"
+        },
+        "updated_at": "2026-05-31T03:51:12.078845+00:00"
     },
     "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/": {
         "title": "The internet is being rebuilt for machines",
@@ -2646,7 +2664,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T12:00:00+00:00",
         "discovered_at": "2026-05-29T15:31:15.679192+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T08:45:47.149314+00:00",
+            "linkedin": "2026-05-31T08:46:05.150025+00:00",
+            "instagram": "2026-05-31T08:46:23.162119+00:00"
+        },
+        "updated_at": "2026-05-31T08:46:23.162134+00:00"
     },
     "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/": {
         "title": "Anthropic releases Claude Opus 4.8",
@@ -2746,7 +2770,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T16:13:47+00:00",
         "discovered_at": "2026-05-30T03:23:11.301212+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T13:45:48.071881+00:00",
+            "linkedin": "2026-05-31T13:46:23.482166+00:00",
+            "instagram": "2026-05-31T13:46:59.640966+00:00"
+        },
+        "updated_at": "2026-05-31T13:46:59.640979+00:00"
     },
     "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/": {
         "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
@@ -2787,20 +2817,52 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-30T16:30:00+00:00",
         "discovered_at": "2026-05-30T19:15:57.193468+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T19:18:16.519433+00:00",
+            "linkedin": "2026-05-31T19:18:34.551790+00:00",
+            "instagram": "2026-05-31T19:18:52.622855+00:00"
+        },
+        "updated_at": "2026-05-31T19:18:52.622867+00:00"
     },
     "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/": {
         "title": "Meta is reportedly developing an AI pendant",
         "source": "TechCrunch AI",
         "published_date": "2026-05-30T15:59:58+00:00",
         "discovered_at": "2026-05-30T19:15:57.193475+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T19:18:16.523245+00:00",
+            "linkedin": "2026-05-31T19:18:34.555450+00:00",
+            "instagram": "2026-05-31T19:18:52.626487+00:00"
+        },
+        "updated_at": "2026-05-31T19:18:52.626493+00:00"
     },
     "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/": {
         "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
         "source": "TechCrunch AI",
         "published_date": "2026-05-30T15:30:00+00:00",
         "discovered_at": "2026-05-30T19:15:57.193479+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T03:50:35.152312+00:00",
+            "linkedin": "2026-05-31T03:50:53.658456+00:00",
+            "instagram": "2026-05-31T03:51:12.075133+00:00"
+        },
+        "updated_at": "2026-05-31T03:51:12.075145+00:00"
+    },
+    "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/": {
+        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T21:45:00+00:00",
+        "discovered_at": "2026-05-31T03:49:57.034218+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/": {
+        "title": "Making sense of the debate over AI psychosis",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-31T15:30:00+00:00",
+        "discovered_at": "2026-05-31T19:17:38.835686+00:00",
         "status": "PENDING"
     }
 }
