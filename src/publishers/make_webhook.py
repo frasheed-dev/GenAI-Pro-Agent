@@ -22,7 +22,7 @@ def _convert_to_jpeg(image_path: str) -> io.BytesIO:
     """
     img = Image.open(image_path).convert("RGB")  # PNG has alpha channel; JPEG does not
     buffer = io.BytesIO()
-    img.save(buffer, format="JPEG", quality=95)
+    img.save(buffer, format="JPEG", quality=85) # Reduced to 85 to save Make.com data quota
     buffer.seek(0)
     return buffer
 
@@ -257,9 +257,12 @@ def post_to_make(platform: str, text: str, image_path: str = None) -> bool:
     # ── Facebook / LinkedIn: binary file upload via multipart ─────────────────
     # Instagram/Instagram Reels are explicitly excluded — sending multipart buries image_url from Make.com's mapper.
     files = None
+    jpeg_buffer = None
     if image_path and os.path.exists(image_path) and platform.lower() not in ("instagram", "instagram_reel"):
+        # Convert the large PNG to a compressed JPEG in memory to save Make.com data transfer quota
+        jpeg_buffer = _convert_to_jpeg(image_path)
         files = {
-            "image": (os.path.basename(image_path), open(image_path, "rb"), "image/png")
+            "image": ("image.jpg", jpeg_buffer, "image/jpeg")
         }
 
     try:
@@ -278,5 +281,5 @@ def post_to_make(platform: str, text: str, image_path: str = None) -> bool:
             print(f"Response: {response.text}")
         return False
     finally:
-        if files:
-            files["image"][1].close()
+        if jpeg_buffer:
+            jpeg_buffer.close()
