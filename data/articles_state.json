@@ -2411,7 +2411,13 @@
         "source": "AI News",
         "published_date": "2026-05-28T10:00:00+00:00",
         "discovered_at": "2026-05-28T10:01:18.206019+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T08:45:47.153183+00:00",
+            "linkedin": "2026-05-31T08:46:05.153724+00:00",
+            "instagram": "2026-05-31T08:46:23.165915+00:00"
+        },
+        "updated_at": "2026-05-31T08:46:23.165923+00:00"
     },
     "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/": {
         "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
@@ -2652,7 +2658,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T12:00:00+00:00",
         "discovered_at": "2026-05-29T15:31:15.679192+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T08:45:47.149314+00:00",
+            "linkedin": "2026-05-31T08:46:05.150025+00:00",
+            "instagram": "2026-05-31T08:46:23.162119+00:00"
+        },
+        "updated_at": "2026-05-31T08:46:23.162134+00:00"
     },
     "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/": {
         "title": "Anthropic releases Claude Opus 4.8",
