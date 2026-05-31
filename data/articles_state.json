@@ -2558,7 +2558,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-28T18:32:25+00:00",
         "discovered_at": "2026-05-28T20:23:23.197224+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T13:45:48.075911+00:00",
+            "linkedin": "2026-05-31T13:46:23.485939+00:00",
+            "instagram": "2026-05-31T13:46:59.644976+00:00"
+        },
+        "updated_at": "2026-05-31T13:46:59.644988+00:00"
     },
     "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/": {
         "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
@@ -2764,7 +2770,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T16:13:47+00:00",
         "discovered_at": "2026-05-30T03:23:11.301212+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-05-31T13:45:48.071881+00:00",
+            "linkedin": "2026-05-31T13:46:23.482166+00:00",
+            "instagram": "2026-05-31T13:46:59.640966+00:00"
+        },
+        "updated_at": "2026-05-31T13:46:59.640979+00:00"
     },
     "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/": {
         "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
