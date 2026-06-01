@@ -2736,7 +2736,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T22:14:22+00:00",
         "discovered_at": "2026-05-30T03:23:11.301198+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T04:03:49.749059+00:00",
+            "linkedin": "2026-06-01T04:04:24.623059+00:00",
+            "instagram": "2026-06-01T04:05:01.585121+00:00"
+        },
+        "updated_at": "2026-06-01T04:05:01.585134+00:00"
     },
     "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/": {
         "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -2750,7 +2756,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T17:57:05+00:00",
         "discovered_at": "2026-05-30T03:23:11.301205+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T04:03:49.752930+00:00",
+            "linkedin": "2026-06-01T04:04:24.626778+00:00",
+            "instagram": "2026-06-01T04:05:01.588842+00:00"
+        },
+        "updated_at": "2026-06-01T04:05:01.588850+00:00"
     },
     "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/": {
         "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
@@ -2863,6 +2875,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-31T15:30:00+00:00",
         "discovered_at": "2026-05-31T19:17:38.835686+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/": {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-31T21:05:14+00:00",
+        "discovered_at": "2026-06-01T04:02:08.191313+00:00",
         "status": "PENDING"
     }
 }
