@@ -2895,5 +2895,59 @@
         "published_date": "2026-05-31T21:05:14+00:00",
         "discovered_at": "2026-06-01T04:02:08.191313+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/": {
+        "title": "Anthropic files to go public",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T16:36:55+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492897+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T17:39:50.018666+00:00",
+            "linkedin": "2026-06-01T17:40:09.142764+00:00",
+            "instagram": "2026-06-01T17:40:27.529309+00:00"
+        },
+        "updated_at": "2026-06-01T17:40:27.529322+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/": {
+        "title": "This AI weather startup is out-forecasting government agencies",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T16:00:00+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492904+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/": {
+        "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T14:49:10+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492908+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/": {
+        "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T14:49:27+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492916+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/": {
+        "title": "The future of automated trading with the best forex robot reviews",
+        "source": "AI News",
+        "published_date": "2026-06-01T08:51:42+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492922+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/": {
+        "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+        "source": "AI News",
+        "published_date": "2026-06-01T08:46:19+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492925+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T17:39:50.022266+00:00",
+            "linkedin": "2026-06-01T17:40:09.146193+00:00",
+            "instagram": "2026-06-01T17:40:27.532775+00:00"
+        },
+        "updated_at": "2026-06-01T17:40:27.532783+00:00"
     }
 }
