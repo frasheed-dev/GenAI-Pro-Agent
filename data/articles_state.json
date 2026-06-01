@@ -2914,7 +2914,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-01T16:00:00+00:00",
         "discovered_at": "2026-06-01T17:38:23.492904+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T21:33:51.915318+00:00",
+            "linkedin": "2026-06-01T21:34:09.833547+00:00",
+            "instagram": "2026-06-01T21:34:27.621980+00:00"
+        },
+        "updated_at": "2026-06-01T21:34:27.621992+00:00"
     },
     "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/": {
         "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
@@ -2949,5 +2955,32 @@
             "instagram": "2026-06-01T17:40:27.532775+00:00"
         },
         "updated_at": "2026-06-01T17:40:27.532783+00:00"
+    },
+    "https://openai.com/index/stargate-michigan-data-center": {
+        "title": "Building the infrastructure for the Intelligence Age in Michigan",
+        "source": "OpenAI",
+        "published_date": "2026-06-01T12:00:00+00:00",
+        "discovered_at": "2026-06-01T21:33:15.840693+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T21:33:51.919054+00:00",
+            "linkedin": "2026-06-01T21:34:09.837181+00:00",
+            "instagram": "2026-06-01T21:34:27.625692+00:00"
+        },
+        "updated_at": "2026-06-01T21:34:27.625699+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/": {
+        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T20:03:40+00:00",
+        "discovered_at": "2026-06-01T21:33:15.840699+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/": {
+        "title": "Water access is now a risk factor in SpaceX’s IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T18:19:53+00:00",
+        "discovered_at": "2026-06-01T21:33:15.840703+00:00",
+        "status": "PENDING"
     }
 }
