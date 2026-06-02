@@ -3048,5 +3048,87 @@
         "published_date": "2026-06-02T09:00:00+00:00",
         "discovered_at": "2026-06-02T10:23:19.017467+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/travelers": {
+        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T12:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208044+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/codex-for-every-role-tool-workflow": {
+        "title": "Codex for every role, tool, and workflow",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T09:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208053+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+        "title": "Advancing youth safety and opportunity through global leadership",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T07:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208057+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/": {
+        "title": "Trump signs narrower executive order on AI oversight after industry objections",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T16:23:08+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208064+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T16:24:56.717519+00:00",
+            "linkedin": "2026-06-02T16:25:14.090888+00:00",
+            "instagram": "2026-06-02T16:25:32.370934+00:00"
+        },
+        "updated_at": "2026-06-02T16:25:32.370948+00:00"
+    },
+    "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/": {
+        "title": "OpenAI launches new Codex tools for white-collar work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T16:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208068+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T16:24:56.721257+00:00",
+            "linkedin": "2026-06-02T16:25:14.094559+00:00",
+            "instagram": "2026-06-02T16:25:32.375006+00:00"
+        },
+        "updated_at": "2026-06-02T16:25:32.375018+00:00"
+    },
+    "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/": {
+        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T14:44:21+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208071+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/": {
+        "title": "ZeroDrift raises $10M to protect AI models from themselves",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T12:32:59+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208075+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/": {
+        "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T12:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208078+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/": {
+        "title": "GitHub Copilot users see token-based price hikes",
+        "source": "AI News",
+        "published_date": "2026-06-02T11:09:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208084+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/": {
+        "title": "Rehumanizing global health care with agentic AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-02T11:23:34+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208087+00:00",
+        "status": "PENDING"
     }
 }
