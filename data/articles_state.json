@@ -2982,5 +2982,45 @@
         "published_date": "2026-06-01T18:19:53+00:00",
         "discovered_at": "2026-06-01T21:33:15.840703+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
+        "title": "Our views on AI policy and political advocacy",
+        "source": "OpenAI",
+        "published_date": "2026-06-01T17:00:00+00:00",
+        "discovered_at": "2026-06-02T03:57:12.870991+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "source": "OpenAI",
+        "published_date": "2026-06-01T10:00:00+00:00",
+        "discovered_at": "2026-06-02T03:57:12.870997+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T03:57:49.364682+00:00",
+            "linkedin": "2026-06-02T03:58:07.610568+00:00",
+            "instagram": "2026-06-02T03:58:26.241711+00:00"
+        },
+        "updated_at": "2026-06-02T03:58:26.241718+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/": {
+        "title": "Alphabet plans to raise $80B to pay for AI buildout",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T22:55:09+00:00",
+        "discovered_at": "2026-06-02T03:57:12.871001+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/": {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T21:35:00+00:00",
+        "discovered_at": "2026-06-02T03:57:12.871005+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T03:57:49.360863+00:00",
+            "linkedin": "2026-06-02T03:58:07.606799+00:00",
+            "instagram": "2026-06-02T03:58:26.238000+00:00"
+        },
+        "updated_at": "2026-06-02T03:58:26.238012+00:00"
     }
 }
