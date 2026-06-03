@@ -45,6 +45,7 @@ jobs:
           IMGBB_API_KEY: ${{ secrets.IMGBB_API_KEY }}
           IMAGE_HOST: 'imgbb'
           AUTONOMOUS_MODE: 'true'
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python main.py
 

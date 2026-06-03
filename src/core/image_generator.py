@@ -11,12 +11,38 @@ def create_circular_mask(size):
     return mask
 
 def generate_background(prompt, width=1080, height=1350):
-    print(f"Generating background image for: {prompt}")
+    hf_token = os.getenv("HF_TOKEN")
+    
+    if hf_token:
+        print(f"Generating background image via Hugging Face (SDXL) for: {prompt}")
+        API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
+        headers = {"Authorization": f"Bearer {hf_token}"}
+        # Hugging Face doesn't natively support arbitrary width/height in the free API without custom parameters, 
+        # so we rely on the resize() step in create_news_image to fix the aspect ratio.
+        payload = {"inputs": prompt}
+        try:
+            response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+            
+            if response.status_code == 200:
+                return Image.open(BytesIO(response.content))
+            else:
+                print(f"Hugging Face API failed with status {response.status_code}: {response.text}")
+                print("Falling back to pollinations.ai...")
+        except Exception as e:
+            print(f"Hugging Face API connection error: {e}")
+            print("Falling back to pollinations.ai...")
+
+    print(f"Generating background image via pollinations.ai for: {prompt}")
     url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
     response = requests.get(url)
+    
     if response.status_code == 200:
         return Image.open(BytesIO(response.content))
-    print("Failed to fetch image from pollinations.ai")
+    elif response.status_code == 402:
+        print("❌ Pollinations API Error: 402 Queue Full. This IP is aggressively rate-limited.")
+    else:
+        print(f"Failed to fetch image from pollinations.ai. Status: {response.status_code}")
+        
     return None
 
 def wrap_text(text, font, max_width):
