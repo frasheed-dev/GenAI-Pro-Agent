@@ -3163,7 +3163,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-02T18:02:44+00:00",
         "discovered_at": "2026-06-02T20:49:10.594616+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-03T22:41:08.048530+00:00",
+            "linkedin": "2026-06-03T22:41:26.374185+00:00",
+            "instagram": "2026-06-03T22:41:44.383664+00:00"
+        },
+        "updated_at": "2026-06-03T22:41:44.383672+00:00"
     },
     "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/": {
         "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
@@ -3198,5 +3204,109 @@
             "instagram": "2026-06-02T20:50:25.768477+00:00"
         },
         "updated_at": "2026-06-02T20:50:25.768492+00:00"
+    },
+    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+        "title": "Introducing new capabilities to GPT-Rosalind",
+        "source": "OpenAI",
+        "published_date": "2026-06-03T13:15:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316541+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-03T22:41:08.044827+00:00",
+            "linkedin": "2026-06-03T22:41:26.370360+00:00",
+            "instagram": "2026-06-03T22:41:44.379984+00:00"
+        },
+        "updated_at": "2026-06-03T22:41:44.379997+00:00"
+    },
+    "https://openai.com/index/frontier-safety-blueprint": {
+        "title": "A blueprint for democratic governance of frontier AI",
+        "source": "OpenAI",
+        "published_date": "2026-06-03T10:00:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316548+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/public-policy-agenda": {
+        "title": "OpenAI public policy agenda",
+        "source": "OpenAI",
+        "published_date": "2026-06-03T10:00:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316551+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/": {
+        "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T19:38:32+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316560+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/": {
+        "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T19:07:42+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316564+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/": {
+        "title": "Amazon will show AI product images when you search for some reason",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T15:50:26+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316567+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/": {
+        "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T15:00:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316570+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/": {
+        "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T14:58:33+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316573+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/": {
+        "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T13:40:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316576+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/": {
+        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T13:02:51+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316579+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/": {
+        "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T22:50:56+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316582+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/": {
+        "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+        "source": "AI News",
+        "published_date": "2026-06-03T12:29:42+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316588+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/": {
+        "title": "Walmart’s AI workflows meet the realities of the balance sheet",
+        "source": "AI News",
+        "published_date": "2026-06-03T09:33:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316591+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/": {
+        "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+        "source": "AI News",
+        "published_date": "2026-06-03T09:00:00+00:00",
+        "discovered_at": "2026-06-03T22:40:28.316594+00:00",
+        "status": "PENDING"
     }
 }
