@@ -15,19 +15,14 @@ def generate_background(prompt, width=1080, height=1350):
     
     if hf_token:
         print(f"Generating background image via Hugging Face (SDXL) for: {prompt}")
-        API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
-        headers = {"Authorization": f"Bearer {hf_token}"}
-        # Hugging Face doesn't natively support arbitrary width/height in the free API without custom parameters, 
-        # so we rely on the resize() step in create_news_image to fix the aspect ratio.
-        payload = {"inputs": prompt}
         try:
-            response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+            # Use the official SDK to handle dynamic routing, endpoints, and DNS issues gracefully
+            from huggingface_hub import InferenceClient
+            client = InferenceClient(token=hf_token)
             
-            if response.status_code == 200:
-                return Image.open(BytesIO(response.content))
-            else:
-                print(f"Hugging Face API failed with status {response.status_code}: {response.text}")
-                print("Falling back to pollinations.ai...")
+            # Text-to-image returns a PIL Image directly
+            img = client.text_to_image(prompt, model="stabilityai/stable-diffusion-xl-base-1.0")
+            return img
         except Exception as e:
             print(f"Hugging Face API connection error: {e}")
             print("Falling back to pollinations.ai...")
