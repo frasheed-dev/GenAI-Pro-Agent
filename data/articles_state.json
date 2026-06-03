@@ -2736,7 +2736,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T22:14:22+00:00",
         "discovered_at": "2026-05-30T03:23:11.301198+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T04:03:49.749059+00:00",
+            "linkedin": "2026-06-01T04:04:24.623059+00:00",
+            "instagram": "2026-06-01T04:05:01.585121+00:00"
+        },
+        "updated_at": "2026-06-01T04:05:01.585134+00:00"
     },
     "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/": {
         "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
@@ -2750,7 +2756,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T17:57:05+00:00",
         "discovered_at": "2026-05-30T03:23:11.301205+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T04:03:49.752930+00:00",
+            "linkedin": "2026-06-01T04:04:24.626778+00:00",
+            "instagram": "2026-06-01T04:05:01.588842+00:00"
+        },
+        "updated_at": "2026-06-01T04:05:01.588850+00:00"
     },
     "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/": {
         "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
@@ -2783,7 +2795,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-29T14:00:00+00:00",
         "discovered_at": "2026-05-30T03:23:11.301216+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T11:34:20.540091+00:00",
+            "linkedin": "2026-06-01T11:34:37.872835+00:00",
+            "instagram": "2026-06-01T11:34:55.726086+00:00"
+        },
+        "updated_at": "2026-06-01T11:34:55.726093+00:00"
     },
     "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/": {
         "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
@@ -2856,7 +2874,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-05-30T21:45:00+00:00",
         "discovered_at": "2026-05-31T03:49:57.034218+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T11:34:20.536096+00:00",
+            "linkedin": "2026-06-01T11:34:37.869021+00:00",
+            "instagram": "2026-06-01T11:34:55.722336+00:00"
+        },
+        "updated_at": "2026-06-01T11:34:55.722351+00:00"
     },
     "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/": {
         "title": "Making sense of the debate over AI psychosis",
@@ -2864,5 +2888,315 @@
         "published_date": "2026-05-31T15:30:00+00:00",
         "discovered_at": "2026-05-31T19:17:38.835686+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/": {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-31T21:05:14+00:00",
+        "discovered_at": "2026-06-01T04:02:08.191313+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/": {
+        "title": "Anthropic files to go public",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T16:36:55+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492897+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T17:39:50.018666+00:00",
+            "linkedin": "2026-06-01T17:40:09.142764+00:00",
+            "instagram": "2026-06-01T17:40:27.529309+00:00"
+        },
+        "updated_at": "2026-06-01T17:40:27.529322+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/": {
+        "title": "This AI weather startup is out-forecasting government agencies",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T16:00:00+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492904+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T21:33:51.915318+00:00",
+            "linkedin": "2026-06-01T21:34:09.833547+00:00",
+            "instagram": "2026-06-01T21:34:27.621980+00:00"
+        },
+        "updated_at": "2026-06-01T21:34:27.621992+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/": {
+        "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T14:49:10+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492908+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/": {
+        "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-05-30T14:49:27+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492916+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/": {
+        "title": "The future of automated trading with the best forex robot reviews",
+        "source": "AI News",
+        "published_date": "2026-06-01T08:51:42+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492922+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/": {
+        "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+        "source": "AI News",
+        "published_date": "2026-06-01T08:46:19+00:00",
+        "discovered_at": "2026-06-01T17:38:23.492925+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T17:39:50.022266+00:00",
+            "linkedin": "2026-06-01T17:40:09.146193+00:00",
+            "instagram": "2026-06-01T17:40:27.532775+00:00"
+        },
+        "updated_at": "2026-06-01T17:40:27.532783+00:00"
+    },
+    "https://openai.com/index/stargate-michigan-data-center": {
+        "title": "Building the infrastructure for the Intelligence Age in Michigan",
+        "source": "OpenAI",
+        "published_date": "2026-06-01T12:00:00+00:00",
+        "discovered_at": "2026-06-01T21:33:15.840693+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-01T21:33:51.919054+00:00",
+            "linkedin": "2026-06-01T21:34:09.837181+00:00",
+            "instagram": "2026-06-01T21:34:27.625692+00:00"
+        },
+        "updated_at": "2026-06-01T21:34:27.625699+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/": {
+        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T20:03:40+00:00",
+        "discovered_at": "2026-06-01T21:33:15.840699+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/": {
+        "title": "Water access is now a risk factor in SpaceX’s IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T18:19:53+00:00",
+        "discovered_at": "2026-06-01T21:33:15.840703+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
+        "title": "Our views on AI policy and political advocacy",
+        "source": "OpenAI",
+        "published_date": "2026-06-01T17:00:00+00:00",
+        "discovered_at": "2026-06-02T03:57:12.870991+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "source": "OpenAI",
+        "published_date": "2026-06-01T10:00:00+00:00",
+        "discovered_at": "2026-06-02T03:57:12.870997+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T03:57:49.364682+00:00",
+            "linkedin": "2026-06-02T03:58:07.610568+00:00",
+            "instagram": "2026-06-02T03:58:26.241711+00:00"
+        },
+        "updated_at": "2026-06-02T03:58:26.241718+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/": {
+        "title": "Alphabet plans to raise $80B to pay for AI buildout",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T22:55:09+00:00",
+        "discovered_at": "2026-06-02T03:57:12.871001+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T10:23:53.701453+00:00",
+            "linkedin": "2026-06-02T10:24:24.000550+00:00",
+            "instagram": "2026-06-02T10:24:41.595590+00:00"
+        },
+        "updated_at": "2026-06-02T10:24:41.595596+00:00"
+    },
+    "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/": {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-01T21:35:00+00:00",
+        "discovered_at": "2026-06-02T03:57:12.871005+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T03:57:49.360863+00:00",
+            "linkedin": "2026-06-02T03:58:07.606799+00:00",
+            "instagram": "2026-06-02T03:58:26.238000+00:00"
+        },
+        "updated_at": "2026-06-02T03:58:26.238012+00:00"
+    },
+    "https://openai.com/index/codex-for-knowledge-work": {
+        "title": "Codex is becoming a productivity tool for everyone",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T02:00:00+00:00",
+        "discovered_at": "2026-06-02T10:23:19.017453+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T10:23:53.696632+00:00",
+            "linkedin": "2026-06-02T10:24:23.995918+00:00",
+            "instagram": "2026-06-02T10:24:41.590857+00:00"
+        },
+        "updated_at": "2026-06-02T10:24:41.590871+00:00"
+    },
+    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/": {
+        "title": "How small businesses can leverage AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-02T09:00:00+00:00",
+        "discovered_at": "2026-06-02T10:23:19.017467+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/travelers": {
+        "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T12:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208044+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/codex-for-every-role-tool-workflow": {
+        "title": "Codex for every role, tool, and workflow",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T09:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208053+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+        "title": "Advancing youth safety and opportunity through global leadership",
+        "source": "OpenAI",
+        "published_date": "2026-06-02T07:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208057+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/": {
+        "title": "Trump signs narrower executive order on AI oversight after industry objections",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T16:23:08+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208064+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T16:24:56.717519+00:00",
+            "linkedin": "2026-06-02T16:25:14.090888+00:00",
+            "instagram": "2026-06-02T16:25:32.370934+00:00"
+        },
+        "updated_at": "2026-06-02T16:25:32.370948+00:00"
+    },
+    "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/": {
+        "title": "OpenAI launches new Codex tools for white-collar work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T16:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208068+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T16:24:56.721257+00:00",
+            "linkedin": "2026-06-02T16:25:14.094559+00:00",
+            "instagram": "2026-06-02T16:25:32.375006+00:00"
+        },
+        "updated_at": "2026-06-02T16:25:32.375018+00:00"
+    },
+    "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/": {
+        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T14:44:21+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208071+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T20:49:50.571149+00:00",
+            "linkedin": "2026-06-02T20:50:08.149720+00:00",
+            "instagram": "2026-06-02T20:50:25.772641+00:00"
+        },
+        "updated_at": "2026-06-02T20:50:25.772649+00:00"
+    },
+    "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/": {
+        "title": "ZeroDrift raises $10M to protect AI models from themselves",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T12:32:59+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208075+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/": {
+        "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T12:00:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208078+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/": {
+        "title": "GitHub Copilot users see token-based price hikes",
+        "source": "AI News",
+        "published_date": "2026-06-02T11:09:00+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208084+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/": {
+        "title": "Rehumanizing global health care with agentic AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-02T11:23:34+00:00",
+        "discovered_at": "2026-06-02T16:24:20.208087+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/": {
+        "title": "Uber caps employee AI spending after blowing through budget in four months",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T19:11:48+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594601+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/": {
+        "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T19:02:21+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594609+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/": {
+        "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T18:16:53+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594613+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/": {
+        "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T18:02:44+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594616+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/": {
+        "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T18:00:00+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594619+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/": {
+        "title": "Microsoft offers devs a better way to control AI agent behavior",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T18:00:00+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594622+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/": {
+        "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-02T17:47:28+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594625+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/": {
+        "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+        "source": "AI News",
+        "published_date": "2026-06-02T18:04:03+00:00",
+        "discovered_at": "2026-06-02T20:49:10.594631+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-02T20:49:50.566887+00:00",
+            "linkedin": "2026-06-02T20:50:08.145536+00:00",
+            "instagram": "2026-06-02T20:50:25.768477+00:00"
+        },
+        "updated_at": "2026-06-02T20:50:25.768492+00:00"
     }
 }
