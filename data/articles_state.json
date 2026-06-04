@@ -3176,7 +3176,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-02T18:00:00+00:00",
         "discovered_at": "2026-06-02T20:49:10.594619+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-04T03:59:43.911988+00:00",
+            "linkedin": "2026-06-04T04:00:01.390413+00:00",
+            "instagram": "2026-06-04T04:00:19.352462+00:00"
+        },
+        "updated_at": "2026-06-04T04:00:19.352470+00:00"
     },
     "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/": {
         "title": "Microsoft offers devs a better way to control AI agent behavior",
@@ -3237,7 +3243,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-03T19:38:32+00:00",
         "discovered_at": "2026-06-03T22:40:28.316560+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-04T03:59:43.907738+00:00",
+            "linkedin": "2026-06-04T04:00:01.386090+00:00",
+            "instagram": "2026-06-04T04:00:19.348312+00:00"
+        },
+        "updated_at": "2026-06-04T04:00:19.348328+00:00"
     },
     "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/": {
         "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
@@ -3307,6 +3319,20 @@
         "source": "AI News",
         "published_date": "2026-06-03T09:00:00+00:00",
         "discovered_at": "2026-06-03T22:40:28.316594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/wasmer": {
+        "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+        "source": "OpenAI",
+        "published_date": "2026-06-03T12:00:00+00:00",
+        "discovered_at": "2026-06-04T03:59:03.084950+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/": {
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-03T22:56:51+00:00",
+        "discovered_at": "2026-06-04T03:59:03.084961+00:00",
         "status": "PENDING"
     }
 }
