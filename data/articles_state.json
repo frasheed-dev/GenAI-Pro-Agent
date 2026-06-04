@@ -3149,7 +3149,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-02T19:02:21+00:00",
         "discovered_at": "2026-06-02T20:49:10.594609+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-04T20:07:07.014709+00:00",
+            "linkedin": "2026-06-04T20:07:24.444745+00:00",
+            "instagram": "2026-06-04T20:07:42.522067+00:00"
+        },
+        "updated_at": "2026-06-04T20:07:42.522075+00:00"
     },
     "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/": {
         "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
@@ -3392,6 +3398,54 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-04T10:50:18+00:00",
         "discovered_at": "2026-06-04T15:14:37.885584+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-memory-dreaming": {
+        "title": "Dreaming: Better memory for a more helpful ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-06-04T09:00:00+00:00",
+        "discovered_at": "2026-06-04T20:06:27.962637+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-04T20:07:07.010342+00:00",
+            "linkedin": "2026-06-04T20:07:24.440190+00:00",
+            "instagram": "2026-06-04T20:07:42.517435+00:00"
+        },
+        "updated_at": "2026-06-04T20:07:42.517452+00:00"
+    },
+    "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/": {
+        "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T19:33:09+00:00",
+        "discovered_at": "2026-06-04T20:06:27.962650+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/": {
+        "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T19:20:58+00:00",
+        "discovered_at": "2026-06-04T20:06:27.962667+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/": {
+        "title": "Meta rolls out a new AI creator assistant on Facebook",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T16:32:48+00:00",
+        "discovered_at": "2026-06-04T20:06:27.962671+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/": {
+        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T16:31:12+00:00",
+        "discovered_at": "2026-06-04T20:06:27.962675+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/": {
+        "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T15:05:00+00:00",
+        "discovered_at": "2026-06-04T20:06:27.962678+00:00",
         "status": "PENDING"
     }
 }
