@@ -3303,7 +3303,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-03T13:02:51+00:00",
         "discovered_at": "2026-06-03T22:40:28.316579+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-04T15:15:16.621750+00:00",
+            "linkedin": "2026-06-04T15:15:34.072541+00:00",
+            "instagram": "2026-06-04T15:15:52.483250+00:00"
+        },
+        "updated_at": "2026-06-04T15:15:52.483257+00:00"
     },
     "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/": {
         "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
@@ -3352,6 +3358,40 @@
         "source": "OpenAI",
         "published_date": "2026-06-04T12:00:00+00:00",
         "discovered_at": "2026-06-04T09:56:18.447214+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/": {
+        "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T14:05:58+00:00",
+        "discovered_at": "2026-06-04T15:14:37.885567+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/": {
+        "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
+        "source": "AI News",
+        "published_date": "2026-06-04T11:41:00+00:00",
+        "discovered_at": "2026-06-04T15:14:37.885577+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-04T15:15:16.617588+00:00",
+            "linkedin": "2026-06-04T15:15:34.068262+00:00",
+            "instagram": "2026-06-04T15:15:52.479064+00:00"
+        },
+        "updated_at": "2026-06-04T15:15:52.479073+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/": {
+        "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
+        "source": "AI News",
+        "published_date": "2026-06-04T10:00:00+00:00",
+        "discovered_at": "2026-06-04T15:14:37.885580+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/": {
+        "title": "How courts are coping with a flood of AI-generated lawsuits",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-04T10:50:18+00:00",
+        "discovered_at": "2026-06-04T15:14:37.885584+00:00",
         "status": "PENDING"
     }
 }
