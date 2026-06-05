@@ -3397,7 +3397,13 @@
         "source": "AI News",
         "published_date": "2026-06-04T10:00:00+00:00",
         "discovered_at": "2026-06-04T15:14:37.885580+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-05T09:50:38.276337+00:00",
+            "linkedin": "2026-06-05T09:51:08.379605+00:00",
+            "instagram": "2026-06-05T09:51:25.905267+00:00"
+        },
+        "updated_at": "2026-06-05T09:51:25.905275+00:00"
     },
     "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/": {
         "title": "How courts are coping with a flood of AI-generated lawsuits",
@@ -3487,5 +3493,25 @@
         "published_date": "2026-06-04T21:30:00+00:00",
         "discovered_at": "2026-06-05T03:42:55.546195+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/": {
+        "title": "Mira Murati steps back into the spotlight, carefully",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T05:06:37+00:00",
+        "discovered_at": "2026-06-05T09:49:58.907769+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/": {
+        "title": "Meta Business Agent drives AI-powered conversational commerce",
+        "source": "AI News",
+        "published_date": "2026-06-04T17:17:40+00:00",
+        "discovered_at": "2026-06-05T09:49:58.907781+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-05T09:50:38.271963+00:00",
+            "linkedin": "2026-06-05T09:51:08.375330+00:00",
+            "instagram": "2026-06-05T09:51:25.900937+00:00"
+        },
+        "updated_at": "2026-06-05T09:51:25.900950+00:00"
     }
 }
