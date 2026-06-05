@@ -3343,7 +3343,13 @@
         "source": "AI News",
         "published_date": "2026-06-03T09:00:00+00:00",
         "discovered_at": "2026-06-03T22:40:28.316594+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-05T14:51:31.385909+00:00",
+            "linkedin": "2026-06-05T14:51:48.882167+00:00",
+            "instagram": "2026-06-05T14:52:06.509151+00:00"
+        },
+        "updated_at": "2026-06-05T14:52:06.509158+00:00"
     },
     "https://openai.com/index/wasmer": {
         "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
@@ -3451,7 +3457,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-04T16:31:12+00:00",
         "discovered_at": "2026-06-04T20:06:27.962675+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-05T14:51:31.381460+00:00",
+            "linkedin": "2026-06-05T14:51:48.877775+00:00",
+            "instagram": "2026-06-05T14:52:06.504819+00:00"
+        },
+        "updated_at": "2026-06-05T14:52:06.504832+00:00"
     },
     "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/": {
         "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
@@ -3513,5 +3525,33 @@
             "instagram": "2026-06-05T09:51:25.900937+00:00"
         },
         "updated_at": "2026-06-05T09:51:25.900950+00:00"
+    },
+    "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/": {
+        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T14:49:12+00:00",
+        "discovered_at": "2026-06-05T14:50:52.946453+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/": {
+        "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T13:03:10+00:00",
+        "discovered_at": "2026-06-05T14:50:52.946459+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/": {
+        "title": "How C3 AI agents will automate predictive maintenance for Shell",
+        "source": "AI News",
+        "published_date": "2026-06-05T11:34:09+00:00",
+        "discovered_at": "2026-06-05T14:50:52.946467+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/": {
+        "title": "The Meta hack shows there’s more to AI security than Mythos",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-05T09:00:00+00:00",
+        "discovered_at": "2026-06-05T14:50:52.946471+00:00",
+        "status": "PENDING"
     }
 }
