@@ -3350,7 +3350,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-03T12:00:00+00:00",
         "discovered_at": "2026-06-04T03:59:03.084950+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-05T03:43:33.761100+00:00",
+            "linkedin": "2026-06-05T03:43:51.008384+00:00",
+            "instagram": "2026-06-05T03:44:08.421078+00:00"
+        },
+        "updated_at": "2026-06-05T03:44:08.421087+00:00"
     },
     "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/": {
         "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
@@ -3446,6 +3452,40 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-04T15:05:00+00:00",
         "discovered_at": "2026-06-04T20:06:27.962678+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/biodefense-in-the-intelligence-age": {
+        "title": "Biodefense in the Intelligence Age",
+        "source": "OpenAI",
+        "published_date": "2026-06-04T00:00:00+00:00",
+        "discovered_at": "2026-06-05T03:42:55.546174+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/": {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T22:43:26+00:00",
+        "discovered_at": "2026-06-05T03:42:55.546186+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-05T03:43:33.756604+00:00",
+            "linkedin": "2026-06-05T03:43:51.003820+00:00",
+            "instagram": "2026-06-05T03:44:08.416553+00:00"
+        },
+        "updated_at": "2026-06-05T03:44:08.416569+00:00"
+    },
+    "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/": {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T22:29:50+00:00",
+        "discovered_at": "2026-06-05T03:42:55.546191+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/": {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-04T21:30:00+00:00",
+        "discovered_at": "2026-06-05T03:42:55.546195+00:00",
         "status": "PENDING"
     }
 }
