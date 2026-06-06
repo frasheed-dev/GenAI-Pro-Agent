@@ -3538,7 +3538,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-05T13:03:10+00:00",
         "discovered_at": "2026-06-05T14:50:52.946459+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T03:28:35.579776+00:00",
+            "linkedin": "2026-06-06T03:28:53.188982+00:00",
+            "instagram": "2026-06-06T03:29:11.387856+00:00"
+        },
+        "updated_at": "2026-06-06T03:29:11.387864+00:00"
     },
     "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/": {
         "title": "How C3 AI agents will automate predictive maintenance for Shell",
@@ -3552,6 +3558,40 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-05T09:00:00+00:00",
         "discovered_at": "2026-06-05T14:50:52.946471+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/": {
+        "title": "Startup Battlefield 200 applications officially close in 3 days",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T20:00:00+00:00",
+        "discovered_at": "2026-06-06T03:27:56.554289+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/": {
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T18:57:20+00:00",
+        "discovered_at": "2026-06-06T03:27:56.554295+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T03:28:35.575448+00:00",
+            "linkedin": "2026-06-06T03:28:53.184633+00:00",
+            "instagram": "2026-06-06T03:29:11.383519+00:00"
+        },
+        "updated_at": "2026-06-06T03:29:11.383532+00:00"
+    },
+    "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/": {
+        "title": "The most interesting startups right now want to get you off your phone",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T17:17:06+00:00",
+        "discovered_at": "2026-06-06T03:27:56.554300+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/": {
+        "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-05T14:00:00+00:00",
+        "discovered_at": "2026-06-06T03:27:56.554303+00:00",
         "status": "PENDING"
     }
 }
