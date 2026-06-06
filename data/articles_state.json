@@ -3503,7 +3503,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-04T22:29:50+00:00",
         "discovered_at": "2026-06-05T03:42:55.546191+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T19:23:57.814117+00:00",
+            "linkedin": "2026-06-06T19:24:23.929049+00:00",
+            "instagram": "2026-06-06T19:24:49.294479+00:00"
+        },
+        "updated_at": "2026-06-06T19:24:49.294486+00:00"
     },
     "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/": {
         "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
@@ -3617,5 +3623,32 @@
         "published_date": "2026-06-05T14:00:00+00:00",
         "discovered_at": "2026-06-06T03:27:56.554303+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/": {
+        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-06T18:13:36+00:00",
+        "discovered_at": "2026-06-06T19:22:56.130788+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/": {
+        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-06T17:42:15+00:00",
+        "discovered_at": "2026-06-06T19:22:56.130794+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/": {
+        "title": "The Trump administration might take an equity stake in OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-06T16:17:21+00:00",
+        "discovered_at": "2026-06-06T19:22:56.130798+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T19:23:57.809631+00:00",
+            "linkedin": "2026-06-06T19:24:23.924546+00:00",
+            "instagram": "2026-06-06T19:24:49.289837+00:00"
+        },
+        "updated_at": "2026-06-06T19:24:49.289847+00:00"
     }
 }
