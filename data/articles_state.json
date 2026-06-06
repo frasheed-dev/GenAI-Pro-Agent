@@ -3563,14 +3563,26 @@
         "source": "AI News",
         "published_date": "2026-06-05T11:34:09+00:00",
         "discovered_at": "2026-06-05T14:50:52.946467+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T13:43:03.613965+00:00",
+            "linkedin": "2026-06-06T13:43:20.899529+00:00",
+            "instagram": "2026-06-06T13:43:38.604506+00:00"
+        },
+        "updated_at": "2026-06-06T13:43:38.604521+00:00"
     },
     "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/": {
         "title": "The Meta hack shows there’s more to AI security than Mythos",
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-05T09:00:00+00:00",
         "discovered_at": "2026-06-05T14:50:52.946471+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T13:43:03.618485+00:00",
+            "linkedin": "2026-06-06T13:43:20.904146+00:00",
+            "instagram": "2026-06-06T13:43:38.609056+00:00"
+        },
+        "updated_at": "2026-06-06T13:43:38.609080+00:00"
     },
     "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/": {
         "title": "Startup Battlefield 200 applications officially close in 3 days",
