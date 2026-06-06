@@ -3443,7 +3443,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-04T19:20:58+00:00",
         "discovered_at": "2026-06-04T20:06:27.962667+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T08:34:01.071857+00:00",
+            "linkedin": "2026-06-06T08:34:23.727140+00:00",
+            "instagram": "2026-06-06T08:34:41.397890+00:00"
+        },
+        "updated_at": "2026-06-06T08:34:41.397898+00:00"
     },
     "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/": {
         "title": "Meta rolls out a new AI creator assistant on Facebook",
@@ -3531,7 +3537,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-05T14:49:12+00:00",
         "discovered_at": "2026-06-05T14:50:52.946453+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-06T08:34:01.066783+00:00",
+            "linkedin": "2026-06-06T08:34:23.722153+00:00",
+            "instagram": "2026-06-06T08:34:41.392943+00:00"
+        },
+        "updated_at": "2026-06-06T08:34:41.392959+00:00"
     },
     "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/": {
         "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
