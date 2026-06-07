@@ -3541,7 +3541,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-05T05:06:37+00:00",
         "discovered_at": "2026-06-05T09:49:58.907769+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-07T19:23:26.863272+00:00",
+            "linkedin": "2026-06-07T19:23:55.907090+00:00",
+            "instagram": "2026-06-07T19:24:22.049495+00:00"
+        },
+        "updated_at": "2026-06-07T19:24:22.049505+00:00"
     },
     "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/": {
         "title": "Meta Business Agent drives AI-powered conversational commerce",
@@ -3693,5 +3699,25 @@
             "instagram": "2026-06-07T03:55:39.535789+00:00"
         },
         "updated_at": "2026-06-07T03:55:39.535801+00:00"
+    },
+    "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/": {
+        "title": "Notion restores access to Anthropic after service disruption",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-07T17:56:22+00:00",
+        "discovered_at": "2026-06-07T19:22:20.953620+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/": {
+        "title": "OpenAI is still working on that ‘super app’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-07T16:23:22+00:00",
+        "discovered_at": "2026-06-07T19:22:20.953626+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-07T19:23:26.858466+00:00",
+            "linkedin": "2026-06-07T19:23:55.902481+00:00",
+            "instagram": "2026-06-07T19:24:22.044863+00:00"
+        },
+        "updated_at": "2026-06-07T19:24:22.044877+00:00"
     }
 }
