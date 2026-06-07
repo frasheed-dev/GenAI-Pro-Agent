@@ -3376,7 +3376,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-04T12:00:00+00:00",
         "discovered_at": "2026-06-04T09:56:18.447214+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-07T08:56:46.750403+00:00",
+            "linkedin": "2026-06-07T08:57:04.561734+00:00",
+            "instagram": "2026-06-07T08:57:22.177577+00:00"
+        },
+        "updated_at": "2026-06-07T08:57:22.177584+00:00"
     },
     "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/": {
         "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
@@ -3635,7 +3641,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-06T18:13:36+00:00",
         "discovered_at": "2026-06-06T19:22:56.130788+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-07T08:56:46.746256+00:00",
+            "linkedin": "2026-06-07T08:57:04.557617+00:00",
+            "instagram": "2026-06-07T08:57:22.173519+00:00"
+        },
+        "updated_at": "2026-06-07T08:57:22.173533+00:00"
     },
     "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/": {
         "title": "Sriram Krishnan is leaving his role as White House AI advisor",
