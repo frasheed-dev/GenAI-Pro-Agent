@@ -3456,7 +3456,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-04T16:32:48+00:00",
         "discovered_at": "2026-06-04T20:06:27.962671+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-07T03:55:03.626952+00:00",
+            "linkedin": "2026-06-07T03:55:21.130439+00:00",
+            "instagram": "2026-06-07T03:55:39.540305+00:00"
+        },
+        "updated_at": "2026-06-07T03:55:39.540312+00:00"
     },
     "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/": {
         "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
@@ -3650,5 +3656,18 @@
             "instagram": "2026-06-06T19:24:49.289837+00:00"
         },
         "updated_at": "2026-06-06T19:24:49.289847+00:00"
+    },
+    "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/": {
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-06T20:32:24+00:00",
+        "discovered_at": "2026-06-07T03:54:23.956087+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-07T03:55:03.622469+00:00",
+            "linkedin": "2026-06-07T03:55:21.125916+00:00",
+            "instagram": "2026-06-07T03:55:39.535789+00:00"
+        },
+        "updated_at": "2026-06-07T03:55:39.535801+00:00"
     }
 }
