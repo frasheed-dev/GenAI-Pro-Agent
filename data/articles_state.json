@@ -3778,5 +3778,80 @@
         "published_date": "2026-06-08T10:00:00+00:00",
         "discovered_at": "2026-06-08T15:51:58.318042+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/economic-research-exchange": {
+        "title": "Introducing the OpenAI Economic Research Exchange",
+        "source": "OpenAI",
+        "published_date": "2026-06-08T00:00:00+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808369+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/": {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T19:41:32+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808377+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-08T20:15:44.934593+00:00",
+            "linkedin": "2026-06-08T20:16:02.749533+00:00",
+            "instagram": "2026-06-08T20:16:20.332270+00:00"
+        },
+        "updated_at": "2026-06-08T20:16:20.332285+00:00"
+    },
+    "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/": {
+        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T18:48:45+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808380+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/": {
+        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T18:45:12+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808384+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/": {
+        "title": "Apple’s Image Playground doesn’t suck anymore",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T18:38:07+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808387+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/": {
+        "title": "Apple’s Photos app is getting new AI editing features",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T18:36:04+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808390+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/": {
+        "title": "Apple gives Siri its own dedicated app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T18:33:42+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808394+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/": {
+        "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T18:23:04+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808399+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/": {
+        "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T17:56:21+00:00",
+        "discovered_at": "2026-06-08T20:15:05.808404+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-08T20:15:44.939469+00:00",
+            "linkedin": "2026-06-08T20:16:02.754338+00:00",
+            "instagram": "2026-06-08T20:16:20.338184+00:00"
+        },
+        "updated_at": "2026-06-08T20:16:20.338191+00:00"
     }
 }
