@@ -3738,5 +3738,45 @@
             "instagram": "2026-06-08T04:00:25.958423+00:00"
         },
         "updated_at": "2026-06-08T04:00:25.958440+00:00"
+    },
+    "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/": {
+        "title": "Amazon now lets you design custom merch using AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T15:49:12+00:00",
+        "discovered_at": "2026-06-08T15:51:58.318022+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/": {
+        "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T15:34:59+00:00",
+        "discovered_at": "2026-06-08T15:51:58.318029+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-08T15:52:44.707774+00:00",
+            "linkedin": "2026-06-08T15:53:11.586603+00:00",
+            "instagram": "2026-06-08T15:53:35.827478+00:00"
+        },
+        "updated_at": "2026-06-08T15:53:35.827494+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/": {
+        "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
+        "source": "AI News",
+        "published_date": "2026-06-08T12:19:38+00:00",
+        "discovered_at": "2026-06-08T15:51:58.318038+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-08T15:52:44.712759+00:00",
+            "linkedin": "2026-06-08T15:53:11.591292+00:00",
+            "instagram": "2026-06-08T15:53:35.832157+00:00"
+        },
+        "updated_at": "2026-06-08T15:53:35.832165+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/": {
+        "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
+        "source": "AI News",
+        "published_date": "2026-06-08T10:00:00+00:00",
+        "discovered_at": "2026-06-08T15:51:58.318042+00:00",
+        "status": "PENDING"
     }
 }
