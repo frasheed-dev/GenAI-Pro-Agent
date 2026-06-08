@@ -3705,7 +3705,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-07T17:56:22+00:00",
         "discovered_at": "2026-06-07T19:22:20.953620+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-08T03:59:49.611604+00:00",
+            "linkedin": "2026-06-08T04:00:08.155131+00:00",
+            "instagram": "2026-06-08T04:00:25.963313+00:00"
+        },
+        "updated_at": "2026-06-08T04:00:25.963323+00:00"
     },
     "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/": {
         "title": "OpenAI is still working on that ‘super app’",
@@ -3719,5 +3725,18 @@
             "instagram": "2026-06-07T19:24:22.044863+00:00"
         },
         "updated_at": "2026-06-07T19:24:22.044877+00:00"
+    },
+    "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/": {
+        "title": "Is this the dawn of the Tokenpocalypse?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-07T20:26:13+00:00",
+        "discovered_at": "2026-06-08T03:59:10.309340+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-08T03:59:49.606689+00:00",
+            "linkedin": "2026-06-08T04:00:08.150334+00:00",
+            "instagram": "2026-06-08T04:00:25.958423+00:00"
+        },
+        "updated_at": "2026-06-08T04:00:25.958440+00:00"
     }
 }
