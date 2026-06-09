@@ -3987,5 +3987,45 @@
             "instagram": "2026-06-09T14:52:15.650544+00:00"
         },
         "updated_at": "2026-06-09T14:52:15.650560+00:00"
+    },
+    "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/": {
+        "title": "Can tech companies learn to love cheaper AI models?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T18:56:09+00:00",
+        "discovered_at": "2026-06-09T20:07:24.331296+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/": {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T18:04:24+00:00",
+        "discovered_at": "2026-06-09T20:07:24.331303+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T20:08:04.329442+00:00",
+            "linkedin": "2026-06-09T20:08:22.530842+00:00",
+            "instagram": "2026-06-09T20:08:40.912191+00:00"
+        },
+        "updated_at": "2026-06-09T20:08:40.912206+00:00"
+    },
+    "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/": {
+        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T17:00:00+00:00",
+        "discovered_at": "2026-06-09T20:07:24.331308+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T20:08:04.334607+00:00",
+            "linkedin": "2026-06-09T20:08:22.535826+00:00",
+            "instagram": "2026-06-09T20:08:40.918239+00:00"
+        },
+        "updated_at": "2026-06-09T20:08:40.918249+00:00"
+    },
+    "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/": {
+        "title": "It’s not FAANG anymore. It’s MANGOS.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T16:09:14+00:00",
+        "discovered_at": "2026-06-09T20:07:24.331312+00:00",
+        "status": "PENDING"
     }
 }
