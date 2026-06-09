@@ -3804,7 +3804,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-08T18:48:45+00:00",
         "discovered_at": "2026-06-08T20:15:05.808380+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T09:44:11.689603+00:00",
+            "linkedin": "2026-06-09T09:44:30.039471+00:00",
+            "instagram": "2026-06-09T09:45:09.335453+00:00"
+        },
+        "updated_at": "2026-06-09T09:45:09.335462+00:00"
     },
     "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/": {
         "title": "Apple will let you build workflows using AI in its new Shortcuts app",
@@ -3920,13 +3926,26 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-08T21:15:42+00:00",
         "discovered_at": "2026-06-09T03:29:10.113753+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T09:44:11.684876+00:00",
+            "linkedin": "2026-06-09T09:44:30.034641+00:00",
+            "instagram": "2026-06-09T09:45:09.329640+00:00"
+        },
+        "updated_at": "2026-06-09T09:45:09.329653+00:00"
     },
     "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/": {
         "title": "Apple bets cheaper AI will woo small developers",
         "source": "TechCrunch AI",
         "published_date": "2026-06-08T20:53:55+00:00",
         "discovered_at": "2026-06-09T03:29:10.113757+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/": {
+        "title": "Five things you need to know about AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-09T09:16:45+00:00",
+        "discovered_at": "2026-06-09T09:43:12.669008+00:00",
         "status": "PENDING"
     }
 }
