@@ -3878,7 +3878,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-08T01:30:00+00:00",
         "discovered_at": "2026-06-09T03:29:10.113728+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T14:51:24.380768+00:00",
+            "linkedin": "2026-06-09T14:51:55.358305+00:00",
+            "instagram": "2026-06-09T14:52:15.656816+00:00"
+        },
+        "updated_at": "2026-06-09T14:52:15.656825+00:00"
     },
     "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/": {
         "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
@@ -3947,5 +3953,39 @@
         "published_date": "2026-06-09T09:16:45+00:00",
         "discovered_at": "2026-06-09T09:43:12.669008+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/": {
+        "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T13:47:25+00:00",
+        "discovered_at": "2026-06-09T14:50:26.790977+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/": {
+        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T13:00:00+00:00",
+        "discovered_at": "2026-06-09T14:50:26.790983+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/": {
+        "title": "How an e-scooter founder raised $5 million to build space data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T12:00:00+00:00",
+        "discovered_at": "2026-06-09T14:50:26.790987+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/": {
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-09T10:20:06+00:00",
+        "discovered_at": "2026-06-09T14:50:26.790997+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T14:51:24.375586+00:00",
+            "linkedin": "2026-06-09T14:51:55.353118+00:00",
+            "instagram": "2026-06-09T14:52:15.650544+00:00"
+        },
+        "updated_at": "2026-06-09T14:52:15.650560+00:00"
     }
 }
