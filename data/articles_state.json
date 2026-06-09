@@ -3853,5 +3853,80 @@
             "instagram": "2026-06-08T20:16:20.338184+00:00"
         },
         "updated_at": "2026-06-08T20:16:20.338191+00:00"
+    },
+    "https://openai.com/index/openai-submits-confidential-s-1": {
+        "title": "Confidential submission of draft S-1 to the SEC",
+        "source": "OpenAI",
+        "published_date": "2026-06-08T14:00:00+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113721+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T03:30:05.731266+00:00",
+            "linkedin": "2026-06-09T03:30:25.367852+00:00",
+            "instagram": "2026-06-09T03:30:44.070842+00:00"
+        },
+        "updated_at": "2026-06-09T03:30:44.070851+00:00"
+    },
+    "https://openai.com/index/built-to-benefit-everyone-our-plan": {
+        "title": "Built to benefit everyone: our plan",
+        "source": "OpenAI",
+        "published_date": "2026-06-08T01:30:00+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113728+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/": {
+        "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T01:56:48+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113732+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/": {
+        "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T00:45:56+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113736+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/": {
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T22:41:45+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113739+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/": {
+        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T22:39:57+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113743+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/": {
+        "title": "OpenAI files confidentially for IPO, following Anthropic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T21:29:57+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113749+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-09T03:30:05.726190+00:00",
+            "linkedin": "2026-06-09T03:30:25.362900+00:00",
+            "instagram": "2026-06-09T03:30:44.064852+00:00"
+        },
+        "updated_at": "2026-06-09T03:30:44.064865+00:00"
+    },
+    "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/": {
+        "title": "Apple plays catch-up at WWDC",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T21:15:42+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113753+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/": {
+        "title": "Apple bets cheaper AI will woo small developers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-08T20:53:55+00:00",
+        "discovered_at": "2026-06-09T03:29:10.113757+00:00",
+        "status": "PENDING"
     }
 }
