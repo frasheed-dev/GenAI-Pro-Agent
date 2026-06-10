@@ -4039,7 +4039,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-09T12:00:00+00:00",
         "discovered_at": "2026-06-10T03:40:32.450253+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-10T15:34:44.489892+00:00",
+            "linkedin": "2026-06-10T15:35:01.576215+00:00",
+            "instagram": "2026-06-10T15:35:18.783946+00:00"
+        },
+        "updated_at": "2026-06-10T15:35:18.783953+00:00"
     },
     "https://openai.com/index/notion": {
         "title": "What Codex unlocks for Notion",
@@ -4120,6 +4126,68 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-10T07:05:26+00:00",
         "discovered_at": "2026-06-10T09:59:51.105539+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/": {
+        "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T14:48:01+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953333+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/": {
+        "title": "Warner Music acquires AI attribution startup Sureel AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T14:31:30+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953339+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/": {
+        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T13:33:09+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953343+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/": {
+        "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T13:07:56+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953346+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/": {
+        "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+        "source": "AI News",
+        "published_date": "2026-06-10T11:00:00+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953352+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-10T15:34:44.484499+00:00",
+            "linkedin": "2026-06-10T15:35:01.570897+00:00",
+            "instagram": "2026-06-10T15:35:18.778753+00:00"
+        },
+        "updated_at": "2026-06-10T15:35:18.778768+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/": {
+        "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+        "source": "AI News",
+        "published_date": "2026-06-10T10:00:00+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953355+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/": {
+        "title": "How to sign PDFs easily online with a PDF signer",
+        "source": "AI News",
+        "published_date": "2026-06-09T09:01:51+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953358+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/": {
+        "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
+        "source": "AI News",
+        "published_date": "2026-06-09T08:50:39+00:00",
+        "discovered_at": "2026-06-10T15:34:03.953361+00:00",
         "status": "PENDING"
     }
 }
