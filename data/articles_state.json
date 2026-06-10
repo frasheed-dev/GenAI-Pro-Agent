@@ -4027,5 +4027,73 @@
         "published_date": "2026-06-09T16:09:14+00:00",
         "discovered_at": "2026-06-09T20:07:24.331312+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/nextdoor": {
+        "title": "How engineers at Nextdoor use Codex to build without limits",
+        "source": "OpenAI",
+        "published_date": "2026-06-09T12:00:00+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450253+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/notion": {
+        "title": "What Codex unlocks for Notion",
+        "source": "OpenAI",
+        "published_date": "2026-06-09T10:00:00+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450261+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+        "title": "Industrial policy for the Intelligence Age",
+        "source": "OpenAI",
+        "published_date": "2026-06-09T00:00:00+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450264+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/": {
+        "title": "Google just fired a warning shot in the AI subscription price wars",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T00:26:10+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450269+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-10T03:41:11.035650+00:00",
+            "linkedin": "2026-06-10T03:41:28.150221+00:00",
+            "instagram": "2026-06-10T03:41:45.714015+00:00"
+        },
+        "updated_at": "2026-06-10T03:41:45.714028+00:00"
+    },
+    "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/": {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T23:17:51+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450274+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/": {
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T20:50:17+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450278+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/": {
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T20:37:49+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450281+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/": {
+        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-09T17:00:00+00:00",
+        "discovered_at": "2026-06-10T03:40:32.450285+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-10T03:41:11.040665+00:00",
+            "linkedin": "2026-06-10T03:41:28.155153+00:00",
+            "instagram": "2026-06-10T03:41:45.720162+00:00"
+        },
+        "updated_at": "2026-06-10T03:41:45.720170+00:00"
     }
 }
