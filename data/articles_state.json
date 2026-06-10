@@ -4126,7 +4126,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-10T07:05:26+00:00",
         "discovered_at": "2026-06-10T09:59:51.105539+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-10T20:30:40.620489+00:00",
+            "linkedin": "2026-06-10T20:30:57.993756+00:00",
+            "instagram": "2026-06-10T20:31:16.070889+00:00"
+        },
+        "updated_at": "2026-06-10T20:31:16.070896+00:00"
     },
     "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/": {
         "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
@@ -4154,7 +4160,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-10T13:07:56+00:00",
         "discovered_at": "2026-06-10T15:34:03.953346+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-10T20:30:40.615117+00:00",
+            "linkedin": "2026-06-10T20:30:57.988399+00:00",
+            "instagram": "2026-06-10T20:31:16.065815+00:00"
+        },
+        "updated_at": "2026-06-10T20:31:16.065828+00:00"
     },
     "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/": {
         "title": "Siri AI arrives with Google inside, and much of the world is locked out",
@@ -4188,6 +4200,48 @@
         "source": "AI News",
         "published_date": "2026-06-09T08:50:39+00:00",
         "discovered_at": "2026-06-10T15:34:03.953361+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
+        "title": "PRC-linked influence operations are targeting AI debates in the US",
+        "source": "OpenAI",
+        "published_date": "2026-06-10T12:00:00+00:00",
+        "discovered_at": "2026-06-10T20:29:58.470789+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/": {
+        "title": "Fresh off bond sale, Amazon borrows $17.5 billion from banks as AI spending continues",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T20:19:31+00:00",
+        "discovered_at": "2026-06-10T20:29:58.470800+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/": {
+        "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T17:07:35+00:00",
+        "discovered_at": "2026-06-10T20:29:58.470804+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/": {
+        "title": "How memory tools can make AI models worse",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T16:11:08+00:00",
+        "discovered_at": "2026-06-10T20:29:58.470808+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/": {
+        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T15:41:22+00:00",
+        "discovered_at": "2026-06-10T20:29:58.470812+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/": {
+        "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-10T15:00:00+00:00",
+        "discovered_at": "2026-06-10T20:29:58.470815+00:00",
         "status": "PENDING"
     }
 }
