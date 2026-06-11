@@ -4247,7 +4247,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-10T15:41:22+00:00",
         "discovered_at": "2026-06-10T20:29:58.470812+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-11T10:24:47.564625+00:00",
+            "linkedin": "2026-06-11T10:25:05.000340+00:00",
+            "instagram": "2026-06-11T10:25:22.865262+00:00"
+        },
+        "updated_at": "2026-06-11T10:25:22.865269+00:00"
     },
     "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/": {
         "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
@@ -4282,6 +4288,26 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-10T22:31:19+00:00",
         "discovered_at": "2026-06-11T03:57:12.646794+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-11T10:24:47.559377+00:00",
+            "linkedin": "2026-06-11T10:25:04.995019+00:00",
+            "instagram": "2026-06-11T10:25:22.860073+00:00"
+        },
+        "updated_at": "2026-06-11T10:25:22.860087+00:00"
+    },
+    "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
+        "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+        "source": "OpenAI",
+        "published_date": "2026-06-11T00:00:00+00:00",
+        "discovered_at": "2026-06-11T10:24:08.185509+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/": {
+        "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T04:02:19+00:00",
+        "discovered_at": "2026-06-11T10:24:08.185520+00:00",
         "status": "PENDING"
     }
 }
