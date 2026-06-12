@@ -4309,5 +4309,164 @@
         "published_date": "2026-06-11T04:02:19+00:00",
         "discovered_at": "2026-06-11T10:24:08.185520+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/academy-courses-applying-ai-at-work": {
+        "title": "New OpenAI Academy courses for the next era of work",
+        "source": "OpenAI",
+        "published_date": "2026-06-12T10:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164966+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/preply": {
+        "title": "How Preply combines AI and human tutors to personalize learning",
+        "source": "OpenAI",
+        "published_date": "2026-06-12T00:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164973+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-to-acquire-ona": {
+        "title": "OpenAI to acquire Ona",
+        "source": "OpenAI",
+        "published_date": "2026-06-11T00:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164977+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-12T22:44:36.759657+00:00",
+            "linkedin": "2026-06-12T22:44:53.729311+00:00",
+            "instagram": "2026-06-12T22:45:11.453736+00:00"
+        },
+        "updated_at": "2026-06-12T22:45:11.453744+00:00"
+    },
+    "https://openai.com/index/bbva": {
+        "title": "BBVA puts AI at the core of banking with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-06-11T00:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164981+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/": {
+        "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T20:38:09+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164987+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/": {
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T20:04:38+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164992+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/": {
+        "title": "Mistral is rumored to be raising €3B at €20B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T17:38:11+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164996+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/": {
+        "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T16:23:25+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164999+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/": {
+        "title": "It’s hot IPO summer, and the MANGOS are ripe",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T15:50:52+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165002+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/": {
+        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T04:30:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165005+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/": {
+        "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T01:48:07+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165008+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/": {
+        "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T01:04:38+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165011+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/": {
+        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T20:33:10+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165014+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/": {
+        "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T19:58:01+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/": {
+        "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T16:36:20+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165019+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/": {
+        "title": "Pool’s new app turns your screenshots into something useful",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T15:30:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165022+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/": {
+        "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T14:23:43+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165025+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/": {
+        "title": "Coinbase for Agents: Automating portfolio trading with AI",
+        "source": "AI News",
+        "published_date": "2026-06-12T15:34:23+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165030+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/": {
+        "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+        "source": "AI News",
+        "published_date": "2026-06-11T11:08:17+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165033+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-12T22:44:36.753901+00:00",
+            "linkedin": "2026-06-12T22:44:53.723844+00:00",
+            "instagram": "2026-06-12T22:45:11.448206+00:00"
+        },
+        "updated_at": "2026-06-12T22:45:11.448221+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/": {
+        "title": "Xebia: Why AI agents fail without the right data foundation",
+        "source": "AI News",
+        "published_date": "2026-06-11T10:42:38+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165035+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/": {
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-11T11:00:45+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165038+00:00",
+        "status": "PENDING"
     }
 }
