@@ -2,6 +2,7 @@ import os
 import requests
 from io import BytesIO
 from urllib.parse import quote
+import base64
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 def create_circular_mask(size):
@@ -11,8 +12,30 @@ def create_circular_mask(size):
     return mask
 
 def generate_background(prompt, width=1080, height=1350):
+    together_key = os.getenv("TOGETHER_API_KEY")
     hf_token = os.getenv("HF_TOKEN")
     
+    # 1. Primary Method: Gradio Free Space (ZeroGPU)
+    try:
+        from gradio_client import Client
+        print(f"Generating background image via Hugging Face Space (FLUX) for: {prompt}")
+        # Note: token=None since it's a public space, but passing hf_token if available doesn't hurt.
+        client = Client("KingNish/Realtime-FLUX", token=hf_token)
+        
+        result = client.predict(
+            prompt=prompt,
+            seed=0,
+            width=1024,
+            height=1024,
+            api_name="/generate_image"
+        )
+        if result and len(result) > 0:
+            temp_image_path = result[0]
+            return Image.open(temp_image_path)
+    except Exception as e:
+        print(f"Gradio Space connection error: {e}")
+        print("Falling back to Hugging Face SDK...")
+
     if hf_token:
         print(f"Generating background image via Hugging Face (SDXL) for: {prompt}")
         try:
@@ -29,6 +52,11 @@ def generate_background(prompt, width=1080, height=1350):
 
     print(f"Generating background image via pollinations.ai for: {prompt}")
     url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
+    
+    pollinations_key = os.getenv("POLLINATIONS_API_KEY")
+    if pollinations_key:
+        url += f"&key={pollinations_key}"
+        
     response = requests.get(url)
     
     if response.status_code == 200:

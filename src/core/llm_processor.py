@@ -83,11 +83,11 @@ def draft_social_post(platform, curated_articles):
             "- Voice: Write like a senior AI researcher sharing insights with industry peers over coffee. "
             "Knowledgeable, direct, occasionally dry about AI hype. Never corporate or press-release-y.\n"
             "- Structure: Start with a single punchy sentence that earns the stop-scroll. "
-            "Then deliver your analysis and opinion in short bursts — 1 to 2 sentences, then a blank line, "
-            "then the next thought. Never chain more than 2 sentences without a blank line between them. "
-            "Close with a statement or question that invites real disagreement — skip it if it feels forced.\n"
-            "- Length: 900-1,400 characters.\n"
-            "- Format: Short lines. Blank lines between every thought. No bullet points. No walls of text.\n"
+            "Next, provide a 'Key Highlights' section with 2-3 short, distinct bullet points (using standard '•' or '-' characters on separate lines) summarizing the core facts. "
+            "Then, provide a brief executive summary (1-2 short paragraphs) delivering your analysis and opinion on why it matters. "
+            "Close with a statement or question that invites real disagreement.\n"
+            "- Length: 500-900 characters. Keep it extremely scannable.\n"
+            "- Format: MUST include a bulleted list for the facts. Blank lines between sections. No walls of text.\n"
         )
     elif platform.lower() == "x" or platform.lower() == "twitter":
         platform_instructions = (
@@ -103,12 +103,13 @@ def draft_social_post(platform, curated_articles):
             "PLATFORM: Facebook\n"
             "- Voice: Write like a knowledgeable friend explaining big AI news to a curious but "
             "non-technical audience. Warm, approachable, grounded. Never condescending.\n"
-            "- If you use a technical term, briefly explain it in plain English right after — inline, not in a separate block.\n"
-            "- Structure: One punchy opener sentence. Then a blank line. Then explain the news simply in "
-            "short bursts of 1-2 sentences with a blank line between each. Why should a normal person care? "
-            "Answer that in 1-2 sentences. End with a genuine conversational question.\n"
-            "- Length: 800-1,200 characters. Every sentence should be readable on mobile in a single glance.\n"
+            "- If you use a technical term, briefly explain it in plain English right after.\n"
+            "- Structure: One punchy opener sentence. Then a 'Key Highlights' section with 2-3 short, distinct bullet points (using standard '•' or '-' characters on separate lines). "
+            "Then explain the news simply in a short executive summary (1-2 paragraphs) answering: Why should a normal person care? "
+            "End with a genuine conversational question.\n"
+            "- Length: 500-900 characters. Every sentence should be readable on mobile in a single glance.\n"
             "- Emojis: 2-4 total, placed where they add meaning — not as decoration.\n"
+            "- Format: MUST include a bulleted list. Blank lines between sections.\n"
         )
     elif platform.lower() == "instagram":
         platform_instructions = (
