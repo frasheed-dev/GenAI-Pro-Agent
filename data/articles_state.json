@@ -4398,7 +4398,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-12T01:04:38+00:00",
         "discovered_at": "2026-06-12T22:43:43.165011+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T03:41:50.367773+00:00",
+            "linkedin": "2026-06-13T03:42:07.821142+00:00",
+            "instagram": "2026-06-13T03:42:25.258612+00:00"
+        },
+        "updated_at": "2026-06-13T03:42:25.258627+00:00"
     },
     "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/": {
         "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
@@ -4467,6 +4473,26 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-11T11:00:45+00:00",
         "discovered_at": "2026-06-12T22:43:43.165038+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T03:41:50.373479+00:00",
+            "linkedin": "2026-06-13T03:42:07.826722+00:00",
+            "instagram": "2026-06-13T03:42:25.264131+00:00"
+        },
+        "updated_at": "2026-06-13T03:42:25.264140+00:00"
+    },
+    "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/": {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-13T02:26:30+00:00",
+        "discovered_at": "2026-06-13T03:41:06.929659+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/": {
+        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T23:00:54+00:00",
+        "discovered_at": "2026-06-13T03:41:06.929666+00:00",
         "status": "PENDING"
     }
 }
