@@ -4349,7 +4349,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-12T20:38:09+00:00",
         "discovered_at": "2026-06-12T22:43:43.164987+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T13:59:56.339785+00:00",
+            "linkedin": "2026-06-13T14:00:18.624213+00:00",
+            "instagram": "2026-06-13T14:00:41.335848+00:00"
+        },
+        "updated_at": "2026-06-13T14:00:41.335864+00:00"
     },
     "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/": {
         "title": "SpaceX IPO: Live updates on everything you need to know",
@@ -4445,7 +4451,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-11T14:23:43+00:00",
         "discovered_at": "2026-06-12T22:43:43.165025+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T13:59:56.345538+00:00",
+            "linkedin": "2026-06-13T14:00:18.629849+00:00",
+            "instagram": "2026-06-13T14:00:41.341488+00:00"
+        },
+        "updated_at": "2026-06-13T14:00:41.341497+00:00"
     },
     "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/": {
         "title": "Coinbase for Agents: Automating portfolio trading with AI",
