@@ -4461,7 +4461,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-11T16:36:20+00:00",
         "discovered_at": "2026-06-12T22:43:43.165019+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T14:03:18.271097+00:00",
+            "linkedin": "2026-06-14T14:03:35.388094+00:00",
+            "instagram": "2026-06-14T14:03:53.317007+00:00"
+        },
+        "updated_at": "2026-06-14T14:03:53.317014+00:00"
     },
     "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/": {
         "title": "Pool’s new app turns your screenshots into something useful",
@@ -4488,7 +4494,13 @@
         "source": "AI News",
         "published_date": "2026-06-12T15:34:23+00:00",
         "discovered_at": "2026-06-12T22:43:43.165030+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T14:03:18.265368+00:00",
+            "linkedin": "2026-06-14T14:03:35.382363+00:00",
+            "instagram": "2026-06-14T14:03:53.311423+00:00"
+        },
+        "updated_at": "2026-06-14T14:03:53.311436+00:00"
     },
     "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/": {
         "title": "Visa ChatGPT integration enables AI agent retail purchasing",
