@@ -4553,7 +4553,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-12T23:00:54+00:00",
         "discovered_at": "2026-06-13T03:41:06.929666+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T19:27:22.929571+00:00",
+            "linkedin": "2026-06-14T19:27:40.061682+00:00",
+            "instagram": "2026-06-14T19:27:57.748682+00:00"
+        },
+        "updated_at": "2026-06-14T19:27:57.748689+00:00"
     },
     "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/": {
         "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
@@ -4593,7 +4599,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-14T03:00:00+00:00",
         "discovered_at": "2026-06-14T04:02:18.063062+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T19:27:22.923816+00:00",
+            "linkedin": "2026-06-14T19:27:40.056018+00:00",
+            "instagram": "2026-06-14T19:27:57.742976+00:00"
+        },
+        "updated_at": "2026-06-14T19:27:57.742988+00:00"
     },
     "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/": {
         "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
@@ -4607,6 +4619,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-13T20:42:31+00:00",
         "discovered_at": "2026-06-14T04:02:18.063072+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/": {
+        "title": "As AI companies race to go public, who else is along for the ride?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-14T16:38:09+00:00",
+        "discovered_at": "2026-06-14T19:26:34.813208+00:00",
         "status": "PENDING"
     }
 }
