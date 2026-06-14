@@ -4328,7 +4328,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-12T00:00:00+00:00",
         "discovered_at": "2026-06-12T22:43:43.164973+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T09:35:12.308230+00:00",
+            "linkedin": "2026-06-14T09:35:30.403040+00:00",
+            "instagram": "2026-06-14T09:35:48.348205+00:00"
+        },
+        "updated_at": "2026-06-14T09:35:48.348213+00:00"
     },
     "https://openai.com/index/openai-to-acquire-ona": {
         "title": "OpenAI to acquire Ona",
@@ -4408,7 +4414,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-12T04:30:00+00:00",
         "discovered_at": "2026-06-12T22:43:43.165005+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T09:35:12.302488+00:00",
+            "linkedin": "2026-06-14T09:35:30.397185+00:00",
+            "instagram": "2026-06-14T09:35:48.342547+00:00"
+        },
+        "updated_at": "2026-06-14T09:35:48.342562+00:00"
     },
     "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/": {
         "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
