@@ -4309,5 +4309,405 @@
         "published_date": "2026-06-11T04:02:19+00:00",
         "discovered_at": "2026-06-11T10:24:08.185520+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/academy-courses-applying-ai-at-work": {
+        "title": "New OpenAI Academy courses for the next era of work",
+        "source": "OpenAI",
+        "published_date": "2026-06-12T10:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164966+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T04:03:27.381256+00:00",
+            "linkedin": "2026-06-14T04:03:44.779213+00:00",
+            "instagram": "2026-06-14T04:04:15.169779+00:00"
+        },
+        "updated_at": "2026-06-14T04:04:15.169788+00:00"
+    },
+    "https://openai.com/index/preply": {
+        "title": "How Preply combines AI and human tutors to personalize learning",
+        "source": "OpenAI",
+        "published_date": "2026-06-12T00:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164973+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T09:35:12.308230+00:00",
+            "linkedin": "2026-06-14T09:35:30.403040+00:00",
+            "instagram": "2026-06-14T09:35:48.348205+00:00"
+        },
+        "updated_at": "2026-06-14T09:35:48.348213+00:00"
+    },
+    "https://openai.com/index/openai-to-acquire-ona": {
+        "title": "OpenAI to acquire Ona",
+        "source": "OpenAI",
+        "published_date": "2026-06-11T00:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164977+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-12T22:44:36.759657+00:00",
+            "linkedin": "2026-06-12T22:44:53.729311+00:00",
+            "instagram": "2026-06-12T22:45:11.453736+00:00"
+        },
+        "updated_at": "2026-06-12T22:45:11.453744+00:00"
+    },
+    "https://openai.com/index/bbva": {
+        "title": "BBVA puts AI at the core of banking with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-06-11T00:00:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164981+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/": {
+        "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T20:38:09+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164987+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T13:59:56.339785+00:00",
+            "linkedin": "2026-06-13T14:00:18.624213+00:00",
+            "instagram": "2026-06-13T14:00:41.335848+00:00"
+        },
+        "updated_at": "2026-06-13T14:00:41.335864+00:00"
+    },
+    "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/": {
+        "title": "SpaceX IPO: Live updates on everything you need to know",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T20:04:38+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164992+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/": {
+        "title": "Mistral is rumored to be raising €3B at €20B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T17:38:11+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164996+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T08:59:10.929883+00:00",
+            "linkedin": "2026-06-13T08:59:28.187245+00:00",
+            "instagram": "2026-06-13T08:59:46.184064+00:00"
+        },
+        "updated_at": "2026-06-13T08:59:46.184070+00:00"
+    },
+    "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/": {
+        "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T16:23:25+00:00",
+        "discovered_at": "2026-06-12T22:43:43.164999+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T04:03:27.376073+00:00",
+            "linkedin": "2026-06-14T04:03:44.774089+00:00",
+            "instagram": "2026-06-14T04:04:15.164821+00:00"
+        },
+        "updated_at": "2026-06-14T04:04:15.164835+00:00"
+    },
+    "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/": {
+        "title": "It’s hot IPO summer, and the MANGOS are ripe",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T15:50:52+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165002+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/": {
+        "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T04:30:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165005+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T09:35:12.302488+00:00",
+            "linkedin": "2026-06-14T09:35:30.397185+00:00",
+            "instagram": "2026-06-14T09:35:48.342547+00:00"
+        },
+        "updated_at": "2026-06-14T09:35:48.342562+00:00"
+    },
+    "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/": {
+        "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T01:48:07+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165008+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/": {
+        "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T01:04:38+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165011+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T03:41:50.367773+00:00",
+            "linkedin": "2026-06-13T03:42:07.821142+00:00",
+            "instagram": "2026-06-13T03:42:25.258612+00:00"
+        },
+        "updated_at": "2026-06-13T03:42:25.258627+00:00"
+    },
+    "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/": {
+        "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T20:33:10+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165014+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/": {
+        "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T19:58:01+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165016+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/": {
+        "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T16:36:20+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165019+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T14:03:18.271097+00:00",
+            "linkedin": "2026-06-14T14:03:35.388094+00:00",
+            "instagram": "2026-06-14T14:03:53.317007+00:00"
+        },
+        "updated_at": "2026-06-14T14:03:53.317014+00:00"
+    },
+    "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/": {
+        "title": "Pool’s new app turns your screenshots into something useful",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T15:30:00+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165022+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/": {
+        "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-11T14:23:43+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165025+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T13:59:56.345538+00:00",
+            "linkedin": "2026-06-13T14:00:18.629849+00:00",
+            "instagram": "2026-06-13T14:00:41.341488+00:00"
+        },
+        "updated_at": "2026-06-13T14:00:41.341497+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/": {
+        "title": "Coinbase for Agents: Automating portfolio trading with AI",
+        "source": "AI News",
+        "published_date": "2026-06-12T15:34:23+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165030+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T14:03:18.265368+00:00",
+            "linkedin": "2026-06-14T14:03:35.382363+00:00",
+            "instagram": "2026-06-14T14:03:53.311423+00:00"
+        },
+        "updated_at": "2026-06-14T14:03:53.311436+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/": {
+        "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+        "source": "AI News",
+        "published_date": "2026-06-11T11:08:17+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165033+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-12T22:44:36.753901+00:00",
+            "linkedin": "2026-06-12T22:44:53.723844+00:00",
+            "instagram": "2026-06-12T22:45:11.448206+00:00"
+        },
+        "updated_at": "2026-06-12T22:45:11.448221+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/": {
+        "title": "Xebia: Why AI agents fail without the right data foundation",
+        "source": "AI News",
+        "published_date": "2026-06-11T10:42:38+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165035+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/": {
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-11T11:00:45+00:00",
+        "discovered_at": "2026-06-12T22:43:43.165038+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T03:41:50.373479+00:00",
+            "linkedin": "2026-06-13T03:42:07.826722+00:00",
+            "instagram": "2026-06-13T03:42:25.264131+00:00"
+        },
+        "updated_at": "2026-06-13T03:42:25.264140+00:00"
+    },
+    "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/": {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-13T02:26:30+00:00",
+        "discovered_at": "2026-06-13T03:41:06.929659+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T08:59:10.924124+00:00",
+            "linkedin": "2026-06-13T08:59:28.181949+00:00",
+            "instagram": "2026-06-13T08:59:46.178740+00:00"
+        },
+        "updated_at": "2026-06-13T08:59:46.178753+00:00"
+    },
+    "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/": {
+        "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-12T23:00:54+00:00",
+        "discovered_at": "2026-06-13T03:41:06.929666+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T19:27:22.929571+00:00",
+            "linkedin": "2026-06-14T19:27:40.061682+00:00",
+            "instagram": "2026-06-14T19:27:57.748682+00:00"
+        },
+        "updated_at": "2026-06-14T19:27:57.748689+00:00"
+    },
+    "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/": {
+        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-13T04:14:19+00:00",
+        "discovered_at": "2026-06-13T08:58:07.782552+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/": {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-13T19:11:41+00:00",
+        "discovered_at": "2026-06-13T19:25:35.988897+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T19:26:47.615706+00:00",
+            "linkedin": "2026-06-13T19:27:05.545401+00:00",
+            "instagram": "2026-06-13T19:27:23.602808+00:00"
+        },
+        "updated_at": "2026-06-13T19:27:23.602820+00:00"
+    },
+    "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/": {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-13T16:47:18+00:00",
+        "discovered_at": "2026-06-13T19:25:35.988903+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-13T19:26:47.621297+00:00",
+            "linkedin": "2026-06-13T19:27:05.550774+00:00",
+            "instagram": "2026-06-13T19:27:23.608235+00:00"
+        },
+        "updated_at": "2026-06-13T19:27:23.608242+00:00"
+    },
+    "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/": {
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-14T03:00:00+00:00",
+        "discovered_at": "2026-06-14T04:02:18.063062+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-14T19:27:22.923816+00:00",
+            "linkedin": "2026-06-14T19:27:40.056018+00:00",
+            "instagram": "2026-06-14T19:27:57.742976+00:00"
+        },
+        "updated_at": "2026-06-14T19:27:57.742988+00:00"
+    },
+    "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/": {
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-14T00:03:49+00:00",
+        "discovered_at": "2026-06-14T04:02:18.063069+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/": {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-13T20:42:31+00:00",
+        "discovered_at": "2026-06-14T04:02:18.063072+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/": {
+        "title": "As AI companies race to go public, who else is along for the ride?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-14T16:38:09+00:00",
+        "discovered_at": "2026-06-14T19:26:34.813208+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-openai-partner-network": {
+        "title": "Introducing the OpenAI Partner Network",
+        "source": "OpenAI",
+        "published_date": "2026-06-14T17:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425604+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-15T15:52:44.722205+00:00",
+            "linkedin": "2026-06-15T15:53:02.101188+00:00",
+            "instagram": "2026-06-15T15:53:20.403597+00:00"
+        },
+        "updated_at": "2026-06-15T15:53:20.403606+00:00"
+    },
+    "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/": {
+        "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T15:29:51+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425611+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/": {
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T14:34:45+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425615+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/": {
+        "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T13:46:08+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425618+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/": {
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T13:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425621+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/": {
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T12:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425625+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/": {
+        "title": "The AI layoff wave is becoming a powder keg",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T07:25:41+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425628+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/": {
+        "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+        "source": "AI News",
+        "published_date": "2026-06-15T11:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425637+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/": {
+        "title": "Accenture: Consumers show growing trust in AI shopping agents",
+        "source": "AI News",
+        "published_date": "2026-06-15T10:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425641+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/": {
+        "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+        "source": "AI News",
+        "published_date": "2026-06-15T08:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425644+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-15T15:52:44.716235+00:00",
+            "linkedin": "2026-06-15T15:53:02.095533+00:00",
+            "instagram": "2026-06-15T15:53:20.397854+00:00"
+        },
+        "updated_at": "2026-06-15T15:53:20.397867+00:00"
     }
 }
