@@ -2,8 +2,8 @@ name: Autonomous AI Agent Cron
 
 on:
   schedule:
-    # Runs every 6 hours. Adjust the cron syntax as needed.
-    - cron: '0 */6 * * *'
+    # Runs every 8 hours (3 times a day) to save credits
+    - cron: '0 */8 * * *'
   workflow_dispatch: # Allows manual triggering from the GitHub UI
 
 jobs:
