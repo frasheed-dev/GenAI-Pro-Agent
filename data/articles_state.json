@@ -4627,5 +4627,87 @@
         "published_date": "2026-06-14T16:38:09+00:00",
         "discovered_at": "2026-06-14T19:26:34.813208+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-openai-partner-network": {
+        "title": "Introducing the OpenAI Partner Network",
+        "source": "OpenAI",
+        "published_date": "2026-06-14T17:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425604+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-15T15:52:44.722205+00:00",
+            "linkedin": "2026-06-15T15:53:02.101188+00:00",
+            "instagram": "2026-06-15T15:53:20.403597+00:00"
+        },
+        "updated_at": "2026-06-15T15:53:20.403606+00:00"
+    },
+    "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/": {
+        "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T15:29:51+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425611+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/": {
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T14:34:45+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425615+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/": {
+        "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T13:46:08+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425618+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/": {
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T13:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425621+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/": {
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T12:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425625+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/": {
+        "title": "The AI layoff wave is becoming a powder keg",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T07:25:41+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425628+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/": {
+        "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+        "source": "AI News",
+        "published_date": "2026-06-15T11:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425637+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/": {
+        "title": "Accenture: Consumers show growing trust in AI shopping agents",
+        "source": "AI News",
+        "published_date": "2026-06-15T10:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425641+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/": {
+        "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+        "source": "AI News",
+        "published_date": "2026-06-15T08:00:00+00:00",
+        "discovered_at": "2026-06-15T15:51:57.425644+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-15T15:52:44.716235+00:00",
+            "linkedin": "2026-06-15T15:53:02.095533+00:00",
+            "instagram": "2026-06-15T15:53:20.397854+00:00"
+        },
+        "updated_at": "2026-06-15T15:53:20.397867+00:00"
     }
 }
