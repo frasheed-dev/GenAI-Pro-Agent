@@ -74,6 +74,16 @@ New data since last revision:
 
 - 🎯 **Revised technical priority #1 — Short-Form Video Engine (Reels/Shorts):** Given that Instagram static images are confirmed dead for organic reach, and that Reels/Shorts get distributed to non-followers by default, the video pipeline is now the single most important remaining technical build. Infrastructure (`video_generator.py`, `tts_engine.py`, `kinetic_captions.py`, `ffmpeg`) already exists in the codebase. Work needed: wire into `main.py` and add a Make.com Reels route.
 
+**[REVISED — 2026-06-15, Antigravity] — Image API Pivot & Cost Optimization**
+
+New data and architectural shifts since last revision:
+
+- ❌ **Free Image APIs Deprecated:** Pollinations.ai and Hugging Face Free Spaces (Gradio) began aggressively returning 429 and 402 rate-limit errors. Automated high-frequency generation from GitHub Actions shared IPs is permanently blocked by these platforms.
+- ✅ **Google Gemini API Integration:** Pivoted to a paid, but highly cost-efficient, professional tier. Integrated Google `imagen-4.0-fast-generate-001` via API with a €5 monthly spend cap. This ensures 100% reliable, world-class image quality without risking runaway cloud bills.
+- 🔄 **Cron Schedule Optimization:** Updated `.github/workflows/agent_cron.yml` to run every 8 hours (3 times a day) instead of every 6 hours. This guarantees consistent audience engagement while staying well under the €5 Google API budget.
+- 🔄 **Prompt Engineering — Bulleted Executive Summaries:** Removed the strict "no bullet points" rule. LinkedIn and Facebook prompts now force a "Key Highlights" bulleted list followed by a short executive analysis. This massively improves mobile scannability.
+- 🎬 **Video Engine Architecture Confirmed:** Confirmed that the upcoming Short-Form Video Engine will not require renting expensive cloud GPUs (like Lightning.ai). `ffmpeg` will stitch the audio, images, and text directly on the GitHub Actions free CPU runner, keeping video compilation costs at exactly $0.
+
 ### Business Objectives
 
 **[ORIGINAL — Gemini 3.1, ~May 2026]**
@@ -182,3 +192,4 @@ The original targets remain valid. Additional context:
 | 2026-05-17 | Antigravity | ImgBB image hosting implemented (Catbox blocked on cloud IPs); LLM prompts rewritten (persona, banned phrases, platform voices); X paused (API cost); logo size tuned |
 | 2026-05-18 | Antigravity | Business plan updated with 7-day performance data; Reels & newsletter moved to Q2; SaaS productization moved to Q3; PhD credibility strategy added; revenue priority stack revised |
 | 2026-05-23 | Antigravity | Instagram confirmed live end-to-end; 7-day data shows static images = 0 organic reach on Instagram; Reels/Shorts elevated to #1 technical priority; LLM prompts overhauled to enforce aerated short-sentence format across all platforms; channel prioritization updated (LinkedIn → primary, Facebook → maintain, Instagram static → hold pending Reels) |
+| 2026-06-15 | Antigravity | Free image APIs deprecated due to strict GitHub Action IP rate-limits; integrated Google Imagen 4 Fast API with €5 monthly cap; optimized cron schedule to 3x/day; upgraded LLM prompts to Bulleted Executive Summary format; confirmed zero-cost ffmpeg video rendering on GitHub Actions |
