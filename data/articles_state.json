@@ -4653,7 +4653,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-15T14:34:45+00:00",
         "discovered_at": "2026-06-15T15:51:57.425615+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-16T02:35:18.362595+00:00",
+            "linkedin": "2026-06-16T02:35:35.760874+00:00",
+            "instagram": "2026-06-16T02:35:53.203975+00:00"
+        },
+        "updated_at": "2026-06-16T02:35:53.203981+00:00"
     },
     "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/": {
         "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
@@ -4709,5 +4715,46 @@
             "instagram": "2026-06-15T15:53:20.397854+00:00"
         },
         "updated_at": "2026-06-15T15:53:20.397867+00:00"
+    },
+    "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/": {
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T23:51:44+00:00",
+        "discovered_at": "2026-06-16T02:34:40.341418+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/": {
+        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T21:50:21+00:00",
+        "discovered_at": "2026-06-16T02:34:40.341424+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-16T02:35:18.356783+00:00",
+            "linkedin": "2026-06-16T02:35:35.755051+00:00",
+            "instagram": "2026-06-16T02:35:53.198354+00:00"
+        },
+        "updated_at": "2026-06-16T02:35:53.198367+00:00"
+    },
+    "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/": {
+        "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T18:30:58+00:00",
+        "discovered_at": "2026-06-16T02:34:40.341428+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/": {
+        "title": "SpaceX is public: Everything you need to know post-IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-15T18:30:34+00:00",
+        "discovered_at": "2026-06-16T02:34:40.341431+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/": {
+        "title": "Why do South Koreans love AI so much?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-15T18:46:08+00:00",
+        "discovered_at": "2026-06-16T02:34:40.341440+00:00",
+        "status": "PENDING"
     }
 }
