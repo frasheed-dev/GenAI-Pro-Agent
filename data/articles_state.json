@@ -4694,7 +4694,13 @@
         "source": "AI News",
         "published_date": "2026-06-15T11:00:00+00:00",
         "discovered_at": "2026-06-15T15:51:57.425637+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-16T12:45:41.896042+00:00",
+            "linkedin": "2026-06-16T12:46:02.762771+00:00",
+            "instagram": "2026-06-16T12:46:29.371168+00:00"
+        },
+        "updated_at": "2026-06-16T12:46:29.371178+00:00"
     },
     "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/": {
         "title": "Accenture: Consumers show growing trust in AI shopping agents",
@@ -4755,6 +4761,54 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-15T18:46:08+00:00",
         "discovered_at": "2026-06-16T02:34:40.341440+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/": {
+        "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-16T11:21:41+00:00",
+        "discovered_at": "2026-06-16T12:44:51.287460+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/": {
+        "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-16T06:59:00+00:00",
+        "discovered_at": "2026-06-16T12:44:51.287467+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/": {
+        "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+        "source": "AI News",
+        "published_date": "2026-06-16T10:00:00+00:00",
+        "discovered_at": "2026-06-16T12:44:51.287477+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-16T12:45:41.889833+00:00",
+            "linkedin": "2026-06-16T12:46:02.756537+00:00",
+            "instagram": "2026-06-16T12:46:29.365176+00:00"
+        },
+        "updated_at": "2026-06-16T12:46:29.365192+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/": {
+        "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+        "source": "AI News",
+        "published_date": "2026-06-16T08:06:43+00:00",
+        "discovered_at": "2026-06-16T12:44:51.287482+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/": {
+        "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+        "source": "AI News",
+        "published_date": "2026-06-16T07:49:07+00:00",
+        "discovered_at": "2026-06-16T12:44:51.287485+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/": {
+        "title": "Want to get a data center online quickly? Give it some flex.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-16T09:00:00+00:00",
+        "discovered_at": "2026-06-16T12:44:51.287489+00:00",
         "status": "PENDING"
     }
 }
