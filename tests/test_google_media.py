@@ -16,43 +16,37 @@ if not API_KEY:
 IMAGEN_URL = f"https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-generate-001:predict?key={API_KEY}"
 VEO_URL = f"https://generativelanguage.googleapis.com/v1beta/models/veo-3.1-generate-preview:predictLongRunning?key={API_KEY}"
 
-def test_imagen_3():
-    print("\n--- Testing Google Imagen 3 ---")
-    print("Sending prompt to Imagen 3...")
+def test_nano_banana():
+    print("\n--- Testing Google Nano Banana (gemini-2.5-flash-image) ---")
+    print("Sending prompt to Nano Banana...")
     
-    payload = {
-        "instances": [
-            {
-                "prompt": "A futuristic glowing robotic fox in a cybernetic forest, photorealistic, 8k resolution"
-            }
-        ],
-        "parameters": {
-            "sampleCount": 1,
-            "aspectRatio": "1:1"
-        }
-    }
-    
-    headers = {"Content-Type": "application/json"}
-    
-    response = requests.post(IMAGEN_URL, json=payload, headers=headers)
-    
-    if response.status_code == 200:
-        data = response.json()
-        try:
-            # Extract base64 image
-            b64_img = data["predictions"][0]["bytesBase64Encoded"]
+    try:
+        import google.generativeai as genai
+        import io
+        from PIL import Image
+        
+        genai.configure(api_key=API_KEY)
+        model = genai.GenerativeModel('gemini-2.5-flash-image')
+        response = model.generate_content('A futuristic glowing robotic fox in a cybernetic forest, photorealistic, 8k resolution')
+        
+        # Extract inline_data from the response parts
+        image_bytes = None
+        for part in response.candidates[0].content.parts:
+            if getattr(part, "inline_data", None) and part.inline_data.data:
+                image_bytes = part.inline_data.data
+                break
+                
+        if image_bytes:
             os.makedirs("drafts", exist_ok=True)
-            with open("drafts/test_imagen3.jpg", "wb") as f:
-                f.write(base64.b64decode(b64_img))
-            print("Success! Imagen 3 image saved to 'drafts/test_imagen3.jpg'")
-        except Exception as e:
-            print(f"Error parsing image response: {e}")
-            print(data)
-    elif response.status_code == 404:
-        print("Error 404: Imagen 3 API is not enabled or not available for this API key/region.")
-        print(response.text)
-    else:
-        print(f"Error {response.status_code}: {response.text}")
+            with open("drafts/test_nano_banana.png", "wb") as f:
+                f.write(image_bytes)
+            print("Success! Nano Banana image saved to 'drafts/test_nano_banana.png'")
+        else:
+            print("Error: Google API succeeded but no image data was found in the response parts.")
+            print(response.text)
+            
+    except Exception as e:
+        print(f"Error connecting to Nano Banana: {e}")
 
 def test_veo_video():
     print("\n--- Testing Google Veo (Video Generation) ---")
@@ -95,6 +89,6 @@ def test_veo_video():
 
 if __name__ == "__main__":
     print("Starting Google Media APIs Test...")
-    test_imagen_3()
-    test_veo_video()
+    test_nano_banana()
+    #test_veo_video()
     print("\nTest complete.")

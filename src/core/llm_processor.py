@@ -192,9 +192,25 @@ def generate_image_metadata(post_content):
     time.sleep(15)
     
     prompt = (
-        "Based on the following social media post, generate two things for an image generator:\n"
-        "1. 'headline': A punchy 10-15 word headline. Wrap the 1 or 2 most important keywords or phrases in asterisks (e.g. Elon Musk buys *AI Startup* for *$60 Billion*).\n"
-        "2. 'image_prompt': A descriptive prompt for an AI image generator to create the background. Do not include text in the prompt. Make it a 3D illustration, cartoonize style, vibrant colors, and relevant to the technology news.\n\n"
+        "Based on the following social media post, generate two things for an image generator:\n\n"
+        "1. 'headline': A punchy 10-15 word headline that captures the single most newsworthy fact. "
+        "Wrap the 1 or 2 most important keywords or phrases in asterisks (e.g. Elon Musk buys *AI Startup* for *$60 Billion*).\n\n"
+        "2. 'image_prompt': A highly detailed prompt for a premium AI image generator. Follow ALL of these rules:\n"
+        "   - SUBJECT: Describe ONE clear, specific visual subject that DIRECTLY represents the news story. "
+        "     Avoid generic 'technology background' clichés. For example: if the news is about a chatbot, show a "
+        "     glowing humanoid AI conversing with a human; if it's about chip manufacturing, show a "
+        "     photorealistic silicon wafer being assembled by robotic arms.\n"
+        "   - STYLE: Bold, clean digital illustration. Think: a vibrant tech editorial graphic — \n"
+        "     flat-ish design with subtle depth, strong silhouettes, and punchy saturated colors \n"
+        "     (deep navy, electric teal, amber/gold accents). NOT photorealistic. NOT hyper-detailed. \n"
+        "     Simple enough to read at a glance on a phone screen.\n"
+        "   - COMPOSITION: The main subject must be in the UPPER or MIDDLE portion of the frame. "
+        "     The lower 40% of the image must be darker/simpler — it will be covered by a text gradient overlay.\n"
+        "   - LIGHTING: Dramatic, directional lighting. A single strong key light source (backlit, rim-lit, or "
+        "     top-down studio). Deep shadows. Avoid flat, evenly lit scenes.\n"
+        "   - NEGATIVE (mention explicitly in the prompt): No text, no UI mockups, no charts, no dashboards, "
+        "     no watermarks, no logos, no cluttered backgrounds.\n"
+        "   - LENGTH: The image_prompt must be 60-120 words. Be specific and descriptive.\n\n"
         f"Post Content:\n{post_content}\n\n"
         "Return the result strictly as a valid JSON object like this:\n"
         "{\n"
@@ -257,8 +273,11 @@ def draft_reel_script(curated_articles):
         "- The narration must be conversational, sharp, and energetic (like a tech YouTuber).\n"
         "- The caption must be an ultra-short (5-10 words maximum) on-screen summary of the narration.\n"
         "- CRITICAL: Inside the caption, wrap the 1 or 2 most important keywords in asterisks (e.g. 'The *future* is here').\n"
-        "- The image_prompt must describe a visually stunning background for an AI image generator "
-        "(cinematic, no text, no words, abstract technology or dramatic visualization).\n\n"
+        "- The image_prompt must describe a SPECIFIC background for an AI image generator. "\
+        "Rules: bold clean digital illustration style (NOT photorealistic), story-specific subject (NOT generic tech), "\
+        "strong silhouettes with punchy saturated colors (deep navy, electric teal, amber accents), "\
+        "main subject in upper/middle frame (lower 40% used for text overlay), no text, no UI dashboards, no charts, "\
+        "simple enough to read on a phone screen, 60-100 words.\n\n"
         "News Developments:\n"
     )
 

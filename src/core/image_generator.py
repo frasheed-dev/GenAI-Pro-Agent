@@ -15,28 +15,25 @@ def generate_background(prompt, width=1080, height=1350):
     together_key = os.getenv("TOGETHER_API_KEY")
     hf_token = os.getenv("HF_TOKEN")
     gemini_key = os.getenv("GEMINI_API_KEY")
-    
-    # 1. Primary Method: Google Imagen 4 Fast
+
+    # 1. Primary Method: Google Nano Banana (gemini-2.5-flash-image)
     if gemini_key:
-        print(f"Generating background image via Google Imagen 4 Fast for: {prompt}")
+        print(f"Generating background image via Google Nano Banana (gemini-2.5-flash-image) for: {prompt}")
         try:
-            imagen_url = f"https://generativelanguage.googleapis.com/v1beta/models/imagen-4.0-fast-generate-001:predict?key={gemini_key}"
-            payload = {
-                "instances": [{"prompt": prompt}],
-                "parameters": {"sampleCount": 1, "aspectRatio": "1:1"}
-            }
-            headers = {"Content-Type": "application/json"}
-            response = requests.post(imagen_url, json=payload, headers=headers, timeout=45)
-            
-            if response.status_code == 200:
-                data = response.json()
-                b64_img = data["predictions"][0]["bytesBase64Encoded"]
-                return Image.open(BytesIO(base64.b64decode(b64_img)))
-            else:
-                print(f"Google Imagen API failed (Status {response.status_code}): {response.text}")
-                print("Falling back to Hugging Face Free Space...")
+            import google.generativeai as genai
+            genai.configure(api_key=gemini_key)
+            model = genai.GenerativeModel('gemini-2.5-flash-image')
+            response = model.generate_content(prompt)
+
+            # Nano Banana returns content parts, we must extract the inline_data
+            for part in response.candidates[0].content.parts:
+                if getattr(part, "inline_data", None) and part.inline_data.data:
+                    return Image.open(BytesIO(part.inline_data.data))
+
+            print("Google API succeeded but no image data found in response.")
+            print("Falling back to Hugging Face Free Space...")
         except Exception as e:
-            print(f"Google Imagen connection error: {e}")
+            print(f"Google Nano Banana connection error: {e}")
             print("Falling back to Hugging Face Free Space...")
 
     # 2. Fallback Method: Gradio Free Space (ZeroGPU)
@@ -44,7 +41,7 @@ def generate_background(prompt, width=1080, height=1350):
         from gradio_client import Client
         print(f"Generating background image via Hugging Face Space (FLUX) for: {prompt}")
         client = Client("KingNish/Realtime-FLUX", token=hf_token)
-        
+
         result = client.predict(
             prompt=prompt,
             seed=0,
@@ -65,7 +62,7 @@ def generate_background(prompt, width=1080, height=1350):
             # Use the official SDK to handle dynamic routing, endpoints, and DNS issues gracefully
             from huggingface_hub import InferenceClient
             client = InferenceClient(token=hf_token)
-            
+
             # Text-to-image returns a PIL Image directly
             img = client.text_to_image(prompt, model="stabilityai/stable-diffusion-xl-base-1.0")
             return img
@@ -75,20 +72,20 @@ def generate_background(prompt, width=1080, height=1350):
 
     print(f"Generating background image via pollinations.ai for: {prompt}")
     url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
-    
+
     pollinations_key = os.getenv("POLLINATIONS_API_KEY")
     if pollinations_key:
         url += f"&key={pollinations_key}"
-        
+
     response = requests.get(url)
-    
+
     if response.status_code == 200:
         return Image.open(BytesIO(response.content))
     elif response.status_code == 402:
         print("❌ Pollinations API Error: 402 Queue Full. This IP is aggressively rate-limited.")
     else:
         print(f"Failed to fetch image from pollinations.ai. Status: {response.status_code}")
-        
+
     return None
 
 def wrap_text(text, font, max_width):
