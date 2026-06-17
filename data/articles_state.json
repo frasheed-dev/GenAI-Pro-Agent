@@ -4747,7 +4747,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-15T18:30:58+00:00",
         "discovered_at": "2026-06-16T02:34:40.341428+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-17T12:10:20.994021+00:00",
+            "linkedin": "2026-06-17T12:10:38.461643+00:00",
+            "instagram": "2026-06-17T12:10:56.202043+00:00"
+        },
+        "updated_at": "2026-06-17T12:10:56.202050+00:00"
     },
     "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/": {
         "title": "SpaceX is public: Everything you need to know post-IPO",
@@ -4829,7 +4835,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-16T18:00:00+00:00",
         "discovered_at": "2026-06-16T19:27:02.648639+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-17T12:10:20.988175+00:00",
+            "linkedin": "2026-06-17T12:10:38.455862+00:00",
+            "instagram": "2026-06-17T12:10:56.196214+00:00"
+        },
+        "updated_at": "2026-06-17T12:10:56.196226+00:00"
     },
     "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/": {
         "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
@@ -4898,6 +4910,27 @@
         "source": "AI News",
         "published_date": "2026-06-16T15:55:02+00:00",
         "discovered_at": "2026-06-16T19:27:02.648673+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/": {
+        "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T11:00:00+00:00",
+        "discovered_at": "2026-06-17T12:09:31.532247+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/": {
+        "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-16T22:34:17+00:00",
+        "discovered_at": "2026-06-17T12:09:31.532254+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/": {
+        "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-16T20:11:00+00:00",
+        "discovered_at": "2026-06-17T12:09:31.532258+00:00",
         "status": "PENDING"
     }
 }
