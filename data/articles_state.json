@@ -5115,5 +5115,73 @@
             "instagram": "2026-06-18T11:44:35.916660+00:00"
         },
         "updated_at": "2026-06-18T11:44:35.916672+00:00"
+    },
+    "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
+        "title": "Improving health intelligence in ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-06-18T11:00:00+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736958+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-18T18:22:31.937960+00:00",
+            "linkedin": "2026-06-18T18:22:48.988260+00:00",
+            "instagram": "2026-06-18T18:23:06.559851+00:00"
+        },
+        "updated_at": "2026-06-18T18:23:06.559862+00:00"
+    },
+    "https://openai.com/index/diagnose-rare-childhood-diseases": {
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "source": "OpenAI",
+        "published_date": "2026-06-18T08:00:00+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736964+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-18T18:22:31.944098+00:00",
+            "linkedin": "2026-06-18T18:22:48.994462+00:00",
+            "instagram": "2026-06-18T18:23:06.566194+00:00"
+        },
+        "updated_at": "2026-06-18T18:23:06.566201+00:00"
+    },
+    "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/": {
+        "title": "AI data centers just got a government-mandated fast lane to the grid",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T17:49:23+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736968+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/": {
+        "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T17:16:30+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736971+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/": {
+        "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T16:55:04+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736976+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/": {
+        "title": "General Intuition in talks to raise $300M at around $2B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T15:20:37+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736980+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/": {
+        "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T15:13:21+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736983+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/": {
+        "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T12:00:00+00:00",
+        "discovered_at": "2026-06-18T18:21:26.736987+00:00",
+        "status": "PENDING"
     }
 }
