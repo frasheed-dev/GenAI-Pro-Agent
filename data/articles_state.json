@@ -5067,7 +5067,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-17T19:01:19+00:00",
         "discovered_at": "2026-06-18T02:16:34.139290+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-18T11:44:01.121967+00:00",
+            "linkedin": "2026-06-18T11:44:18.214228+00:00",
+            "instagram": "2026-06-18T11:44:35.922670+00:00"
+        },
+        "updated_at": "2026-06-18T11:44:35.922677+00:00"
     },
     "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/": {
         "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
@@ -5089,5 +5095,25 @@
         "published_date": "2026-06-17T18:00:00+00:00",
         "discovered_at": "2026-06-18T02:16:34.139302+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/": {
+        "title": "HSBC expands AI banking partnership with Google Cloud",
+        "source": "AI News",
+        "published_date": "2026-06-18T10:00:00+00:00",
+        "discovered_at": "2026-06-18T11:43:21.328315+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/": {
+        "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+        "source": "AI News",
+        "published_date": "2026-06-18T09:00:00+00:00",
+        "discovered_at": "2026-06-18T11:43:21.328322+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-18T11:44:01.115987+00:00",
+            "linkedin": "2026-06-18T11:44:18.208186+00:00",
+            "instagram": "2026-06-18T11:44:35.916660+00:00"
+        },
+        "updated_at": "2026-06-18T11:44:35.916672+00:00"
     }
 }
