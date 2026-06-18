@@ -4957,7 +4957,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-17T17:43:07+00:00",
         "discovered_at": "2026-06-17T18:08:13.159588+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-18T02:17:14.369898+00:00",
+            "linkedin": "2026-06-18T02:17:31.500749+00:00",
+            "instagram": "2026-06-18T02:17:49.437222+00:00"
+        },
+        "updated_at": "2026-06-18T02:17:49.437235+00:00"
     },
     "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/": {
         "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
@@ -4971,7 +4977,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-17T16:30:09+00:00",
         "discovered_at": "2026-06-17T18:08:13.159594+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-18T02:17:14.376047+00:00",
+            "linkedin": "2026-06-18T02:17:31.506890+00:00",
+            "instagram": "2026-06-18T02:17:49.443361+00:00"
+        },
+        "updated_at": "2026-06-18T02:17:49.443370+00:00"
     },
     "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/": {
         "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
@@ -5013,6 +5025,69 @@
         "source": "AI News",
         "published_date": "2026-06-17T10:59:42+00:00",
         "discovered_at": "2026-06-17T18:08:13.159622+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-life-sci-bench": {
+        "title": "Introducing LifeSciBench",
+        "source": "OpenAI",
+        "published_date": "2026-06-17T00:00:00+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139267+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/": {
+        "title": "How to turn off AI in your Google Docs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T01:23:51+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139274+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/": {
+        "title": "Roelof Botha joins SpaceX’s board of directors",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T20:32:52+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139278+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/": {
+        "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T20:24:28+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139281+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/": {
+        "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T20:17:38+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139285+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/": {
+        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T19:01:19+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139290+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/": {
+        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T18:30:56+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139295+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/": {
+        "title": "Social media’s next evolution: user-controlled algorithms",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T18:19:48+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139298+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/": {
+        "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-17T18:00:00+00:00",
+        "discovered_at": "2026-06-18T02:16:34.139302+00:00",
         "status": "PENDING"
     }
 }
