@@ -5101,7 +5101,13 @@
         "source": "AI News",
         "published_date": "2026-06-18T10:00:00+00:00",
         "discovered_at": "2026-06-18T11:43:21.328315+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-19T02:46:17.552533+00:00",
+            "linkedin": "2026-06-19T02:46:34.699151+00:00",
+            "instagram": "2026-06-19T02:46:52.690022+00:00"
+        },
+        "updated_at": "2026-06-19T02:46:52.690029+00:00"
     },
     "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/": {
         "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
@@ -5182,6 +5188,68 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-18T12:00:00+00:00",
         "discovered_at": "2026-06-18T18:21:26.736987+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+        "title": "New usage analytics and updated spend controls for enterprises",
+        "source": "OpenAI",
+        "published_date": "2026-06-18T17:00:00+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032464+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/": {
+        "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T00:51:11+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032472+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/": {
+        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T21:20:13+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032476+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/": {
+        "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T20:30:00+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032481+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/": {
+        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T19:59:22+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032485+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-19T02:46:17.546340+00:00",
+            "linkedin": "2026-06-19T02:46:34.692943+00:00",
+            "instagram": "2026-06-19T02:46:52.683779+00:00"
+        },
+        "updated_at": "2026-06-19T02:46:52.683791+00:00"
+    },
+    "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/": {
+        "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T18:51:46+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032488+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/": {
+        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T18:22:13+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032492+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/": {
+        "title": "Computer vision deployments drive retail productivity gains",
+        "source": "AI News",
+        "published_date": "2026-06-18T15:57:46+00:00",
+        "discovered_at": "2026-06-19T02:45:38.032497+00:00",
         "status": "PENDING"
     }
 }
