@@ -5249,7 +5249,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-18T18:22:13+00:00",
         "discovered_at": "2026-06-19T02:45:38.032492+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-19T17:47:40.407416+00:00",
+            "linkedin": "2026-06-19T17:47:57.539221+00:00",
+            "instagram": "2026-06-19T17:48:15.217885+00:00"
+        },
+        "updated_at": "2026-06-19T17:48:15.217893+00:00"
     },
     "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/": {
         "title": "Computer vision deployments drive retail productivity gains",
@@ -5284,5 +5290,39 @@
             "instagram": "2026-06-19T11:59:36.666610+00:00"
         },
         "updated_at": "2026-06-19T11:59:36.666625+00:00"
+    },
+    "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/": {
+        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T16:08:17+00:00",
+        "discovered_at": "2026-06-19T17:47:01.649273+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-19T17:47:40.401008+00:00",
+            "linkedin": "2026-06-19T17:47:57.532841+00:00",
+            "instagram": "2026-06-19T17:48:15.211520+00:00"
+        },
+        "updated_at": "2026-06-19T17:48:15.211533+00:00"
+    },
+    "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/": {
+        "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T16:01:03+00:00",
+        "discovered_at": "2026-06-19T17:47:01.649280+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/": {
+        "title": "Billionaire Ambani wants AI in every call, app, and home",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T15:23:28+00:00",
+        "discovered_at": "2026-06-19T17:47:01.649285+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/": {
+        "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T13:00:00+00:00",
+        "discovered_at": "2026-06-19T17:47:01.649289+00:00",
+        "status": "PENDING"
     }
 }
