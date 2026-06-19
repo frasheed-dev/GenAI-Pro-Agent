@@ -5209,7 +5209,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-18T21:20:13+00:00",
         "discovered_at": "2026-06-19T02:45:38.032476+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-19T11:59:01.069792+00:00",
+            "linkedin": "2026-06-19T11:59:18.275442+00:00",
+            "instagram": "2026-06-19T11:59:36.670223+00:00"
+        },
+        "updated_at": "2026-06-19T11:59:36.670229+00:00"
     },
     "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/": {
         "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
@@ -5251,5 +5257,32 @@
         "published_date": "2026-06-18T15:57:46+00:00",
         "discovered_at": "2026-06-19T02:45:38.032497+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/": {
+        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T07:59:12+00:00",
+        "discovered_at": "2026-06-19T11:58:21.477927+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/": {
+        "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+        "source": "AI News",
+        "published_date": "2026-06-19T09:57:55+00:00",
+        "discovered_at": "2026-06-19T11:58:21.477935+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
+        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-19T10:40:24+00:00",
+        "discovered_at": "2026-06-19T11:58:21.477938+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-19T11:59:01.066195+00:00",
+            "linkedin": "2026-06-19T11:59:18.271887+00:00",
+            "instagram": "2026-06-19T11:59:36.666610+00:00"
+        },
+        "updated_at": "2026-06-19T11:59:36.666625+00:00"
     }
 }
