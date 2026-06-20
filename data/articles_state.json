@@ -5180,7 +5180,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-18T15:20:37+00:00",
         "discovered_at": "2026-06-18T18:21:26.736980+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-20T17:14:25.440667+00:00",
+            "linkedin": "2026-06-20T17:14:54.860478+00:00",
+            "instagram": "2026-06-20T17:15:12.834613+00:00"
+        },
+        "updated_at": "2026-06-20T17:15:12.834621+00:00"
     },
     "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/": {
         "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
@@ -5369,5 +5375,18 @@
         "published_date": "2026-06-18T17:00:00+00:00",
         "discovered_at": "2026-06-20T10:24:31.204133+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/": {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-20T16:39:57+00:00",
+        "discovered_at": "2026-06-20T17:13:33.526961+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-20T17:14:25.434189+00:00",
+            "linkedin": "2026-06-20T17:14:54.854078+00:00",
+            "instagram": "2026-06-20T17:15:12.828214+00:00"
+        },
+        "updated_at": "2026-06-20T17:15:12.828227+00:00"
     }
 }
