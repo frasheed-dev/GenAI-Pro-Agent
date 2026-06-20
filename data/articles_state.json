@@ -5309,7 +5309,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-19T16:01:03+00:00",
         "discovered_at": "2026-06-19T17:47:01.649280+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-20T02:05:41.307828+00:00",
+            "linkedin": "2026-06-20T02:06:04.637796+00:00",
+            "instagram": "2026-06-20T02:06:22.375760+00:00"
+        },
+        "updated_at": "2026-06-20T02:06:22.375772+00:00"
     },
     "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/": {
         "title": "Billionaire Ambani wants AI in every call, app, and home",
@@ -5324,5 +5330,25 @@
         "published_date": "2026-06-19T13:00:00+00:00",
         "discovered_at": "2026-06-19T17:47:01.649289+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/": {
+        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-19T22:40:14+00:00",
+        "discovered_at": "2026-06-20T02:04:58.341155+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/": {
+        "title": "SAP and Google Cloud deploy agentic commerce architecture",
+        "source": "AI News",
+        "published_date": "2026-06-19T14:02:20+00:00",
+        "discovered_at": "2026-06-20T02:04:58.341169+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-20T02:05:41.314360+00:00",
+            "linkedin": "2026-06-20T02:06:04.644074+00:00",
+            "instagram": "2026-06-20T02:06:22.382158+00:00"
+        },
+        "updated_at": "2026-06-20T02:06:22.382168+00:00"
     }
 }
