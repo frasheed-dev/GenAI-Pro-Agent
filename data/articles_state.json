@@ -5025,7 +5025,13 @@
         "source": "AI News",
         "published_date": "2026-06-17T10:59:42+00:00",
         "discovered_at": "2026-06-17T18:08:13.159622+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-20T10:25:16.414330+00:00",
+            "linkedin": "2026-06-20T10:25:33.525337+00:00",
+            "instagram": "2026-06-20T10:25:51.009817+00:00"
+        },
+        "updated_at": "2026-06-20T10:25:51.009827+00:00"
     },
     "https://openai.com/index/introducing-life-sci-bench": {
         "title": "Introducing LifeSciBench",
@@ -5195,7 +5201,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-18T17:00:00+00:00",
         "discovered_at": "2026-06-19T02:45:38.032464+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-20T10:25:16.407941+00:00",
+            "linkedin": "2026-06-20T10:25:33.518917+00:00",
+            "instagram": "2026-06-20T10:25:51.003247+00:00"
+        },
+        "updated_at": "2026-06-20T10:25:51.003261+00:00"
     },
     "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/": {
         "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
@@ -5350,5 +5362,12 @@
             "instagram": "2026-06-20T02:06:22.382158+00:00"
         },
         "updated_at": "2026-06-20T02:06:22.382168+00:00"
+    },
+    "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/": {
+        "title": "How to turn off AI in your Google Docs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-18T17:00:00+00:00",
+        "discovered_at": "2026-06-20T10:24:31.204133+00:00",
+        "status": "PENDING"
     }
 }
