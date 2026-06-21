@@ -5312,7 +5312,13 @@
         "source": "AI News",
         "published_date": "2026-06-19T09:57:55+00:00",
         "discovered_at": "2026-06-19T11:58:21.477935+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-21T17:16:54.111635+00:00",
+            "linkedin": "2026-06-21T17:17:21.095863+00:00",
+            "instagram": "2026-06-21T17:17:41.133578+00:00"
+        },
+        "updated_at": "2026-06-21T17:17:41.133585+00:00"
     },
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/": {
         "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
@@ -5426,5 +5432,25 @@
         "published_date": "2026-06-20T19:41:11+00:00",
         "discovered_at": "2026-06-21T02:28:32.121083+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/": {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-21T15:28:17+00:00",
+        "discovered_at": "2026-06-21T17:16:12.555460+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/": {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-21T14:40:28+00:00",
+        "discovered_at": "2026-06-21T17:16:12.555466+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-21T17:16:54.104988+00:00",
+            "linkedin": "2026-06-21T17:17:21.089420+00:00",
+            "instagram": "2026-06-21T17:17:41.127093+00:00"
+        },
+        "updated_at": "2026-06-21T17:17:41.127106+00:00"
     }
 }
