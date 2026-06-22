@@ -5444,7 +5444,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-21T15:28:17+00:00",
         "discovered_at": "2026-06-21T17:16:12.555460+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-22T13:26:17.486635+00:00",
+            "linkedin": "2026-06-22T13:26:34.988032+00:00",
+            "instagram": "2026-06-22T13:26:53.068866+00:00"
+        },
+        "updated_at": "2026-06-22T13:26:53.068873+00:00"
     },
     "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/": {
         "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
@@ -5471,5 +5477,18 @@
             "instagram": "2026-06-22T02:34:02.962290+00:00"
         },
         "updated_at": "2026-06-22T02:34:02.962303+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/": {
+        "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+        "source": "AI News",
+        "published_date": "2026-06-22T10:00:00+00:00",
+        "discovered_at": "2026-06-22T13:25:29.335120+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-22T13:26:17.480220+00:00",
+            "linkedin": "2026-06-22T13:26:34.981578+00:00",
+            "instagram": "2026-06-22T13:26:53.061897+00:00"
+        },
+        "updated_at": "2026-06-22T13:26:53.061911+00:00"
     }
 }
