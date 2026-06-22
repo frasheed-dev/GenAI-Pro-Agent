@@ -5384,7 +5384,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-19T22:40:14+00:00",
         "discovered_at": "2026-06-20T02:04:58.341155+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-22T02:33:27.343375+00:00",
+            "linkedin": "2026-06-22T02:33:45.007773+00:00",
+            "instagram": "2026-06-22T02:34:02.968871+00:00"
+        },
+        "updated_at": "2026-06-22T02:34:02.968879+00:00"
     },
     "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/": {
         "title": "SAP and Google Cloud deploy agentic commerce architecture",
@@ -5452,5 +5458,18 @@
             "instagram": "2026-06-21T17:17:41.127093+00:00"
         },
         "updated_at": "2026-06-21T17:17:41.127106+00:00"
+    },
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "source": "OpenAI",
+        "published_date": "2026-06-21T23:00:00+00:00",
+        "discovered_at": "2026-06-22T02:32:30.854726+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-22T02:33:27.336809+00:00",
+            "linkedin": "2026-06-22T02:33:45.001244+00:00",
+            "instagram": "2026-06-22T02:34:02.962290+00:00"
+        },
+        "updated_at": "2026-06-22T02:34:02.962303+00:00"
     }
 }
