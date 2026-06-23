@@ -5564,7 +5564,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-22T18:00:00+00:00",
         "discovered_at": "2026-06-22T19:18:04.972917+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-23T10:54:21.286545+00:00",
+            "linkedin": "2026-06-23T10:54:39.415208+00:00",
+            "instagram": "2026-06-23T10:54:58.312651+00:00"
+        },
+        "updated_at": "2026-06-23T10:54:58.312659+00:00"
     },
     "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/": {
         "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -5611,6 +5617,33 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-22T20:08:15+00:00",
         "discovered_at": "2026-06-23T01:59:14.996609+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/omio": {
+        "title": "How Omio is building the future of conversational travel",
+        "source": "OpenAI",
+        "published_date": "2026-06-23T00:00:00+00:00",
+        "discovered_at": "2026-06-23T10:52:56.447593+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/": {
+        "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+        "source": "AI News",
+        "published_date": "2026-06-23T08:00:00+00:00",
+        "discovered_at": "2026-06-23T10:52:56.447606+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-23T10:54:21.279938+00:00",
+            "linkedin": "2026-06-23T10:54:39.408496+00:00",
+            "instagram": "2026-06-23T10:54:58.305971+00:00"
+        },
+        "updated_at": "2026-06-23T10:54:58.305985+00:00"
+    },
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/": {
+        "title": "The $400 million machine powering the future of chipmaking",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-23T09:00:00+00:00",
+        "discovered_at": "2026-06-23T10:52:56.447610+00:00",
         "status": "PENDING"
     }
 }
