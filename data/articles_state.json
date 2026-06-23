@@ -5523,7 +5523,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-22T18:49:44+00:00",
         "discovered_at": "2026-06-22T19:18:04.972897+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-23T17:49:09.779121+00:00",
+            "linkedin": "2026-06-23T17:49:27.286714+00:00",
+            "instagram": "2026-06-23T17:49:45.494049+00:00"
+        },
+        "updated_at": "2026-06-23T17:49:45.494059+00:00"
     },
     "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/": {
         "title": "Amazon is testing Alexa+ in India with Hindi support",
@@ -5644,6 +5650,47 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-23T09:00:00+00:00",
         "discovered_at": "2026-06-23T10:52:56.447610+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/gpt-5-immunology-mystery": {
+        "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+        "source": "OpenAI",
+        "published_date": "2026-06-23T17:00:00+00:00",
+        "discovered_at": "2026-06-23T17:47:48.798431+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/": {
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-23T17:00:00+00:00",
+        "discovered_at": "2026-06-23T17:47:48.798440+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-23T17:49:09.772322+00:00",
+            "linkedin": "2026-06-23T17:49:27.279823+00:00",
+            "instagram": "2026-06-23T17:49:45.487228+00:00"
+        },
+        "updated_at": "2026-06-23T17:49:45.487241+00:00"
+    },
+    "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/": {
+        "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-23T14:00:00+00:00",
+        "discovered_at": "2026-06-23T17:47:48.798445+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/": {
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-23T13:00:00+00:00",
+        "discovered_at": "2026-06-23T17:47:48.798449+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/": {
+        "title": "Omio scales travel product development using OpenAI models",
+        "source": "AI News",
+        "published_date": "2026-06-23T16:32:28+00:00",
+        "discovered_at": "2026-06-23T17:47:48.798456+00:00",
         "status": "PENDING"
     }
 }
