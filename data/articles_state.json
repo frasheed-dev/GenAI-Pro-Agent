@@ -5718,5 +5718,80 @@
         "published_date": "2026-06-23T23:30:00+00:00",
         "discovered_at": "2026-06-24T01:59:00.510776+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
+        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "source": "OpenAI",
+        "published_date": "2026-06-24T06:00:00+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971357+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/": {
+        "title": "Facebook rolls out an AI companion app for creators",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T17:16:24+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971368+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/": {
+        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T16:48:43+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971372+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/": {
+        "title": "Figma adds code layers, support for animations, more AI features in new update",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T16:15:00+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971376+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/": {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T14:54:46+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971379+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-24T17:47:19.109970+00:00",
+            "linkedin": "2026-06-24T17:47:36.263515+00:00",
+            "instagram": "2026-06-24T17:47:54.413931+00:00"
+        },
+        "updated_at": "2026-06-24T17:47:54.413943+00:00"
+    },
+    "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/": {
+        "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T14:00:00+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971383+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/": {
+        "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+        "source": "AI News",
+        "published_date": "2026-06-24T10:00:00+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971389+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/": {
+        "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+        "source": "AI News",
+        "published_date": "2026-06-24T09:00:00+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971393+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-24T17:47:19.116772+00:00",
+            "linkedin": "2026-06-24T17:47:36.270214+00:00",
+            "instagram": "2026-06-24T17:47:54.420715+00:00"
+        },
+        "updated_at": "2026-06-24T17:47:54.420722+00:00"
+    },
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/": {
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-24T11:59:54+00:00",
+        "discovered_at": "2026-06-24T17:46:37.971397+00:00",
+        "status": "PENDING"
     }
 }
