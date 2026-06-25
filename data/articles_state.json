@@ -5854,5 +5854,31 @@
         "published_date": "2026-06-24T20:09:45+00:00",
         "discovered_at": "2026-06-25T02:02:06.937569+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/how-agents-are-transforming-work": {
+        "title": "How agents are transforming work",
+        "source": "OpenAI",
+        "published_date": "2026-06-25T02:00:00+00:00",
+        "discovered_at": "2026-06-25T10:32:30.690884+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-25T10:33:54.955123+00:00",
+            "linkedin": "2026-06-25T10:34:12.023543+00:00",
+            "instagram": "2026-06-25T10:34:29.565478+00:00"
+        },
+        "updated_at": "2026-06-25T10:34:29.565487+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/": {
+        "title": "The math behind the OpenAI Jalapeño chip",
+        "source": "AI News",
+        "published_date": "2026-06-25T06:00:00+00:00",
+        "discovered_at": "2026-06-25T10:32:30.690897+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-25T10:33:54.947815+00:00",
+            "linkedin": "2026-06-25T10:34:12.016086+00:00",
+            "instagram": "2026-06-25T10:34:29.558274+00:00"
+        },
+        "updated_at": "2026-06-25T10:34:29.558288+00:00"
     }
 }
