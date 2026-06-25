@@ -5724,7 +5724,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-24T06:00:00+00:00",
         "discovered_at": "2026-06-24T17:46:37.971357+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-25T02:02:59.470097+00:00",
+            "linkedin": "2026-06-25T02:03:17.202503+00:00",
+            "instagram": "2026-06-25T02:03:34.514365+00:00"
+        },
+        "updated_at": "2026-06-25T02:03:34.514372+00:00"
     },
     "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/": {
         "title": "Facebook rolls out an AI companion app for creators",
@@ -5772,7 +5778,13 @@
         "source": "AI News",
         "published_date": "2026-06-24T10:00:00+00:00",
         "discovered_at": "2026-06-24T17:46:37.971389+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-25T02:02:59.463021+00:00",
+            "linkedin": "2026-06-25T02:03:17.195435+00:00",
+            "instagram": "2026-06-25T02:03:34.507265+00:00"
+        },
+        "updated_at": "2026-06-25T02:03:34.507281+00:00"
     },
     "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/": {
         "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
@@ -5792,6 +5804,55 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-24T11:59:54+00:00",
         "discovered_at": "2026-06-24T17:46:37.971397+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/": {
+        "title": "Europe is pushing back on Washington’s chip war",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-25T00:08:36+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937541+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/": {
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T23:26:52+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937551+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/": {
+        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T22:41:41+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937555+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/": {
+        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T21:56:41+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937559+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/": {
+        "title": "AI researchers continue to leave Google for its rivals",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T21:42:07+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937563+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/": {
+        "title": "The memory chip crunch is paying off for this US company",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T21:30:55+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937566+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/": {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-24T20:09:45+00:00",
+        "discovered_at": "2026-06-25T02:02:06.937569+00:00",
         "status": "PENDING"
     }
 }
