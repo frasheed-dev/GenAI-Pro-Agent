@@ -5743,7 +5743,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-24T17:16:24+00:00",
         "discovered_at": "2026-06-24T17:46:37.971368+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-26T10:43:05.764747+00:00",
+            "linkedin": "2026-06-26T10:43:23.488668+00:00",
+            "instagram": "2026-06-26T10:43:43.425280+00:00"
+        },
+        "updated_at": "2026-06-26T10:43:43.425288+00:00"
     },
     "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/": {
         "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
@@ -5905,7 +5911,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-25T16:55:00+00:00",
         "discovered_at": "2026-06-25T18:00:56.657144+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-26T10:43:05.757200+00:00",
+            "linkedin": "2026-06-26T10:43:23.481180+00:00",
+            "instagram": "2026-06-26T10:43:43.417794+00:00"
+        },
+        "updated_at": "2026-06-26T10:43:43.417810+00:00"
     },
     "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/": {
         "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
