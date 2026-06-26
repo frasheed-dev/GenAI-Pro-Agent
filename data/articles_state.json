@@ -5940,13 +5940,39 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-25T12:00:38+00:00",
         "discovered_at": "2026-06-25T18:00:56.657163+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-26T02:04:17.317505+00:00",
+            "linkedin": "2026-06-26T02:04:38.352467+00:00",
+            "instagram": "2026-06-26T02:05:01.961253+00:00"
+        },
+        "updated_at": "2026-06-26T02:05:01.961261+00:00"
     },
     "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/": {
         "title": "Repositioning retail for the AI era",
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-25T14:22:59+00:00",
         "discovered_at": "2026-06-25T18:00:56.657170+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/": {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-25T23:34:39+00:00",
+        "discovered_at": "2026-06-26T02:03:34.689013+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-26T02:04:17.310183+00:00",
+            "linkedin": "2026-06-26T02:04:38.345163+00:00",
+            "instagram": "2026-06-26T02:05:01.953984+00:00"
+        },
+        "updated_at": "2026-06-26T02:05:01.953997+00:00"
+    },
+    "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/": {
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-25T20:19:25+00:00",
+        "discovered_at": "2026-06-26T02:03:34.689020+00:00",
         "status": "PENDING"
     }
 }
