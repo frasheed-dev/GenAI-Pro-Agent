@@ -5986,5 +5986,52 @@
         "published_date": "2026-06-25T20:19:25+00:00",
         "discovered_at": "2026-06-26T02:03:34.689020+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/previewing-gpt-5-6-sol": {
+        "title": "Previewing GPT-5.6 Sol: a next-generation model",
+        "source": "OpenAI",
+        "published_date": "2026-06-26T10:00:00+00:00",
+        "discovered_at": "2026-06-26T17:28:58.156452+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-26T17:29:39.175837+00:00",
+            "linkedin": "2026-06-26T17:29:56.275748+00:00",
+            "instagram": "2026-06-26T17:30:14.350651+00:00"
+        },
+        "updated_at": "2026-06-26T17:30:14.350658+00:00"
+    },
+    "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/": {
+        "title": "It’s not about Anthropic vs. OpenAI anymore",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-26T16:24:47+00:00",
+        "discovered_at": "2026-06-26T17:28:58.156459+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/": {
+        "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-26T14:00:00+00:00",
+        "discovered_at": "2026-06-26T17:28:58.156463+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-26T17:29:39.168644+00:00",
+            "linkedin": "2026-06-26T17:29:56.268688+00:00",
+            "instagram": "2026-06-26T17:30:14.343670+00:00"
+        },
+        "updated_at": "2026-06-26T17:30:14.343681+00:00"
+    },
+    "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/": {
+        "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-26T13:00:00+00:00",
+        "discovered_at": "2026-06-26T17:28:58.156466+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/": {
+        "title": "SAP aligns commerce data for AI personalisation",
+        "source": "AI News",
+        "published_date": "2026-06-26T12:55:48+00:00",
+        "discovered_at": "2026-06-26T17:28:58.156476+00:00",
+        "status": "PENDING"
     }
 }
