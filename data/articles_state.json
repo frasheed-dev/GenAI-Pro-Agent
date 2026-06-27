@@ -6033,5 +6033,45 @@
         "published_date": "2026-06-26T12:55:48+00:00",
         "discovered_at": "2026-06-26T17:28:58.156476+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/": {
+        "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-27T01:01:37+00:00",
+        "discovered_at": "2026-06-27T01:57:57.573986+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/": {
+        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-26T18:32:14+00:00",
+        "discovered_at": "2026-06-27T01:57:57.573993+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-27T01:58:38.750968+00:00",
+            "linkedin": "2026-06-27T01:58:56.280985+00:00",
+            "instagram": "2026-06-27T01:59:14.036370+00:00"
+        },
+        "updated_at": "2026-06-27T01:59:14.036383+00:00"
+    },
+    "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/": {
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-26T18:19:36+00:00",
+        "discovered_at": "2026-06-27T01:57:57.573997+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/": {
+        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-26T17:43:22+00:00",
+        "discovered_at": "2026-06-27T01:57:57.574000+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-27T01:58:38.758080+00:00",
+            "linkedin": "2026-06-27T01:58:56.288126+00:00",
+            "instagram": "2026-06-27T01:59:14.043562+00:00"
+        },
+        "updated_at": "2026-06-27T01:59:14.043569+00:00"
     }
 }
