@@ -5985,7 +5985,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-25T20:19:25+00:00",
         "discovered_at": "2026-06-26T02:03:34.689020+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-27T09:55:54.776411+00:00",
+            "linkedin": "2026-06-27T09:56:12.413240+00:00",
+            "instagram": "2026-06-27T09:56:30.305722+00:00"
+        },
+        "updated_at": "2026-06-27T09:56:30.305729+00:00"
     },
     "https://openai.com/index/previewing-gpt-5-6-sol": {
         "title": "Previewing GPT-5.6 Sol: a next-generation model",
@@ -6039,7 +6045,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-27T01:01:37+00:00",
         "discovered_at": "2026-06-27T01:57:57.573986+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-27T09:55:54.770444+00:00",
+            "linkedin": "2026-06-27T09:56:12.407222+00:00",
+            "instagram": "2026-06-27T09:56:30.299815+00:00"
+        },
+        "updated_at": "2026-06-27T09:56:30.299828+00:00"
     },
     "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/": {
         "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
