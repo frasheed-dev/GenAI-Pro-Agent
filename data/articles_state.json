@@ -5945,7 +5945,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-25T13:30:00+00:00",
         "discovered_at": "2026-06-25T18:00:56.657160+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-27T16:54:40.467473+00:00",
+            "linkedin": "2026-06-27T16:54:57.698156+00:00",
+            "instagram": "2026-06-27T16:55:15.854015+00:00"
+        },
+        "updated_at": "2026-06-27T16:55:15.854023+00:00"
     },
     "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/": {
         "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
@@ -6085,5 +6091,32 @@
             "instagram": "2026-06-27T01:59:14.043562+00:00"
         },
         "updated_at": "2026-06-27T01:59:14.043569+00:00"
+    },
+    "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/": {
+        "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-27T16:45:09+00:00",
+        "discovered_at": "2026-06-27T16:54:00.010358+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/": {
+        "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-27T14:00:00+00:00",
+        "discovered_at": "2026-06-27T16:54:00.010365+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/": {
+        "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-27T12:00:00+00:00",
+        "discovered_at": "2026-06-27T16:54:00.010369+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-27T16:54:40.459619+00:00",
+            "linkedin": "2026-06-27T16:54:57.690257+00:00",
+            "instagram": "2026-06-27T16:55:15.846131+00:00"
+        },
+        "updated_at": "2026-06-27T16:55:15.846144+00:00"
     }
 }
