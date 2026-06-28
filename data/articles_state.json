@@ -6023,7 +6023,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-26T16:24:47+00:00",
         "discovered_at": "2026-06-26T17:28:58.156459+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-28T10:19:56.598666+00:00",
+            "linkedin": "2026-06-28T10:20:13.783905+00:00",
+            "instagram": "2026-06-28T10:20:31.354620+00:00"
+        },
+        "updated_at": "2026-06-28T10:20:31.354634+00:00"
     },
     "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/": {
         "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
@@ -6050,7 +6056,13 @@
         "source": "AI News",
         "published_date": "2026-06-26T12:55:48+00:00",
         "discovered_at": "2026-06-26T17:28:58.156476+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-28T10:19:56.606257+00:00",
+            "linkedin": "2026-06-28T10:20:13.791299+00:00",
+            "instagram": "2026-06-28T10:20:31.362272+00:00"
+        },
+        "updated_at": "2026-06-28T10:20:31.362283+00:00"
     },
     "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/": {
         "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
