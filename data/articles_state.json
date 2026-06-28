@@ -5924,7 +5924,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-25T16:48:11+00:00",
         "discovered_at": "2026-06-25T18:00:56.657150+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-28T02:08:43.208956+00:00",
+            "linkedin": "2026-06-28T02:09:08.855070+00:00",
+            "instagram": "2026-06-28T02:09:26.500442+00:00"
+        },
+        "updated_at": "2026-06-28T02:09:26.500450+00:00"
     },
     "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/": {
         "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
@@ -6097,7 +6103,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-27T16:45:09+00:00",
         "discovered_at": "2026-06-27T16:54:00.010358+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-28T02:08:43.201520+00:00",
+            "linkedin": "2026-06-28T02:09:08.847586+00:00",
+            "instagram": "2026-06-28T02:09:26.492986+00:00"
+        },
+        "updated_at": "2026-06-28T02:09:26.493000+00:00"
     },
     "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/": {
         "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
@@ -6118,5 +6130,12 @@
             "instagram": "2026-06-27T16:55:15.846131+00:00"
         },
         "updated_at": "2026-06-27T16:55:15.846144+00:00"
+    },
+    "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/": {
+        "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-27T20:42:36+00:00",
+        "discovered_at": "2026-06-28T02:08:03.238307+00:00",
+        "status": "PENDING"
     }
 }
