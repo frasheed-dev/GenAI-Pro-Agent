@@ -6236,5 +6236,59 @@
             "instagram": "2026-06-29T12:23:20.989326+00:00"
         },
         "updated_at": "2026-06-29T12:23:20.989337+00:00"
+    },
+    "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/": {
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T17:39:17+00:00",
+        "discovered_at": "2026-06-29T18:02:52.906200+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-29T18:03:32.648157+00:00",
+            "linkedin": "2026-06-29T18:03:49.985054+00:00",
+            "instagram": "2026-06-29T18:04:07.868037+00:00"
+        },
+        "updated_at": "2026-06-29T18:04:07.868050+00:00"
+    },
+    "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/": {
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T17:03:50+00:00",
+        "discovered_at": "2026-06-29T18:02:52.906207+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/": {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T16:29:04+00:00",
+        "discovered_at": "2026-06-29T18:02:52.906211+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/": {
+        "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T14:00:08+00:00",
+        "discovered_at": "2026-06-29T18:02:52.906214+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/": {
+        "title": "Omen AI’s plan to optimize data centers is all wet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T13:00:00+00:00",
+        "discovered_at": "2026-06-29T18:02:52.906218+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/": {
+        "title": "Agent confidence on the technical frontier",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-29T14:44:01+00:00",
+        "discovered_at": "2026-06-29T18:02:52.906225+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-29T18:03:32.655646+00:00",
+            "linkedin": "2026-06-29T18:03:49.992480+00:00",
+            "instagram": "2026-06-29T18:04:07.875624+00:00"
+        },
+        "updated_at": "2026-06-29T18:04:07.875633+00:00"
     }
 }
