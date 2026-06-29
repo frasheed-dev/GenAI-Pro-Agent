@@ -6182,5 +6182,59 @@
         "published_date": "2026-06-28T15:00:00+00:00",
         "discovered_at": "2026-06-29T02:08:33.215246+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/mapping-ai-jobs-transition-eu": {
+        "title": "Mapping Europe’s AI Workforce Opportunity",
+        "source": "OpenAI",
+        "published_date": "2026-06-29T07:00:00+00:00",
+        "discovered_at": "2026-06-29T12:22:06.111727+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-29T12:22:46.022356+00:00",
+            "linkedin": "2026-06-29T12:23:03.097272+00:00",
+            "instagram": "2026-06-29T12:23:20.996626+00:00"
+        },
+        "updated_at": "2026-06-29T12:23:20.996633+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/": {
+        "title": "Wimbledon adds IBM AI tools for live match coverage",
+        "source": "AI News",
+        "published_date": "2026-06-29T10:00:00+00:00",
+        "discovered_at": "2026-06-29T12:22:06.111738+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/": {
+        "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+        "source": "AI News",
+        "published_date": "2026-06-29T08:59:46+00:00",
+        "discovered_at": "2026-06-29T12:22:06.111742+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/": {
+        "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+        "source": "AI News",
+        "published_date": "2026-06-29T08:54:22+00:00",
+        "discovered_at": "2026-06-29T12:22:06.111746+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/": {
+        "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+        "source": "AI News",
+        "published_date": "2026-06-29T08:05:32+00:00",
+        "discovered_at": "2026-06-29T12:22:06.111749+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/": {
+        "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+        "source": "AI News",
+        "published_date": "2026-06-29T07:57:38+00:00",
+        "discovered_at": "2026-06-29T12:22:06.111752+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-29T12:22:46.014883+00:00",
+            "linkedin": "2026-06-29T12:23:03.089725+00:00",
+            "instagram": "2026-06-29T12:23:20.989326+00:00"
+        },
+        "updated_at": "2026-06-29T12:23:20.989337+00:00"
     }
 }
