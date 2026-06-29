@@ -6095,7 +6095,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-26T18:19:36+00:00",
         "discovered_at": "2026-06-27T01:57:57.573997+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-29T02:09:14.006898+00:00",
+            "linkedin": "2026-06-29T02:09:30.881206+00:00",
+            "instagram": "2026-06-29T02:09:48.356513+00:00"
+        },
+        "updated_at": "2026-06-29T02:09:48.356522+00:00"
     },
     "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/": {
         "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
@@ -6148,6 +6154,33 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-27T20:42:36+00:00",
         "discovered_at": "2026-06-28T02:08:03.238307+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/hp-frontier-partnership": {
+        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-06-28T17:00:00+00:00",
+        "discovered_at": "2026-06-29T02:08:33.215235+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-29T02:09:13.999293+00:00",
+            "linkedin": "2026-06-29T02:09:30.873531+00:00",
+            "instagram": "2026-06-29T02:09:48.348979+00:00"
+        },
+        "updated_at": "2026-06-29T02:09:48.348993+00:00"
+    },
+    "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/": {
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-28T19:05:39+00:00",
+        "discovered_at": "2026-06-29T02:08:33.215242+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/": {
+        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-28T15:00:00+00:00",
+        "discovered_at": "2026-06-29T02:08:33.215246+00:00",
         "status": "PENDING"
     }
 }
