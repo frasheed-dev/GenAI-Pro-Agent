@@ -6290,5 +6290,52 @@
             "instagram": "2026-06-29T18:04:07.875624+00:00"
         },
         "updated_at": "2026-06-29T18:04:07.875633+00:00"
+    },
+    "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/": {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T20:12:59+00:00",
+        "discovered_at": "2026-06-30T02:03:24.343874+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-30T02:04:05.069678+00:00",
+            "linkedin": "2026-06-30T02:04:22.512505+00:00",
+            "instagram": "2026-06-30T02:04:40.758581+00:00"
+        },
+        "updated_at": "2026-06-30T02:04:40.758595+00:00"
+    },
+    "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/": {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T18:10:26+00:00",
+        "discovered_at": "2026-06-30T02:03:24.343881+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/": {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-29T18:07:48+00:00",
+        "discovered_at": "2026-06-30T02:03:24.343885+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/": {
+        "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+        "source": "AI News",
+        "published_date": "2026-06-29T12:22:45+00:00",
+        "discovered_at": "2026-06-30T02:03:24.343893+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-30T02:04:05.077531+00:00",
+            "linkedin": "2026-06-30T02:04:22.519940+00:00",
+            "instagram": "2026-06-30T02:04:40.766079+00:00"
+        },
+        "updated_at": "2026-06-30T02:04:40.766088+00:00"
+    },
+    "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/": {
+        "title": "AI agents are not your “coworkers”",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-29T18:00:00+00:00",
+        "discovered_at": "2026-06-30T02:03:24.343899+00:00",
+        "status": "PENDING"
     }
 }
