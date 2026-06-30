@@ -6309,7 +6309,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-29T18:10:26+00:00",
         "discovered_at": "2026-06-30T02:03:24.343881+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-30T10:48:02.813997+00:00",
+            "linkedin": "2026-06-30T10:48:19.943407+00:00",
+            "instagram": "2026-06-30T10:48:37.566823+00:00"
+        },
+        "updated_at": "2026-06-30T10:48:37.566833+00:00"
     },
     "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/": {
         "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
@@ -6336,6 +6342,33 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-06-29T18:00:00+00:00",
         "discovered_at": "2026-06-30T02:03:24.343899+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/": {
+        "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T09:00:00+00:00",
+        "discovered_at": "2026-06-30T10:47:22.827047+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/": {
+        "title": "The AI jobs debate just got messier",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T04:01:00+00:00",
+        "discovered_at": "2026-06-30T10:47:22.827054+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-06-30T10:48:02.806330+00:00",
+            "linkedin": "2026-06-30T10:48:19.935719+00:00",
+            "instagram": "2026-06-30T10:48:37.559099+00:00"
+        },
+        "updated_at": "2026-06-30T10:48:37.559181+00:00"
+    },
+    "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/": {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T02:28:41+00:00",
+        "discovered_at": "2026-06-30T10:47:22.827058+00:00",
         "status": "PENDING"
     }
 }
