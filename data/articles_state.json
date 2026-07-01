@@ -6498,7 +6498,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-30T18:13:02+00:00",
         "discovered_at": "2026-07-01T02:09:09.931391+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-01T17:46:24.942487+00:00",
+            "linkedin": "2026-07-01T17:46:42.564697+00:00",
+            "instagram": "2026-07-01T17:47:00.872330+00:00"
+        },
+        "updated_at": "2026-07-01T17:47:00.872338+00:00"
     },
     "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/": {
         "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
@@ -6545,6 +6551,75 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-01T02:16:06+00:00",
         "discovered_at": "2026-07-01T11:00:48.527546+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/": {
+        "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T14:25:23+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262847+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/": {
+        "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T14:20:19+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262853+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/": {
+        "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T14:00:00+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262859+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/": {
+        "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T13:43:07+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262863+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/": {
+        "title": "Deploying retail AI to scale personalisation and customer insight",
+        "source": "AI News",
+        "published_date": "2026-07-01T15:58:43+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262871+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/": {
+        "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+        "source": "AI News",
+        "published_date": "2026-07-01T11:00:00+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262875+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/": {
+        "title": "Bank of England reviews AI rules for agentic AI in finance",
+        "source": "AI News",
+        "published_date": "2026-07-01T10:00:00+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262879+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/": {
+        "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+        "source": "AI News",
+        "published_date": "2026-07-01T08:47:12+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262883+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-01T17:46:24.934646+00:00",
+            "linkedin": "2026-07-01T17:46:42.556856+00:00",
+            "instagram": "2026-07-01T17:47:00.864494+00:00"
+        },
+        "updated_at": "2026-07-01T17:47:00.864507+00:00"
+    },
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/": {
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-01T14:35:16+00:00",
+        "discovered_at": "2026-07-01T17:45:44.262887+00:00",
         "status": "PENDING"
     }
 }
