@@ -6452,5 +6452,73 @@
         "published_date": "2026-06-30T12:00:00+00:00",
         "discovered_at": "2026-06-30T17:46:11.645354+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/": {
+        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T02:04:40+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931375+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/": {
+        "title": "OpenClaw is finally available on Android and iOS",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T21:53:28+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931382+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/": {
+        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T20:33:48+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931385+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/": {
+        "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T19:02:38+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931389+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/": {
+        "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T18:13:02+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931391+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/": {
+        "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T18:00:00+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931394+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-01T02:09:49.004443+00:00",
+            "linkedin": "2026-07-01T02:10:06.069629+00:00",
+            "instagram": "2026-07-01T02:10:23.665528+00:00"
+        },
+        "updated_at": "2026-07-01T02:10:23.665534+00:00"
+    },
+    "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/": {
+        "title": "Acti puts AI agents directly into your smartphone keyboard",
+        "source": "TechCrunch AI",
+        "published_date": "2026-06-30T17:52:46+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931397+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/": {
+        "title": "Claude Science is Anthropic’s newest flagship product",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-06-30T21:50:04+00:00",
+        "discovered_at": "2026-07-01T02:09:09.931404+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-01T02:09:48.998248+00:00",
+            "linkedin": "2026-07-01T02:10:06.063435+00:00",
+            "instagram": "2026-07-01T02:10:23.659379+00:00"
+        },
+        "updated_at": "2026-07-01T02:10:23.659393+00:00"
     }
 }
