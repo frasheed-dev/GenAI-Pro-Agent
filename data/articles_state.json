@@ -6389,7 +6389,13 @@
         "source": "OpenAI",
         "published_date": "2026-06-30T00:00:00+00:00",
         "discovered_at": "2026-06-30T17:46:11.645319+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-01T11:01:28.524954+00:00",
+            "linkedin": "2026-07-01T11:01:45.325575+00:00",
+            "instagram": "2026-07-01T11:02:03.143996+00:00"
+        },
+        "updated_at": "2026-07-01T11:02:03.144006+00:00"
     },
     "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": {
         "title": "Core dump epidemiology: fixing an 18-year-old bug",
@@ -6410,7 +6416,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-30T17:00:00+00:00",
         "discovered_at": "2026-06-30T17:46:11.645331+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-01T11:01:28.516925+00:00",
+            "linkedin": "2026-07-01T11:01:45.317302+00:00",
+            "instagram": "2026-07-01T11:02:03.135981+00:00"
+        },
+        "updated_at": "2026-07-01T11:02:03.135997+00:00"
     },
     "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/": {
         "title": "X now offers an MCP server to make its platform easier for AI tools to use",
@@ -6520,5 +6532,19 @@
             "instagram": "2026-07-01T02:10:23.659379+00:00"
         },
         "updated_at": "2026-07-01T02:10:23.659393+00:00"
+    },
+    "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/": {
+        "title": "The ‘Father of the Internet’ is finally retiring",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T03:15:37+00:00",
+        "discovered_at": "2026-07-01T11:00:48.527536+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/": {
+        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-01T02:16:06+00:00",
+        "discovered_at": "2026-07-01T11:00:48.527546+00:00",
+        "status": "PENDING"
     }
 }
