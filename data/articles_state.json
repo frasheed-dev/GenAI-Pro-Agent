@@ -6491,7 +6491,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-06-30T19:02:38+00:00",
         "discovered_at": "2026-07-01T02:09:09.931389+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-02T17:24:56.318788+00:00",
+            "linkedin": "2026-07-02T17:25:19.862695+00:00",
+            "instagram": "2026-07-02T17:25:38.025731+00:00"
+        },
+        "updated_at": "2026-07-02T17:25:38.025741+00:00"
     },
     "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/": {
         "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
@@ -6672,6 +6678,54 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-02T05:30:00+00:00",
         "discovered_at": "2026-07-02T10:26:30.332607+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/": {
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T15:20:51+00:00",
+        "discovered_at": "2026-07-02T17:24:15.614503+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/": {
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T13:53:00+00:00",
+        "discovered_at": "2026-07-02T17:24:15.614510+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/": {
+        "title": "Yep, we’re using OpenClaw to date now",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T12:00:00+00:00",
+        "discovered_at": "2026-07-02T17:24:15.614513+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/": {
+        "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+        "source": "AI News",
+        "published_date": "2026-07-02T14:38:01+00:00",
+        "discovered_at": "2026-07-02T17:24:15.614525+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-02T17:24:56.310962+00:00",
+            "linkedin": "2026-07-02T17:25:19.854595+00:00",
+            "instagram": "2026-07-02T17:25:38.017668+00:00"
+        },
+        "updated_at": "2026-07-02T17:25:38.017680+00:00"
+    },
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/": {
+        "title": "Achieving operational excellence with AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-02T15:37:08+00:00",
+        "discovered_at": "2026-07-02T17:24:15.614530+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/": {
+        "title": "Teaching AI to run with the turbines",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-02T12:51:44+00:00",
+        "discovered_at": "2026-07-02T17:24:15.614533+00:00",
         "status": "PENDING"
     }
 }
