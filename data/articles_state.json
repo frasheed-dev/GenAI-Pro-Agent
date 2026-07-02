@@ -6565,7 +6565,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-01T14:20:19+00:00",
         "discovered_at": "2026-07-01T17:45:44.262853+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-02T10:27:16.577182+00:00",
+            "linkedin": "2026-07-02T10:27:34.342695+00:00",
+            "instagram": "2026-07-02T10:27:52.145972+00:00"
+        },
+        "updated_at": "2026-07-02T10:27:52.145985+00:00"
     },
     "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/": {
         "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
@@ -6599,7 +6605,13 @@
         "source": "AI News",
         "published_date": "2026-07-01T11:00:00+00:00",
         "discovered_at": "2026-07-01T17:45:44.262875+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-02T10:27:16.585161+00:00",
+            "linkedin": "2026-07-02T10:27:34.350512+00:00",
+            "instagram": "2026-07-02T10:27:52.153931+00:00"
+        },
+        "updated_at": "2026-07-02T10:27:52.153938+00:00"
     },
     "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/": {
         "title": "Bank of England reviews AI rules for agentic AI in finance",
@@ -6653,6 +6665,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-01T17:48:37+00:00",
         "discovered_at": "2026-07-02T02:01:37.180627+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/": {
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T05:30:00+00:00",
+        "discovered_at": "2026-07-02T10:26:30.332607+00:00",
         "status": "PENDING"
     }
 }
