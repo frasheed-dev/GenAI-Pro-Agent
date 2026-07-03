@@ -6692,7 +6692,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-02T13:53:00+00:00",
         "discovered_at": "2026-07-02T17:24:15.614510+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-03T01:45:54.770912+00:00",
+            "linkedin": "2026-07-03T01:46:20.159932+00:00",
+            "instagram": "2026-07-03T01:46:46.369683+00:00"
+        },
+        "updated_at": "2026-07-03T01:46:46.369695+00:00"
     },
     "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/": {
         "title": "Yep, we’re using OpenClaw to date now",
@@ -6727,5 +6733,39 @@
         "published_date": "2026-07-02T12:51:44+00:00",
         "discovered_at": "2026-07-02T17:24:15.614533+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/": {
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T23:38:10+00:00",
+        "discovered_at": "2026-07-03T01:44:46.960881+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/": {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T20:11:59+00:00",
+        "discovered_at": "2026-07-03T01:44:46.960887+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/": {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T18:44:02+00:00",
+        "discovered_at": "2026-07-03T01:44:46.960891+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/": {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-02T18:31:09+00:00",
+        "discovered_at": "2026-07-03T01:44:46.960899+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-03T01:45:54.762961+00:00",
+            "linkedin": "2026-07-03T01:46:20.151953+00:00",
+            "instagram": "2026-07-03T01:46:46.361594+00:00"
+        },
+        "updated_at": "2026-07-03T01:46:46.361608+00:00"
     }
 }
