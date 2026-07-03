@@ -6557,7 +6557,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-01T02:16:06+00:00",
         "discovered_at": "2026-07-01T11:00:48.527546+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-03T17:10:53.951586+00:00",
+            "linkedin": "2026-07-03T17:11:11.385969+00:00",
+            "instagram": "2026-07-03T17:11:28.993020+00:00"
+        },
+        "updated_at": "2026-07-03T17:11:28.993028+00:00"
     },
     "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/": {
         "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
@@ -6691,7 +6697,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-02T15:20:51+00:00",
         "discovered_at": "2026-07-02T17:24:15.614503+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-03T17:10:53.943149+00:00",
+            "linkedin": "2026-07-03T17:11:11.377662+00:00",
+            "instagram": "2026-07-03T17:11:28.984679+00:00"
+        },
+        "updated_at": "2026-07-03T17:11:28.984695+00:00"
     },
     "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/": {
         "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
@@ -6779,5 +6791,12 @@
             "instagram": "2026-07-03T01:46:46.361594+00:00"
         },
         "updated_at": "2026-07-03T01:46:46.361608+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/": {
+        "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+        "source": "AI News",
+        "published_date": "2026-07-03T10:00:00+00:00",
+        "discovered_at": "2026-07-03T17:10:14.691760+00:00",
+        "status": "PENDING"
     }
 }
