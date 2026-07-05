@@ -6822,14 +6822,26 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-04T16:32:08+00:00",
         "discovered_at": "2026-07-04T16:50:33.469069+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-05T16:53:23.569529+00:00",
+            "linkedin": "2026-07-05T16:53:40.874303+00:00",
+            "instagram": "2026-07-05T16:53:58.876385+00:00"
+        },
+        "updated_at": "2026-07-05T16:53:58.876402+00:00"
     },
     "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/": {
         "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
         "source": "TechCrunch AI",
         "published_date": "2026-07-04T15:51:32+00:00",
         "discovered_at": "2026-07-04T16:50:33.469075+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-05T16:53:23.575696+00:00",
+            "linkedin": "2026-07-05T16:53:40.880509+00:00",
+            "instagram": "2026-07-05T16:53:58.882478+00:00"
+        },
+        "updated_at": "2026-07-05T16:53:58.882486+00:00"
     },
     "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/": {
         "title": "The only AI glossary you’ll need this year",
