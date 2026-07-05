@@ -6862,7 +6862,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-04T20:55:25+00:00",
         "discovered_at": "2026-07-05T10:01:49.465416+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-05T22:09:45.128556+00:00",
+            "linkedin": "2026-07-05T22:10:02.933076+00:00",
+            "instagram": "2026-07-05T22:10:21.912104+00:00"
+        },
+        "updated_at": "2026-07-05T22:10:21.912120+00:00"
     },
     "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/": {
         "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
@@ -6876,5 +6882,12 @@
             "instagram": "2026-07-05T10:03:03.495989+00:00"
         },
         "updated_at": "2026-07-05T10:03:03.496004+00:00"
+    },
+    "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/": {
+        "title": "Amazon will stop accepting new customers for Mechanical Turk",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-05T17:43:36+00:00",
+        "discovered_at": "2026-07-05T22:09:05.345910+00:00",
+        "status": "PENDING"
     }
 }
