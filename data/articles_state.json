@@ -6809,7 +6809,13 @@
         "source": "AI News",
         "published_date": "2026-07-03T10:00:00+00:00",
         "discovered_at": "2026-07-03T17:10:14.691760+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-05T10:02:29.040170+00:00",
+            "linkedin": "2026-07-05T10:02:46.136637+00:00",
+            "instagram": "2026-07-05T10:03:03.504127+00:00"
+        },
+        "updated_at": "2026-07-05T10:03:03.504137+00:00"
     },
     "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/": {
         "title": "Alibaba reportedly bans employees from using Claude Code",
@@ -6838,5 +6844,25 @@
         "published_date": "2026-07-03T18:43:00+00:00",
         "discovered_at": "2026-07-04T16:50:33.469082+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/": {
+        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-04T20:55:25+00:00",
+        "discovered_at": "2026-07-05T10:01:49.465416+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/": {
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-04T18:00:05+00:00",
+        "discovered_at": "2026-07-05T10:01:49.465422+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-05T10:02:29.032017+00:00",
+            "linkedin": "2026-07-05T10:02:46.128554+00:00",
+            "instagram": "2026-07-05T10:03:03.495989+00:00"
+        },
+        "updated_at": "2026-07-05T10:03:03.496004+00:00"
     }
 }
