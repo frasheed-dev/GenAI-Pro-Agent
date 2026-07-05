@@ -165,8 +165,11 @@ def draft_social_post(platform, curated_articles):
     is_x = platform.lower() in ("x", "twitter")
     if not is_x:
         prompt += (
-            "- Put the Source Links at the very bottom.\n"
-            "- Add 3-5 hyper-relevant, niche hashtags at the very end (avoid generic tags like #AI).\n"
+            "- Put the source links at the very bottom, formatted STRICTLY like this:\n"
+            "Sources:\n"
+            "[url 1]\n"
+            "[url 2]\n"
+            "- Add 3-5 hyper-relevant, niche hashtags below the sources (avoid generic tags like #AI).\n"
         )
     prompt += "\nNews Developments:\n"
 
@@ -179,6 +182,18 @@ def draft_social_post(platform, curated_articles):
         text = extract_text(response).strip()
         # Strip out any residual markdown bold tags since social platforms render them literally
         text = text.replace("**", "")
+        
+        # Append the automated agent disclaimer to all platforms except X (due to char limits)
+        if not is_x:
+            footer = (
+                "\n\n---\n"
+                "🤖 Transparency Note: This entire post (curation, image, and text) was generated "
+                "and published autonomously by the GenAI Pro Agent.\n\n"
+                "We are building the future of automated media. Follow GenAI Pro to watch us build "
+                "in public!"
+            )
+            text += footer
+            
         return text
     except Exception as e:
         print(f"Error drafting post: {e}")

@@ -104,12 +104,12 @@ Revised Q2 business objectives:
 - Reach 100 organic followers across all platforms combined.
 - 🆕 **1 personal LinkedIn post per week** written by Farhan (not the agent) — sharing a behind-the-scenes insight about building the automation agent. Personal credibility posts consistently outperform automated content.
 
-**[REVISED — 2026-05-23, Antigravity] — Channel Prioritization Update**
+**[REVISED — 2026-07-05, Antigravity] — 30-Day Performance Data**
 
-Based on 7-day performance data (May 16–22):
-- **LinkedIn remains the highest-ROI channel** by a significant margin (~1,999 organic impressions over 15 days, 30 reactions, real professional engagement). Strategy: maintain automated posting, increase personal post cadence from Farhan.
-- **Facebook**: automated posting continues at zero cost, no incremental investment. 321 views / 7 days with declining trend — purely structural throttling, not a content problem.
-- **Instagram**: static image strategy is not viable. The channel is not abandoned — Reels will unlock organic non-follower distribution. Keep static image pipeline running (zero cost) while Reels is built.
+Based on 30-day performance data (June 4 – July 3, 2026):
+- **LinkedIn has officially hit escape velocity:** 6,027 organic impressions, 85 reactions, and a steady baseline of 200-400 views per post. The shift to the "aerated" bulleted executive summary format combined with the high-quality Google API images is clearly resonating with the algorithm.
+- **Strategy Validation:** Zero ad spend was used to achieve this. The "Hands-Free Social Engine" thesis is proven.
+- **Next Step:** Convert this traffic. The priority must shift from purely generating impressions to capturing this audience via the Beehiiv newsletter and scaling reach via the upcoming Short-Form Video engine.
 
 ---
 
@@ -193,3 +193,4 @@ The original targets remain valid. Additional context:
 | 2026-05-18 | Antigravity | Business plan updated with 7-day performance data; Reels & newsletter moved to Q2; SaaS productization moved to Q3; PhD credibility strategy added; revenue priority stack revised |
 | 2026-05-23 | Antigravity | Instagram confirmed live end-to-end; 7-day data shows static images = 0 organic reach on Instagram; Reels/Shorts elevated to #1 technical priority; LLM prompts overhauled to enforce aerated short-sentence format across all platforms; channel prioritization updated (LinkedIn → primary, Facebook → maintain, Instagram static → hold pending Reels) |
 | 2026-06-16 | Antigravity | Migrated Google image generation from deprecated Imagen 4 to Nano Banana (`gemini-2.5-flash-image`) via SDK. |
+| 2026-07-05 | Antigravity | Logged 30-day LinkedIn metrics (6,027 impressions). Validated "aerated" post structure and zero-cost organic growth thesis. |
