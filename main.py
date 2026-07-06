@@ -81,7 +81,7 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
         sys.exit(1)
     
     # --- Platform Posting Loop ---
-    platforms = selected_platforms if selected_platforms else ["Facebook", "LinkedIn", "Instagram"]
+    platforms = selected_platforms if selected_platforms else ["Facebook", "LinkedIn"]
     
     for platform in platforms:
         print(f"\n[Stage 4] Pausing for 15 seconds to respect Gemini Free Tier rate limits...")
@@ -137,7 +137,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     # Parse platforms
-    selected_platforms = ["Facebook", "LinkedIn", "Instagram"]
+    selected_platforms = ["Facebook", "LinkedIn"]
     if args.platform.lower() == "facebook":
         selected_platforms = ["Facebook"]
     elif args.platform.lower() == "linkedin":

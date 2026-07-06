@@ -29,6 +29,20 @@ The Media-to-SaaS funnel remains the right model. However, after the first 7 day
 
 ---
 
+## 📊 Growth Scorecard: Expectations vs. Actuals
+
+To cleanly track our scaling, here is our baseline and forward-looking expectations based on our recent LinkedIn success.
+
+| Key Metric | Q2 Target | Q2 Actual | Q3 Target | Q4 Target |
+|---|---|---|---|---|
+| **Monthly Organic Impressions** | Establish Baseline | **6,027** (LinkedIn) | 15,000 (via Reels) | 50,000+ |
+| **Cross-Platform Followers** | 100 | *Tracking...* | 500 | 2,500 |
+| **Newsletter Subscribers** | Launch (10+) | 0 | 500 | 2,500 |
+| **SaaS MRR (B2B Clients)** | $0 | $0 | $150 (1 Pilot) | $1,000 |
+| **Newsletter Ad Revenue** | $0 | $0 | $0 | $200-500 / send |
+
+---
+
 ## 📈 Q2: The Foundation (May – June)
 *Goal: Achieve 100% "Hands-Free" Social Operations & Complete Platform Parity.*
 
