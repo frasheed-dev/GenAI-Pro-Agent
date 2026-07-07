@@ -6902,7 +6902,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-06T19:49:10+00:00",
         "discovered_at": "2026-07-06T21:41:59.078292+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T12:32:45.905830+00:00",
+            "linkedin": "2026-07-07T12:33:03.443125+00:00"
+        },
+        "updated_at": "2026-07-07T12:33:03.443142+00:00"
     },
     "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/": {
         "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
@@ -6968,7 +6973,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-06T18:00:00+00:00",
         "discovered_at": "2026-07-06T21:41:59.078324+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T12:32:45.914333+00:00",
+            "linkedin": "2026-07-07T12:33:03.451722+00:00"
+        },
+        "updated_at": "2026-07-07T12:33:03.451732+00:00"
     },
     "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/": {
         "title": "The ‘first’ AI-run ransomware attack still needed a human",
@@ -6987,6 +6997,27 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-06T23:21:03+00:00",
         "discovered_at": "2026-07-07T04:01:04.357232+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/": {
+        "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T12:00:00+00:00",
+        "discovered_at": "2026-07-07T12:31:22.580175+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/": {
+        "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T09:00:00+00:00",
+        "discovered_at": "2026-07-07T12:31:22.580182+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/": {
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-07T11:10:52+00:00",
+        "discovered_at": "2026-07-07T12:31:22.580192+00:00",
         "status": "PENDING"
     }
 }
