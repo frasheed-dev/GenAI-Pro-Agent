@@ -6949,7 +6949,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-06T15:22:08+00:00",
         "discovered_at": "2026-07-06T21:41:59.078312+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T04:01:43.686390+00:00",
+            "linkedin": "2026-07-07T04:02:01.009550+00:00"
+        },
+        "updated_at": "2026-07-07T04:02:01.009563+00:00"
     },
     "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/": {
         "title": "China’s AI companion rules: what Beijing is really going after",
@@ -6963,6 +6968,25 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-06T18:00:00+00:00",
         "discovered_at": "2026-07-06T21:41:59.078324+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/": {
+        "title": "The ‘first’ AI-run ransomware attack still needed a human",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-06T23:56:14+00:00",
+        "discovered_at": "2026-07-07T04:01:04.357224+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T04:01:43.678110+00:00",
+            "linkedin": "2026-07-07T04:02:01.001406+00:00"
+        },
+        "updated_at": "2026-07-07T04:02:01.001422+00:00"
+    },
+    "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/": {
+        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-06T23:21:03+00:00",
+        "discovered_at": "2026-07-07T04:01:04.357232+00:00",
         "status": "PENDING"
     }
 }
