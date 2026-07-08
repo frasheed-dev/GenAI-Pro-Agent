@@ -7064,5 +7064,36 @@
             "linkedin": "2026-07-07T21:37:28.768675+00:00"
         },
         "updated_at": "2026-07-07T21:37:28.768689+00:00"
+    },
+    "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/": {
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T22:18:10+00:00",
+        "discovered_at": "2026-07-08T03:27:27.619410+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T03:28:08.020081+00:00",
+            "linkedin": "2026-07-08T03:28:25.183769+00:00"
+        },
+        "updated_at": "2026-07-08T03:28:25.183782+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/": {
+        "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+        "source": "AI News",
+        "published_date": "2026-07-07T14:00:06+00:00",
+        "discovered_at": "2026-07-08T03:27:27.619427+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T03:28:08.028774+00:00",
+            "linkedin": "2026-07-08T03:28:25.192753+00:00"
+        },
+        "updated_at": "2026-07-08T03:28:25.192764+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/": {
+        "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+        "source": "AI News",
+        "published_date": "2026-07-07T10:00:00+00:00",
+        "discovered_at": "2026-07-08T03:27:27.619431+00:00",
+        "status": "PENDING"
     }
 }
