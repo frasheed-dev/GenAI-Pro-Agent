@@ -7119,5 +7119,120 @@
             "linkedin": "2026-07-08T11:52:07.001440+00:00"
         },
         "updated_at": "2026-07-08T11:52:07.001453+00:00"
+    },
+    "https://openai.com/index/government-national-security-partnerships": {
+        "title": "Our approach to government and national security partnerships",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T13:30:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752431+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+        "title": "Separating signal from noise in coding evaluations",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T13:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752437+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/k-12-educators-practical-skills": {
+        "title": "Helping K–12 educators build practical AI skills",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T10:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752440+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-gpt-live": {
+        "title": "Introducing GPT-Live",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T00:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752443+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T21:16:47.250677+00:00",
+            "linkedin": "2026-07-08T21:17:04.239382+00:00"
+        },
+        "updated_at": "2026-07-08T21:17:04.239388+00:00"
+    },
+    "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/": {
+        "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T20:37:03+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752446+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/": {
+        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T19:30:16+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752451+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T21:16:47.243850+00:00",
+            "linkedin": "2026-07-08T21:17:04.232567+00:00"
+        },
+        "updated_at": "2026-07-08T21:17:04.232581+00:00"
+    },
+    "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/": {
+        "title": "This startup thinks robotics is about to have its ChatGPT moment",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T19:19:15+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752454+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/": {
+        "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T18:30:08+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752457+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/": {
+        "title": "Why this CEO thinks video games make better training data than the internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T17:47:55+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752460+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/": {
+        "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T17:11:18+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752463+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/": {
+        "title": "OpenAI releases new voice models for more natural live conversations",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T17:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752466+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/": {
+        "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T16:22:38+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752469+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/": {
+        "title": "These AI startups are growing  revenue at faster and faster rates",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T15:41:06+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752472+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/": {
+        "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T13:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752475+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/": {
+        "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T12:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752477+00:00",
+        "status": "PENDING"
     }
 }
