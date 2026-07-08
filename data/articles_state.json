@@ -7044,7 +7044,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-07T19:58:20+00:00",
         "discovered_at": "2026-07-07T21:36:31.045370+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T11:51:49.797637+00:00",
+            "linkedin": "2026-07-08T11:52:07.010355+00:00"
+        },
+        "updated_at": "2026-07-08T11:52:07.010362+00:00"
     },
     "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/": {
         "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
@@ -7095,5 +7100,24 @@
         "published_date": "2026-07-07T10:00:00+00:00",
         "discovered_at": "2026-07-08T03:27:27.619431+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/": {
+        "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T08:00:00+00:00",
+        "discovered_at": "2026-07-08T11:51:09.270641+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/": {
+        "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T07:16:00+00:00",
+        "discovered_at": "2026-07-08T11:51:09.270647+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T11:51:49.789067+00:00",
+            "linkedin": "2026-07-08T11:52:07.001440+00:00"
+        },
+        "updated_at": "2026-07-08T11:52:07.001453+00:00"
     }
 }
