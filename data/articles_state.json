@@ -7205,14 +7205,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-08T17:00:00+00:00",
         "discovered_at": "2026-07-08T21:16:07.752466+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-09T04:00:56.262675+00:00",
+            "linkedin": "2026-07-09T04:01:13.674548+00:00"
+        },
+        "updated_at": "2026-07-09T04:01:13.674562+00:00"
     },
     "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/": {
         "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
         "source": "TechCrunch AI",
         "published_date": "2026-07-08T16:22:38+00:00",
         "discovered_at": "2026-07-08T21:16:07.752469+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-09T04:00:56.271394+00:00",
+            "linkedin": "2026-07-09T04:01:13.682969+00:00"
+        },
+        "updated_at": "2026-07-09T04:01:13.682979+00:00"
     },
     "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/": {
         "title": "These AI startups are growing  revenue at faster and faster rates",
@@ -7233,6 +7243,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-08T12:00:00+00:00",
         "discovered_at": "2026-07-08T21:16:07.752477+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/": {
+        "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T22:41:33+00:00",
+        "discovered_at": "2026-07-09T04:00:16.100088+00:00",
         "status": "PENDING"
     }
 }
