@@ -7281,7 +7281,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-09T10:00:00+00:00",
         "discovered_at": "2026-07-09T21:28:14.389507+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T21:13:22.389182+00:00",
+            "linkedin": "2026-07-10T21:13:39.275464+00:00"
+        },
+        "updated_at": "2026-07-10T21:13:39.275472+00:00"
     },
     "https://openai.com/index/gpt-5-6": {
         "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
@@ -7300,7 +7305,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-09T19:40:45+00:00",
         "discovered_at": "2026-07-09T21:28:14.389517+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T21:13:22.380050+00:00",
+            "linkedin": "2026-07-10T21:13:39.266153+00:00"
+        },
+        "updated_at": "2026-07-10T21:13:39.266165+00:00"
     },
     "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/": {
         "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
@@ -7462,6 +7472,55 @@
         "source": "OpenAI",
         "published_date": "2026-07-10T07:00:00+00:00",
         "discovered_at": "2026-07-10T12:29:44.296857+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/": {
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T21:00:29+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663882+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/": {
+        "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T19:00:00+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663888+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/": {
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T17:17:12+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663892+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
+        "title": "Hugging Face’s CEO on why companies are done renting their AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T14:00:00+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663895+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/": {
+        "title": "How to shrink the token budget without shrinking the team",
+        "source": "AI News",
+        "published_date": "2026-07-10T09:34:27+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663902+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/": {
+        "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+        "source": "AI News",
+        "published_date": "2026-07-09T15:43:09+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663905+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/": {
+        "title": "NHS AI blood test could reduce invasive womb cancer checks",
+        "source": "AI News",
+        "published_date": "2026-07-09T10:00:00+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663908+00:00",
         "status": "PENDING"
     }
 }
