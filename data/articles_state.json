@@ -7288,7 +7288,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-09T10:00:00+00:00",
         "discovered_at": "2026-07-09T21:28:14.389510+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T12:30:24.005074+00:00",
+            "linkedin": "2026-07-10T12:30:40.955031+00:00"
+        },
+        "updated_at": "2026-07-10T12:30:40.955044+00:00"
     },
     "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/": {
         "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
@@ -7398,7 +7403,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T00:16:54+00:00",
         "discovered_at": "2026-07-10T03:55:36.214899+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T12:30:23.995736+00:00",
+            "linkedin": "2026-07-10T12:30:40.945639+00:00"
+        },
+        "updated_at": "2026-07-10T12:30:40.945656+00:00"
     },
     "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/": {
         "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
@@ -7445,6 +7455,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-09T21:47:50+00:00",
         "discovered_at": "2026-07-10T03:55:36.214922+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/deutsche-telekom": {
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "source": "OpenAI",
+        "published_date": "2026-07-10T07:00:00+00:00",
+        "discovered_at": "2026-07-10T12:29:44.296857+00:00",
         "status": "PENDING"
     }
 }
