@@ -7386,6 +7386,65 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-09T20:22:28+00:00",
         "discovered_at": "2026-07-09T21:28:14.389560+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T03:56:16.998601+00:00",
+            "linkedin": "2026-07-10T03:56:33.977156+00:00"
+        },
+        "updated_at": "2026-07-10T03:56:33.977164+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/": {
+        "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T00:16:54+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214899+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/": {
+        "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T23:38:00+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214906+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/": {
+        "title": "OpenAI launches its new family of models with GPT-5.6",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T22:24:24+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214910+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T03:56:16.989461+00:00",
+            "linkedin": "2026-07-10T03:56:33.967987+00:00"
+        },
+        "updated_at": "2026-07-10T03:56:33.968002+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/": {
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T22:08:58+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214913+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/": {
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T22:03:54+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214916+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/": {
+        "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T21:57:42+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214919+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/": {
+        "title": "Can AI answer the $3 trillion question?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T21:47:50+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214922+00:00",
         "status": "PENDING"
     }
 }
