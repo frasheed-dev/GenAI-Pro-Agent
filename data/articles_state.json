@@ -7456,7 +7456,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-09T22:03:54+00:00",
         "discovered_at": "2026-07-10T03:55:36.214916+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T11:12:34.733113+00:00",
+            "linkedin": "2026-07-11T11:12:51.680479+00:00"
+        },
+        "updated_at": "2026-07-11T11:12:51.680487+00:00"
     },
     "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/": {
         "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
@@ -7484,7 +7489,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T21:00:29+00:00",
         "discovered_at": "2026-07-10T21:12:41.663882+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T11:12:34.724298+00:00",
+            "linkedin": "2026-07-11T11:12:51.671621+00:00"
+        },
+        "updated_at": "2026-07-11T11:12:51.671635+00:00"
     },
     "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/": {
         "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
