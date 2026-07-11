@@ -69,6 +69,30 @@ def curate_articles(articles):
         print(f"Error during curation: {e}")
         return []
 
+def apply_linkedin_company_tags(text: str) -> str:
+    """
+    Looks for exact references of major AI and tech companies and replaces them
+    with LinkedIn's organization URN tagging format: @[Company Name](urn:li:organization:ID).
+    Uses a negative lookbehind to avoid replacing company names inside hashtags (e.g. #OpenAI).
+    """
+    company_map = {
+        r'(?<!#)\bOpenAI\b': '@[OpenAI](urn:li:organization:11130470)',
+        r'(?<!#)\bAnthropic\b': '@[Anthropic](urn:li:organization:7936402)',
+        r'(?<!#)\bNVIDIA\b': '@[NVIDIA](urn:li:organization:3608)',
+        r'(?<!#)\bMeta\b': '@[Meta](urn:li:organization:10667)',
+        r'(?<!#)\bGoogle\b': '@[Google](urn:li:organization:1441)',
+        r'(?<!#)\bMicrosoft\b': '@[Microsoft](urn:li:organization:1035)',
+        r'(?<!#)\bCohere\b': '@[Cohere](urn:li:organization:24024765)',
+        r'(?<!#)\bMistral\b(\s*AI)?': '@[Mistral AI](urn:li:organization:94273421)',
+        r'(?<!#)\bPerplexity\b(\s*AI)?': '@[Perplexity](urn:li:organization:88007673)',
+        r'(?<!#)\bMidjourney\b': '@[Midjourney](urn:li:organization:82318617)',
+        r'(?<!#)\bxAI\b': '@[xAI](urn:li:organization:5191206)',
+    }
+    
+    for pattern, tag in company_map.items():
+        text = re.sub(pattern, tag, text, flags=re.IGNORECASE)
+    return text
+
 def draft_social_post(platform, curated_articles):
     """
     Drafts a social media post based on the curated articles, tailored for the given platform.
@@ -193,6 +217,10 @@ def draft_social_post(platform, curated_articles):
                 "in public!"
             )
             text += footer
+            
+        # Apply LinkedIn specific company tags after draft generation is complete
+        if platform.lower() == "linkedin":
+            text = apply_linkedin_company_tags(text)
             
         return text
     except Exception as e:
