@@ -6902,7 +6902,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-06T19:49:10+00:00",
         "discovered_at": "2026-07-06T21:41:59.078292+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T12:32:45.905830+00:00",
+            "linkedin": "2026-07-07T12:33:03.443125+00:00"
+        },
+        "updated_at": "2026-07-07T12:33:03.443142+00:00"
     },
     "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/": {
         "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
@@ -6949,7 +6954,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-06T15:22:08+00:00",
         "discovered_at": "2026-07-06T21:41:59.078312+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T04:01:43.686390+00:00",
+            "linkedin": "2026-07-07T04:02:01.009550+00:00"
+        },
+        "updated_at": "2026-07-07T04:02:01.009563+00:00"
     },
     "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/": {
         "title": "China’s AI companion rules: what Beijing is really going after",
@@ -6963,6 +6973,598 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-06T18:00:00+00:00",
         "discovered_at": "2026-07-06T21:41:59.078324+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T12:32:45.914333+00:00",
+            "linkedin": "2026-07-07T12:33:03.451722+00:00"
+        },
+        "updated_at": "2026-07-07T12:33:03.451732+00:00"
+    },
+    "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/": {
+        "title": "The ‘first’ AI-run ransomware attack still needed a human",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-06T23:56:14+00:00",
+        "discovered_at": "2026-07-07T04:01:04.357224+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T04:01:43.678110+00:00",
+            "linkedin": "2026-07-07T04:02:01.001406+00:00"
+        },
+        "updated_at": "2026-07-07T04:02:01.001422+00:00"
+    },
+    "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/": {
+        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-06T23:21:03+00:00",
+        "discovered_at": "2026-07-07T04:01:04.357232+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/": {
+        "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T12:00:00+00:00",
+        "discovered_at": "2026-07-07T12:31:22.580175+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/": {
+        "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T09:00:00+00:00",
+        "discovered_at": "2026-07-07T12:31:22.580182+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/": {
+        "title": "The foundational elements of AI architecture that IT leaders need to scale",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-07T11:10:52+00:00",
+        "discovered_at": "2026-07-07T12:31:22.580192+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/australian-payments-plus": {
+        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+        "source": "OpenAI",
+        "published_date": "2026-07-07T00:00:00+00:00",
+        "discovered_at": "2026-07-07T21:36:31.045358+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T21:37:11.517516+00:00",
+            "linkedin": "2026-07-07T21:37:28.777263+00:00"
+        },
+        "updated_at": "2026-07-07T21:37:28.777288+00:00"
+    },
+    "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/": {
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T20:04:32+00:00",
+        "discovered_at": "2026-07-07T21:36:31.045366+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/": {
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T19:58:20+00:00",
+        "discovered_at": "2026-07-07T21:36:31.045370+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T11:51:49.797637+00:00",
+            "linkedin": "2026-07-08T11:52:07.010355+00:00"
+        },
+        "updated_at": "2026-07-08T11:52:07.010362+00:00"
+    },
+    "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/": {
+        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T19:28:38+00:00",
+        "discovered_at": "2026-07-07T21:36:31.045374+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/": {
+        "title": "Claude Cowork expands to mobile and web",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T16:27:18+00:00",
+        "discovered_at": "2026-07-07T21:36:31.045378+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-07T21:37:11.508818+00:00",
+            "linkedin": "2026-07-07T21:37:28.768675+00:00"
+        },
+        "updated_at": "2026-07-07T21:37:28.768689+00:00"
+    },
+    "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/": {
+        "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-07T22:18:10+00:00",
+        "discovered_at": "2026-07-08T03:27:27.619410+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T03:28:08.020081+00:00",
+            "linkedin": "2026-07-08T03:28:25.183769+00:00"
+        },
+        "updated_at": "2026-07-08T03:28:25.183782+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/": {
+        "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+        "source": "AI News",
+        "published_date": "2026-07-07T14:00:06+00:00",
+        "discovered_at": "2026-07-08T03:27:27.619427+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T03:28:08.028774+00:00",
+            "linkedin": "2026-07-08T03:28:25.192753+00:00"
+        },
+        "updated_at": "2026-07-08T03:28:25.192764+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/": {
+        "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+        "source": "AI News",
+        "published_date": "2026-07-07T10:00:00+00:00",
+        "discovered_at": "2026-07-08T03:27:27.619431+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/": {
+        "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T08:00:00+00:00",
+        "discovered_at": "2026-07-08T11:51:09.270641+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/": {
+        "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T07:16:00+00:00",
+        "discovered_at": "2026-07-08T11:51:09.270647+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T11:51:49.789067+00:00",
+            "linkedin": "2026-07-08T11:52:07.001440+00:00"
+        },
+        "updated_at": "2026-07-08T11:52:07.001453+00:00"
+    },
+    "https://openai.com/index/government-national-security-partnerships": {
+        "title": "Our approach to government and national security partnerships",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T13:30:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752431+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+        "title": "Separating signal from noise in coding evaluations",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T13:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752437+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/k-12-educators-practical-skills": {
+        "title": "Helping K–12 educators build practical AI skills",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T10:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752440+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-gpt-live": {
+        "title": "Introducing GPT-Live",
+        "source": "OpenAI",
+        "published_date": "2026-07-08T00:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752443+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T21:16:47.250677+00:00",
+            "linkedin": "2026-07-08T21:17:04.239382+00:00"
+        },
+        "updated_at": "2026-07-08T21:17:04.239388+00:00"
+    },
+    "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/": {
+        "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T20:37:03+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752446+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/": {
+        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T19:30:16+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752451+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-08T21:16:47.243850+00:00",
+            "linkedin": "2026-07-08T21:17:04.232567+00:00"
+        },
+        "updated_at": "2026-07-08T21:17:04.232581+00:00"
+    },
+    "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/": {
+        "title": "This startup thinks robotics is about to have its ChatGPT moment",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T19:19:15+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752454+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/": {
+        "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T18:30:08+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752457+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/": {
+        "title": "Why this CEO thinks video games make better training data than the internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T17:47:55+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752460+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/": {
+        "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T17:11:18+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752463+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/": {
+        "title": "OpenAI releases new voice models for more natural live conversations",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T17:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752466+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-09T04:00:56.262675+00:00",
+            "linkedin": "2026-07-09T04:01:13.674548+00:00"
+        },
+        "updated_at": "2026-07-09T04:01:13.674562+00:00"
+    },
+    "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/": {
+        "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T16:22:38+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752469+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-09T04:00:56.271394+00:00",
+            "linkedin": "2026-07-09T04:01:13.682969+00:00"
+        },
+        "updated_at": "2026-07-09T04:01:13.682979+00:00"
+    },
+    "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/": {
+        "title": "These AI startups are growing  revenue at faster and faster rates",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T15:41:06+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752472+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/": {
+        "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T13:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752475+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/": {
+        "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T12:00:00+00:00",
+        "discovered_at": "2026-07-08T21:16:07.752477+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/": {
+        "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-08T22:41:33+00:00",
+        "discovered_at": "2026-07-09T04:00:16.100088+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "source": "OpenAI",
+        "published_date": "2026-07-09T13:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389496+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-09T21:28:53.921164+00:00",
+            "linkedin": "2026-07-09T21:29:11.266681+00:00"
+        },
+        "updated_at": "2026-07-09T21:29:11.266693+00:00"
+    },
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+        "title": "ChatGPT is now a partner for your most ambitious work",
+        "source": "OpenAI",
+        "published_date": "2026-07-09T10:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389503+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-09T21:28:53.929841+00:00",
+            "linkedin": "2026-07-09T21:29:11.275421+00:00"
+        },
+        "updated_at": "2026-07-09T21:29:11.275429+00:00"
+    },
+    "https://openai.com/index/bio-bug-bounty": {
+        "title": "GPT-5.5 Bio Bug Bounty",
+        "source": "OpenAI",
+        "published_date": "2026-07-09T10:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389507+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T21:13:22.389182+00:00",
+            "linkedin": "2026-07-10T21:13:39.275464+00:00"
+        },
+        "updated_at": "2026-07-10T21:13:39.275472+00:00"
+    },
+    "https://openai.com/index/gpt-5-6": {
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "source": "OpenAI",
+        "published_date": "2026-07-09T10:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389510+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T12:30:24.005074+00:00",
+            "linkedin": "2026-07-10T12:30:40.955031+00:00"
+        },
+        "updated_at": "2026-07-10T12:30:40.955044+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/": {
+        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T19:40:45+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389517+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T21:13:22.380050+00:00",
+            "linkedin": "2026-07-10T21:13:39.266153+00:00"
+        },
+        "updated_at": "2026-07-10T21:13:39.266165+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/": {
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T19:05:58+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389521+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T03:23:26.209390+00:00",
+            "linkedin": "2026-07-11T03:23:51.798000+00:00"
+        },
+        "updated_at": "2026-07-11T03:23:51.798013+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/": {
+        "title": "Google will now disclose which ads are made with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T18:40:51+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389524+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/": {
+        "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T18:34:35+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389528+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/": {
+        "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T18:22:39+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389531+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/": {
+        "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T17:56:47+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389534+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/": {
+        "title": "Meta’s new AI chips will begin production in September",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T17:17:37+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389537+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T20:59:25.146330+00:00",
+            "linkedin": "2026-07-11T20:59:42.228829+00:00"
+        },
+        "updated_at": "2026-07-11T20:59:42.228835+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/": {
+        "title": "Nvidia is a victim of the compute marketplace it created",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T17:06:11+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389540+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/": {
+        "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T14:53:09+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389543+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/": {
+        "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T14:51:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389545+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/": {
+        "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T13:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389548+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/": {
+        "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T13:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389552+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/": {
+        "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T12:00:00+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389555+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/": {
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-09T20:22:28+00:00",
+        "discovered_at": "2026-07-09T21:28:14.389560+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T03:56:16.998601+00:00",
+            "linkedin": "2026-07-10T03:56:33.977156+00:00"
+        },
+        "updated_at": "2026-07-10T03:56:33.977164+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/": {
+        "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T00:16:54+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214899+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T12:30:23.995736+00:00",
+            "linkedin": "2026-07-10T12:30:40.945639+00:00"
+        },
+        "updated_at": "2026-07-10T12:30:40.945656+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/": {
+        "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T23:38:00+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214906+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/": {
+        "title": "OpenAI launches its new family of models with GPT-5.6",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T22:24:24+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214910+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-10T03:56:16.989461+00:00",
+            "linkedin": "2026-07-10T03:56:33.967987+00:00"
+        },
+        "updated_at": "2026-07-10T03:56:33.968002+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/": {
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T22:08:58+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214913+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T20:59:25.136058+00:00",
+            "linkedin": "2026-07-11T20:59:42.220143+00:00"
+        },
+        "updated_at": "2026-07-11T20:59:42.220156+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/": {
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T22:03:54+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214916+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T11:12:34.733113+00:00",
+            "linkedin": "2026-07-11T11:12:51.680479+00:00"
+        },
+        "updated_at": "2026-07-11T11:12:51.680487+00:00"
+    },
+    "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/": {
+        "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T21:57:42+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214919+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/": {
+        "title": "Can AI answer the $3 trillion question?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-09T21:47:50+00:00",
+        "discovered_at": "2026-07-10T03:55:36.214922+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/deutsche-telekom": {
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "source": "OpenAI",
+        "published_date": "2026-07-10T07:00:00+00:00",
+        "discovered_at": "2026-07-10T12:29:44.296857+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/": {
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T21:00:29+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663882+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T11:12:34.724298+00:00",
+            "linkedin": "2026-07-11T11:12:51.671621+00:00"
+        },
+        "updated_at": "2026-07-11T11:12:51.671635+00:00"
+    },
+    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/": {
+        "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T19:00:00+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663888+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/": {
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T17:17:12+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663892+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
+        "title": "Hugging Face’s CEO on why companies are done renting their AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T14:00:00+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663895+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/": {
+        "title": "How to shrink the token budget without shrinking the team",
+        "source": "AI News",
+        "published_date": "2026-07-10T09:34:27+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663902+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/": {
+        "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+        "source": "AI News",
+        "published_date": "2026-07-09T15:43:09+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663905+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T03:23:26.216700+00:00",
+            "linkedin": "2026-07-11T03:23:51.805188+00:00"
+        },
+        "updated_at": "2026-07-11T03:23:51.805195+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/": {
+        "title": "NHS AI blood test could reduce invasive womb cancer checks",
+        "source": "AI News",
+        "published_date": "2026-07-09T10:00:00+00:00",
+        "discovered_at": "2026-07-10T21:12:41.663908+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/": {
+        "title": "Meta removes controversial AI feature on Instagram after backlash",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-10T23:55:07+00:00",
+        "discovered_at": "2026-07-11T03:22:44.745713+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/": {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-11T14:13:00+00:00",
+        "discovered_at": "2026-07-11T20:58:46.834466+00:00",
         "status": "PENDING"
     }
 }
