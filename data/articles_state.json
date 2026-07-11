@@ -7357,7 +7357,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-09T17:17:37+00:00",
         "discovered_at": "2026-07-09T21:28:14.389537+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T20:59:25.146330+00:00",
+            "linkedin": "2026-07-11T20:59:42.228829+00:00"
+        },
+        "updated_at": "2026-07-11T20:59:42.228835+00:00"
     },
     "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/": {
         "title": "Nvidia is a victim of the compute marketplace it created",
@@ -7449,7 +7454,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-09T22:08:58+00:00",
         "discovered_at": "2026-07-10T03:55:36.214913+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-11T20:59:25.136058+00:00",
+            "linkedin": "2026-07-11T20:59:42.220143+00:00"
+        },
+        "updated_at": "2026-07-11T20:59:42.220156+00:00"
     },
     "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/": {
         "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
@@ -7548,6 +7558,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T23:55:07+00:00",
         "discovered_at": "2026-07-11T03:22:44.745713+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/": {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-11T14:13:00+00:00",
+        "discovered_at": "2026-07-11T20:58:46.834466+00:00",
         "status": "PENDING"
     }
 }
