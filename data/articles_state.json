@@ -7492,7 +7492,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-10T07:00:00+00:00",
         "discovered_at": "2026-07-10T12:29:44.296857+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-12T03:34:15.146308+00:00",
+            "linkedin": "2026-07-12T03:34:31.920510+00:00"
+        },
+        "updated_at": "2026-07-12T03:34:31.920517+00:00"
     },
     "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/": {
         "title": "Apple sues OpenAI over alleged trade secret theft",
@@ -7511,7 +7516,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T19:00:00+00:00",
         "discovered_at": "2026-07-10T21:12:41.663888+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-12T03:34:15.136692+00:00",
+            "linkedin": "2026-07-12T03:34:31.911287+00:00"
+        },
+        "updated_at": "2026-07-12T03:34:31.911299+00:00"
     },
     "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/": {
         "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
