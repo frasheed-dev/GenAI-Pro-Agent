@@ -7528,14 +7528,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T17:17:12+00:00",
         "discovered_at": "2026-07-10T21:12:41.663892+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-12T11:18:02.958211+00:00",
+            "linkedin": "2026-07-12T11:18:20.027321+00:00"
+        },
+        "updated_at": "2026-07-12T11:18:20.027338+00:00"
     },
     "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/": {
         "title": "Hugging Face’s CEO on why companies are done renting their AI",
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T14:00:00+00:00",
         "discovered_at": "2026-07-10T21:12:41.663895+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-12T11:18:02.964985+00:00",
+            "linkedin": "2026-07-12T11:18:20.034149+00:00"
+        },
+        "updated_at": "2026-07-12T11:18:20.034158+00:00"
     },
     "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/": {
         "title": "How to shrink the token budget without shrinking the team",
