@@ -40,6 +40,13 @@ def test_company_tagging():
     result_4 = apply_linkedin_company_tags(text_4)
     assert result_4 == expected_4, f"Failed other companies replacement.\nGot: {result_4}\nExpected: {expected_4}"
     print("✅ All tech brand mappings passed.")
+    
+    # 5. Test URL protection
+    text_5 = "Sources:\nhttps://openai.com/index/deutsche-telekom\nhttps://google.com/search"
+    expected_5 = "Sources:\nhttps://openai.com/index/deutsche-telekom\nhttps://google.com/search"
+    result_5 = apply_linkedin_company_tags(text_5)
+    assert result_5 == expected_5, f"Failed URL protection. URL got modified!\nGot: {result_5}\nExpected: {expected_5}"
+    print("✅ URL protection passed.")
 
 if __name__ == "__main__":
     test_company_tagging()

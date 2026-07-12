@@ -73,24 +73,60 @@ def apply_linkedin_company_tags(text: str) -> str:
     """
     Looks for exact references of major AI and tech companies and replaces them
     with LinkedIn's organization URN tagging format: @[Company Name](urn:li:organization:ID).
-    Uses a negative lookbehind to avoid replacing company names inside hashtags (e.g. #OpenAI).
+    Protects URLs and hashtags by replacing them with temporary placeholders before processing.
     """
+    # 1. Extract URLs and replace with placeholders
+    url_pattern = r'https?://[^\s]+|www\.[^\s]+'
+    urls = re.findall(url_pattern, text)
+    for i, url in enumerate(urls):
+        text = text.replace(url, f'__URL_PLACEHOLDER_{i}__')
+        
+    # 2. Extract Hashtags and replace with placeholders
+    hashtag_pattern = r'#[a-zA-Z0-9_]+'
+    hashtags = re.findall(hashtag_pattern, text)
+    for i, hashtag in enumerate(hashtags):
+        text = text.replace(hashtag, f'__HASHTAG_PLACEHOLDER_{i}__')
+
+    # 3. Replace company names
     company_map = {
-        r'(?<!#)\bOpenAI\b': '@[OpenAI](urn:li:organization:11130470)',
-        r'(?<!#)\bAnthropic\b': '@[Anthropic](urn:li:organization:7936402)',
-        r'(?<!#)\bNVIDIA\b': '@[NVIDIA](urn:li:organization:3608)',
-        r'(?<!#)\bMeta\b': '@[Meta](urn:li:organization:10667)',
-        r'(?<!#)\bGoogle\b': '@[Google](urn:li:organization:1441)',
-        r'(?<!#)\bMicrosoft\b': '@[Microsoft](urn:li:organization:1035)',
-        r'(?<!#)\bCohere\b': '@[Cohere](urn:li:organization:24024765)',
-        r'(?<!#)\bMistral\b(\s*AI)?': '@[Mistral AI](urn:li:organization:94273421)',
-        r'(?<!#)\bPerplexity\b(\s*AI)?': '@[Perplexity](urn:li:organization:88007673)',
-        r'(?<!#)\bMidjourney\b': '@[Midjourney](urn:li:organization:82318617)',
-        r'(?<!#)\bxAI\b': '@[xAI](urn:li:organization:5191206)',
+        r'\bOpenAI\b': '@[OpenAI](urn:li:organization:11130470)',
+        r'\bAnthropic\b': '@[Anthropic](urn:li:organization:7936402)',
+        r'\bNVIDIA\b': '@[NVIDIA](urn:li:organization:3608)',
+        r'\bMeta\b': '@[Meta](urn:li:organization:10667)',
+        r'\bGoogle\b': '@[Google](urn:li:organization:1441)',
+        r'\bMicrosoft\b': '@[Microsoft](urn:li:organization:1035)',
+        r'\bCohere\b': '@[Cohere](urn:li:organization:24024765)',
+        r'\bMistral\b(\s*AI)?': '@[Mistral AI](urn:li:organization:94273421)',
+        r'\bPerplexity\b(\s*AI)?': '@[Perplexity](urn:li:organization:88007673)',
+        r'\bMidjourney\b': '@[Midjourney](urn:li:organization:82318617)',
+        r'\bxAI\b': '@[xAI](urn:li:organization:5191206)',
+        # Fortune 500 Tech & AI giants
+        r'\bIBM\b': '@[IBM](urn:li:organization:1009)',
+        r'\bIntel\b': '@[Intel](urn:li:organization:1053)',
+        r'\bOracle\b': '@[Oracle](urn:li:organization:1028)',
+        r'\bCisco\b': '@[Cisco](urn:li:organization:1063)',
+        r'\bAdobe\b': '@[Adobe](urn:li:organization:1480)',
+        r'\bSalesforce\b': '@[Salesforce](urn:li:organization:3185)',
+        r'\bAMD\b': '@[AMD](urn:li:organization:1497)',
+        r'\bQualcomm\b': '@[Qualcomm](urn:li:organization:2017)',
+        r'\bServiceNow\b': '@[ServiceNow](urn:li:organization:29352)',
+        r'\bSnowflake\b': '@[Snowflake](urn:li:organization:3653845)',
+        r'\bDatabricks\b': '@[Databricks](urn:li:organization:3477522)',
+        r'\bPalantir\b': '@[Palantir Technologies](urn:li:organization:20708)',
+        r'\bBroadcom\b': '@[Broadcom](urn:li:organization:3072)',
     }
     
     for pattern, tag in company_map.items():
         text = re.sub(pattern, tag, text, flags=re.IGNORECASE)
+
+    # 4. Restore Hashtags
+    for i, hashtag in enumerate(hashtags):
+        text = text.replace(f'__HASHTAG_PLACEHOLDER_{i}__', hashtag)
+
+    # 5. Restore URLs
+    for i, url in enumerate(urls):
+        text = text.replace(f'__URL_PLACEHOLDER_{i}__', url)
+
     return text
 
 def draft_social_post(platform, curated_articles):
