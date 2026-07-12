@@ -7435,7 +7435,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-09T23:38:00+00:00",
         "discovered_at": "2026-07-10T03:55:36.214906+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-12T20:59:40.704626+00:00",
+            "linkedin": "2026-07-12T20:59:57.879756+00:00"
+        },
+        "updated_at": "2026-07-12T20:59:57.879763+00:00"
     },
     "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/": {
         "title": "OpenAI launches its new family of models with GPT-5.6",
@@ -7578,7 +7583,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-10T23:55:07+00:00",
         "discovered_at": "2026-07-11T03:22:44.745713+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-12T20:59:40.695822+00:00",
+            "linkedin": "2026-07-12T20:59:57.870972+00:00"
+        },
+        "updated_at": "2026-07-12T20:59:57.870985+00:00"
     },
     "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/": {
         "title": "OpenAI bets on families as ChatGPT goes deeper into households",
