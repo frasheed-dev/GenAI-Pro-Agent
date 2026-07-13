@@ -7606,5 +7606,71 @@
             "linkedin": "2026-07-13T03:37:31.294604+00:00"
         },
         "updated_at": "2026-07-13T03:37:31.294620+00:00"
+    },
+    "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/": {
+        "title": "Satya Nadella has issued a shocking warning to companies using AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T20:59:00+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090184+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-13T21:04:33.052211+00:00",
+            "linkedin": "2026-07-13T21:04:49.921626+00:00"
+        },
+        "updated_at": "2026-07-13T21:04:49.921639+00:00"
+    },
+    "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/": {
+        "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T18:22:10+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090191+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/": {
+        "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T17:28:37+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090194+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/": {
+        "title": "Should AI help you get away with killing your spouse?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T16:31:23+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090197+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/": {
+        "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T15:34:59+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090200+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/": {
+        "title": "Waze adds new AI-powered features and customization updates",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T14:18:16+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090203+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-13T21:04:33.061256+00:00",
+            "linkedin": "2026-07-13T21:04:49.930651+00:00"
+        },
+        "updated_at": "2026-07-13T21:04:49.930660+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/": {
+        "title": "AI agent crawlers now need permission. Here’s how to get it",
+        "source": "AI News",
+        "published_date": "2026-07-13T11:00:00+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090209+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": {
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-13T18:00:00+00:00",
+        "discovered_at": "2026-07-13T21:03:54.090213+00:00",
+        "status": "PENDING"
     }
 }
