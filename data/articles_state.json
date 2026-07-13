@@ -7557,7 +7557,12 @@
         "source": "AI News",
         "published_date": "2026-07-10T09:34:27+00:00",
         "discovered_at": "2026-07-10T21:12:41.663902+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-13T03:37:14.276296+00:00",
+            "linkedin": "2026-07-13T03:37:31.303776+00:00"
+        },
+        "updated_at": "2026-07-13T03:37:31.303787+00:00"
     },
     "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/": {
         "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
@@ -7595,6 +7600,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-11T14:13:00+00:00",
         "discovered_at": "2026-07-11T20:58:46.834466+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-13T03:37:14.262575+00:00",
+            "linkedin": "2026-07-13T03:37:31.294604+00:00"
+        },
+        "updated_at": "2026-07-13T03:37:31.294620+00:00"
     }
 }
