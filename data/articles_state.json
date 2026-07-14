@@ -7664,7 +7664,12 @@
         "source": "AI News",
         "published_date": "2026-07-13T11:00:00+00:00",
         "discovered_at": "2026-07-13T21:03:54.090209+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-14T11:38:29.266079+00:00",
+            "linkedin": "2026-07-14T11:38:48.493200+00:00"
+        },
+        "updated_at": "2026-07-14T11:38:48.493208+00:00"
     },
     "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": {
         "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -7709,6 +7714,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-13T23:31:18+00:00",
         "discovered_at": "2026-07-14T02:57:24.168919+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-14T11:38:29.256854+00:00",
+            "linkedin": "2026-07-14T11:38:48.484041+00:00"
+        },
+        "updated_at": "2026-07-14T11:38:48.484054+00:00"
     }
 }
