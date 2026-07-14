@@ -7720,5 +7720,113 @@
             "linkedin": "2026-07-14T11:38:48.484041+00:00"
         },
         "updated_at": "2026-07-14T11:38:48.484054+00:00"
+    },
+    "https://openai.com/index/managing-ai-investments-in-agentic-era": {
+        "title": "How to manage AI investments in the agentic era",
+        "source": "OpenAI",
+        "published_date": "2026-07-14T10:00:00+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399569+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/": {
+        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T19:42:27+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399576+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-14T21:06:58.464293+00:00",
+            "linkedin": "2026-07-14T21:07:15.855148+00:00"
+        },
+        "updated_at": "2026-07-14T21:07:15.855162+00:00"
+    },
+    "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/": {
+        "title": "Anthropic’s newest ad is creeping people out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T19:41:27+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399579+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/": {
+        "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T19:39:39+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399582+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/": {
+        "title": "Google faces another AI training lawsuit from major publishers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T18:33:31+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399585+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/": {
+        "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T17:45:55+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399591+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/": {
+        "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T16:22:15+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/": {
+        "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T16:00:00+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399598+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/": {
+        "title": "New York State halts construction of all new data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T15:17:59+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399601+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-14T21:06:58.473725+00:00",
+            "linkedin": "2026-07-14T21:07:15.863744+00:00"
+        },
+        "updated_at": "2026-07-14T21:07:15.863755+00:00"
+    },
+    "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/": {
+        "title": "Reflection inks $1B compute deal with Nebius",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T14:37:48+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399605+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/": {
+        "title": "The real AI race may no longer be at the frontier",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T14:24:53+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399607+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/": {
+        "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T14:06:47+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399611+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/": {
+        "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T14:00:00+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399614+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/": {
+        "title": "AWS and Bluesight build AI for hospital 340B compliance",
+        "source": "AI News",
+        "published_date": "2026-07-14T15:54:39+00:00",
+        "discovered_at": "2026-07-14T21:06:14.399619+00:00",
+        "status": "PENDING"
     }
 }
