@@ -7671,6 +7671,44 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-13T18:00:00+00:00",
         "discovered_at": "2026-07-13T21:03:54.090213+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-14T02:58:04.747907+00:00",
+            "linkedin": "2026-07-14T02:58:22.346237+00:00"
+        },
+        "updated_at": "2026-07-14T02:58:22.346251+00:00"
+    },
+    "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/": {
+        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T02:46:42+00:00",
+        "discovered_at": "2026-07-14T02:57:24.168905+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/": {
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T00:45:00+00:00",
+        "discovered_at": "2026-07-14T02:57:24.168912+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/": {
+        "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T00:00:00+00:00",
+        "discovered_at": "2026-07-14T02:57:24.168915+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-14T02:58:04.739128+00:00",
+            "linkedin": "2026-07-14T02:58:22.337607+00:00"
+        },
+        "updated_at": "2026-07-14T02:58:22.337624+00:00"
+    },
+    "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/": {
+        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-13T23:31:18+00:00",
+        "discovered_at": "2026-07-14T02:57:24.168919+00:00",
         "status": "PENDING"
     }
 }
