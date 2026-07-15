@@ -7890,5 +7890,127 @@
         "published_date": "2026-07-15T08:30:00+00:00",
         "discovered_at": "2026-07-15T11:40:31.374265+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action": {
+        "title": "The US is advancing AI safety through state and federal action",
+        "source": "OpenAI",
+        "published_date": "2026-07-15T12:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171658+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "source": "OpenAI",
+        "published_date": "2026-07-15T10:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171665+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/": {
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T19:41:38+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171670+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/": {
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T18:06:05+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171673+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/": {
+        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T18:04:06+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171679+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/": {
+        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T17:00:34+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171683+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/": {
+        "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T17:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171686+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/": {
+        "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T16:20:18+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171689+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/": {
+        "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T15:29:33+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171692+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-15T21:07:51.138726+00:00",
+            "linkedin": "2026-07-15T21:08:08.335452+00:00"
+        },
+        "updated_at": "2026-07-15T21:08:08.335462+00:00"
+    },
+    "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/": {
+        "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T15:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171695+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/": {
+        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T13:10:47+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171699+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/": {
+        "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T13:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171702+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/": {
+        "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T13:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171705+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/": {
+        "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T12:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171707+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/": {
+        "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T12:00:00+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171710+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/": {
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-15T17:09:37+00:00",
+        "discovered_at": "2026-07-15T21:07:12.171716+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-15T21:07:51.129006+00:00",
+            "linkedin": "2026-07-15T21:08:08.325724+00:00"
+        },
+        "updated_at": "2026-07-15T21:08:08.325739+00:00"
     }
 }
