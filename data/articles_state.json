@@ -7813,7 +7813,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-14T14:06:47+00:00",
         "discovered_at": "2026-07-14T21:06:14.399611+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-15T02:56:39.482193+00:00",
+            "linkedin": "2026-07-15T02:56:56.447608+00:00"
+        },
+        "updated_at": "2026-07-15T02:56:56.447618+00:00"
     },
     "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/": {
         "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
@@ -7827,6 +7832,46 @@
         "source": "AI News",
         "published_date": "2026-07-14T15:54:39+00:00",
         "discovered_at": "2026-07-14T21:06:14.399619+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/": {
+        "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T00:27:04+00:00",
+        "discovered_at": "2026-07-15T02:56:00.572505+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/": {
+        "title": "Lorde says AI glasses are ‘not sexy’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T23:10:02+00:00",
+        "discovered_at": "2026-07-15T02:56:00.572512+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/": {
+        "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T22:22:24+00:00",
+        "discovered_at": "2026-07-15T02:56:00.572516+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-15T02:56:39.472575+00:00",
+            "linkedin": "2026-07-15T02:56:56.437921+00:00"
+        },
+        "updated_at": "2026-07-15T02:56:56.437936+00:00"
+    },
+    "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/": {
+        "title": "OpenAI pushes back on Apple trade secret lawsuit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T22:07:42+00:00",
+        "discovered_at": "2026-07-15T02:56:00.572519+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/": {
+        "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-14T21:50:11+00:00",
+        "discovered_at": "2026-07-15T02:56:00.572525+00:00",
         "status": "PENDING"
     }
 }
