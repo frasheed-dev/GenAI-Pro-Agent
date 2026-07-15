@@ -7766,7 +7766,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-14T17:45:55+00:00",
         "discovered_at": "2026-07-14T21:06:14.399591+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-15T11:41:11.056255+00:00",
+            "linkedin": "2026-07-15T11:41:28.055805+00:00"
+        },
+        "updated_at": "2026-07-15T11:41:28.055822+00:00"
     },
     "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/": {
         "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
@@ -7806,7 +7811,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-14T14:24:53+00:00",
         "discovered_at": "2026-07-14T21:06:14.399607+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-15T11:41:11.066771+00:00",
+            "linkedin": "2026-07-15T11:41:28.066028+00:00"
+        },
+        "updated_at": "2026-07-15T11:41:28.066036+00:00"
     },
     "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/": {
         "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
@@ -7872,6 +7882,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-14T21:50:11+00:00",
         "discovered_at": "2026-07-15T02:56:00.572525+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/": {
+        "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+        "source": "AI News",
+        "published_date": "2026-07-15T08:30:00+00:00",
+        "discovered_at": "2026-07-15T11:40:31.374265+00:00",
         "status": "PENDING"
     }
 }
