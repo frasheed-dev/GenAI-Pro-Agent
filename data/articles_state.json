@@ -8060,5 +8060,127 @@
         "published_date": "2026-07-16T09:00:00+00:00",
         "discovered_at": "2026-07-16T11:45:57.774486+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/why-teens-deserve-access-safe-ai": {
+        "title": "Why teens deserve access to safe AI",
+        "source": "OpenAI",
+        "published_date": "2026-07-16T16:00:00+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504555+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cars24": {
+        "title": "How Cars24 scales conversations and builds faster with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-07-16T00:00:00+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504562+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/": {
+        "title": "Google Vids now lets you star in your own AI videos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T18:32:54+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504569+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/": {
+        "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T18:22:06+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504573+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/": {
+        "title": "Google’s AI Mode now lets you link and interact with select apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T16:00:00+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504576+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/": {
+        "title": "Yes, you can now order DoorDash from the command line",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T15:38:55+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504579+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/": {
+        "title": "Why is OpenAI selling a ChatGPT basketball?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T15:31:09+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504582+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/": {
+        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T15:02:00+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504585+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/": {
+        "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T14:40:00+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504587+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/": {
+        "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T14:26:29+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504590+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/": {
+        "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T13:17:59+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504593+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-16T21:10:10.136907+00:00",
+            "linkedin": "2026-07-16T21:10:27.551756+00:00"
+        },
+        "updated_at": "2026-07-16T21:10:27.551767+00:00"
+    },
+    "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs": {
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "source": "VentureBeat AI",
+        "published_date": "2026-07-16T19:16:48+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504598+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "source": "VentureBeat AI",
+        "published_date": "2026-07-16T19:02:38+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504601+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-16T21:10:10.127328+00:00",
+            "linkedin": "2026-07-16T21:10:27.536662+00:00"
+        },
+        "updated_at": "2026-07-16T21:10:27.536680+00:00"
+    },
+    "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix": {
+        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+        "source": "VentureBeat AI",
+        "published_date": "2026-07-16T17:06:08+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504604+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway": {
+        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+        "source": "VentureBeat AI",
+        "published_date": "2026-07-16T16:40:48+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504607+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/": {
+        "title": "Examining Google DeepMind’s AI bioresilience push",
+        "source": "AI News",
+        "published_date": "2026-07-16T16:48:23+00:00",
+        "discovered_at": "2026-07-16T21:09:28.504610+00:00",
+        "status": "PENDING"
     }
 }
