@@ -7903,7 +7903,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-15T10:00:00+00:00",
         "discovered_at": "2026-07-15T21:07:12.171665+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-16T03:18:55.103780+00:00",
+            "linkedin": "2026-07-16T03:19:12.199925+00:00"
+        },
+        "updated_at": "2026-07-16T03:19:12.199932+00:00"
     },
     "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/": {
         "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
@@ -8012,5 +8017,24 @@
             "linkedin": "2026-07-15T21:08:08.325724+00:00"
         },
         "updated_at": "2026-07-15T21:08:08.325739+00:00"
+    },
+    "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/": {
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-15T23:59:44+00:00",
+        "discovered_at": "2026-07-16T03:18:14.541042+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents": {
+        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+        "source": "VentureBeat AI",
+        "published_date": "2026-07-15T22:24:17+00:00",
+        "discovered_at": "2026-07-16T03:18:14.541053+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-16T03:18:55.096244+00:00",
+            "linkedin": "2026-07-16T03:19:12.192430+00:00"
+        },
+        "updated_at": "2026-07-16T03:19:12.192443+00:00"
     }
 }
