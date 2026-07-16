@@ -7969,14 +7969,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-15T15:00:00+00:00",
         "discovered_at": "2026-07-15T21:07:12.171695+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-16T11:46:38.303500+00:00",
+            "linkedin": "2026-07-16T11:46:55.264241+00:00"
+        },
+        "updated_at": "2026-07-16T11:46:55.264253+00:00"
     },
     "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/": {
         "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
         "source": "TechCrunch AI",
         "published_date": "2026-07-15T13:10:47+00:00",
         "discovered_at": "2026-07-15T21:07:12.171699+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-16T11:46:38.312846+00:00",
+            "linkedin": "2026-07-16T11:46:55.273711+00:00"
+        },
+        "updated_at": "2026-07-16T11:46:55.273718+00:00"
     },
     "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/": {
         "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
@@ -8036,5 +8046,19 @@
             "linkedin": "2026-07-16T03:19:12.192430+00:00"
         },
         "updated_at": "2026-07-16T03:19:12.192443+00:00"
+    },
+    "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/": {
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-16T04:00:00+00:00",
+        "discovered_at": "2026-07-16T11:45:57.774473+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/": {
+        "title": "Neko Health raises $700 million to expand AI body scans in the US",
+        "source": "AI News",
+        "published_date": "2026-07-16T09:00:00+00:00",
+        "discovered_at": "2026-07-16T11:45:57.774486+00:00",
+        "status": "PENDING"
     }
 }
