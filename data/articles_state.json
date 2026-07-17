@@ -8094,7 +8094,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-16T16:00:00+00:00",
         "discovered_at": "2026-07-16T21:09:28.504576+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-17T21:03:50.571963+00:00",
+            "linkedin": "2026-07-17T21:04:15.668360+00:00"
+        },
+        "updated_at": "2026-07-17T21:04:15.668367+00:00"
     },
     "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/": {
         "title": "Yes, you can now order DoorDash from the command line",
@@ -8208,6 +8213,60 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-17T08:57:32+00:00",
         "discovered_at": "2026-07-17T11:25:56.160127+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/a-scorecard-for-the-ai-age": {
+        "title": "A scorecard for the AI age",
+        "source": "OpenAI",
+        "published_date": "2026-07-17T10:00:00+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628298+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/": {
+        "title": "Agility Robotics plants its flag in Tesla’s backyard",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T20:19:49+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628306+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/": {
+        "title": "AI-driven memory crunch jolts India’s smartphone market",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T20:09:27+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628309+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/": {
+        "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T17:45:46+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628315+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-17T21:03:50.562275+00:00",
+            "linkedin": "2026-07-17T21:04:15.658711+00:00"
+        },
+        "updated_at": "2026-07-17T21:04:15.658721+00:00"
+    },
+    "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/": {
+        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T15:21:17+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628319+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/": {
+        "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T14:00:00+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628322+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/": {
+        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T12:00:00+00:00",
+        "discovered_at": "2026-07-17T21:02:56.628325+00:00",
         "status": "PENDING"
     }
 }
