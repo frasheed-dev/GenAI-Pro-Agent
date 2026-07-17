@@ -8129,7 +8129,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-16T14:26:29+00:00",
         "discovered_at": "2026-07-16T21:09:28.504590+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-17T11:26:36.069317+00:00",
+            "linkedin": "2026-07-17T11:26:53.793560+00:00"
+        },
+        "updated_at": "2026-07-17T11:26:53.793567+00:00"
     },
     "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/": {
         "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
@@ -8172,7 +8177,12 @@
         "source": "VentureBeat AI",
         "published_date": "2026-07-16T17:06:08+00:00",
         "discovered_at": "2026-07-16T21:09:28.504604+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-17T11:26:36.061721+00:00",
+            "linkedin": "2026-07-17T11:26:53.785955+00:00"
+        },
+        "updated_at": "2026-07-17T11:26:53.785969+00:00"
     },
     "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway": {
         "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
@@ -8191,6 +8201,13 @@
         "source": "AI News",
         "published_date": "2026-07-16T16:48:23+00:00",
         "discovered_at": "2026-07-16T21:09:28.504610+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/": {
+        "title": "The risk of weather data sabotage is rising",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-17T08:57:32+00:00",
+        "discovered_at": "2026-07-17T11:25:56.160127+00:00",
         "status": "PENDING"
     }
 }
