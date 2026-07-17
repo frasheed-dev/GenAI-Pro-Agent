@@ -8148,7 +8148,12 @@
         "source": "VentureBeat AI",
         "published_date": "2026-07-16T19:16:48+00:00",
         "discovered_at": "2026-07-16T21:09:28.504598+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-17T03:21:35.798774+00:00",
+            "linkedin": "2026-07-17T03:21:53.157730+00:00"
+        },
+        "updated_at": "2026-07-17T03:21:53.157745+00:00"
     },
     "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
         "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -8174,7 +8179,12 @@
         "source": "VentureBeat AI",
         "published_date": "2026-07-16T16:40:48+00:00",
         "discovered_at": "2026-07-16T21:09:28.504607+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-17T03:21:35.806212+00:00",
+            "linkedin": "2026-07-17T03:21:53.165216+00:00"
+        },
+        "updated_at": "2026-07-17T03:21:53.165225+00:00"
     },
     "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/": {
         "title": "Examining Google DeepMind’s AI bioresilience push",
