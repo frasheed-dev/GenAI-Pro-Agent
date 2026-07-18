@@ -8080,7 +8080,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-16T18:32:54+00:00",
         "discovered_at": "2026-07-16T21:09:28.504569+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-18T11:10:30.640981+00:00",
+            "linkedin": "2026-07-18T11:10:47.857870+00:00"
+        },
+        "updated_at": "2026-07-18T11:10:47.857882+00:00"
     },
     "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/": {
         "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
@@ -8260,13 +8265,53 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-17T14:00:00+00:00",
         "discovered_at": "2026-07-17T21:02:56.628322+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-18T11:10:30.631669+00:00",
+            "linkedin": "2026-07-18T11:10:47.848127+00:00"
+        },
+        "updated_at": "2026-07-18T11:10:47.848140+00:00"
     },
     "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/": {
         "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
         "source": "TechCrunch AI",
         "published_date": "2026-07-17T12:00:00+00:00",
         "discovered_at": "2026-07-17T21:02:56.628325+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/": {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-18T04:47:25+00:00",
+        "discovered_at": "2026-07-18T11:09:44.683493+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/": {
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T22:55:09+00:00",
+        "discovered_at": "2026-07-18T11:09:44.683499+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/": {
+        "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T22:12:56+00:00",
+        "discovered_at": "2026-07-18T11:09:44.683502+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/": {
+        "title": "The Zoom hack that says, ‘Don’t record me’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-17T21:20:47+00:00",
+        "discovered_at": "2026-07-18T11:09:44.683508+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/": {
+        "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
+        "source": "AI News",
+        "published_date": "2026-07-17T16:00:30+00:00",
+        "discovered_at": "2026-07-18T11:09:44.683517+00:00",
         "status": "PENDING"
     }
 }
