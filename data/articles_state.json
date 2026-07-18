@@ -8092,7 +8092,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-16T18:22:06+00:00",
         "discovered_at": "2026-07-16T21:09:28.504573+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-18T20:59:05.121206+00:00",
+            "linkedin": "2026-07-18T20:59:21.959571+00:00"
+        },
+        "updated_at": "2026-07-18T20:59:21.959584+00:00"
     },
     "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/": {
         "title": "Google’s AI Mode now lets you link and interact with select apps",
@@ -8111,7 +8116,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-16T15:38:55+00:00",
         "discovered_at": "2026-07-16T21:09:28.504579+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-18T20:59:05.131627+00:00",
+            "linkedin": "2026-07-18T20:59:21.970167+00:00"
+        },
+        "updated_at": "2026-07-18T20:59:21.970174+00:00"
     },
     "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/": {
         "title": "Why is OpenAI selling a ChatGPT basketball?",
@@ -8312,6 +8322,13 @@
         "source": "AI News",
         "published_date": "2026-07-17T16:00:30+00:00",
         "discovered_at": "2026-07-18T11:09:44.683517+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/": {
+        "title": "Kimi: Threat or menace?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-18T18:51:07+00:00",
+        "discovered_at": "2026-07-18T20:58:25.765553+00:00",
         "status": "PENDING"
     }
 }
