@@ -8221,7 +8221,12 @@
         "source": "AI News",
         "published_date": "2026-07-16T16:48:23+00:00",
         "discovered_at": "2026-07-16T21:09:28.504610+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-19T03:30:56.764626+00:00",
+            "linkedin": "2026-07-19T03:31:13.584648+00:00"
+        },
+        "updated_at": "2026-07-19T03:31:13.584659+00:00"
     },
     "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/": {
         "title": "The risk of weather data sabotage is rising",
@@ -8308,7 +8313,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-17T22:12:56+00:00",
         "discovered_at": "2026-07-18T11:09:44.683502+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-19T03:30:56.754996+00:00",
+            "linkedin": "2026-07-19T03:31:13.574855+00:00"
+        },
+        "updated_at": "2026-07-19T03:31:13.574868+00:00"
     },
     "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/": {
         "title": "The Zoom hack that says, ‘Don’t record me’",
