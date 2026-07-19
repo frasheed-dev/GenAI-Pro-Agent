@@ -8240,7 +8240,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-17T10:00:00+00:00",
         "discovered_at": "2026-07-17T21:02:56.628298+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-19T20:59:58.826911+00:00",
+            "linkedin": "2026-07-19T21:00:15.851800+00:00"
+        },
+        "updated_at": "2026-07-19T21:00:15.851807+00:00"
     },
     "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/": {
         "title": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -8273,7 +8278,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-17T15:21:17+00:00",
         "discovered_at": "2026-07-17T21:02:56.628319+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-19T20:59:58.817220+00:00",
+            "linkedin": "2026-07-19T21:00:15.842009+00:00"
+        },
+        "updated_at": "2026-07-19T21:00:15.842021+00:00"
     },
     "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/": {
         "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
@@ -8350,5 +8360,26 @@
             "linkedin": "2026-07-19T11:14:54.362293+00:00"
         },
         "updated_at": "2026-07-19T11:14:54.362307+00:00"
+    },
+    "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/": {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-19T19:24:45+00:00",
+        "discovered_at": "2026-07-19T20:59:16.724897+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/": {
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-19T14:52:08+00:00",
+        "discovered_at": "2026-07-19T20:59:16.724903+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/": {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-19T14:00:00+00:00",
+        "discovered_at": "2026-07-19T20:59:16.724907+00:00",
+        "status": "PENDING"
     }
 }
