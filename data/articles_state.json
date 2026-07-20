@@ -8415,5 +8415,64 @@
             "linkedin": "2026-07-20T12:22:49.602725+00:00"
         },
         "updated_at": "2026-07-20T12:22:49.602737+00:00"
+    },
+    "https://openai.com/index/safety-alignment-long-horizon-models": {
+        "title": "Safety and alignment in an era of long-horizon models",
+        "source": "OpenAI",
+        "published_date": "2026-07-20T10:00:00+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272171+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-20T21:17:32.014450+00:00",
+            "linkedin": "2026-07-20T21:17:49.045497+00:00"
+        },
+        "updated_at": "2026-07-20T21:17:49.045504+00:00"
+    },
+    "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/": {
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T20:50:40+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272179+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-20T21:17:32.004296+00:00",
+            "linkedin": "2026-07-20T21:17:49.035465+00:00"
+        },
+        "updated_at": "2026-07-20T21:17:49.035478+00:00"
+    },
+    "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/": {
+        "title": "X relaunches a rebuilt Android app after year-long effort",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T19:37:39+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272183+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/": {
+        "title": "OpenAI is scared of open-weight models. Should the US be?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T19:33:25+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272186+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/": {
+        "title": "Adobe camera app’s new feature will critique your photos using AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T15:45:00+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272189+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/": {
+        "title": "YouTube clarifies policies around AI slop and upsetting videos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T15:23:06+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272192+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/": {
+        "title": "China’s AI models have Trump’s AI world at war with itself",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-20T18:00:00+00:00",
+        "discovered_at": "2026-07-20T21:16:53.272201+00:00",
+        "status": "PENDING"
     }
 }
