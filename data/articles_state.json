@@ -8371,7 +8371,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-19T19:24:45+00:00",
         "discovered_at": "2026-07-19T20:59:16.724897+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-20T12:22:32.579941+00:00",
+            "linkedin": "2026-07-20T12:22:49.612650+00:00"
+        },
+        "updated_at": "2026-07-20T12:22:49.612659+00:00"
     },
     "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/": {
         "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
@@ -8398,5 +8403,17 @@
         "published_date": "2026-07-19T21:16:07+00:00",
         "discovered_at": "2026-07-20T03:43:28.975366+00:00",
         "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/": {
+        "title": "AI is more likely than humans to form biases when hiring",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-20T08:39:01+00:00",
+        "discovered_at": "2026-07-20T12:21:45.316373+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-20T12:22:32.570169+00:00",
+            "linkedin": "2026-07-20T12:22:49.602725+00:00"
+        },
+        "updated_at": "2026-07-20T12:22:49.602737+00:00"
     }
 }
