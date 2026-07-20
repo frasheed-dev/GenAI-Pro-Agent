@@ -8302,7 +8302,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-17T12:00:00+00:00",
         "discovered_at": "2026-07-17T21:02:56.628325+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-20T03:44:08.401098+00:00",
+            "linkedin": "2026-07-20T03:44:25.476684+00:00"
+        },
+        "updated_at": "2026-07-20T03:44:25.476692+00:00"
     },
     "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/": {
         "title": "Neil Rimer thinks the AI money is coming back out",
@@ -8380,6 +8385,18 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-19T14:00:00+00:00",
         "discovered_at": "2026-07-19T20:59:16.724907+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-20T03:44:08.390987+00:00",
+            "linkedin": "2026-07-20T03:44:25.466644+00:00"
+        },
+        "updated_at": "2026-07-20T03:44:25.466660+00:00"
+    },
+    "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/": {
+        "title": "What to watch for after Jensen Huang’s Japan visit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-19T21:16:07+00:00",
+        "discovered_at": "2026-07-20T03:43:28.975366+00:00",
         "status": "PENDING"
     }
 }
