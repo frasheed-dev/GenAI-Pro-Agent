@@ -8474,5 +8474,50 @@
         "published_date": "2026-07-20T18:00:00+00:00",
         "discovered_at": "2026-07-20T21:16:53.272201+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/": {
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-21T00:12:24+00:00",
+        "discovered_at": "2026-07-21T03:23:49.348796+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/": {
+        "title": "Trump’s latest AI czar has already resigned",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T22:21:04+00:00",
+        "discovered_at": "2026-07-21T03:23:49.348802+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/": {
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-20T21:21:15+00:00",
+        "discovered_at": "2026-07-21T03:23:49.348805+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/": {
+        "title": "US public health agencies to test OpenAI and Anthropic AI models",
+        "source": "AI News",
+        "published_date": "2026-07-20T10:00:00+00:00",
+        "discovered_at": "2026-07-21T03:23:49.348813+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-21T03:24:28.739656+00:00",
+            "linkedin": "2026-07-21T03:24:45.833983+00:00"
+        },
+        "updated_at": "2026-07-21T03:24:45.834009+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/": {
+        "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+        "source": "AI News",
+        "published_date": "2026-07-20T09:00:00+00:00",
+        "discovered_at": "2026-07-21T03:23:49.348817+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-21T03:24:28.749513+00:00",
+            "linkedin": "2026-07-21T03:24:45.843841+00:00"
+        },
+        "updated_at": "2026-07-21T03:24:45.843848+00:00"
     }
 }
