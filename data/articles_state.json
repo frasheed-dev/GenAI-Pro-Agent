@@ -8494,7 +8494,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-20T21:21:15+00:00",
         "discovered_at": "2026-07-21T03:23:49.348805+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-21T11:53:18.268835+00:00",
+            "linkedin": "2026-07-21T11:53:39.511139+00:00"
+        },
+        "updated_at": "2026-07-21T11:53:39.511146+00:00"
     },
     "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/": {
         "title": "US public health agencies to test OpenAI and Anthropic AI models",
@@ -8519,5 +8524,38 @@
             "linkedin": "2026-07-21T03:24:45.843841+00:00"
         },
         "updated_at": "2026-07-21T03:24:45.843848+00:00"
+    },
+    "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/": {
+        "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-21T10:00:00+00:00",
+        "discovered_at": "2026-07-21T11:52:33.467466+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/": {
+        "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+        "source": "AI News",
+        "published_date": "2026-07-21T10:00:00+00:00",
+        "discovered_at": "2026-07-21T11:52:33.467476+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/": {
+        "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
+        "source": "AI News",
+        "published_date": "2026-07-21T08:00:00+00:00",
+        "discovered_at": "2026-07-21T11:52:33.467479+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-21T11:53:18.260824+00:00",
+            "linkedin": "2026-07-21T11:53:39.503022+00:00"
+        },
+        "updated_at": "2026-07-21T11:53:39.503036+00:00"
+    },
+    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/": {
+        "title": "Advancing next-gen AI with materials science innovation",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-21T10:37:34+00:00",
+        "discovered_at": "2026-07-21T11:52:33.467482+00:00",
+        "status": "PENDING"
     }
 }
