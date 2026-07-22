@@ -8575,7 +8575,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-21T07:00:00+00:00",
         "discovered_at": "2026-07-21T21:18:05.940533+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-22T03:22:55.631060+00:00",
+            "linkedin": "2026-07-22T03:23:12.797443+00:00"
+        },
+        "updated_at": "2026-07-22T03:23:12.797458+00:00"
     },
     "https://openai.com/index/david-velez-robin-vince-join-openai-boards": {
         "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
@@ -8643,13 +8648,39 @@
         "source": "AI News",
         "published_date": "2026-07-21T16:06:55+00:00",
         "discovered_at": "2026-07-21T21:18:05.940570+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-22T03:22:55.620729+00:00",
+            "linkedin": "2026-07-22T03:23:12.787200+00:00"
+        },
+        "updated_at": "2026-07-22T03:23:12.787216+00:00"
     },
     "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/": {
         "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
         "source": "AI News",
         "published_date": "2026-07-21T12:50:06+00:00",
         "discovered_at": "2026-07-21T21:18:05.940573+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/": {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T03:20:57+00:00",
+        "discovered_at": "2026-07-22T03:22:15.833988+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/": {
+        "title": "Meta is testing an AI bedtime story app for people with no imagination",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-21T23:55:10+00:00",
+        "discovered_at": "2026-07-22T03:22:15.833995+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/": {
+        "title": "OpenAI says Hugging Face was breached by its pre-release models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-21T20:56:55+00:00",
+        "discovered_at": "2026-07-22T03:22:15.833999+00:00",
         "status": "PENDING"
     }
 }
