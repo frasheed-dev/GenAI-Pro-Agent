@@ -8542,7 +8542,12 @@
         "source": "AI News",
         "published_date": "2026-07-21T10:00:00+00:00",
         "discovered_at": "2026-07-21T11:52:33.467476+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-22T11:53:59.926781+00:00",
+            "linkedin": "2026-07-22T11:54:16.933099+00:00"
+        },
+        "updated_at": "2026-07-22T11:54:16.933107+00:00"
     },
     "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/": {
         "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
@@ -8568,7 +8573,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-21T17:00:00+00:00",
         "discovered_at": "2026-07-21T21:18:05.940527+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-22T11:53:59.916628+00:00",
+            "linkedin": "2026-07-22T11:54:16.923171+00:00"
+        },
+        "updated_at": "2026-07-22T11:54:16.923184+00:00"
     },
     "https://openai.com/index/hugging-face-model-evaluation-security-incident": {
         "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -8681,6 +8691,27 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-21T20:56:55+00:00",
         "discovered_at": "2026-07-22T03:22:15.833999+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/": {
+        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T10:00:00+00:00",
+        "discovered_at": "2026-07-22T11:53:07.247520+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/": {
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T08:00:00+00:00",
+        "discovered_at": "2026-07-22T11:53:07.247526+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/": {
+        "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+        "source": "AI News",
+        "published_date": "2026-07-22T11:21:05+00:00",
+        "discovered_at": "2026-07-22T11:53:07.247536+00:00",
         "status": "PENDING"
     }
 }
