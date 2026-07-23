@@ -8858,6 +8858,44 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-22T22:01:52+00:00",
         "discovered_at": "2026-07-23T03:28:58.359697+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T11:56:01.693606+00:00",
+            "linkedin": "2026-07-23T11:56:18.763804+00:00"
+        },
+        "updated_at": "2026-07-23T11:56:18.763816+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/": {
+        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T11:00:00+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089612+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/": {
+        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T06:09:13+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089618+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/": {
+        "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+        "source": "AI News",
+        "published_date": "2026-07-23T11:38:55+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089626+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/": {
+        "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+        "source": "AI News",
+        "published_date": "2026-07-23T10:00:00+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089628+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T11:56:01.682836+00:00",
+            "linkedin": "2026-07-23T11:56:18.753059+00:00"
+        },
+        "updated_at": "2026-07-23T11:56:18.753074+00:00"
     }
 }
