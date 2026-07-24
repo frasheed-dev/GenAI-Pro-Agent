@@ -9018,5 +9018,78 @@
             "linkedin": "2026-07-24T11:48:39.088275+00:00"
         },
         "updated_at": "2026-07-24T11:48:39.088294+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/": {
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T18:07:32+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564731+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/": {
+        "title": "Anthropic launches Opus 5",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T17:00:00+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564739+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/": {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T15:51:49+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564743+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/": {
+        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T15:13:57+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564746+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/": {
+        "title": "Midjourney acquired the astrology app Co-Star",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T15:09:55+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564749+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/": {
+        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T14:00:00+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564752+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/": {
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T13:36:42+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564755+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/": {
+        "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "source": "AI News",
+        "published_date": "2026-07-24T16:18:30+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564762+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T21:12:38.057260+00:00",
+            "linkedin": "2026-07-24T21:12:55.207502+00:00"
+        },
+        "updated_at": "2026-07-24T21:12:55.207514+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/": {
+        "title": "OpenAI pushes ChatGPT into patient health records",
+        "source": "AI News",
+        "published_date": "2026-07-24T14:58:17+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564764+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T21:12:38.068225+00:00",
+            "linkedin": "2026-07-24T21:12:55.218068+00:00"
+        },
+        "updated_at": "2026-07-24T21:12:55.218075+00:00"
     }
 }
