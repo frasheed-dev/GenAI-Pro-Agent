@@ -8903,7 +8903,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-23T00:00:00+00:00",
         "discovered_at": "2026-07-23T21:12:46.218648+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T03:24:40.961679+00:00",
+            "linkedin": "2026-07-24T03:24:57.974965+00:00"
+        },
+        "updated_at": "2026-07-24T03:24:57.974975+00:00"
     },
     "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/": {
         "title": "AMD takes on Nvidia with its Helios AI rack scale system",
@@ -8976,13 +8981,25 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-23T14:52:44+00:00",
         "discovered_at": "2026-07-23T21:12:46.218687+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T03:24:40.954438+00:00",
+            "linkedin": "2026-07-24T03:24:57.967263+00:00"
+        },
+        "updated_at": "2026-07-24T03:24:57.967280+00:00"
     },
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/": {
         "title": "How AI helps scientists design the next generation of medicines",
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-23T12:00:00+00:00",
         "discovered_at": "2026-07-23T21:12:46.218695+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/": {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T01:00:00+00:00",
+        "discovered_at": "2026-07-24T03:23:46.083749+00:00",
         "status": "PENDING"
     }
 }
