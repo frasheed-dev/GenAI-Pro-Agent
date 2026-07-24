@@ -8922,7 +8922,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-23T19:00:00+00:00",
         "discovered_at": "2026-07-23T21:12:46.218666+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T11:48:21.737001+00:00",
+            "linkedin": "2026-07-24T11:48:39.097760+00:00"
+        },
+        "updated_at": "2026-07-24T11:48:39.097770+00:00"
     },
     "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/": {
         "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
@@ -9001,5 +9006,17 @@
         "published_date": "2026-07-24T01:00:00+00:00",
         "discovered_at": "2026-07-24T03:23:46.083749+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/": {
+        "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+        "source": "AI News",
+        "published_date": "2026-07-24T08:00:00+00:00",
+        "discovered_at": "2026-07-24T11:47:25.295636+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T11:48:21.727446+00:00",
+            "linkedin": "2026-07-24T11:48:39.088275+00:00"
+        },
+        "updated_at": "2026-07-24T11:48:39.088294+00:00"
     }
 }
