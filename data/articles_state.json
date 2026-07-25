@@ -8884,7 +8884,12 @@
         "source": "AI News",
         "published_date": "2026-07-23T11:38:55+00:00",
         "discovered_at": "2026-07-23T11:55:13.089626+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T21:01:28.617399+00:00",
+            "linkedin": "2026-07-25T21:01:45.998073+00:00"
+        },
+        "updated_at": "2026-07-25T21:01:45.998083+00:00"
     },
     "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/": {
         "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
@@ -9048,7 +9053,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T15:51:49+00:00",
         "discovered_at": "2026-07-24T21:11:53.564743+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T21:01:28.606911+00:00",
+            "linkedin": "2026-07-25T21:01:45.987386+00:00"
+        },
+        "updated_at": "2026-07-25T21:01:45.987399+00:00"
     },
     "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/": {
         "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
@@ -9124,6 +9134,20 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T22:25:58+00:00",
         "discovered_at": "2026-07-25T03:21:12.267908+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/": {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-25T16:00:00+00:00",
+        "discovered_at": "2026-07-25T21:00:41.519194+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/": {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-25T13:05:00+00:00",
+        "discovered_at": "2026-07-25T21:00:41.519200+00:00",
         "status": "PENDING"
     }
 }
