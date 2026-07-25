@@ -8915,7 +8915,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-23T20:33:02+00:00",
         "discovered_at": "2026-07-23T21:12:46.218662+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T11:17:56.182590+00:00",
+            "linkedin": "2026-07-25T11:18:13.074252+00:00"
+        },
+        "updated_at": "2026-07-25T11:18:13.074259+00:00"
     },
     "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/": {
         "title": "Anthropic updates Claude voice mode with more capable models",
@@ -9076,7 +9081,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T13:36:42+00:00",
         "discovered_at": "2026-07-24T21:11:53.564755+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T11:17:56.170916+00:00",
+            "linkedin": "2026-07-25T11:18:13.063665+00:00"
+        },
+        "updated_at": "2026-07-25T11:18:13.063678+00:00"
     },
     "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/": {
         "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
