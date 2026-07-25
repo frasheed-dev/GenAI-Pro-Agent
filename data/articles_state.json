@@ -9031,7 +9031,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T17:00:00+00:00",
         "discovered_at": "2026-07-24T21:11:53.564739+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T03:21:55.936316+00:00",
+            "linkedin": "2026-07-25T03:22:13.189788+00:00"
+        },
+        "updated_at": "2026-07-25T03:22:13.189805+00:00"
     },
     "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/": {
         "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
@@ -9059,7 +9064,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T14:00:00+00:00",
         "discovered_at": "2026-07-24T21:11:53.564752+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T03:21:55.948650+00:00",
+            "linkedin": "2026-07-25T03:22:13.201324+00:00"
+        },
+        "updated_at": "2026-07-25T03:22:13.201334+00:00"
     },
     "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/": {
         "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
@@ -9091,5 +9101,19 @@
             "linkedin": "2026-07-24T21:12:55.218068+00:00"
         },
         "updated_at": "2026-07-24T21:12:55.218075+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/": {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-25T00:23:11+00:00",
+        "discovered_at": "2026-07-25T03:21:12.267901+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/": {
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T22:25:58+00:00",
+        "discovered_at": "2026-07-25T03:21:12.267908+00:00",
+        "status": "PENDING"
     }
 }
