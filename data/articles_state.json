@@ -8951,7 +8951,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-23T17:07:35+00:00",
         "discovered_at": "2026-07-23T21:12:46.218671+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T03:35:59.604769+00:00",
+            "linkedin": "2026-07-26T03:36:16.836415+00:00"
+        },
+        "updated_at": "2026-07-26T03:36:16.836428+00:00"
     },
     "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/": {
         "title": "OpenAI makes ChatGPT Health available to all US users",
@@ -9034,7 +9039,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T18:07:32+00:00",
         "discovered_at": "2026-07-24T21:11:53.564731+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T03:35:59.594589+00:00",
+            "linkedin": "2026-07-26T03:36:16.825696+00:00"
+        },
+        "updated_at": "2026-07-26T03:36:16.825712+00:00"
     },
     "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/": {
         "title": "Anthropic launches Opus 5",
@@ -9148,6 +9158,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-25T13:05:00+00:00",
         "discovered_at": "2026-07-25T21:00:41.519200+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/": {
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-26T01:30:00+00:00",
+        "discovered_at": "2026-07-26T03:35:20.367593+00:00",
         "status": "PENDING"
     }
 }
