@@ -11,7 +11,48 @@ def create_circular_mask(size):
     draw.ellipse((0, 0) + size, fill=255)
     return mask
 
-def generate_background(prompt, width=1080, height=1350):
+def generate_fallback_background(width=1080, height=1350):
+    """
+    Generates a sleek, high-quality dark-bluish gradient background as a final fallback
+    when all AI image generation services (Google, Hugging Face, Pollinations) are unavailable.
+    """
+    print("🎨 Generating programmatic dark bluish background (Final Fallback)...")
+    img = Image.new("RGBA", (width, height), (20, 61, 89, 255))
+    draw = ImageDraw.Draw(img)
+    
+    # Smooth vertical dark navy to deep teal gradient
+    top_color = (12, 35, 52)      # Deep Navy
+    bottom_color = (25, 75, 105)   # Rich Dark Teal
+    
+    for y in range(height):
+        ratio = y / height
+        r = int(top_color[0] + (bottom_color[0] - top_color[0]) * ratio)
+        g = int(top_color[1] + (bottom_color[1] - top_color[1]) * ratio)
+        b = int(top_color[2] + (bottom_color[2] - top_color[2]) * ratio)
+        draw.line([(0, y), (width, y)], fill=(r, g, b, 255))
+        
+    # Add a subtle radial ambient light glow in the upper-middle region
+    glow_center_x, glow_center_y = int(width * 0.5), int(height * 0.35)
+    max_radius = int(width * 0.6)
+    
+    glow_overlay = Image.new("RGBA", (width, height), (0, 0, 0, 0))
+    glow_draw = ImageDraw.Draw(glow_overlay)
+    
+    for r in range(max_radius, 0, -5):
+        alpha = int(45 * (1.0 - (r / max_radius)))
+        glow_draw.ellipse(
+            [glow_center_x - r, glow_center_y - r, glow_center_x + r, glow_center_y + r],
+            fill=(40, 115, 155, alpha)
+        )
+        
+    img = Image.alpha_composite(img, glow_overlay)
+    return img.convert("RGB")
+
+def generate_background(prompt, width=1080, height=1350, force_fallback=False):
+    if force_fallback:
+        print("⚡ Force Fallback requested: Skipping AI services and using programmatic dark bluish background.")
+        return generate_fallback_background(width, height)
+
     together_key = os.getenv("TOGETHER_API_KEY")
     hf_token = os.getenv("HF_TOKEN")
     gemini_key = os.getenv("GEMINI_API_KEY")
@@ -71,22 +112,26 @@ def generate_background(prompt, width=1080, height=1350):
             print("Falling back to pollinations.ai...")
 
     print(f"Generating background image via pollinations.ai for: {prompt}")
-    url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
+    try:
+        url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
 
-    pollinations_key = os.getenv("POLLINATIONS_API_KEY")
-    if pollinations_key:
-        url += f"&key={pollinations_key}"
+        pollinations_key = os.getenv("POLLINATIONS_API_KEY")
+        if pollinations_key:
+            url += f"&key={pollinations_key}"
 
-    response = requests.get(url)
+        response = requests.get(url, timeout=15)
 
-    if response.status_code == 200:
-        return Image.open(BytesIO(response.content))
-    elif response.status_code == 402:
-        print("❌ Pollinations API Error: 402 Queue Full. This IP is aggressively rate-limited.")
-    else:
-        print(f"Failed to fetch image from pollinations.ai. Status: {response.status_code}")
+        if response.status_code == 200:
+            return Image.open(BytesIO(response.content))
+        elif response.status_code == 402:
+            print("❌ Pollinations API Error: 402 Queue Full. This IP is aggressively rate-limited.")
+        else:
+            print(f"Failed to fetch image from pollinations.ai. Status: {response.status_code}")
+    except Exception as e:
+        print(f"Pollinations API connection error: {e}")
 
-    return None
+    print("⚠️ ALL AI Image Generators failed (Google, Gradio, HF, Pollinations)!")
+    return generate_fallback_background(width, height)
 
 def wrap_text(text, font, max_width):
     lines = []
@@ -279,12 +324,12 @@ def draw_branding(img, draw, img_width, img_height, font_regular_path, font_awes
     draw.text((li_x, social_y), li_icon, font=font_icons, fill=(255, 255, 255, 230))
     draw.text((li_x + font_icons.getlength(li_icon) + li_gap, social_y), li_text, font=font_social, fill=(255, 255, 255, 230))
 
-def create_news_image(image_prompt, headline, output_path="drafts/news_image.png"):
+def create_news_image(image_prompt, headline, output_path="drafts/news_image.png", force_fallback=False):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
-    img = generate_background(image_prompt)
+    img = generate_background(image_prompt, force_fallback=force_fallback)
     if not img:
-        return None
+        img = generate_fallback_background(1080, 1350)
         
     img = img.resize((1080, 1350))
     img = img.convert("RGBA")
@@ -319,16 +364,16 @@ def create_news_image(image_prompt, headline, output_path="drafts/news_image.png
     print(f"Saved generated image to {output_path}")
     return output_path
 
-def create_slide_image(image_prompt, slide_index, total_slides, output_path):
+def create_slide_image(image_prompt, slide_index, total_slides, output_path, force_fallback=False):
     """
     Creates a 1080x1920 PNG background for a Reel slide.
     Bakes in the gradient, branding, and slide indicator, but leaves the center/lower-third empty for ffmpeg text.
     """
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     
-    img = generate_background(image_prompt, width=1080, height=1920)
+    img = generate_background(image_prompt, width=1080, height=1920, force_fallback=force_fallback)
     if not img:
-        return None
+        img = generate_fallback_background(1080, 1920)
         
     img = img.resize((1080, 1920))
     img = img.convert("RGBA")
