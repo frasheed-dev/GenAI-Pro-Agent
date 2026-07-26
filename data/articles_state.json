@@ -9013,7 +9013,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-23T12:00:00+00:00",
         "discovered_at": "2026-07-23T21:12:46.218695+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T11:25:06.816182+00:00",
+            "linkedin": "2026-07-26T11:25:24.025660+00:00"
+        },
+        "updated_at": "2026-07-26T11:25:24.025668+00:00"
     },
     "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/": {
         "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -9144,7 +9149,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T22:25:58+00:00",
         "discovered_at": "2026-07-25T03:21:12.267908+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T11:25:06.805600+00:00",
+            "linkedin": "2026-07-26T11:25:24.015023+00:00"
+        },
+        "updated_at": "2026-07-26T11:25:24.015034+00:00"
     },
     "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/": {
         "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
