@@ -8691,7 +8691,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-21T20:56:55+00:00",
         "discovered_at": "2026-07-22T03:22:15.833999+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T03:29:44.295346+00:00",
+            "linkedin": "2026-07-23T03:30:01.397278+00:00"
+        },
+        "updated_at": "2026-07-23T03:30:01.397286+00:00"
     },
     "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/": {
         "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
@@ -8712,6 +8717,464 @@
         "source": "AI News",
         "published_date": "2026-07-22T11:21:05+00:00",
         "discovered_at": "2026-07-22T11:53:07.247536+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community": {
+        "title": "Building AI infrastructure with the Effingham County community",
+        "source": "OpenAI",
+        "published_date": "2026-07-22T13:00:00+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594828+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/how-news-organizations-are-using-ai": {
+        "title": "How news organizations are using AI to advance their vital missions",
+        "source": "OpenAI",
+        "published_date": "2026-07-22T13:00:00+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594834+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-the-next-era-of-national-science": {
+        "title": "Advancing the next era of national science",
+        "source": "OpenAI",
+        "published_date": "2026-07-22T12:00:00+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594838+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-openai-presence": {
+        "title": "Introducing OpenAI Presence",
+        "source": "OpenAI",
+        "published_date": "2026-07-22T05:30:00+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594841+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-22T21:27:01.640968+00:00",
+            "linkedin": "2026-07-22T21:27:18.565732+00:00"
+        },
+        "updated_at": "2026-07-22T21:27:18.565739+00:00"
+    },
+    "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/": {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T20:49:03+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594848+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/": {
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T19:11:46+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594852+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/": {
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T18:50:44+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594855+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/": {
+        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T18:13:58+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594858+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/": {
+        "title": "Monday.com lays off hundreds to focus on AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T17:54:14+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594861+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/": {
+        "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T16:24:08+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594864+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/": {
+        "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T16:23:09+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594867+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/": {
+        "title": "OpenAI’s AI spending spree has ballooned to $750B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T16:13:30+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594870+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-22T21:27:01.630744+00:00",
+            "linkedin": "2026-07-22T21:27:18.554992+00:00"
+        },
+        "updated_at": "2026-07-22T21:27:18.555005+00:00"
+    },
+    "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/": {
+        "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T14:00:00+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594874+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T03:29:44.284686+00:00",
+            "linkedin": "2026-07-23T03:30:01.386698+00:00"
+        },
+        "updated_at": "2026-07-23T03:30:01.386713+00:00"
+    },
+    "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/": {
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T13:20:35+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594877+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/": {
+        "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T13:00:00+00:00",
+        "discovered_at": "2026-07-22T21:26:15.594880+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/ntt-data": {
+        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-07-22T00:00:00+00:00",
+        "discovered_at": "2026-07-23T03:28:58.359683+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/": {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T23:47:54+00:00",
+        "discovered_at": "2026-07-23T03:28:58.359693+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/": {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-22T22:01:52+00:00",
+        "discovered_at": "2026-07-23T03:28:58.359697+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T11:56:01.693606+00:00",
+            "linkedin": "2026-07-23T11:56:18.763804+00:00"
+        },
+        "updated_at": "2026-07-23T11:56:18.763816+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/": {
+        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T11:00:00+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089612+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/": {
+        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T06:09:13+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089618+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/": {
+        "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
+        "source": "AI News",
+        "published_date": "2026-07-23T11:38:55+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089626+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T21:01:28.617399+00:00",
+            "linkedin": "2026-07-25T21:01:45.998073+00:00"
+        },
+        "updated_at": "2026-07-25T21:01:45.998083+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/": {
+        "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
+        "source": "AI News",
+        "published_date": "2026-07-23T10:00:00+00:00",
+        "discovered_at": "2026-07-23T11:55:13.089628+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T11:56:01.682836+00:00",
+            "linkedin": "2026-07-23T11:56:18.753059+00:00"
+        },
+        "updated_at": "2026-07-23T11:56:18.753074+00:00"
+    },
+    "https://openai.com/index/health-in-chatgpt": {
+        "title": "Launching Health in ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-07-23T00:00:00+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218648+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T03:24:40.961679+00:00",
+            "linkedin": "2026-07-24T03:24:57.974965+00:00"
+        },
+        "updated_at": "2026-07-24T03:24:57.974975+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/": {
+        "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T20:33:02+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218662+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T11:17:56.182590+00:00",
+            "linkedin": "2026-07-25T11:18:13.074252+00:00"
+        },
+        "updated_at": "2026-07-25T11:18:13.074259+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/": {
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T19:00:00+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218666+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T11:48:21.737001+00:00",
+            "linkedin": "2026-07-24T11:48:39.097760+00:00"
+        },
+        "updated_at": "2026-07-24T11:48:39.097770+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/": {
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T18:38:34+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218669+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/": {
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T17:07:35+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218671+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T03:35:59.604769+00:00",
+            "linkedin": "2026-07-26T03:36:16.836415+00:00"
+        },
+        "updated_at": "2026-07-26T03:36:16.836428+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/": {
+        "title": "OpenAI makes ChatGPT Health available to all US users",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T17:00:00+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218674+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T21:13:25.809818+00:00",
+            "linkedin": "2026-07-23T21:13:43.534159+00:00"
+        },
+        "updated_at": "2026-07-23T21:13:43.534179+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/": {
+        "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T16:28:50+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218677+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/": {
+        "title": "Nvidia is sending GPUs to the moon",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T15:00:00+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218680+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/": {
+        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T15:00:00+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218684+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-23T21:13:25.819332+00:00",
+            "linkedin": "2026-07-23T21:13:43.543958+00:00"
+        },
+        "updated_at": "2026-07-23T21:13:43.543971+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/": {
+        "title": "Google’s Gemini nears billion-user milestone",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-23T14:52:44+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218687+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T03:24:40.954438+00:00",
+            "linkedin": "2026-07-24T03:24:57.967263+00:00"
+        },
+        "updated_at": "2026-07-24T03:24:57.967280+00:00"
+    },
+    "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/": {
+        "title": "How AI helps scientists design the next generation of medicines",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-23T12:00:00+00:00",
+        "discovered_at": "2026-07-23T21:12:46.218695+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T11:25:06.816182+00:00",
+            "linkedin": "2026-07-26T11:25:24.025660+00:00"
+        },
+        "updated_at": "2026-07-26T11:25:24.025668+00:00"
+    },
+    "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/": {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T01:00:00+00:00",
+        "discovered_at": "2026-07-24T03:23:46.083749+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/": {
+        "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
+        "source": "AI News",
+        "published_date": "2026-07-24T08:00:00+00:00",
+        "discovered_at": "2026-07-24T11:47:25.295636+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T11:48:21.727446+00:00",
+            "linkedin": "2026-07-24T11:48:39.088275+00:00"
+        },
+        "updated_at": "2026-07-24T11:48:39.088294+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/": {
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T18:07:32+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564731+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T03:35:59.594589+00:00",
+            "linkedin": "2026-07-26T03:36:16.825696+00:00"
+        },
+        "updated_at": "2026-07-26T03:36:16.825712+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/": {
+        "title": "Anthropic launches Opus 5",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T17:00:00+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564739+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T03:21:55.936316+00:00",
+            "linkedin": "2026-07-25T03:22:13.189788+00:00"
+        },
+        "updated_at": "2026-07-25T03:22:13.189805+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/": {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T15:51:49+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564743+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T21:01:28.606911+00:00",
+            "linkedin": "2026-07-25T21:01:45.987386+00:00"
+        },
+        "updated_at": "2026-07-25T21:01:45.987399+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/": {
+        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T15:13:57+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564746+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/": {
+        "title": "Midjourney acquired the astrology app Co-Star",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T15:09:55+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564749+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/": {
+        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T14:00:00+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564752+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T03:21:55.948650+00:00",
+            "linkedin": "2026-07-25T03:22:13.201324+00:00"
+        },
+        "updated_at": "2026-07-25T03:22:13.201334+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/": {
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T13:36:42+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564755+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-25T11:17:56.170916+00:00",
+            "linkedin": "2026-07-25T11:18:13.063665+00:00"
+        },
+        "updated_at": "2026-07-25T11:18:13.063678+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/": {
+        "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "source": "AI News",
+        "published_date": "2026-07-24T16:18:30+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564762+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T21:12:38.057260+00:00",
+            "linkedin": "2026-07-24T21:12:55.207502+00:00"
+        },
+        "updated_at": "2026-07-24T21:12:55.207514+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/": {
+        "title": "OpenAI pushes ChatGPT into patient health records",
+        "source": "AI News",
+        "published_date": "2026-07-24T14:58:17+00:00",
+        "discovered_at": "2026-07-24T21:11:53.564764+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-24T21:12:38.068225+00:00",
+            "linkedin": "2026-07-24T21:12:55.218068+00:00"
+        },
+        "updated_at": "2026-07-24T21:12:55.218075+00:00"
+    },
+    "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/": {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-25T00:23:11+00:00",
+        "discovered_at": "2026-07-25T03:21:12.267901+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/": {
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-24T22:25:58+00:00",
+        "discovered_at": "2026-07-25T03:21:12.267908+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-26T11:25:06.805600+00:00",
+            "linkedin": "2026-07-26T11:25:24.015023+00:00"
+        },
+        "updated_at": "2026-07-26T11:25:24.015034+00:00"
+    },
+    "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/": {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-25T16:00:00+00:00",
+        "discovered_at": "2026-07-25T21:00:41.519194+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/": {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-25T13:05:00+00:00",
+        "discovered_at": "2026-07-25T21:00:41.519200+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/": {
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-26T01:30:00+00:00",
+        "discovered_at": "2026-07-26T03:35:20.367593+00:00",
         "status": "PENDING"
     }
 }
