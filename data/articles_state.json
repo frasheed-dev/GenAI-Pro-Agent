@@ -9207,5 +9207,57 @@
             "linkedin": "2026-07-27T03:43:59.879430+00:00"
         },
         "updated_at": "2026-07-27T03:43:59.879442+00:00"
+    },
+    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work": {
+        "title": "How AI is expanding what people do at work",
+        "source": "OpenAI",
+        "published_date": "2026-07-27T03:30:00+00:00",
+        "discovered_at": "2026-07-27T13:15:27.189495+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-27T13:16:07.981597+00:00",
+            "linkedin": "2026-07-27T13:16:25.532744+00:00"
+        },
+        "updated_at": "2026-07-27T13:16:25.532753+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/": {
+        "title": "How AI is shortening drug discovery timelines in China",
+        "source": "AI News",
+        "published_date": "2026-07-27T10:00:00+00:00",
+        "discovered_at": "2026-07-27T13:15:27.189507+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/": {
+        "title": "America’s AI Investment Boom Is Reshaping the Economy",
+        "source": "AI News",
+        "published_date": "2026-07-27T09:18:53+00:00",
+        "discovered_at": "2026-07-27T13:15:27.189511+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/": {
+        "title": "The path to artificial superintelligence",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-27T12:00:00+00:00",
+        "discovered_at": "2026-07-27T13:15:27.189515+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/": {
+        "title": "Closing the data loop in AI-driven drug discovery",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-27T11:40:16+00:00",
+        "discovered_at": "2026-07-27T13:15:27.189517+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/": {
+        "title": "Building the enterprise environment for agentic AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-27T11:32:58+00:00",
+        "discovered_at": "2026-07-27T13:15:27.189520+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-27T13:16:07.970519+00:00",
+            "linkedin": "2026-07-27T13:16:25.521667+00:00"
+        },
+        "updated_at": "2026-07-27T13:16:25.521684+00:00"
     }
 }
