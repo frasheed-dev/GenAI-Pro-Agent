@@ -9087,7 +9087,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-24T15:09:55+00:00",
         "discovered_at": "2026-07-24T21:11:53.564749+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-27T03:43:42.828438+00:00",
+            "linkedin": "2026-07-27T03:43:59.890075+00:00"
+        },
+        "updated_at": "2026-07-27T03:43:59.890082+00:00"
     },
     "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/": {
         "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
@@ -9176,5 +9181,31 @@
         "published_date": "2026-07-26T01:30:00+00:00",
         "discovered_at": "2026-07-26T03:35:20.367593+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/": {
+        "title": "Are brain waves the next unlock for physical AI?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-27T00:19:14+00:00",
+        "discovered_at": "2026-07-27T03:43:03.093254+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/": {
+        "title": "Making sense of the panic over Chinese AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-26T19:40:57+00:00",
+        "discovered_at": "2026-07-27T03:43:03.093261+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/": {
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-26T16:33:13+00:00",
+        "discovered_at": "2026-07-27T03:43:03.093265+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-27T03:43:42.817824+00:00",
+            "linkedin": "2026-07-27T03:43:59.879430+00:00"
+        },
+        "updated_at": "2026-07-27T03:43:59.879442+00:00"
     }
 }
