@@ -9279,14 +9279,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-27T18:32:11+00:00",
         "discovered_at": "2026-07-27T21:18:11.629533+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-28T03:15:54.538006+00:00",
+            "linkedin": "2026-07-28T03:16:11.951668+00:00"
+        },
+        "updated_at": "2026-07-28T03:16:11.951684+00:00"
     },
     "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/": {
         "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
         "source": "TechCrunch AI",
         "published_date": "2026-07-27T17:28:42+00:00",
         "discovered_at": "2026-07-27T21:18:11.629536+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-28T03:15:54.549206+00:00",
+            "linkedin": "2026-07-28T03:16:11.962771+00:00"
+        },
+        "updated_at": "2026-07-28T03:16:11.962780+00:00"
     },
     "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/": {
         "title": "Threads users can now chat with Meta AI in their DMs",
@@ -9345,6 +9355,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-07-27T18:00:00+00:00",
         "discovered_at": "2026-07-27T21:18:11.629563+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/": {
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-28T00:13:33+00:00",
+        "discovered_at": "2026-07-28T03:15:08.405833+00:00",
         "status": "PENDING"
     }
 }
