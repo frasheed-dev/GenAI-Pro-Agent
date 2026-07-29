@@ -9501,5 +9501,57 @@
         "published_date": "2026-07-29T08:42:57+00:00",
         "discovered_at": "2026-07-29T12:06:41.029148+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-for-academic-researchers": {
+        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "source": "OpenAI",
+        "published_date": "2026-07-29T10:00:00+00:00",
+        "discovered_at": "2026-07-29T21:03:17.145893+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-29T21:04:04.176838+00:00",
+            "linkedin": "2026-07-29T21:04:21.303364+00:00"
+        },
+        "updated_at": "2026-07-29T21:04:21.303378+00:00"
+    },
+    "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "source": "OpenAI",
+        "published_date": "2026-07-29T00:00:00+00:00",
+        "discovered_at": "2026-07-29T21:03:17.145900+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-29T21:04:04.188598+00:00",
+            "linkedin": "2026-07-29T21:04:21.314849+00:00"
+        },
+        "updated_at": "2026-07-29T21:04:21.314857+00:00"
+    },
+    "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/": {
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T19:44:49+00:00",
+        "discovered_at": "2026-07-29T21:03:17.145904+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/": {
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T18:45:27+00:00",
+        "discovered_at": "2026-07-29T21:03:17.145907+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/": {
+        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T15:35:09+00:00",
+        "discovered_at": "2026-07-29T21:03:17.145910+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/": {
+        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T14:41:06+00:00",
+        "discovered_at": "2026-07-29T21:03:17.145915+00:00",
+        "status": "PENDING"
     }
 }
