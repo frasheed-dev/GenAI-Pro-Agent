@@ -9377,7 +9377,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-28T00:13:33+00:00",
         "discovered_at": "2026-07-28T03:15:08.405833+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-29T03:18:45.680941+00:00",
+            "linkedin": "2026-07-29T03:19:02.803913+00:00"
+        },
+        "updated_at": "2026-07-29T03:19:02.803924+00:00"
     },
     "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/": {
         "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
@@ -9412,7 +9417,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-28T17:00:00+00:00",
         "discovered_at": "2026-07-28T21:16:26.904563+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-29T03:18:45.669434+00:00",
+            "linkedin": "2026-07-29T03:19:02.792769+00:00"
+        },
+        "updated_at": "2026-07-29T03:19:02.792783+00:00"
     },
     "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/": {
         "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
@@ -9453,5 +9463,19 @@
             "linkedin": "2026-07-28T21:17:29.360508+00:00"
         },
         "updated_at": "2026-07-28T21:17:29.360550+00:00"
+    },
+    "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/": {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T00:09:05+00:00",
+        "discovered_at": "2026-07-29T03:18:03.800302+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/": {
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-28T21:29:34+00:00",
+        "discovered_at": "2026-07-29T03:18:03.800310+00:00",
+        "status": "PENDING"
     }
 }
