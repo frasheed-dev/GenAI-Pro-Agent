@@ -9553,5 +9553,78 @@
         "published_date": "2026-07-29T14:41:06+00:00",
         "discovered_at": "2026-07-29T21:03:17.145915+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
+        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "source": "OpenAI",
+        "published_date": "2026-07-29T15:00:00+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435058+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-30T02:51:32.352649+00:00",
+            "linkedin": "2026-07-30T02:51:49.464774+00:00"
+        },
+        "updated_at": "2026-07-30T02:51:49.464792+00:00"
+    },
+    "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/": {
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-30T00:21:06+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435067+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/": {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T23:00:11+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435071+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/": {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T22:46:03+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435077+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/": {
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T22:23:12+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435080+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/": {
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T21:16:39+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435084+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/": {
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-29T21:07:48+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435087+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/": {
+        "title": "OpenAI report links coding agents to faster science software builds",
+        "source": "AI News",
+        "published_date": "2026-07-29T10:53:39+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435095+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/": {
+        "title": "Google AI Overviews become more common in search",
+        "source": "AI News",
+        "published_date": "2026-07-29T10:00:00+00:00",
+        "discovered_at": "2026-07-30T02:50:48.435098+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-30T02:51:32.364346+00:00",
+            "linkedin": "2026-07-30T02:51:49.476955+00:00"
+        },
+        "updated_at": "2026-07-30T02:51:49.476972+00:00"
     }
 }
