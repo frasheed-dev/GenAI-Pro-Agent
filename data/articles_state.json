@@ -9571,7 +9571,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-30T00:21:06+00:00",
         "discovered_at": "2026-07-30T02:50:48.435067+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-30T11:57:13.262604+00:00",
+            "linkedin": "2026-07-30T11:57:30.428525+00:00"
+        },
+        "updated_at": "2026-07-30T11:57:30.428542+00:00"
     },
     "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/": {
         "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -9626,5 +9631,31 @@
             "linkedin": "2026-07-30T02:51:49.476955+00:00"
         },
         "updated_at": "2026-07-30T02:51:49.476972+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/": {
+        "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
+        "source": "AI News",
+        "published_date": "2026-07-30T11:12:11+00:00",
+        "discovered_at": "2026-07-30T11:56:11.423142+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/": {
+        "title": "How AI is Changing Linux VPS Security for Businesses",
+        "source": "AI News",
+        "published_date": "2026-07-30T10:41:02+00:00",
+        "discovered_at": "2026-07-30T11:56:11.423149+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/": {
+        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-07-30T10:15:19+00:00",
+        "discovered_at": "2026-07-30T11:56:11.423154+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-30T11:57:13.249975+00:00",
+            "linkedin": "2026-07-30T11:57:30.416221+00:00"
+        },
+        "updated_at": "2026-07-30T11:57:30.416237+00:00"
     }
 }
