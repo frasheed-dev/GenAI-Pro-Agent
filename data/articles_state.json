@@ -9595,7 +9595,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-29T22:46:03+00:00",
         "discovered_at": "2026-07-30T02:50:48.435077+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-31T03:34:11.291995+00:00",
+            "linkedin": "2026-07-31T03:34:28.222355+00:00"
+        },
+        "updated_at": "2026-07-31T03:34:28.222363+00:00"
     },
     "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/": {
         "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
@@ -9642,7 +9647,12 @@
         "source": "AI News",
         "published_date": "2026-07-30T11:12:11+00:00",
         "discovered_at": "2026-07-30T11:56:11.423142+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-07-31T03:34:11.280280+00:00",
+            "linkedin": "2026-07-31T03:34:28.210597+00:00"
+        },
+        "updated_at": "2026-07-31T03:34:28.210614+00:00"
     },
     "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/": {
         "title": "How AI is Changing Linux VPS Security for Businesses",
@@ -9750,6 +9760,41 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-30T13:00:00+00:00",
         "discovered_at": "2026-07-30T21:18:08.582047+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/avatarin": {
+        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+        "source": "OpenAI",
+        "published_date": "2026-07-30T00:00:00+00:00",
+        "discovered_at": "2026-07-31T03:33:32.326572+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/": {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-31T01:06:54+00:00",
+        "discovered_at": "2026-07-31T03:33:32.326580+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/": {
+        "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-30T23:25:58+00:00",
+        "discovered_at": "2026-07-31T03:33:32.326585+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/": {
+        "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-30T23:08:58+00:00",
+        "discovered_at": "2026-07-31T03:33:32.326590+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/": {
+        "title": "Investors love AI, as long as you’re a cloud host",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-30T22:41:41+00:00",
+        "discovered_at": "2026-07-31T03:33:32.326593+00:00",
         "status": "PENDING"
     }
 }
