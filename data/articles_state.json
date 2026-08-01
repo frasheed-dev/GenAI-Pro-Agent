@@ -9857,7 +9857,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-31T19:47:28+00:00",
         "discovered_at": "2026-07-31T21:13:46.832069+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-01T21:02:22.716386+00:00",
+            "linkedin": "2026-08-01T21:02:40.161559+00:00"
+        },
+        "updated_at": "2026-08-01T21:02:40.161570+00:00"
     },
     "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/": {
         "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
@@ -9883,7 +9888,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-31T16:08:18+00:00",
         "discovered_at": "2026-07-31T21:13:46.832078+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-01T21:02:22.727958+00:00",
+            "linkedin": "2026-08-01T21:02:40.173030+00:00"
+        },
+        "updated_at": "2026-08-01T21:02:40.173036+00:00"
     },
     "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/": {
         "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
@@ -9940,6 +9950,34 @@
         "source": "OpenAI",
         "published_date": "2026-08-01T00:00:00+00:00",
         "discovered_at": "2026-08-01T11:23:03.199320+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/": {
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-01T20:26:04+00:00",
+        "discovered_at": "2026-08-01T21:01:42.918971+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/": {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-01T19:45:45+00:00",
+        "discovered_at": "2026-08-01T21:01:42.918978+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/": {
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-01T17:07:34+00:00",
+        "discovered_at": "2026-08-01T21:01:42.918981+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/": {
+        "title": "This $9 key physically locks your most addictive apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-01T15:58:17+00:00",
+        "discovered_at": "2026-08-01T21:01:42.918985+00:00",
         "status": "PENDING"
     }
 }
