@@ -9730,7 +9730,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-30T15:41:16+00:00",
         "discovered_at": "2026-07-30T21:18:08.582036+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-01T03:33:57.960664+00:00",
+            "linkedin": "2026-08-01T03:34:14.907462+00:00"
+        },
+        "updated_at": "2026-08-01T03:34:14.907476+00:00"
     },
     "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/": {
         "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
@@ -9907,5 +9912,17 @@
             "linkedin": "2026-07-31T21:14:43.240264+00:00"
         },
         "updated_at": "2026-07-31T21:14:43.240279+00:00"
+    },
+    "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/": {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "source": "TechCrunch AI",
+        "published_date": "2026-07-31T22:47:26+00:00",
+        "discovered_at": "2026-08-01T03:33:18.951284+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-01T03:33:57.949350+00:00",
+            "linkedin": "2026-08-01T03:34:14.895599+00:00"
+        },
+        "updated_at": "2026-08-01T03:34:14.895614+00:00"
     }
 }
