@@ -9822,7 +9822,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-31T15:00:00+00:00",
         "discovered_at": "2026-07-31T12:05:26.180992+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-02T21:05:32.577875+00:00",
+            "linkedin": "2026-08-02T21:05:49.825845+00:00"
+        },
+        "updated_at": "2026-08-02T21:05:49.825858+00:00"
     },
     "https://openai.com/index/unive": {
         "title": "Univé builds an AI-ready workforce",
@@ -9848,7 +9853,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-31T00:00:00+00:00",
         "discovered_at": "2026-07-31T21:13:46.832057+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-02T21:05:32.589498+00:00",
+            "linkedin": "2026-08-02T21:05:49.837362+00:00"
+        },
+        "updated_at": "2026-08-02T21:05:49.837370+00:00"
     },
     "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/": {
         "title": "India is starting to pay for apps, not just download them",
@@ -9998,6 +10008,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-01T15:58:17+00:00",
         "discovered_at": "2026-08-01T21:01:42.918985+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/": {
+        "title": "Sam Altman and AI’s decel debate",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-02T20:54:22+00:00",
+        "discovered_at": "2026-08-02T21:04:47.006987+00:00",
         "status": "PENDING"
     }
 }
