@@ -9886,7 +9886,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-31T16:49:08+00:00",
         "discovered_at": "2026-07-31T21:13:46.832075+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-02T11:21:41.225352+00:00",
+            "linkedin": "2026-08-02T11:21:58.281951+00:00"
+        },
+        "updated_at": "2026-08-02T11:21:58.281960+00:00"
     },
     "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/": {
         "title": "Siri AI could come with a paywall for power users",
@@ -9912,7 +9917,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-07-31T14:47:11+00:00",
         "discovered_at": "2026-07-31T21:13:46.832084+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-02T11:21:41.236954+00:00",
+            "linkedin": "2026-08-02T11:21:58.293639+00:00"
+        },
+        "updated_at": "2026-08-02T11:21:58.293646+00:00"
     },
     "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/": {
         "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
