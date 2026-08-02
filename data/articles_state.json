@@ -9836,7 +9836,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-31T15:00:00+00:00",
         "discovered_at": "2026-07-31T21:13:46.832050+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-02T03:33:39.518811+00:00",
+            "linkedin": "2026-08-02T03:33:56.192457+00:00"
+        },
+        "updated_at": "2026-08-02T03:33:56.192471+00:00"
     },
     "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
         "title": "Disrupting a Criminal Scam Operation",
@@ -9950,7 +9955,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-01T00:00:00+00:00",
         "discovered_at": "2026-08-01T11:23:03.199320+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-02T03:33:39.506085+00:00",
+            "linkedin": "2026-08-02T03:33:56.179445+00:00"
+        },
+        "updated_at": "2026-08-02T03:33:56.179461+00:00"
     },
     "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/": {
         "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
