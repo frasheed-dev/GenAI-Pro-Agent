@@ -9834,7 +9834,12 @@
         "source": "OpenAI",
         "published_date": "2026-07-31T07:00:00+00:00",
         "discovered_at": "2026-07-31T12:05:26.180999+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-03T03:36:07.190676+00:00",
+            "linkedin": "2026-08-03T03:36:24.011420+00:00"
+        },
+        "updated_at": "2026-08-03T03:36:24.011436+00:00"
     },
     "https://openai.com/index/building-abundant-intelligence": {
         "title": "Building abundant intelligence",
@@ -10015,6 +10020,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-02T20:54:22+00:00",
         "discovered_at": "2026-08-02T21:04:47.006987+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-03T03:36:07.178719+00:00",
+            "linkedin": "2026-08-03T03:36:23.999426+00:00"
+        },
+        "updated_at": "2026-08-03T03:36:23.999440+00:00"
     }
 }
