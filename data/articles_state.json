@@ -10050,5 +10050,78 @@
             "linkedin": "2026-08-03T12:59:30.704458+00:00"
         },
         "updated_at": "2026-08-03T12:59:30.704471+00:00"
+    },
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
+        "title": "How we built a realtime system for responsive voice AI in six months",
+        "source": "OpenAI",
+        "published_date": "2026-08-03T07:00:00+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358439+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-03T21:12:20.430523+00:00",
+            "linkedin": "2026-08-03T21:12:37.529644+00:00"
+        },
+        "updated_at": "2026-08-03T21:12:37.529651+00:00"
+    },
+    "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/": {
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-03T20:00:00+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358445+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/": {
+        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-03T19:28:57+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358449+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/": {
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-03T19:09:56+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358452+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/": {
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-03T18:43:43+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358455+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/": {
+        "title": "Congress’ favorite AI tool? ChatGPT",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-03T16:40:55+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358458+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/": {
+        "title": "EU AI Act Article 50 transparency rules enter force",
+        "source": "AI News",
+        "published_date": "2026-08-03T16:09:25+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358464+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-03T21:12:20.418862+00:00",
+            "linkedin": "2026-08-03T21:12:37.517432+00:00"
+        },
+        "updated_at": "2026-08-03T21:12:37.517445+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/": {
+        "title": "Why biological data matters more in AI drug discovery",
+        "source": "AI News",
+        "published_date": "2026-08-03T10:00:00+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358468+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/": {
+        "title": "Trump’s AI protectionism has come for robotics",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-03T18:43:30+00:00",
+        "discovered_at": "2026-08-03T21:11:29.358471+00:00",
+        "status": "PENDING"
     }
 }
