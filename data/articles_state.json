@@ -10171,5 +10171,99 @@
         "published_date": "2026-08-04T12:00:00+00:00",
         "discovered_at": "2026-08-04T12:05:55.948536+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+        "title": "Third-party cyber evaluations involving OpenAI models",
+        "source": "OpenAI",
+        "published_date": "2026-08-04T19:00:00+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032904+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/learn-teach-chatgpt-work-codex": {
+        "title": "New ways to learn and teach with ChatGPT Work and Codex",
+        "source": "OpenAI",
+        "published_date": "2026-08-04T00:00:00+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032909+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/": {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T21:07:26+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032913+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/": {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T20:05:26+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032915+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-04T21:19:50.498753+00:00",
+            "linkedin": "2026-08-04T21:20:07.500491+00:00"
+        },
+        "updated_at": "2026-08-04T21:20:07.500504+00:00"
+    },
+    "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/": {
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T19:48:40+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032920+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-04T21:19:50.508456+00:00",
+            "linkedin": "2026-08-04T21:20:07.510256+00:00"
+        },
+        "updated_at": "2026-08-04T21:20:07.510262+00:00"
+    },
+    "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/": {
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T19:34:34+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032922+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/": {
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T19:28:49+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032925+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/": {
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T15:50:06+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032927+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/": {
+        "title": "Texas halts new data centers as governor calls for audits",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T15:42:35+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032930+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/": {
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T15:20:06+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032932+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/": {
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T14:03:01+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032934+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/": {
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T13:00:00+00:00",
+        "discovered_at": "2026-08-04T21:18:56.032937+00:00",
+        "status": "PENDING"
     }
 }
