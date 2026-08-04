@@ -10101,7 +10101,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-03T16:40:55+00:00",
         "discovered_at": "2026-08-03T21:11:29.358458+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-04T12:06:43.989373+00:00",
+            "linkedin": "2026-08-04T12:07:00.925232+00:00"
+        },
+        "updated_at": "2026-08-04T12:07:00.925248+00:00"
     },
     "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/": {
         "title": "EU AI Act Article 50 transparency rules enter force",
@@ -10120,7 +10125,12 @@
         "source": "AI News",
         "published_date": "2026-08-03T10:00:00+00:00",
         "discovered_at": "2026-08-03T21:11:29.358468+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-04T12:06:44.001617+00:00",
+            "linkedin": "2026-08-04T12:07:00.937387+00:00"
+        },
+        "updated_at": "2026-08-04T12:07:00.937397+00:00"
     },
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/": {
         "title": "Trump’s AI protectionism has come for robotics",
@@ -10146,6 +10156,20 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-03T23:19:50+00:00",
         "discovered_at": "2026-08-04T03:18:16.532647+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/apple-is-getting-this-wrong": {
+        "title": "Apple is getting this wrong",
+        "source": "OpenAI",
+        "published_date": "2026-08-03T22:00:00+00:00",
+        "discovered_at": "2026-08-04T12:05:55.948530+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/": {
+        "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-04T12:00:00+00:00",
+        "discovered_at": "2026-08-04T12:05:55.948536+00:00",
         "status": "PENDING"
     }
 }
