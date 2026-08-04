@@ -10089,7 +10089,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-03T18:43:43+00:00",
         "discovered_at": "2026-08-03T21:11:29.358455+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-04T03:18:55.721995+00:00",
+            "linkedin": "2026-08-04T03:19:15.712673+00:00"
+        },
+        "updated_at": "2026-08-04T03:19:15.712689+00:00"
     },
     "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/": {
         "title": "Congress’ favorite AI tool? ChatGPT",
@@ -10122,6 +10127,25 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-08-03T18:43:30+00:00",
         "discovered_at": "2026-08-03T21:11:29.358471+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/circles": {
+        "title": "Circles powers telco personalization with OpenAI technology",
+        "source": "OpenAI",
+        "published_date": "2026-08-03T00:00:00+00:00",
+        "discovered_at": "2026-08-04T03:18:16.532640+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-04T03:18:55.734182+00:00",
+            "linkedin": "2026-08-04T03:19:15.724809+00:00"
+        },
+        "updated_at": "2026-08-04T03:19:15.724818+00:00"
+    },
+    "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/": {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-03T23:19:50+00:00",
+        "discovered_at": "2026-08-04T03:18:16.532647+00:00",
         "status": "PENDING"
     }
 }
