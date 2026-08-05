@@ -10177,7 +10177,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-04T19:00:00+00:00",
         "discovered_at": "2026-08-04T21:18:56.032904+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-05T03:14:15.866039+00:00",
+            "linkedin": "2026-08-05T03:14:32.837896+00:00"
+        },
+        "updated_at": "2026-08-05T03:14:32.837910+00:00"
     },
     "https://openai.com/index/learn-teach-chatgpt-work-codex": {
         "title": "New ways to learn and teach with ChatGPT Work and Codex",
@@ -10257,7 +10262,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-04T14:03:01+00:00",
         "discovered_at": "2026-08-04T21:18:56.032934+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-05T03:14:15.878646+00:00",
+            "linkedin": "2026-08-05T03:14:32.849896+00:00"
+        },
+        "updated_at": "2026-08-05T03:14:32.849907+00:00"
     },
     "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/": {
         "title": "Is the future of data centers portable? Runware builds a pod to find out",
