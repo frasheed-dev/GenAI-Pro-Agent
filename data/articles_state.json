@@ -10234,14 +10234,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-04T19:28:49+00:00",
         "discovered_at": "2026-08-04T21:18:56.032925+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-05T12:04:37.195906+00:00",
+            "linkedin": "2026-08-05T12:04:55.076676+00:00"
+        },
+        "updated_at": "2026-08-05T12:04:55.076689+00:00"
     },
     "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/": {
         "title": "Spotify expands AI remix and covers project with Merlin partnership",
         "source": "TechCrunch AI",
         "published_date": "2026-08-04T15:50:06+00:00",
         "discovered_at": "2026-08-04T21:18:56.032927+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-05T12:04:37.207775+00:00",
+            "linkedin": "2026-08-05T12:04:55.088363+00:00"
+        },
+        "updated_at": "2026-08-05T12:04:55.088369+00:00"
     },
     "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/": {
         "title": "Texas halts new data centers as governor calls for audits",
@@ -10274,6 +10284,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-04T13:00:00+00:00",
         "discovered_at": "2026-08-04T21:18:56.032937+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/": {
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-05T11:00:00+00:00",
+        "discovered_at": "2026-08-05T12:03:30.234439+00:00",
         "status": "PENDING"
     }
 }
