@@ -10310,7 +10310,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-05T19:30:19+00:00",
         "discovered_at": "2026-08-05T21:18:51.803296+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-06T12:07:25.738351+00:00",
+            "linkedin": "2026-08-06T12:07:43.433443+00:00"
+        },
+        "updated_at": "2026-08-06T12:07:43.433457+00:00"
     },
     "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/": {
         "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
@@ -10324,7 +10329,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-05T15:46:27+00:00",
         "discovered_at": "2026-08-05T21:18:51.803306+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-06T12:07:25.747945+00:00",
+            "linkedin": "2026-08-06T12:07:43.443156+00:00"
+        },
+        "updated_at": "2026-08-06T12:07:43.443162+00:00"
     },
     "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/": {
         "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
