@@ -10496,5 +10496,92 @@
         "published_date": "2026-08-07T09:00:00+00:00",
         "discovered_at": "2026-08-07T10:58:46.457258+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "source": "OpenAI",
+        "published_date": "2026-08-07T15:20:00+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844451+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/": {
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-07T16:16:09+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844457+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/": {
+        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-07T14:22:49+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844460+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/": {
+        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-07T14:00:00+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844464+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/": {
+        "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-07T11:40:37+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844467+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/": {
+        "title": "Stanford Evo 2 AI model generates phages against E. coli",
+        "source": "AI News",
+        "published_date": "2026-08-07T15:05:03+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844472+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-07T20:50:52.460321+00:00",
+            "linkedin": "2026-08-07T20:51:10.199931+00:00"
+        },
+        "updated_at": "2026-08-07T20:51:10.199945+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/": {
+        "title": "How AI Is changing Instagram engagement without replacing the human touch",
+        "source": "AI News",
+        "published_date": "2026-08-07T14:33:59+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844475+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/": {
+        "title": "Alibaba tests new business model for Qwen open-source AI",
+        "source": "AI News",
+        "published_date": "2026-08-07T10:00:00+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844477+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/": {
+        "title": "Why health AI interfaces must adapt to user expertise",
+        "source": "AI News",
+        "published_date": "2026-08-06T15:55:37+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844479+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/": {
+        "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+        "source": "AI News",
+        "published_date": "2026-08-05T15:26:20+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844481+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/": {
+        "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+        "source": "AI News",
+        "published_date": "2026-08-05T10:00:00+00:00",
+        "discovered_at": "2026-08-07T20:50:08.844484+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-07T20:50:52.471309+00:00",
+            "linkedin": "2026-08-07T20:51:10.211486+00:00"
+        },
+        "updated_at": "2026-08-07T20:51:10.211493+00:00"
     }
 }
