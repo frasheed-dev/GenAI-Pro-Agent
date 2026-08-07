@@ -10417,7 +10417,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-06T17:34:42+00:00",
         "discovered_at": "2026-08-07T00:54:42.282045+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-07T10:59:40.497885+00:00",
+            "linkedin": "2026-08-07T10:59:57.763821+00:00"
+        },
+        "updated_at": "2026-08-07T10:59:57.763835+00:00"
     },
     "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/": {
         "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
@@ -10459,7 +10464,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-06T13:00:00+00:00",
         "discovered_at": "2026-08-07T00:54:42.282070+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-07T10:59:40.510523+00:00",
+            "linkedin": "2026-08-07T10:59:57.776424+00:00"
+        },
+        "updated_at": "2026-08-07T10:59:57.776433+00:00"
     },
     "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/": {
         "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
@@ -10478,6 +10488,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-06T12:00:00+00:00",
         "discovered_at": "2026-08-07T00:54:42.282077+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/hsp-gruppe": {
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "source": "OpenAI",
+        "published_date": "2026-08-07T09:00:00+00:00",
+        "discovered_at": "2026-08-07T10:58:46.457258+00:00",
         "status": "PENDING"
     }
 }
