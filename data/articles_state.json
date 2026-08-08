@@ -10410,7 +10410,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-06T22:43:53+00:00",
         "discovered_at": "2026-08-07T00:54:42.282042+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-08T10:40:26.332078+00:00",
+            "linkedin": "2026-08-08T10:40:43.164758+00:00"
+        },
+        "updated_at": "2026-08-08T10:40:43.164768+00:00"
     },
     "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/": {
         "title": "ChatGPT brings unlimited text chats to free users",
@@ -10509,7 +10514,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-07T16:16:09+00:00",
         "discovered_at": "2026-08-07T20:50:08.844457+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-08T10:40:26.319249+00:00",
+            "linkedin": "2026-08-08T10:40:43.152405+00:00"
+        },
+        "updated_at": "2026-08-08T10:40:43.152419+00:00"
     },
     "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/": {
         "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
