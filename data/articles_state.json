@@ -10556,7 +10556,12 @@
         "source": "AI News",
         "published_date": "2026-08-07T10:00:00+00:00",
         "discovered_at": "2026-08-07T20:50:08.844477+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-08T02:03:01.109511+00:00",
+            "linkedin": "2026-08-08T02:03:18.172199+00:00"
+        },
+        "updated_at": "2026-08-08T02:03:18.172213+00:00"
     },
     "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/": {
         "title": "Why health AI interfaces must adapt to user expertise",
@@ -10583,5 +10588,24 @@
             "linkedin": "2026-08-07T20:51:10.211486+00:00"
         },
         "updated_at": "2026-08-07T20:51:10.211493+00:00"
+    },
+    "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/": {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-07T22:48:24+00:00",
+        "discovered_at": "2026-08-08T02:02:20.242057+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-08T02:03:01.098020+00:00",
+            "linkedin": "2026-08-08T02:03:18.159942+00:00"
+        },
+        "updated_at": "2026-08-08T02:03:18.159958+00:00"
+    },
+    "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/": {
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-07T21:30:11+00:00",
+        "discovered_at": "2026-08-08T02:02:20.242064+00:00",
+        "status": "PENDING"
     }
 }
