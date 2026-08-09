@@ -10661,5 +10661,43 @@
         "published_date": "2026-08-08T21:24:02+00:00",
         "discovered_at": "2026-08-09T02:10:07.744781+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/": {
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-09T20:35:17+00:00",
+        "discovered_at": "2026-08-09T20:42:29.087889+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/": {
+        "title": "Anthropic is turning Claude Code’s auto mode on by default",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-09T19:20:32+00:00",
+        "discovered_at": "2026-08-09T20:42:29.087895+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-09T20:43:09.695155+00:00",
+            "linkedin": "2026-08-09T20:43:26.749303+00:00"
+        },
+        "updated_at": "2026-08-09T20:43:26.749313+00:00"
+    },
+    "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/": {
+        "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-09T15:00:00+00:00",
+        "discovered_at": "2026-08-09T20:42:29.087898+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/": {
+        "title": "The AI safety test is becoming a safety risk",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-09T14:30:00+00:00",
+        "discovered_at": "2026-08-09T20:42:29.087901+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-09T20:43:09.708948+00:00",
+            "linkedin": "2026-08-09T20:43:26.763238+00:00"
+        },
+        "updated_at": "2026-08-09T20:43:26.763246+00:00"
     }
 }
