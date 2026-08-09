@@ -10434,7 +10434,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-06T17:00:37+00:00",
         "discovered_at": "2026-08-07T00:54:42.282049+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-09T10:42:04.296669+00:00",
+            "linkedin": "2026-08-09T10:42:20.995229+00:00"
+        },
+        "updated_at": "2026-08-09T10:42:20.995238+00:00"
     },
     "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/": {
         "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
@@ -10505,7 +10510,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-07T09:00:00+00:00",
         "discovered_at": "2026-08-07T10:58:46.457258+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-09T10:42:04.286718+00:00",
+            "linkedin": "2026-08-09T10:42:20.984831+00:00"
+        },
+        "updated_at": "2026-08-09T10:42:20.984845+00:00"
     },
     "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
         "title": "Responding to the next frontier of critical cyber capabilities",
