@@ -10584,7 +10584,12 @@
         "source": "AI News",
         "published_date": "2026-08-07T14:33:59+00:00",
         "discovered_at": "2026-08-07T20:50:08.844475+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-10T02:18:10.982079+00:00",
+            "linkedin": "2026-08-10T02:18:28.078266+00:00"
+        },
+        "updated_at": "2026-08-10T02:18:28.078278+00:00"
     },
     "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/": {
         "title": "Alibaba tests new business model for Qwen open-source AI",
@@ -10641,7 +10646,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-07T21:30:11+00:00",
         "discovered_at": "2026-08-08T02:02:20.242064+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-10T02:18:10.969329+00:00",
+            "linkedin": "2026-08-10T02:18:28.065114+00:00"
+        },
+        "updated_at": "2026-08-10T02:18:28.065127+00:00"
     },
     "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/": {
         "title": "OpenAI acquires presentation startup NextSlide",
