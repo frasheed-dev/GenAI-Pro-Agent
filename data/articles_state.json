@@ -10733,5 +10733,99 @@
             "linkedin": "2026-08-10T11:17:14.463154+00:00"
         },
         "updated_at": "2026-08-10T11:17:14.463169+00:00"
+    },
+    "https://openai.com/index/responsible-ai-infrastructure-texas": {
+        "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T14:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431302+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/model-ml": {
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T12:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431310+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/building-an-ai-native-finance-function": {
+        "title": "What building an AI-native finance function taught me",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T17:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431314+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
+        "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T10:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431317+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
+        "title": "Putting frontier cyber models in more trusted hands",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T10:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431321+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/premium-seats-chatgpt-business": {
+        "title": "Premium seats are coming to ChatGPT Business",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T00:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431324+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/": {
+        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-10T20:04:24+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431328+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/": {
+        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-10T16:20:13+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431334+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-10T20:52:13.350992+00:00",
+            "linkedin": "2026-08-10T20:52:32.030134+00:00"
+        },
+        "updated_at": "2026-08-10T20:52:32.030148+00:00"
+    },
+    "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/": {
+        "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-10T12:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431338+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/": {
+        "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+        "source": "AI News",
+        "published_date": "2026-08-10T11:02:38+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431345+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-10T20:52:13.363901+00:00",
+            "linkedin": "2026-08-10T20:52:32.044147+00:00"
+        },
+        "updated_at": "2026-08-10T20:52:32.044162+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/": {
+        "title": "The limits of physics AI: where Siemens says the human stays in charge",
+        "source": "AI News",
+        "published_date": "2026-08-10T10:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431349+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/": {
+        "title": "AI professors are negotiating the new realities of academic research",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-10T20:00:00+00:00",
+        "discovered_at": "2026-08-10T20:51:31.431352+00:00",
+        "status": "PENDING"
     }
 }
