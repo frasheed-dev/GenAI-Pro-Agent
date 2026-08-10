@@ -10709,5 +10709,29 @@
             "linkedin": "2026-08-09T20:43:26.763238+00:00"
         },
         "updated_at": "2026-08-09T20:43:26.763246+00:00"
+    },
+    "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/": {
+        "title": "AI for science needs reasoning, not just data",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-10T09:00:00+00:00",
+        "discovered_at": "2026-08-10T11:16:13.650649+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-10T11:16:57.092910+00:00",
+            "linkedin": "2026-08-10T11:17:14.450298+00:00"
+        },
+        "updated_at": "2026-08-10T11:17:14.450311+00:00"
+    },
+    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/": {
+        "title": "These startups are chasing the next big thing in LLMs",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-10T09:00:00+00:00",
+        "discovered_at": "2026-08-10T11:16:13.650655+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-10T11:16:57.105349+00:00",
+            "linkedin": "2026-08-10T11:17:14.463154+00:00"
+        },
+        "updated_at": "2026-08-10T11:17:14.463169+00:00"
     }
 }
