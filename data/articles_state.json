@@ -10760,7 +10760,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-10T10:00:00+00:00",
         "discovered_at": "2026-08-10T20:51:31.431317+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-11T02:09:31.647177+00:00",
+            "linkedin": "2026-08-11T02:09:48.554761+00:00"
+        },
+        "updated_at": "2026-08-11T02:09:48.554768+00:00"
     },
     "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
         "title": "Putting frontier cyber models in more trusted hands",
@@ -10826,6 +10831,46 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-08-10T20:00:00+00:00",
         "discovered_at": "2026-08-10T20:51:31.431352+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/zapier": {
+        "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T00:00:00+00:00",
+        "discovered_at": "2026-08-11T02:08:49.858851+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/virgin-atlantic/chatgpt-work": {
+        "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+        "source": "OpenAI",
+        "published_date": "2026-08-10T00:00:00+00:00",
+        "discovered_at": "2026-08-11T02:08:49.858859+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/": {
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-11T00:03:18+00:00",
+        "discovered_at": "2026-08-11T02:08:49.858863+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/": {
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-10T23:56:15+00:00",
+        "discovered_at": "2026-08-11T02:08:49.858866+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-11T02:09:31.634583+00:00",
+            "linkedin": "2026-08-11T02:09:48.541705+00:00"
+        },
+        "updated_at": "2026-08-11T02:09:48.541716+00:00"
+    },
+    "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/": {
+        "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-10T20:53:02+00:00",
+        "discovered_at": "2026-08-11T02:08:49.858869+00:00",
         "status": "PENDING"
     }
 }
