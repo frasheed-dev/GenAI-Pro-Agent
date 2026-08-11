@@ -10746,7 +10746,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-10T12:00:00+00:00",
         "discovered_at": "2026-08-10T20:51:31.431310+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-11T10:58:51.310345+00:00",
+            "linkedin": "2026-08-11T10:59:08.288132+00:00"
+        },
+        "updated_at": "2026-08-11T10:59:08.288143+00:00"
     },
     "https://openai.com/index/building-an-ai-native-finance-function": {
         "title": "What building an AI-native finance function taught me",
@@ -10786,7 +10791,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-10T20:04:24+00:00",
         "discovered_at": "2026-08-10T20:51:31.431328+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-11T10:58:51.298874+00:00",
+            "linkedin": "2026-08-11T10:59:08.276384+00:00"
+        },
+        "updated_at": "2026-08-11T10:59:08.276398+00:00"
     },
     "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/": {
         "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
