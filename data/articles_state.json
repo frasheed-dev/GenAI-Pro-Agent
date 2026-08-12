@@ -10895,7 +10895,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-11T18:49:12+00:00",
         "discovered_at": "2026-08-11T20:56:55.207581+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-12T02:28:35.729117+00:00",
+            "linkedin": "2026-08-12T02:29:12.267888+00:00"
+        },
+        "updated_at": "2026-08-12T02:29:12.267901+00:00"
     },
     "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/": {
         "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
@@ -10940,6 +10945,39 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-11T12:13:47+00:00",
         "discovered_at": "2026-08-11T20:56:55.207597+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
+        "title": "Daybreak models are now available on AWS",
+        "source": "OpenAI",
+        "published_date": "2026-08-11T10:00:00+00:00",
+        "discovered_at": "2026-08-12T02:27:03.159267+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/": {
+        "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-11T21:39:11+00:00",
+        "discovered_at": "2026-08-12T02:27:03.159275+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/": {
+        "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+        "source": "AI News",
+        "published_date": "2026-08-11T10:00:00+00:00",
+        "discovered_at": "2026-08-12T02:27:03.159282+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-12T02:28:35.739199+00:00",
+            "linkedin": "2026-08-12T02:29:12.278323+00:00"
+        },
+        "updated_at": "2026-08-12T02:29:12.278330+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/": {
+        "title": "How AI is changing the vulnerability response timeline",
+        "source": "AI News",
+        "published_date": "2026-08-11T07:05:55+00:00",
+        "discovered_at": "2026-08-12T02:27:03.159285+00:00",
         "status": "PENDING"
     }
 }
