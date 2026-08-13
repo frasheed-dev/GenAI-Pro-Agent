@@ -10917,7 +10917,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-11T17:41:34+00:00",
         "discovered_at": "2026-08-11T20:56:55.207585+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-13T11:05:28.374186+00:00",
+            "linkedin": "2026-08-13T11:05:53.451224+00:00"
+        },
+        "updated_at": "2026-08-13T11:05:53.451239+00:00"
     },
     "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/": {
         "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
@@ -10967,7 +10972,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-11T10:00:00+00:00",
         "discovered_at": "2026-08-12T02:27:03.159267+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-13T11:05:28.387535+00:00",
+            "linkedin": "2026-08-13T11:05:53.465431+00:00"
+        },
+        "updated_at": "2026-08-13T11:05:53.465445+00:00"
     },
     "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/": {
         "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -11120,6 +11130,20 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-12T22:26:37+00:00",
         "discovered_at": "2026-08-13T02:28:24.331316+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/": {
+        "title": "Okta targets AI agent token costs with MCP scoping",
+        "source": "AI News",
+        "published_date": "2026-08-13T09:22:06+00:00",
+        "discovered_at": "2026-08-13T11:04:47.139573+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/": {
+        "title": "How kids feel about AI, in their own words",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-13T09:00:00+00:00",
+        "discovered_at": "2026-08-13T11:04:47.139581+00:00",
         "status": "PENDING"
     }
 }
