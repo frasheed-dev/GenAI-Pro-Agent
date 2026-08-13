@@ -10893,7 +10893,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-11T19:15:35+00:00",
         "discovered_at": "2026-08-11T20:56:55.207574+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-13T02:30:12.201617+00:00",
+            "linkedin": "2026-08-13T02:30:29.492298+00:00"
+        },
+        "updated_at": "2026-08-13T02:30:29.492310+00:00"
     },
     "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/": {
         "title": "Google’s Gemini app surges to one billion users",
@@ -11009,7 +11014,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-12T18:19:12+00:00",
         "discovered_at": "2026-08-12T20:53:56.626757+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-13T02:30:12.190509+00:00",
+            "linkedin": "2026-08-13T02:30:29.480948+00:00"
+        },
+        "updated_at": "2026-08-13T02:30:29.480966+00:00"
     },
     "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/": {
         "title": "As AI safety concerns mount, three pioneers make the case for staying open",
@@ -11096,6 +11106,20 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-08-12T16:51:57+00:00",
         "discovered_at": "2026-08-12T20:53:56.626786+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/ringcentral": {
+        "title": "How RingCentral builds AI-native work from engineering to ops",
+        "source": "OpenAI",
+        "published_date": "2026-08-12T00:00:00+00:00",
+        "discovered_at": "2026-08-13T02:28:24.331305+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/": {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-12T22:26:37+00:00",
+        "discovered_at": "2026-08-13T02:28:24.331316+00:00",
         "status": "PENDING"
     }
 }
