@@ -11145,5 +11145,99 @@
         "published_date": "2026-08-13T09:00:00+00:00",
         "discovered_at": "2026-08-13T11:04:47.139581+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/builders-guide-to-gpt-5-6": {
+        "title": "The builder’s guide to GPT‑5.6",
+        "source": "OpenAI",
+        "published_date": "2026-08-13T11:00:00+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436832+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/previewing-ultrafast": {
+        "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "source": "OpenAI",
+        "published_date": "2026-08-13T10:00:00+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436839+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-13T20:52:06.858881+00:00",
+            "linkedin": "2026-08-13T20:52:26.414405+00:00"
+        },
+        "updated_at": "2026-08-13T20:52:26.414415+00:00"
+    },
+    "https://openai.com/index/dali-rajic-chief-revenue-officer": {
+        "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "source": "OpenAI",
+        "published_date": "2026-08-13T09:00:00+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436842+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/": {
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T20:14:39+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436848+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/": {
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T19:22:40+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436852+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/": {
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T19:19:49+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436855+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/": {
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T18:28:14+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436858+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-13T20:52:06.844653+00:00",
+            "linkedin": "2026-08-13T20:52:26.400363+00:00"
+        },
+        "updated_at": "2026-08-13T20:52:26.400379+00:00"
+    },
+    "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/": {
+        "title": "OpenAI hires new CRO as executive shake-up continues",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T17:07:13+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436861+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/": {
+        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T15:30:52+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436864+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/": {
+        "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T15:08:00+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436867+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/": {
+        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T14:34:43+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436869+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/": {
+        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-13T13:41:10+00:00",
+        "discovered_at": "2026-08-13T20:51:24.436875+00:00",
+        "status": "PENDING"
     }
 }
