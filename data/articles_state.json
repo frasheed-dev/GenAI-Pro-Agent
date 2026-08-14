@@ -11151,7 +11151,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-13T11:00:00+00:00",
         "discovered_at": "2026-08-13T20:51:24.436832+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-14T02:29:18.444628+00:00",
+            "linkedin": "2026-08-14T02:29:38.338588+00:00"
+        },
+        "updated_at": "2026-08-14T02:29:38.338604+00:00"
     },
     "https://openai.com/index/previewing-ultrafast": {
         "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
@@ -11184,7 +11189,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-13T19:22:40+00:00",
         "discovered_at": "2026-08-13T20:51:24.436852+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-14T02:29:18.429995+00:00",
+            "linkedin": "2026-08-14T02:29:38.324043+00:00"
+        },
+        "updated_at": "2026-08-14T02:29:38.324064+00:00"
     },
     "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/": {
         "title": "IBM partners with OpenAI to bolster enterprise AI push",
@@ -11238,6 +11248,13 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-08-13T13:41:10+00:00",
         "discovered_at": "2026-08-13T20:51:24.436875+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/": {
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-13T21:13:24+00:00",
+        "discovered_at": "2026-08-14T02:28:28.332627+00:00",
         "status": "PENDING"
     }
 }
