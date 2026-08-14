@@ -11201,7 +11201,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-13T19:19:49+00:00",
         "discovered_at": "2026-08-13T20:51:24.436855+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-14T11:06:00.145802+00:00",
+            "linkedin": "2026-08-14T11:06:43.250804+00:00"
+        },
+        "updated_at": "2026-08-14T11:06:43.250817+00:00"
     },
     "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/": {
         "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
@@ -11227,7 +11232,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-13T15:30:52+00:00",
         "discovered_at": "2026-08-13T20:51:24.436864+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-14T11:06:00.159748+00:00",
+            "linkedin": "2026-08-14T11:06:43.264973+00:00"
+        },
+        "updated_at": "2026-08-14T11:06:43.264983+00:00"
     },
     "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/": {
         "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
