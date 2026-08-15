@@ -11185,7 +11185,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-13T09:00:00+00:00",
         "discovered_at": "2026-08-13T20:51:24.436842+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-15T20:30:49.427483+00:00",
+            "linkedin": "2026-08-15T20:31:07.000318+00:00"
+        },
+        "updated_at": "2026-08-15T20:31:07.000326+00:00"
     },
     "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/": {
         "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
@@ -11344,6 +11349,25 @@
         "source": "AI News",
         "published_date": "2026-08-14T10:00:00+00:00",
         "discovered_at": "2026-08-14T20:37:14.201488+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/": {
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-15T18:58:39+00:00",
+        "discovered_at": "2026-08-15T20:30:06.740446+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-15T20:30:49.414073+00:00",
+            "linkedin": "2026-08-15T20:31:06.986916+00:00"
+        },
+        "updated_at": "2026-08-15T20:31:06.986933+00:00"
+    },
+    "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/": {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-15T16:30:00+00:00",
+        "discovered_at": "2026-08-15T20:30:06.740453+00:00",
         "status": "PENDING"
     }
 }
