@@ -11010,7 +11010,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-12T06:00:00+00:00",
         "discovered_at": "2026-08-12T20:53:56.626743+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-15T01:38:49.403261+00:00",
+            "linkedin": "2026-08-15T01:39:13.354009+00:00"
+        },
+        "updated_at": "2026-08-15T01:39:13.354037+00:00"
     },
     "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/": {
         "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
@@ -11305,7 +11310,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-14T14:00:00+00:00",
         "discovered_at": "2026-08-14T20:37:14.201478+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-15T01:38:49.391165+00:00",
+            "linkedin": "2026-08-15T01:39:13.341497+00:00"
+        },
+        "updated_at": "2026-08-15T01:39:13.341517+00:00"
     },
     "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/": {
         "title": "Samsung health AI models analyse wearable biosignal data",
