@@ -11048,7 +11048,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-12T17:41:29+00:00",
         "discovered_at": "2026-08-12T20:53:56.626762+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-15T10:31:30.525111+00:00",
+            "linkedin": "2026-08-15T10:31:47.606481+00:00"
+        },
+        "updated_at": "2026-08-15T10:31:47.606496+00:00"
     },
     "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/": {
         "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
@@ -11270,7 +11275,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-13T21:13:24+00:00",
         "discovered_at": "2026-08-14T02:28:28.332627+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-15T10:31:30.511677+00:00",
+            "linkedin": "2026-08-15T10:31:47.592679+00:00"
+        },
+        "updated_at": "2026-08-15T10:31:47.592695+00:00"
     },
     "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/": {
         "title": "Google will now allow users to remove visible watermark from its AI generations",
