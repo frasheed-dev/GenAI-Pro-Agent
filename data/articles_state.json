@@ -11197,7 +11197,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-13T20:14:39+00:00",
         "discovered_at": "2026-08-13T20:51:24.436848+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-16T10:29:29.617128+00:00",
+            "linkedin": "2026-08-16T10:29:46.876421+00:00"
+        },
+        "updated_at": "2026-08-16T10:29:46.876437+00:00"
     },
     "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/": {
         "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
@@ -11240,7 +11245,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-13T17:07:13+00:00",
         "discovered_at": "2026-08-13T20:51:24.436861+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-16T10:29:29.630711+00:00",
+            "linkedin": "2026-08-16T10:29:46.889948+00:00"
+        },
+        "updated_at": "2026-08-16T10:29:46.889959+00:00"
     },
     "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/": {
         "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
@@ -11368,6 +11378,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-15T16:30:00+00:00",
         "discovered_at": "2026-08-15T20:30:06.740453+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/": {
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-15T21:29:19+00:00",
+        "discovered_at": "2026-08-16T10:28:50.756683+00:00",
         "status": "PENDING"
     }
 }
