@@ -11364,7 +11364,12 @@
         "source": "AI News",
         "published_date": "2026-08-14T10:00:00+00:00",
         "discovered_at": "2026-08-14T20:37:14.201488+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-17T01:43:16.149605+00:00",
+            "linkedin": "2026-08-17T01:43:33.484327+00:00"
+        },
+        "updated_at": "2026-08-17T01:43:33.484337+00:00"
     },
     "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/": {
         "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -11402,6 +11407,25 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-16T16:53:51+00:00",
         "discovered_at": "2026-08-16T20:29:30.013390+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/": {
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-16T20:57:04+00:00",
+        "discovered_at": "2026-08-17T01:42:36.631157+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-17T01:43:16.136437+00:00",
+            "linkedin": "2026-08-17T01:43:33.470732+00:00"
+        },
+        "updated_at": "2026-08-17T01:43:33.470744+00:00"
+    },
+    "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/": {
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-16T20:32:01+00:00",
+        "discovered_at": "2026-08-17T01:42:36.631163+00:00",
         "status": "PENDING"
     }
 }
