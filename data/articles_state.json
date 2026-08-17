@@ -11326,7 +11326,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-14T14:50:11+00:00",
         "discovered_at": "2026-08-14T20:37:14.201472+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-17T10:38:29.351938+00:00",
+            "linkedin": "2026-08-17T10:38:47.057005+00:00"
+        },
+        "updated_at": "2026-08-17T10:38:47.057015+00:00"
     },
     "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/": {
         "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
@@ -11407,7 +11412,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-16T16:53:51+00:00",
         "discovered_at": "2026-08-16T20:29:30.013390+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-17T10:38:29.339127+00:00",
+            "linkedin": "2026-08-17T10:38:47.043424+00:00"
+        },
+        "updated_at": "2026-08-17T10:38:47.043436+00:00"
     },
     "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/": {
         "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -11426,6 +11436,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-16T20:32:01+00:00",
         "discovered_at": "2026-08-17T01:42:36.631163+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/": {
+        "title": "What happens when a kid’s robot best friend dies?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-17T09:00:00+00:00",
+        "discovered_at": "2026-08-17T10:37:49.515556+00:00",
         "status": "PENDING"
     }
 }
