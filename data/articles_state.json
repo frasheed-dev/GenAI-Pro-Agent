@@ -11471,7 +11471,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-17T16:38:44+00:00",
         "discovered_at": "2026-08-17T20:33:49.607016+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-18T01:38:54.233275+00:00",
+            "linkedin": "2026-08-18T01:39:11.137016+00:00"
+        },
+        "updated_at": "2026-08-18T01:39:11.137025+00:00"
     },
     "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/": {
         "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -11516,6 +11521,25 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-08-17T19:16:09+00:00",
         "discovered_at": "2026-08-17T20:33:49.607036+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/": {
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-17T23:56:26+00:00",
+        "discovered_at": "2026-08-18T01:38:09.878910+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-18T01:38:54.219491+00:00",
+            "linkedin": "2026-08-18T01:39:11.122615+00:00"
+        },
+        "updated_at": "2026-08-18T01:39:11.122629+00:00"
+    },
+    "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/": {
+        "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-17T21:27:05+00:00",
+        "discovered_at": "2026-08-18T01:38:09.878918+00:00",
         "status": "PENDING"
     }
 }
