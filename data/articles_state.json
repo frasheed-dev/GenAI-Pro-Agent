@@ -11541,5 +11541,36 @@
         "published_date": "2026-08-17T21:27:05+00:00",
         "discovered_at": "2026-08-18T01:38:09.878918+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/": {
+        "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+        "source": "AI News",
+        "published_date": "2026-08-18T10:00:00+00:00",
+        "discovered_at": "2026-08-18T10:35:19.074580+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-18T10:35:59.932859+00:00",
+            "linkedin": "2026-08-18T10:36:23.927191+00:00"
+        },
+        "updated_at": "2026-08-18T10:36:23.927204+00:00"
+    },
+    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/": {
+        "title": "We still don’t know how people are really using AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-18T10:06:43+00:00",
+        "discovered_at": "2026-08-18T10:35:19.074587+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/": {
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-18T09:00:00+00:00",
+        "discovered_at": "2026-08-18T10:35:19.074590+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-18T10:35:59.946279+00:00",
+            "linkedin": "2026-08-18T10:36:23.941011+00:00"
+        },
+        "updated_at": "2026-08-18T10:36:23.941018+00:00"
     }
 }
