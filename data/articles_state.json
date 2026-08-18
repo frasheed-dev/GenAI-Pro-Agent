@@ -11572,5 +11572,106 @@
             "linkedin": "2026-08-18T10:36:23.941011+00:00"
         },
         "updated_at": "2026-08-18T10:36:23.941018+00:00"
+    },
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+        "title": "Strengthening Democratic Oversight in National Security",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T19:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231692+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/partnering-with-codeai": {
+        "title": "Partnering with CodeAI to prepare the first AI generation",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T11:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231700+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/pacing-model-development-cyber-capabilities": {
+        "title": "Pacing model development in an era of cyber-critical capabilities",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T11:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231703+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-18T20:32:02.784930+00:00",
+            "linkedin": "2026-08-18T20:32:20.506350+00:00"
+        },
+        "updated_at": "2026-08-18T20:32:20.506363+00:00"
+    },
+    "https://openai.com/index/chatgpt-for-teens": {
+        "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T11:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231706+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/asana": {
+        "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T07:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231710+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/": {
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T18:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231717+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/": {
+        "title": "Etched’s valuation doubles to $21B in a month",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T17:21:58+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231721+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-18T20:32:02.772453+00:00",
+            "linkedin": "2026-08-18T20:32:20.493532+00:00"
+        },
+        "updated_at": "2026-08-18T20:32:20.493550+00:00"
+    },
+    "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/": {
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T16:19:10+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231725+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/": {
+        "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T14:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231729+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/": {
+        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T13:50:30+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231731+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/": {
+        "title": "Perplexity’s free AI offer left it with millions more users in India",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T13:45:40+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231734+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/": {
+        "title": "OpenAI president urges enterprises to hasten AI security defences",
+        "source": "AI News",
+        "published_date": "2026-08-18T14:58:27+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231741+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/": {
+        "title": "Alvys launches AI agents for freight TMS workflows",
+        "source": "AI News",
+        "published_date": "2026-08-18T12:00:00+00:00",
+        "discovered_at": "2026-08-18T20:31:15.231744+00:00",
+        "status": "PENDING"
     }
 }
