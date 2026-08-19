@@ -11604,7 +11604,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-18T11:00:00+00:00",
         "discovered_at": "2026-08-18T20:31:15.231706+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-19T01:41:32.078130+00:00",
+            "linkedin": "2026-08-19T01:41:49.398370+00:00"
+        },
+        "updated_at": "2026-08-19T01:41:49.398377+00:00"
     },
     "https://openai.com/index/asana": {
         "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
@@ -11651,7 +11656,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-18T13:50:30+00:00",
         "discovered_at": "2026-08-18T20:31:15.231731+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-19T01:41:32.064059+00:00",
+            "linkedin": "2026-08-19T01:41:49.383847+00:00"
+        },
+        "updated_at": "2026-08-19T01:41:49.383860+00:00"
     },
     "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/": {
         "title": "Perplexity’s free AI offer left it with millions more users in India",
@@ -11672,6 +11682,20 @@
         "source": "AI News",
         "published_date": "2026-08-18T12:00:00+00:00",
         "discovered_at": "2026-08-18T20:31:15.231744+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/nvidia/chatgpt-work": {
+        "title": "How NVIDIA scales expertise with ChatGPT Work",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T00:00:00+00:00",
+        "discovered_at": "2026-08-19T01:40:08.816741+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/": {
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-18T22:14:25+00:00",
+        "discovered_at": "2026-08-19T01:40:08.816750+00:00",
         "status": "PENDING"
     }
 }
