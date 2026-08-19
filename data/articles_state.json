@@ -11682,7 +11682,12 @@
         "source": "AI News",
         "published_date": "2026-08-18T12:00:00+00:00",
         "discovered_at": "2026-08-18T20:31:15.231744+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-19T10:36:28.295445+00:00",
+            "linkedin": "2026-08-19T10:36:48.489288+00:00"
+        },
+        "updated_at": "2026-08-19T10:36:48.489295+00:00"
     },
     "https://openai.com/index/nvidia/chatgpt-work": {
         "title": "How NVIDIA scales expertise with ChatGPT Work",
@@ -11696,6 +11701,25 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-18T22:14:25+00:00",
         "discovered_at": "2026-08-19T01:40:08.816750+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-19T10:36:28.282161+00:00",
+            "linkedin": "2026-08-19T10:36:48.475487+00:00"
+        },
+        "updated_at": "2026-08-19T10:36:48.475499+00:00"
+    },
+    "https://openai.com/index/chatgpt-ads-expands-across-europe": {
+        "title": "ChatGPT Ads expands across Europe",
+        "source": "OpenAI",
+        "published_date": "2026-08-18T22:00:00+00:00",
+        "discovered_at": "2026-08-19T10:35:39.981034+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/": {
+        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T10:00:00+00:00",
+        "discovered_at": "2026-08-19T10:35:39.981046+00:00",
         "status": "PENDING"
     }
 }
