@@ -11721,5 +11721,92 @@
         "published_date": "2026-08-19T10:00:00+00:00",
         "discovered_at": "2026-08-19T10:35:39.981046+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+        "title": "Offering Zero Data Retention for frontier models",
+        "source": "OpenAI",
+        "published_date": "2026-08-19T19:00:00+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442319+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-19T21:06:33.886961+00:00",
+            "linkedin": "2026-08-19T21:06:51.410225+00:00"
+        },
+        "updated_at": "2026-08-19T21:06:51.410239+00:00"
+    },
+    "https://openai.com/index/replit": {
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "source": "OpenAI",
+        "published_date": "2026-08-19T07:00:00+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442327+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-19T21:06:33.900697+00:00",
+            "linkedin": "2026-08-19T21:06:51.424906+00:00"
+        },
+        "updated_at": "2026-08-19T21:06:51.424919+00:00"
+    },
+    "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/": {
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T19:11:40+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442338+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/": {
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T19:00:00+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442341+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/": {
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T18:46:14+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442345+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/": {
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T17:26:48+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442348+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/": {
+        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T15:44:53+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442351+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/": {
+        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T15:00:00+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442354+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/": {
+        "title": "Calendly throws its hat into meeting note-taker circus",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T14:09:39+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442357+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/": {
+        "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-19T12:00:00+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442361+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push": {
+        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+        "source": "VentureBeat AI",
+        "published_date": "2026-08-19T14:18:12+00:00",
+        "discovered_at": "2026-08-19T21:05:47.442368+00:00",
+        "status": "PENDING"
     }
 }
