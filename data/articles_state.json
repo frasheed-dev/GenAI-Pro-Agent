@@ -11718,7 +11718,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-18T22:00:00+00:00",
         "discovered_at": "2026-08-19T10:35:39.981034+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-20T10:37:35.700596+00:00",
+            "linkedin": "2026-08-20T10:37:54.758190+00:00"
+        },
+        "updated_at": "2026-08-20T10:37:54.758197+00:00"
     },
     "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/": {
         "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
@@ -11838,6 +11843,25 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-19T21:51:23+00:00",
         "discovered_at": "2026-08-20T01:38:38.613540+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/": {
+        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T09:30:00+00:00",
+        "discovered_at": "2026-08-20T10:36:50.581541+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-20T10:37:35.687292+00:00",
+            "linkedin": "2026-08-20T10:37:54.744301+00:00"
+        },
+        "updated_at": "2026-08-20T10:37:54.744310+00:00"
+    },
+    "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/": {
+        "title": "Unlocking hidden revenue streams with market models",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-20T09:47:22+00:00",
+        "discovered_at": "2026-08-20T10:36:50.581551+00:00",
         "status": "PENDING"
     }
 }
