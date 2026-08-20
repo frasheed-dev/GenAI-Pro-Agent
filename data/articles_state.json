@@ -11768,7 +11768,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-19T19:00:00+00:00",
         "discovered_at": "2026-08-19T21:05:47.442341+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-20T20:36:24.918686+00:00",
+            "linkedin": "2026-08-20T20:36:42.835394+00:00"
+        },
+        "updated_at": "2026-08-20T20:36:42.835406+00:00"
     },
     "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/": {
         "title": "Researchers say OpenAI revoked their access to limited cyber program",
@@ -11862,6 +11867,95 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-08-20T09:47:22+00:00",
         "discovered_at": "2026-08-20T10:36:50.581551+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-ai-futures": {
+        "title": "Introducing AI Futures",
+        "source": "OpenAI",
+        "published_date": "2026-08-20T07:00:00+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979342+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/stampli": {
+        "title": "How ChatGPT Work helps Stampli move ideas to market",
+        "source": "OpenAI",
+        "published_date": "2026-08-20T00:00:00+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979351+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/": {
+        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T19:18:21+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979361+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/": {
+        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T19:15:05+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979366+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/": {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T18:20:35+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979369+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/": {
+        "title": "Grok keeps sending gibberish responses to users",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T17:32:16+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979372+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/": {
+        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T17:18:58+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979375+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/": {
+        "title": "Ramp launches its own AI model router, called Router",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T16:46:00+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979378+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-20T20:36:24.904244+00:00",
+            "linkedin": "2026-08-20T20:36:42.820343+00:00"
+        },
+        "updated_at": "2026-08-20T20:36:42.820358+00:00"
+    },
+    "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/": {
+        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T16:07:26+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979381+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/": {
+        "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T16:00:00+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979384+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/": {
+        "title": "Meta AI’s new Mac app wants you to talk to your apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-20T12:11:57+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979390+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/": {
+        "title": "Debates over AI consciousness are a trap",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-20T15:42:39+00:00",
+        "discovered_at": "2026-08-20T20:35:35.979398+00:00",
         "status": "PENDING"
     }
 }
