@@ -11829,7 +11829,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-19T23:32:00+00:00",
         "discovered_at": "2026-08-20T01:38:38.613529+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-21T10:37:09.682442+00:00",
+            "linkedin": "2026-08-21T10:37:27.970781+00:00"
+        },
+        "updated_at": "2026-08-21T10:37:27.970795+00:00"
     },
     "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/": {
         "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
@@ -11921,7 +11926,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-20T17:18:58+00:00",
         "discovered_at": "2026-08-20T20:35:35.979375+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-21T10:37:09.668867+00:00",
+            "linkedin": "2026-08-21T10:37:27.957212+00:00"
+        },
+        "updated_at": "2026-08-21T10:37:27.957228+00:00"
     },
     "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/": {
         "title": "Ramp launches its own AI model router, called Router",
