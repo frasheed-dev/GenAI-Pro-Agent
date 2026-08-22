@@ -11884,7 +11884,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-20T07:00:00+00:00",
         "discovered_at": "2026-08-20T20:35:35.979342+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-22T20:30:23.057640+00:00",
+            "linkedin": "2026-08-22T20:30:40.446217+00:00"
+        },
+        "updated_at": "2026-08-22T20:30:40.446233+00:00"
     },
     "https://openai.com/index/stampli": {
         "title": "How ChatGPT Work helps Stampli move ideas to market",
@@ -12118,6 +12123,32 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-21T22:37:38+00:00",
         "discovered_at": "2026-08-22T01:37:10.599452+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/": {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-22T19:00:00+00:00",
+        "discovered_at": "2026-08-22T20:29:43.829849+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-22T20:30:23.042850+00:00",
+            "linkedin": "2026-08-22T20:30:40.430653+00:00"
+        },
+        "updated_at": "2026-08-22T20:30:40.430670+00:00"
+    },
+    "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/": {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-22T16:30:34+00:00",
+        "discovered_at": "2026-08-22T20:29:43.829857+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/": {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-22T16:00:00+00:00",
+        "discovered_at": "2026-08-22T20:29:43.829860+00:00",
         "status": "PENDING"
     }
 }
