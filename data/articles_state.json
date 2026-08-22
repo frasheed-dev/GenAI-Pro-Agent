@@ -11969,7 +11969,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-20T12:11:57+00:00",
         "discovered_at": "2026-08-20T20:35:35.979390+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-22T10:30:50.989011+00:00",
+            "linkedin": "2026-08-22T10:31:08.200289+00:00"
+        },
+        "updated_at": "2026-08-22T10:31:08.200297+00:00"
     },
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/": {
         "title": "Debates over AI consciousness are a trap",
@@ -11990,7 +11995,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-20T22:36:37+00:00",
         "discovered_at": "2026-08-21T01:43:35.859103+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-22T10:30:50.974936+00:00",
+            "linkedin": "2026-08-22T10:31:08.185583+00:00"
+        },
+        "updated_at": "2026-08-22T10:31:08.185598+00:00"
     },
     "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/": {
         "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
