@@ -12142,13 +12142,30 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-22T16:30:34+00:00",
         "discovered_at": "2026-08-22T20:29:43.829857+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-23T01:48:08.513767+00:00",
+            "linkedin": "2026-08-23T01:48:26.789830+00:00"
+        },
+        "updated_at": "2026-08-23T01:48:26.789847+00:00"
     },
     "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/": {
         "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
         "source": "TechCrunch AI",
         "published_date": "2026-08-22T16:00:00+00:00",
         "discovered_at": "2026-08-22T20:29:43.829860+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-23T01:48:08.525262+00:00",
+            "linkedin": "2026-08-23T01:48:26.801172+00:00"
+        },
+        "updated_at": "2026-08-23T01:48:26.801181+00:00"
+    },
+    "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/": {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-22T21:46:56+00:00",
+        "discovered_at": "2026-08-23T01:47:19.779363+00:00",
         "status": "PENDING"
     }
 }
