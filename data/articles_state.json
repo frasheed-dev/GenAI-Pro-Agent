@@ -11993,7 +11993,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-21T00:13:44+00:00",
         "discovered_at": "2026-08-21T01:43:35.859097+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-23T20:30:49.019697+00:00",
+            "linkedin": "2026-08-23T20:31:05.975957+00:00"
+        },
+        "updated_at": "2026-08-23T20:31:05.975967+00:00"
     },
     "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/": {
         "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -12177,5 +12182,38 @@
         "published_date": "2026-08-22T21:46:56+00:00",
         "discovered_at": "2026-08-23T01:47:19.779363+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/": {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-23T20:01:36+00:00",
+        "discovered_at": "2026-08-23T20:30:10.176126+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/": {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-23T19:14:08+00:00",
+        "discovered_at": "2026-08-23T20:30:10.176136+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/": {
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-23T15:30:00+00:00",
+        "discovered_at": "2026-08-23T20:30:10.176142+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/": {
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-23T15:00:00+00:00",
+        "discovered_at": "2026-08-23T20:30:10.176147+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-23T20:30:49.005046+00:00",
+            "linkedin": "2026-08-23T20:31:05.960948+00:00"
+        },
+        "updated_at": "2026-08-23T20:31:05.960966+00:00"
     }
 }
