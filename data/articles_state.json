@@ -12109,14 +12109,24 @@
         "source": "AI News",
         "published_date": "2026-08-21T08:41:29+00:00",
         "discovered_at": "2026-08-21T20:32:07.532711+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-23T10:30:54.566930+00:00",
+            "linkedin": "2026-08-23T10:31:12.030835+00:00"
+        },
+        "updated_at": "2026-08-23T10:31:12.030868+00:00"
     },
     "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/": {
         "title": "Anthropic’s Opus 4.6 is a smut-machine",
         "source": "TechCrunch AI",
         "published_date": "2026-08-21T23:07:25+00:00",
         "discovered_at": "2026-08-22T01:37:10.599446+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-23T10:30:54.553070+00:00",
+            "linkedin": "2026-08-23T10:31:12.016877+00:00"
+        },
+        "updated_at": "2026-08-23T10:31:12.016890+00:00"
     },
     "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/": {
         "title": "Nvidia partners with data center developer Cloverleaf",
