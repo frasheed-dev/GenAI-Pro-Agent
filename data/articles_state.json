@@ -12242,5 +12242,78 @@
             "linkedin": "2026-08-24T10:43:20.995387+00:00"
         },
         "updated_at": "2026-08-24T10:43:20.995403+00:00"
+    },
+    "https://openai.com/index/gpt-5-6-in-kiro": {
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "source": "OpenAI",
+        "published_date": "2026-08-24T12:00:00+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306414+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-24T20:38:23.430812+00:00",
+            "linkedin": "2026-08-24T20:38:46.162058+00:00"
+        },
+        "updated_at": "2026-08-24T20:38:46.162067+00:00"
+    },
+    "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/": {
+        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-24T19:54:19+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306420+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/": {
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-24T18:03:55+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306425+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/": {
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-24T15:24:18+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306428+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/": {
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-24T15:00:00+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306431+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-24T20:38:23.416818+00:00",
+            "linkedin": "2026-08-24T20:38:46.147485+00:00"
+        },
+        "updated_at": "2026-08-24T20:38:46.147496+00:00"
+    },
+    "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/": {
+        "title": "Hugging Face reportedly in talks to be acquired for $13B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-24T13:47:26+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306435+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/": {
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-22T01:31:04+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306450+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/": {
+        "title": "XPENG IRON humanoid robot draws record physical AI funding",
+        "source": "AI News",
+        "published_date": "2026-08-24T15:53:53+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306454+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/": {
+        "title": "How to encourage smarter AI use in the classroom",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-24T14:20:19+00:00",
+        "discovered_at": "2026-08-24T20:37:40.306458+00:00",
+        "status": "PENDING"
     }
 }
