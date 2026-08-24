@@ -12181,14 +12181,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-22T21:46:56+00:00",
         "discovered_at": "2026-08-23T01:47:19.779363+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-24T01:45:08.389190+00:00",
+            "linkedin": "2026-08-24T01:45:25.498197+00:00"
+        },
+        "updated_at": "2026-08-24T01:45:25.498208+00:00"
     },
     "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/": {
         "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
         "source": "TechCrunch AI",
         "published_date": "2026-08-23T20:01:36+00:00",
         "discovered_at": "2026-08-23T20:30:10.176126+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-24T01:45:08.374559+00:00",
+            "linkedin": "2026-08-24T01:45:25.483653+00:00"
+        },
+        "updated_at": "2026-08-24T01:45:25.483669+00:00"
     },
     "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/": {
         "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
