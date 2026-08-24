@@ -12138,7 +12138,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-21T22:37:38+00:00",
         "discovered_at": "2026-08-22T01:37:10.599452+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-24T10:43:03.908375+00:00",
+            "linkedin": "2026-08-24T10:43:21.010294+00:00"
+        },
+        "updated_at": "2026-08-24T10:43:21.010304+00:00"
     },
     "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/": {
         "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -12225,5 +12230,17 @@
             "linkedin": "2026-08-23T20:31:05.960948+00:00"
         },
         "updated_at": "2026-08-23T20:31:05.960966+00:00"
+    },
+    "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/": {
+        "title": "Kids outlearn AI—and we still don’t know why",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-24T09:00:00+00:00",
+        "discovered_at": "2026-08-24T10:42:23.949669+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-24T10:43:03.893966+00:00",
+            "linkedin": "2026-08-24T10:43:20.995387+00:00"
+        },
+        "updated_at": "2026-08-24T10:43:20.995403+00:00"
     }
 }
