@@ -12317,7 +12317,12 @@
         "source": "AI News",
         "published_date": "2026-08-24T15:53:53+00:00",
         "discovered_at": "2026-08-24T20:37:40.306454+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-25T10:39:51.281111+00:00",
+            "linkedin": "2026-08-25T10:40:17.943045+00:00"
+        },
+        "updated_at": "2026-08-25T10:40:17.943059+00:00"
     },
     "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/": {
         "title": "How to encourage smarter AI use in the classroom",
@@ -12338,6 +12343,25 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-24T21:24:17+00:00",
         "discovered_at": "2026-08-25T01:41:34.043394+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "source": "OpenAI",
+        "published_date": "2026-08-25T00:00:00+00:00",
+        "discovered_at": "2026-08-25T10:39:09.816337+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-25T10:39:51.266842+00:00",
+            "linkedin": "2026-08-25T10:40:17.928060+00:00"
+        },
+        "updated_at": "2026-08-25T10:40:17.928074+00:00"
+    },
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/": {
+        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-25T09:00:00+00:00",
+        "discovered_at": "2026-08-25T10:39:09.816353+00:00",
         "status": "PENDING"
     }
 }
