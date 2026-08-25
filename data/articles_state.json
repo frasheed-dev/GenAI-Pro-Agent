@@ -12363,5 +12363,78 @@
         "published_date": "2026-08-25T09:00:00+00:00",
         "discovered_at": "2026-08-25T10:39:09.816353+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
+        "title": "The full stack behind abundant intelligence",
+        "source": "OpenAI",
+        "published_date": "2026-08-25T07:05:00+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728413+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/jalapeno-first-results": {
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "source": "OpenAI",
+        "published_date": "2026-08-25T07:00:00+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728420+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-25T20:36:57.411833+00:00",
+            "linkedin": "2026-08-25T20:37:14.802717+00:00"
+        },
+        "updated_at": "2026-08-25T20:37:14.802732+00:00"
+    },
+    "https://openai.com/index/introducing-admin-plugin": {
+        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+        "source": "OpenAI",
+        "published_date": "2026-08-25T00:00:00+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728424+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/": {
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-25T19:03:47+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728427+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/": {
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-25T17:50:33+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728430+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/": {
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-25T15:00:00+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728435+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/": {
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-25T14:22:04+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728439+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-25T20:36:57.397191+00:00",
+            "linkedin": "2026-08-25T20:37:14.787356+00:00"
+        },
+        "updated_at": "2026-08-25T20:37:14.787369+00:00"
+    },
+    "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/": {
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-25T13:00:00+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728443+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/": {
+        "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-25T12:00:00+00:00",
+        "discovered_at": "2026-08-25T20:36:13.728446+00:00",
+        "status": "PENDING"
     }
 }
