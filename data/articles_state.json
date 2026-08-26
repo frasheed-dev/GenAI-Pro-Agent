@@ -12369,7 +12369,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-25T07:05:00+00:00",
         "discovered_at": "2026-08-25T20:36:13.728413+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-26T01:46:15.455010+00:00",
+            "linkedin": "2026-08-26T01:46:35.003459+00:00"
+        },
+        "updated_at": "2026-08-26T01:46:35.003464+00:00"
     },
     "https://openai.com/index/jalapeno-first-results": {
         "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -12402,7 +12407,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-25T17:50:33+00:00",
         "discovered_at": "2026-08-25T20:36:13.728430+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-26T01:46:15.446570+00:00",
+            "linkedin": "2026-08-26T01:46:34.994706+00:00"
+        },
+        "updated_at": "2026-08-26T01:46:34.994722+00:00"
     },
     "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/": {
         "title": "Gamma acquires Accel-backed design startup Lica",
@@ -12435,6 +12445,27 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-25T12:00:00+00:00",
         "discovered_at": "2026-08-25T20:36:13.728446+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/": {
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-26T00:40:59+00:00",
+        "discovered_at": "2026-08-26T01:44:29.274439+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/": {
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-26T00:06:20+00:00",
+        "discovered_at": "2026-08-26T01:44:29.274443+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/": {
+        "title": "MIT AI forecasts extreme weather without historical data",
+        "source": "AI News",
+        "published_date": "2026-08-25T15:46:06+00:00",
+        "discovered_at": "2026-08-26T01:44:29.274449+00:00",
         "status": "PENDING"
     }
 }
