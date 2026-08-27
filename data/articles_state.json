@@ -12553,7 +12553,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-26T21:37:39+00:00",
         "discovered_at": "2026-08-26T23:15:26.586066+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-27T08:44:59.168301+00:00",
+            "linkedin": "2026-08-27T08:45:21.691283+00:00"
+        },
+        "updated_at": "2026-08-27T08:45:21.691297+00:00"
     },
     "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/": {
         "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
@@ -12662,5 +12667,31 @@
             "linkedin": "2026-08-26T23:16:54.601287+00:00"
         },
         "updated_at": "2026-08-26T23:16:54.601302+00:00"
+    },
+    "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/": {
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T06:32:51+00:00",
+        "discovered_at": "2026-08-27T08:44:19.350180+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-27T08:44:59.155644+00:00",
+            "linkedin": "2026-08-27T08:45:21.678512+00:00"
+        },
+        "updated_at": "2026-08-27T08:45:21.678526+00:00"
+    },
+    "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/": {
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T00:24:57+00:00",
+        "discovered_at": "2026-08-27T08:44:19.350186+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/": {
+        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-26T23:47:18+00:00",
+        "discovered_at": "2026-08-27T08:44:19.350189+00:00",
+        "status": "PENDING"
     }
 }
