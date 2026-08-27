@@ -12579,7 +12579,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-26T19:05:22+00:00",
         "discovered_at": "2026-08-26T23:15:26.586084+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-27T20:18:52.308529+00:00",
+            "linkedin": "2026-08-27T20:19:09.924309+00:00"
+        },
+        "updated_at": "2026-08-27T20:19:09.924316+00:00"
     },
     "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/": {
         "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -12692,6 +12697,95 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-26T23:47:18+00:00",
         "discovered_at": "2026-08-27T08:44:19.350189+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-27T20:18:52.297074+00:00",
+            "linkedin": "2026-08-27T20:19:09.912162+00:00"
+        },
+        "updated_at": "2026-08-27T20:19:09.912176+00:00"
+    },
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+        "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+        "source": "OpenAI",
+        "published_date": "2026-08-27T09:00:00+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111444+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/expanding-our-presence-in-brazil": {
+        "title": "Expanding OpenAI’s presence in Brazil",
+        "source": "OpenAI",
+        "published_date": "2026-08-27T03:00:00+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111450+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/": {
+        "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T19:52:52+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111456+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/": {
+        "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T17:43:24+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111459+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/": {
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T16:00:00+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111461+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/": {
+        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T14:56:52+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111463+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/": {
+        "title": "AI’s memory crunch is coming for Android apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T14:27:04+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111465+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/": {
+        "title": "Here’s all the times AI has gone rogue and hacked other companies",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T14:01:42+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111468+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/": {
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T13:00:00+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111470+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/": {
+        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T11:35:59+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111472+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them": {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "source": "VentureBeat AI",
+        "published_date": "2026-08-27T14:01:00+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111477+00:00",
+        "status": "PENDING"
+    },
+    "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer": {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "source": "VentureBeat AI",
+        "published_date": "2026-08-27T12:01:00+00:00",
+        "discovered_at": "2026-08-27T20:18:11.111479+00:00",
         "status": "PENDING"
     }
 }
