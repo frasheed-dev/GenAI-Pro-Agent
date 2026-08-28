@@ -12471,7 +12471,12 @@
         "source": "AI News",
         "published_date": "2026-08-25T15:46:06+00:00",
         "discovered_at": "2026-08-26T01:44:29.274449+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-28T10:56:56.061925+00:00",
+            "linkedin": "2026-08-28T10:57:14.755228+00:00"
+        },
+        "updated_at": "2026-08-28T10:57:14.755238+00:00"
     },
     "https://openai.com/index/loveholidays": {
         "title": "How loveholidays is making everyone a builder with Codex",
@@ -12730,7 +12735,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-27T17:43:24+00:00",
         "discovered_at": "2026-08-27T20:18:11.111459+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-28T10:56:56.046843+00:00",
+            "linkedin": "2026-08-28T10:57:14.739604+00:00"
+        },
+        "updated_at": "2026-08-28T10:57:14.739619+00:00"
     },
     "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/": {
         "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
@@ -12786,6 +12796,27 @@
         "source": "VentureBeat AI",
         "published_date": "2026-08-27T12:01:00+00:00",
         "discovered_at": "2026-08-27T20:18:11.111479+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+        "title": "Supporting Thailand’s next generation of AI startups",
+        "source": "OpenAI",
+        "published_date": "2026-08-28T02:00:00+00:00",
+        "discovered_at": "2026-08-28T10:56:11.755678+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/": {
+        "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-27T23:16:45+00:00",
+        "discovered_at": "2026-08-28T10:56:11.755688+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/": {
+        "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
+        "source": "AI News",
+        "published_date": "2026-08-27T10:00:00+00:00",
+        "discovered_at": "2026-08-28T10:56:11.755697+00:00",
         "status": "PENDING"
     }
 }
