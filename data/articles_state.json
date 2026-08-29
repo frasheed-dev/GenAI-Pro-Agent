@@ -12817,6 +12817,58 @@
         "source": "AI News",
         "published_date": "2026-08-27T10:00:00+00:00",
         "discovered_at": "2026-08-28T10:56:11.755697+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-29T02:49:05.271697+00:00",
+            "linkedin": "2026-08-29T02:49:22.417458+00:00"
+        },
+        "updated_at": "2026-08-29T02:49:22.417469+00:00"
+    },
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "source": "OpenAI",
+        "published_date": "2026-08-28T06:00:00+00:00",
+        "discovered_at": "2026-08-29T02:47:17.799379+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/": {
+        "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-28T20:24:11+00:00",
+        "discovered_at": "2026-08-29T02:47:17.799387+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/": {
+        "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-28T19:30:38+00:00",
+        "discovered_at": "2026-08-29T02:47:17.799393+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-29T02:49:05.259988+00:00",
+            "linkedin": "2026-08-29T02:49:22.405705+00:00"
+        },
+        "updated_at": "2026-08-29T02:49:22.405723+00:00"
+    },
+    "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/": {
+        "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-28T18:19:40+00:00",
+        "discovered_at": "2026-08-29T02:47:17.799397+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/": {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-28T12:46:12+00:00",
+        "discovered_at": "2026-08-29T02:47:17.799400+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/": {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-28T12:21:06+00:00",
+        "discovered_at": "2026-08-29T02:47:17.799402+00:00",
         "status": "PENDING"
     }
 }
