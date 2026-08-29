@@ -12846,7 +12846,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-28T20:24:11+00:00",
         "discovered_at": "2026-08-29T02:47:17.799387+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-29T22:34:49.370143+00:00",
+            "linkedin": "2026-08-29T22:35:14.458266+00:00"
+        },
+        "updated_at": "2026-08-29T22:35:14.458275+00:00"
     },
     "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/": {
         "title": "An Anthropic researcher just gave us a peek at self-improving AI",
@@ -12886,6 +12891,25 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-29T13:00:00+00:00",
         "discovered_at": "2026-08-29T14:59:01.210373+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/": {
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-29T18:41:59+00:00",
+        "discovered_at": "2026-08-29T22:33:38.735274+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-29T22:34:49.358870+00:00",
+            "linkedin": "2026-08-29T22:35:14.446464+00:00"
+        },
+        "updated_at": "2026-08-29T22:35:14.446479+00:00"
+    },
+    "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/": {
+        "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-29T17:36:47+00:00",
+        "discovered_at": "2026-08-29T22:33:38.735282+00:00",
         "status": "PENDING"
     }
 }
