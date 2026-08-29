@@ -12695,7 +12695,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-27T00:24:57+00:00",
         "discovered_at": "2026-08-27T08:44:19.350186+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-29T14:59:47.558279+00:00",
+            "linkedin": "2026-08-29T15:00:05.501939+00:00"
+        },
+        "updated_at": "2026-08-29T15:00:05.501955+00:00"
     },
     "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/": {
         "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
@@ -12782,7 +12787,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-27T11:35:59+00:00",
         "discovered_at": "2026-08-27T20:18:11.111472+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-29T14:59:47.543439+00:00",
+            "linkedin": "2026-08-29T15:00:05.485845+00:00"
+        },
+        "updated_at": "2026-08-29T15:00:05.485858+00:00"
     },
     "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them": {
         "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -12869,6 +12879,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-28T12:21:06+00:00",
         "discovered_at": "2026-08-29T02:47:17.799402+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/": {
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-29T13:00:00+00:00",
+        "discovered_at": "2026-08-29T14:59:01.210373+00:00",
         "status": "PENDING"
     }
 }
