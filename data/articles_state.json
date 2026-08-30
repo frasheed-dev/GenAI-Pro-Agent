@@ -12757,7 +12757,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-27T16:00:00+00:00",
         "discovered_at": "2026-08-27T20:18:11.111461+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-30T14:46:22.939853+00:00",
+            "linkedin": "2026-08-30T14:46:39.870802+00:00"
+        },
+        "updated_at": "2026-08-30T14:46:39.870813+00:00"
     },
     "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/": {
         "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
@@ -12901,7 +12906,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-29T13:00:00+00:00",
         "discovered_at": "2026-08-29T14:59:01.210373+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-30T14:46:22.924590+00:00",
+            "linkedin": "2026-08-30T14:46:39.855031+00:00"
+        },
+        "updated_at": "2026-08-30T14:46:39.855046+00:00"
     },
     "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/": {
         "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
