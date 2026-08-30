@@ -12733,7 +12733,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-27T19:52:52+00:00",
         "discovered_at": "2026-08-27T20:18:11.111456+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-30T04:56:22.913539+00:00",
+            "linkedin": "2026-08-30T04:56:39.954244+00:00"
+        },
+        "updated_at": "2026-08-30T04:56:39.954256+00:00"
     },
     "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/": {
         "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
@@ -12877,7 +12882,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-28T12:46:12+00:00",
         "discovered_at": "2026-08-29T02:47:17.799400+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-30T04:56:22.898176+00:00",
+            "linkedin": "2026-08-30T04:56:39.939027+00:00"
+        },
+        "updated_at": "2026-08-30T04:56:39.939040+00:00"
     },
     "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/": {
         "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
