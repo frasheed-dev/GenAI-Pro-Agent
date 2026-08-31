@@ -12849,7 +12849,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-28T06:00:00+00:00",
         "discovered_at": "2026-08-29T02:47:17.799379+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-31T05:00:11.339127+00:00",
+            "linkedin": "2026-08-31T05:00:30.711875+00:00"
+        },
+        "updated_at": "2026-08-31T05:00:30.711882+00:00"
     },
     "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/": {
         "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -12940,7 +12945,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-29T17:36:47+00:00",
         "discovered_at": "2026-08-29T22:33:38.735282+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-31T05:00:11.324713+00:00",
+            "linkedin": "2026-08-31T05:00:30.697050+00:00"
+        },
+        "updated_at": "2026-08-31T05:00:30.697063+00:00"
     },
     "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/": {
         "title": "Musk’s faster path to more gas turbines comes with pollution problem",
@@ -12954,6 +12964,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-30T15:00:00+00:00",
         "discovered_at": "2026-08-30T22:39:16.839554+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/": {
+        "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T02:34:00+00:00",
+        "discovered_at": "2026-08-31T04:59:22.586209+00:00",
         "status": "PENDING"
     }
 }
