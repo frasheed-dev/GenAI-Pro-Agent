@@ -13010,5 +13010,57 @@
         "published_date": "2026-08-31T12:56:46+00:00",
         "discovered_at": "2026-08-31T17:30:14.127459+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/polimill": {
+        "title": "Polimill builds Japan's next-generation public AI infrastructure",
+        "source": "OpenAI",
+        "published_date": "2026-08-31T07:00:00+00:00",
+        "discovered_at": "2026-08-31T23:41:48.812657+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/": {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T20:13:45+00:00",
+        "discovered_at": "2026-08-31T23:41:48.812664+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-31T23:42:43.121791+00:00",
+            "linkedin": "2026-08-31T23:43:04.562585+00:00"
+        },
+        "updated_at": "2026-08-31T23:43:04.562599+00:00"
+    },
+    "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/": {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T19:16:59+00:00",
+        "discovered_at": "2026-08-31T23:41:48.812668+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/": {
+        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T18:35:11+00:00",
+        "discovered_at": "2026-08-31T23:41:48.812672+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/": {
+        "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-29T17:51:10+00:00",
+        "discovered_at": "2026-08-31T23:41:48.812680+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/": {
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-08-31T18:00:00+00:00",
+        "discovered_at": "2026-08-31T23:41:48.812684+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-31T23:42:43.136590+00:00",
+            "linkedin": "2026-08-31T23:43:04.578470+00:00"
+        },
+        "updated_at": "2026-08-31T23:43:04.578484+00:00"
     }
 }
