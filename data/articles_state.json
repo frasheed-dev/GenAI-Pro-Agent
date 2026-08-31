@@ -12972,5 +12972,43 @@
         "published_date": "2026-08-31T02:34:00+00:00",
         "discovered_at": "2026-08-31T04:59:22.586209+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+        "title": "A milestone in expanding access to AI",
+        "source": "OpenAI",
+        "published_date": "2026-08-31T04:00:00+00:00",
+        "discovered_at": "2026-08-31T17:30:14.127444+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-31T17:30:58.805048+00:00",
+            "linkedin": "2026-08-31T17:31:18.136570+00:00"
+        },
+        "updated_at": "2026-08-31T17:31:18.136583+00:00"
+    },
+    "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/": {
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T16:00:00+00:00",
+        "discovered_at": "2026-08-31T17:30:14.127452+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/": {
+        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T15:15:25+00:00",
+        "discovered_at": "2026-08-31T17:30:14.127456+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-08-31T17:30:58.789871+00:00",
+            "linkedin": "2026-08-31T17:31:18.120741+00:00"
+        },
+        "updated_at": "2026-08-31T17:31:18.120755+00:00"
+    },
+    "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/": {
+        "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-08-31T12:56:46+00:00",
+        "discovered_at": "2026-08-31T17:30:14.127459+00:00",
+        "status": "PENDING"
     }
 }
