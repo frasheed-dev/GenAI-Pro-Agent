@@ -13052,7 +13052,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-31T18:35:11+00:00",
         "discovered_at": "2026-08-31T23:41:48.812672+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-01T14:42:36.662290+00:00",
+            "linkedin": "2026-09-01T14:42:53.896813+00:00"
+        },
+        "updated_at": "2026-09-01T14:42:53.896827+00:00"
     },
     "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/": {
         "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
@@ -13079,5 +13084,17 @@
         "published_date": "2026-09-01T00:13:00+00:00",
         "discovered_at": "2026-09-01T04:38:40.369570+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+        "title": "OpenAI supports California’s bill to advance youth AI safety",
+        "source": "OpenAI",
+        "published_date": "2026-08-31T07:00:00+00:00",
+        "discovered_at": "2026-09-01T14:41:54.999320+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-01T14:42:36.677501+00:00",
+            "linkedin": "2026-09-01T14:42:53.912188+00:00"
+        },
+        "updated_at": "2026-09-01T14:42:53.912197+00:00"
     }
 }
