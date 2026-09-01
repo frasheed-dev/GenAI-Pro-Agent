@@ -12964,7 +12964,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-08-30T15:00:00+00:00",
         "discovered_at": "2026-08-30T22:39:16.839554+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-01T04:40:47.570278+00:00",
+            "linkedin": "2026-09-01T04:41:05.545883+00:00"
+        },
+        "updated_at": "2026-09-01T04:41:05.545889+00:00"
     },
     "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/": {
         "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -13016,7 +13021,12 @@
         "source": "OpenAI",
         "published_date": "2026-08-31T07:00:00+00:00",
         "discovered_at": "2026-08-31T23:41:48.812657+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-01T04:40:47.554963+00:00",
+            "linkedin": "2026-09-01T04:41:05.530611+00:00"
+        },
+        "updated_at": "2026-09-01T04:41:05.530623+00:00"
     },
     "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/": {
         "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -13062,5 +13072,12 @@
             "linkedin": "2026-08-31T23:43:04.578470+00:00"
         },
         "updated_at": "2026-08-31T23:43:04.578484+00:00"
+    },
+    "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/": {
+        "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-01T00:13:00+00:00",
+        "discovered_at": "2026-09-01T04:38:40.369570+00:00",
+        "status": "PENDING"
     }
 }
