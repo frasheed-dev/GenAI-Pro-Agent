@@ -13208,5 +13208,75 @@
         "published_date": "2026-09-02T12:09:42+00:00",
         "discovered_at": "2026-09-02T14:15:14.348727+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/": {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T22:24:09+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927085+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/": {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T20:19:14+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927092+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/": {
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T17:18:13+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927096+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/": {
+        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T17:09:57+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927110+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/": {
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T17:09:06+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927113+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/": {
+        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T16:04:10+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927116+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/": {
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T16:01:48+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927120+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/": {
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T15:01:23+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927123+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/": {
+        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T14:56:34+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927127+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/": {
+        "title": "Facilitating AI integration with simplicity at scale",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-02T14:00:00+00:00",
+        "discovered_at": "2026-09-02T22:30:29.927133+00:00",
+        "status": "PENDING"
     }
 }
