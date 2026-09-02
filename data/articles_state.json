@@ -13187,5 +13187,12 @@
         "published_date": "2026-09-01T15:10:58+00:00",
         "discovered_at": "2026-09-01T22:31:16.754600+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/gilbert-tobin": {
+        "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-09-01T01:00:00+00:00",
+        "discovered_at": "2026-09-02T04:00:42.782470+00:00",
+        "status": "PENDING"
     }
 }
