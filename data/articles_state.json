@@ -13278,5 +13278,47 @@
         "published_date": "2026-09-02T14:00:00+00:00",
         "discovered_at": "2026-09-02T22:30:29.927133+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/atv-big-air-tour": {
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-09-02T12:00:00+00:00",
+        "discovered_at": "2026-09-03T03:59:53.335326+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/": {
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T23:01:00+00:00",
+        "discovered_at": "2026-09-03T03:59:53.335339+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/": {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-02T22:44:56+00:00",
+        "discovered_at": "2026-09-03T03:59:53.335343+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/": {
+        "title": "Motional and MIT AI explains self-driving car decisions",
+        "source": "AI News",
+        "published_date": "2026-09-02T15:25:12+00:00",
+        "discovered_at": "2026-09-03T03:59:53.335351+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/": {
+        "title": "ChatGPT Ads passes $1B run rate in 200 days",
+        "source": "AI News",
+        "published_date": "2026-09-01T16:05:27+00:00",
+        "discovered_at": "2026-09-03T03:59:53.335355+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/": {
+        "title": "Why MCP servers are becoming AI’s newest attack surface",
+        "source": "AI News",
+        "published_date": "2026-09-01T07:37:26+00:00",
+        "discovered_at": "2026-09-03T03:59:53.335358+00:00",
+        "status": "PENDING"
     }
 }
