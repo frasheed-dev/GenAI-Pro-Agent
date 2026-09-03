@@ -13327,5 +13327,75 @@
         "published_date": "2026-09-03T12:42:45+00:00",
         "discovered_at": "2026-09-03T14:18:42.140770+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/daybreak-for-frontline-defenders": {
+        "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+        "source": "OpenAI",
+        "published_date": "2026-09-03T13:15:00+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107205+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/legora-financial-statement-review-with-astra": {
+        "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-03T12:00:00+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107213+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/playco-game-prototyping-with-astra": {
+        "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-03T12:00:00+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107216+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/safety-overview-gpt-6-astra": {
+        "title": "Safety overview: GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-03T00:00:00+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107220+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/": {
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-03T19:36:29+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107228+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/": {
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-03T18:37:57+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107232+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/": {
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-03T18:19:56+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107236+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/": {
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-03T18:01:45+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107239+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/": {
+        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-03T16:09:01+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107242+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/": {
+        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-03T15:00:00+00:00",
+        "discovered_at": "2026-09-03T22:30:16.107246+00:00",
+        "status": "PENDING"
     }
 }
