@@ -13397,5 +13397,12 @@
         "published_date": "2026-09-03T15:00:00+00:00",
         "discovered_at": "2026-09-03T22:30:16.107246+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/": {
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T00:48:42+00:00",
+        "discovered_at": "2026-09-04T04:01:40.053476+00:00",
+        "status": "PENDING"
     }
 }
