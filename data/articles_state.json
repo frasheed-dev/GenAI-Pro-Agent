@@ -13418,5 +13418,82 @@
         "published_date": "2026-09-04T09:25:19+00:00",
         "discovered_at": "2026-09-04T14:08:08.113177+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/": {
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T21:12:11+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908100+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/": {
+        "title": "What will Apple’s John Ternus era look like?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T17:18:00+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908108+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/": {
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T16:21:11+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908114+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/": {
+        "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T16:04:08+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908118+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/": {
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T14:47:11+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908121+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/": {
+        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T14:00:00+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908124+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/": {
+        "title": "M&T Bank expands enterprise AI after years of technology overhaul",
+        "source": "AI News",
+        "published_date": "2026-09-04T10:00:00+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908131+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/": {
+        "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+        "source": "AI News",
+        "published_date": "2026-09-04T08:25:12+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908134+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/": {
+        "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+        "source": "AI News",
+        "published_date": "2026-09-03T16:07:18+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908138+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/": {
+        "title": "NVIDIA to acquire Hugging Face for $12.93B",
+        "source": "AI News",
+        "published_date": "2026-09-03T15:50:31+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908141+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/": {
+        "title": "Architecting memory and storage in the AI era",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-04T18:39:19+00:00",
+        "discovered_at": "2026-09-04T22:17:15.908144+00:00",
+        "status": "PENDING"
     }
 }
