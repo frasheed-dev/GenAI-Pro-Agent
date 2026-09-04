@@ -13404,5 +13404,19 @@
         "published_date": "2026-09-04T00:48:42+00:00",
         "discovered_at": "2026-09-04T04:01:40.053476+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/": {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T04:21:03+00:00",
+        "discovered_at": "2026-09-04T14:08:08.113163+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/": {
+        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-04T09:25:19+00:00",
+        "discovered_at": "2026-09-04T14:08:08.113177+00:00",
+        "status": "PENDING"
     }
 }
