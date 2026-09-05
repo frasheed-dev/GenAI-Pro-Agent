@@ -13495,5 +13495,26 @@
         "published_date": "2026-09-04T18:39:19+00:00",
         "discovered_at": "2026-09-04T22:17:15.908144+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/gpt-6-astra": {
+        "title": "GPT-6 Astra: A new generation of intelligence",
+        "source": "OpenAI",
+        "published_date": "2026-09-03T11:00:00+00:00",
+        "discovered_at": "2026-09-05T03:58:55.708002+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/": {
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T23:36:14+00:00",
+        "discovered_at": "2026-09-05T03:58:55.708008+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/": {
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-04T23:15:11+00:00",
+        "discovered_at": "2026-09-05T03:58:55.708013+00:00",
+        "status": "PENDING"
     }
 }
