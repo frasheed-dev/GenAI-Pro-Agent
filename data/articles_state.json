@@ -13530,5 +13530,12 @@
         "published_date": "2026-09-05T18:05:27+00:00",
         "discovered_at": "2026-09-05T22:00:25.557613+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/": {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-05T22:49:55+00:00",
+        "discovered_at": "2026-09-06T04:05:29.001310+00:00",
+        "status": "PENDING"
     }
 }
