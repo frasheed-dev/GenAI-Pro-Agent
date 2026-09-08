@@ -13586,5 +13586,33 @@
         "published_date": "2026-09-07T19:24:00+00:00",
         "discovered_at": "2026-09-07T22:45:27.940093+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/the-work-now-within-reach": {
+        "title": "The Work Now Within Reach",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T13:00:00+00:00",
+        "discovered_at": "2026-09-08T14:19:55.293263+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T00:00:00+00:00",
+        "discovered_at": "2026-09-08T14:19:55.293270+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/": {
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T14:17:48+00:00",
+        "discovered_at": "2026-09-08T14:19:55.293275+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/": {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-08T10:34:00+00:00",
+        "discovered_at": "2026-09-08T14:19:55.293283+00:00",
+        "status": "PENDING"
     }
 }
