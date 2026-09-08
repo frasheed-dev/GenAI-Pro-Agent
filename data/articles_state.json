@@ -13614,5 +13614,82 @@
         "published_date": "2026-09-08T10:34:00+00:00",
         "discovered_at": "2026-09-08T14:19:55.293283+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/codex-quantum-computing-experiments": {
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T17:00:00+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020634+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-chatgpt-images-2-5": {
+        "title": "Introducing ChatGPT Images 2.5",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T11:30:00+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020641+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/navier-stokes-solution": {
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T10:00:00+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020645+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/teen-development-research-grants": {
+        "title": "Funding grants for new research into AI and teen development",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T09:00:00+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020648+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/1password": {
+        "title": "1Password increases engineering productivity 21% with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-09-08T00:00:00+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020652+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/": {
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T21:10:27+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020657+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/": {
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T21:04:06+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020662+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/": {
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T19:00:00+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020665+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/": {
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T17:32:15+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020668+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/": {
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T16:20:31+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020671+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/": {
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-08T15:04:09+00:00",
+        "discovered_at": "2026-09-08T22:30:32.020674+00:00",
+        "status": "PENDING"
     }
 }
