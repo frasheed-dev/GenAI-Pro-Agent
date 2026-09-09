@@ -13726,5 +13726,40 @@
         "published_date": "2026-09-09T03:10:08+00:00",
         "discovered_at": "2026-09-09T04:13:08.545511+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/": {
+        "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T14:18:34+00:00",
+        "discovered_at": "2026-09-09T14:20:03.771686+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/": {
+        "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T13:00:00+00:00",
+        "discovered_at": "2026-09-09T14:20:03.771692+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/": {
+        "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T13:00:00+00:00",
+        "discovered_at": "2026-09-09T14:20:03.771696+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/": {
+        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T12:30:00+00:00",
+        "discovered_at": "2026-09-09T14:20:03.771699+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/": {
+        "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T12:05:34+00:00",
+        "discovered_at": "2026-09-09T14:20:03.771703+00:00",
+        "status": "PENDING"
     }
 }
