@@ -13691,5 +13691,40 @@
         "published_date": "2026-09-08T15:04:09+00:00",
         "discovered_at": "2026-09-08T22:30:32.020674+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/": {
+        "title": "Arm launches Total Design for Physical AI and robotics framework",
+        "source": "AI News",
+        "published_date": "2026-09-08T11:44:10+00:00",
+        "discovered_at": "2026-09-09T04:13:08.545495+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/": {
+        "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+        "source": "AI News",
+        "published_date": "2026-09-08T10:00:00+00:00",
+        "discovered_at": "2026-09-09T04:13:08.545502+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/": {
+        "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+        "source": "AI News",
+        "published_date": "2026-09-08T09:00:00+00:00",
+        "discovered_at": "2026-09-09T04:13:08.545505+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/": {
+        "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+        "source": "AI News",
+        "published_date": "2026-09-08T08:50:39+00:00",
+        "discovered_at": "2026-09-09T04:13:08.545507+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/": {
+        "title": "What OpenAI’s latest controversy tells us about the future of math",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-09T03:10:08+00:00",
+        "discovered_at": "2026-09-09T04:13:08.545511+00:00",
+        "status": "PENDING"
     }
 }
