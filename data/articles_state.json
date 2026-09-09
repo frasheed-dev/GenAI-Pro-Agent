@@ -13761,5 +13761,124 @@
         "published_date": "2026-09-09T12:05:34+00:00",
         "discovered_at": "2026-09-09T14:20:03.771703+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/gpt-6-astra-next-generation-work": {
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "source": "OpenAI",
+        "published_date": "2026-09-09T11:00:00+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526068+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+        "title": "Paul Christiano joins OpenAI Foundation Board",
+        "source": "OpenAI",
+        "published_date": "2026-09-09T17:00:00+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526073+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/": {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T22:25:22+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526080+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/": {
+        "title": "Massachusetts hits data centers with new clean power rules",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T21:43:34+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526083+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/": {
+        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T20:24:48+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526085+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/": {
+        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T20:03:43+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526088+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/": {
+        "title": "The hinge for Apple’s new foldable phone was built with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T19:21:48+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526090+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/": {
+        "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T18:16:29+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526092+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/": {
+        "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T18:08:35+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526094+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/": {
+        "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T17:36:05+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526096+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/": {
+        "title": "Superintelligence is coming. Should we let it?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T16:05:35+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526098+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/": {
+        "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T15:50:13+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526100+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/": {
+        "title": "Viral AI assistant Instinct now has its own email address",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T15:13:12+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526102+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/": {
+        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T15:02:47+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526104+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/": {
+        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-09T14:51:45+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526106+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/": {
+        "title": "CloudNC aims to accelerate AI supply chain machining",
+        "source": "AI News",
+        "published_date": "2026-09-09T10:34:20+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526110+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/": {
+        "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+        "source": "AI News",
+        "published_date": "2026-09-09T08:52:19+00:00",
+        "discovered_at": "2026-09-09T22:25:48.526111+00:00",
+        "status": "PENDING"
     }
 }
