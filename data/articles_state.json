@@ -13908,5 +13908,117 @@
         "published_date": "2026-09-10T11:00:00+00:00",
         "discovered_at": "2026-09-10T14:13:19.139035+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+        "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+        "source": "OpenAI",
+        "published_date": "2026-09-10T16:00:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040184+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/put-data-to-work": {
+        "title": "Now everyone can put data to work",
+        "source": "OpenAI",
+        "published_date": "2026-09-10T15:00:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040193+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-chatgpt-financial-services": {
+        "title": "Introducing ChatGPT for Financial Services",
+        "source": "OpenAI",
+        "published_date": "2026-09-10T07:00:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040197+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/expanding-ai-access-us-government": {
+        "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "source": "OpenAI",
+        "published_date": "2026-09-10T07:00:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040201+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-the-agents-api": {
+        "title": "Introducing the Agents API",
+        "source": "OpenAI",
+        "published_date": "2026-09-10T00:00:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040204+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+        "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+        "source": "OpenAI",
+        "published_date": "2026-09-10T00:00:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040208+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/": {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T21:51:59+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040217+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/": {
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T21:35:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040225+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/": {
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T20:59:51+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040229+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/": {
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T20:57:30+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040233+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/": {
+        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T19:50:04+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040236+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/": {
+        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T17:54:44+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040240+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/": {
+        "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T17:45:00+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040243+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/": {
+        "title": "AI agents are flooding public services with new requests",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T14:53:50+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040246+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/": {
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-10T14:17:37+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040249+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/": {
+        "title": "Supply chains detect fast, act slow: How AI agents fix it",
+        "source": "AI News",
+        "published_date": "2026-09-10T16:34:43+00:00",
+        "discovered_at": "2026-09-10T22:24:13.040257+00:00",
+        "status": "PENDING"
     }
 }
