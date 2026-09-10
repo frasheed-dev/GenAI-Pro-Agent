@@ -13894,5 +13894,19 @@
         "published_date": "2026-09-10T00:00:37+00:00",
         "discovered_at": "2026-09-10T04:10:21.067372+00:00",
         "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/": {
+        "title": "JD.com expands physical AI in logistics with 3 million robots",
+        "source": "AI News",
+        "published_date": "2026-09-10T10:00:00+00:00",
+        "discovered_at": "2026-09-10T14:13:19.139029+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/": {
+        "title": "Powering AI is an architecture problem",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-10T11:00:00+00:00",
+        "discovered_at": "2026-09-10T14:13:19.139035+00:00",
+        "status": "PENDING"
     }
 }
