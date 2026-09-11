@@ -14020,5 +14020,75 @@
         "published_date": "2026-09-10T16:34:43+00:00",
         "discovered_at": "2026-09-10T22:24:13.040257+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "source": "OpenAI",
+        "published_date": "2026-09-11T10:00:00+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173592+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/": {
+        "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T20:59:47+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173603+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/": {
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T20:57:36+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173607+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/": {
+        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T20:33:18+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173611+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/": {
+        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T20:30:17+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173614+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/": {
+        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T19:35:54+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173617+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/": {
+        "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T18:41:49+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173620+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/": {
+        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-11T16:46:25+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173623+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/": {
+        "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+        "source": "AI News",
+        "published_date": "2026-09-11T12:00:18+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173628+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/": {
+        "title": "Roundtables: AI’s apocalypse crisis",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-11T20:05:06+00:00",
+        "discovered_at": "2026-09-11T22:23:46.173632+00:00",
+        "status": "PENDING"
     }
 }
