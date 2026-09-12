@@ -14111,5 +14111,19 @@
         "published_date": "2026-09-11T22:58:17+00:00",
         "discovered_at": "2026-09-12T04:09:02.183046+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/": {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-12T20:19:16+00:00",
+        "discovered_at": "2026-09-12T22:07:36.013792+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/": {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-12T19:34:44+00:00",
+        "discovered_at": "2026-09-12T22:07:36.013800+00:00",
+        "status": "PENDING"
     }
 }
