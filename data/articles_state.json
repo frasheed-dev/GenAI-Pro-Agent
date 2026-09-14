@@ -14181,5 +14181,89 @@
         "published_date": "2026-09-14T16:00:00+00:00",
         "discovered_at": "2026-09-14T16:16:48.290456+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/fyxer": {
+        "title": "How Fyxer built an AI executive assistant people trust",
+        "source": "OpenAI",
+        "published_date": "2026-09-14T12:00:00+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036445+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/": {
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T21:51:02+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036453+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/": {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T20:44:14+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036456+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/": {
+        "title": "With iOS 27, I’m actually using Siri again",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T17:10:30+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036458+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/": {
+        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T17:00:00+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036461+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/": {
+        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T16:27:53+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036464+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/": {
+        "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T13:55:00+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036470+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/": {
+        "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+        "source": "AI News",
+        "published_date": "2026-09-14T15:30:41+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036474+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/": {
+        "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+        "source": "AI News",
+        "published_date": "2026-09-14T08:04:35+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036477+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/": {
+        "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+        "source": "AI News",
+        "published_date": "2026-09-14T07:56:45+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036479+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/": {
+        "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+        "source": "AI News",
+        "published_date": "2026-09-14T07:39:28+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036482+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/": {
+        "title": "The AI industry has taken a doomer turn. What now?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-14T17:54:22+00:00",
+        "discovered_at": "2026-09-14T23:02:47.036484+00:00",
+        "status": "PENDING"
     }
 }
