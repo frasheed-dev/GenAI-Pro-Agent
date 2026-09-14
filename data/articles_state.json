@@ -14139,5 +14139,47 @@
         "published_date": "2026-09-13T16:30:00+00:00",
         "discovered_at": "2026-09-13T22:17:01.800055+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/": {
+        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T15:00:00+00:00",
+        "discovered_at": "2026-09-14T16:16:48.290425+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/": {
+        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T14:45:44+00:00",
+        "discovered_at": "2026-09-14T16:16:48.290432+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/": {
+        "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T14:30:00+00:00",
+        "discovered_at": "2026-09-14T16:16:48.290435+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/": {
+        "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T14:00:00+00:00",
+        "discovered_at": "2026-09-14T16:16:48.290438+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/": {
+        "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-14T13:55:00+00:00",
+        "discovered_at": "2026-09-14T16:16:48.290445+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/": {
+        "title": "AI agents blew the whistle on their cheating colleagues",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-14T16:00:00+00:00",
+        "discovered_at": "2026-09-14T16:16:48.290456+00:00",
+        "status": "PENDING"
     }
 }
