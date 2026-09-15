@@ -14265,5 +14265,12 @@
         "published_date": "2026-09-14T17:54:22+00:00",
         "discovered_at": "2026-09-14T23:02:47.036484+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/": {
+        "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-15T01:50:48+00:00",
+        "discovered_at": "2026-09-15T04:27:53.718415+00:00",
+        "status": "PENDING"
     }
 }
