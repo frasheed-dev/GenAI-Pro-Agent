@@ -14272,5 +14272,47 @@
         "published_date": "2026-09-15T01:50:48+00:00",
         "discovered_at": "2026-09-15T04:27:53.718415+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
+        "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-15T14:00:00+00:00",
+        "discovered_at": "2026-09-15T14:48:20.595898+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/": {
+        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-15T13:00:00+00:00",
+        "discovered_at": "2026-09-15T14:48:20.595905+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/": {
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-15T12:00:00+00:00",
+        "discovered_at": "2026-09-15T14:48:20.595908+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/": {
+        "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+        "source": "AI News",
+        "published_date": "2026-09-15T11:15:57+00:00",
+        "discovered_at": "2026-09-15T14:48:20.595920+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/": {
+        "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+        "source": "AI News",
+        "published_date": "2026-09-15T07:14:47+00:00",
+        "discovered_at": "2026-09-15T14:48:20.595923+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/": {
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-15T10:00:00+00:00",
+        "discovered_at": "2026-09-15T14:48:20.595927+00:00",
+        "status": "PENDING"
     }
 }
