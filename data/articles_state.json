@@ -14391,5 +14391,12 @@
         "published_date": "2026-09-15T17:47:51+00:00",
         "discovered_at": "2026-09-15T22:48:52.868227+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/": {
+        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T00:20:39+00:00",
+        "discovered_at": "2026-09-16T04:23:38.730101+00:00",
+        "status": "PENDING"
     }
 }
