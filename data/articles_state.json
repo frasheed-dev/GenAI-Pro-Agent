@@ -14461,5 +14461,75 @@
         "published_date": "2026-09-16T12:47:34+00:00",
         "discovered_at": "2026-09-16T14:45:28.632114+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+        "title": "Helping older adults use AI in everyday life",
+        "source": "OpenAI",
+        "published_date": "2026-09-16T16:00:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378435+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+        "title": "How to connect AI usage to business value",
+        "source": "OpenAI",
+        "published_date": "2026-09-16T12:00:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378442+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/model-misalignment-reporting-framework": {
+        "title": "Our framework for reporting model misalignment",
+        "source": "OpenAI",
+        "published_date": "2026-09-16T17:00:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378446+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/unlocking-new-ways-of-working": {
+        "title": "How workers are unlocking new ways of working",
+        "source": "OpenAI",
+        "published_date": "2026-09-16T09:00:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378450+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/": {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T21:07:24+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378455+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/": {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T20:12:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378459+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/": {
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T18:25:25+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378463+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/": {
+        "title": "Your AI agents can now control your Google Home devices",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T17:00:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378466+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/": {
+        "title": "Anthropic merges Claude chat and Cowork in one interface",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T16:30:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378470+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/": {
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T15:00:00+00:00",
+        "discovered_at": "2026-09-16T22:49:25.378473+00:00",
+        "status": "PENDING"
     }
 }
