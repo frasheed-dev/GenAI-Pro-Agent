@@ -265,36 +265,33 @@ def draft_social_post(platform, curated_articles):
 
 def generate_image_metadata(post_content):
     """
-    Takes the drafted social post and asks Gemini to generate a headline and background prompt for the image.
+    Takes the drafted social post and asks Gemini to generate metadata for a 3-slide Carousel Deck.
+    Enforces a strict journalistic, objective tone—prohibiting hype words like 'BREAKING AI NEWS'.
     """
     print("Pausing for 15 seconds to respect Gemini Free Tier rate limits...")
     time.sleep(15)
     
     prompt = (
-        "Based on the following social media post, generate two things for an image generator:\n\n"
-        "1. 'headline': A punchy 10-15 word headline that captures the single most newsworthy fact. "
-        "Wrap the 1 or 2 most important keywords or phrases in asterisks (e.g. Elon Musk buys *AI Startup* for *$60 Billion*).\n\n"
-        "2. 'image_prompt': A highly detailed prompt for a premium AI image generator. Follow ALL of these rules:\n"
-        "   - SUBJECT: Describe ONE clear, specific visual subject that DIRECTLY represents the news story. "
-        "     Avoid generic 'technology background' clichés. For example: if the news is about a chatbot, show a "
-        "     glowing humanoid AI conversing with a human; if it's about chip manufacturing, show a "
-        "     photorealistic silicon wafer being assembled by robotic arms.\n"
-        "   - STYLE: Bold, clean digital illustration. Think: a vibrant tech editorial graphic — \n"
-        "     flat-ish design with subtle depth, strong silhouettes, and punchy saturated colors \n"
-        "     (deep navy, electric teal, amber/gold accents). NOT photorealistic. NOT hyper-detailed. \n"
-        "     Simple enough to read at a glance on a phone screen.\n"
-        "   - COMPOSITION: The main subject must be in the UPPER or MIDDLE portion of the frame. "
-        "     The lower 40% of the image must be darker/simpler — it will be covered by a text gradient overlay.\n"
-        "   - LIGHTING: Dramatic, directional lighting. A single strong key light source (backlit, rim-lit, or "
-        "     top-down studio). Deep shadows. Avoid flat, evenly lit scenes.\n"
-        "   - NEGATIVE (mention explicitly in the prompt): No text, no UI mockups, no charts, no dashboards, "
-        "     no watermarks, no logos, no cluttered backgrounds.\n"
-        "   - LENGTH: The image_prompt must be 60-120 words. Be specific and descriptive.\n\n"
+        "Based on the following social media post, generate metadata for a 3-slide Carousel Deck.\n"
+        "TONE & STYLE: Strict journalistic, objective, and neutral tone. Absolutely NO hype words "
+        "(e.g., do NOT use 'BREAKING AI NEWS', 'REVOLUTIONARY', 'MIND-BLOWING', 'GAME CHANGER'). "
+        "Focus purely on factual data and analytical substance.\n\n"
+        "Generate a valid JSON object containing the following keys:\n"
+        "1. 'headline': A punchy 8-12 word headline capturing the primary factual news. "
+        "Wrap 1 or 2 core keywords in asterisks for visual highlight (e.g., 'Meta Adjusts *AI Agent* Roadmap Amid *Latency Limits*').\n\n"
+        "2. 'category': A 2-3 word neutral, professional category tag in uppercase (e.g., 'ENTERPRISE AI ANALYSIS', 'LLM BENCHMARKS', 'FOUNDATIONAL MODELS', 'AI INFRASTRUCTURE').\n\n"
+        "3. 'image_prompt': A 60-100 word visual description for an AI image generator depicting ONE concrete subject related to the news. "
+        "Flat editorial illustration style with deep navy, teal, and amber accents. Lower 40% darker for text contrast.\n\n"
+        "4. 'carousel_bullets': An array of EXACTLY 3 short, factual takeaway bullet points summarizing key details for Slide 2 (10-18 words per bullet).\n\n"
+        "5. 'discussion_question': A single thought-provoking, analytical question for Slide 3 inviting executive discussion (e.g., 'How will this roadmap shift impact your team's Q3 deployment plans?').\n\n"
         f"Post Content:\n{post_content}\n\n"
         "Return the result strictly as a valid JSON object like this:\n"
         "{\n"
         '  "headline": "...",\n'
-        '  "image_prompt": "..."\n'
+        '  "category": "...",\n'
+        '  "image_prompt": "...",\n'
+        '  "carousel_bullets": ["...", "...", "..."],\n'
+        '  "discussion_question": "..."\n'
         "}\n"
     )
     

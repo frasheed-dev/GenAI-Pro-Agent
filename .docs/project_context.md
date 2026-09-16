@@ -21,6 +21,9 @@ Our strategic funnel is:
   - `Instagram` — ✅ **Live and confirmed end-to-end (2026-05-22).** Sends clean JSON with `image_url` (a public JPEG URL via ImgBB). Make.com → Instagram for Business "Create a photo post". Maps `image_url` → `Photo URL`.
 - **CLI Orchestration:** `main.py` is fully configurable via `argparse`, allowing testing of individual platforms (`--platform facebook|linkedin|instagram|all`) and enforcing live/draft mode execution (`--draft true|false`).
 
+## Reference Assets & Documentation
+- **MoneyPrinterTurbo (`.docs/moneyprinterturbo_reference.md`):** Located at `DEVELOPMENT/MoneyPrinterTurbo-main`. Referenced as a code library for zero-GPU CPU video composition (FFmpeg/MoviePy), zero-cost Microsoft `edge-tts` voice synthesis, and ASS subtitle generation for GenAI Pro's Q3 Short-Form Video Engine.
+
 ## Instagram Integration — Technical Notes
 *(Full details in `.docs/instagram_integration.md`)*
 
@@ -59,14 +62,11 @@ The `--instagram` flag (JSON only) is available for isolated testing but must al
 - **Instagram Static Images = Zero Reach:** Confirmed after 7 days of live data. Static image posts on Instagram receive 0 organic views from non-followers. The pipeline is technically working but the format is the bottleneck. **Fix: Build the Reels/Short-Form Video pipeline.** This is the #1 next technical priority.
 - **Dropbox Setup (Optional):** For production reliability, generate a Dropbox API token and set `IMAGE_HOST=dropbox` + `DROPBOX_ACCESS_TOKEN=<token>` in `.env`. ImgBB is the current active host and working reliably from GitHub Actions cloud IPs.
 
-## Next Steps / Future Roadmap
-- [x] **Confirm Instagram Live Post:** ✅ Confirmed end-to-end (2026-05-22).
-- [x] **Prompt Engineering — Aerated Format (2026-05-23):** The LLM drafting prompt was updated to enforce a short-sentence, aerated writing style across all platforms. Mandatory blank lines between every 1-2 sentences. "Wall of text" is now an automatic failure condition in the prompt. This was driven by live performance data showing dense paragraphs underperform on LinkedIn vs. spaced, punchy post styles.
-- [ ] **The Video Engine (Shorts/Reels) — HIGHEST PRIORITY:** Instagram static images confirmed at 0 views. Reels/Shorts receive algorithmic boosts to non-followers by default. Infrastructure (`video_generator.py`, `tts_engine.py`, `kinetic_captions.py`, `ffmpeg`) already exists. Needs wiring into `main.py` and a Make.com Reels route.
+- [x] **Journalistic 3-Slide Carousel Deck Engine (2026-07-27):** Built a 3-slide visual carousel card deck generator (`carousel_slide_1.png`, `slide_2.png`, `slide_3.png`) in 1080x1350 vertical resolution. Enforces a strict journalistic, objective, non-hype tone. Uses AI background when available, or our programmatic dark navy-teal gradient background as a zero-cost guaranteed fallback.
+- [ ] **Path A: Telegram Engagement Alert Assistant (PLANNED):** Monitor posts from top 100 AI voices and companies. When a major post drops, Gemma 3 drafts a 1-line analyst-grade comment (strictly non-slop, dry, data-backed) and sends a Telegram alert with a 1-click link to Farhan for safe, ban-free manual posting.
 - [ ] **Beehiiv Newsletter — HIGH PRIORITY:** Start now even with 0 subscribers. Email is the only owned audience asset; social algorithms are unreliable. Simple landing page + newsletter subscribe form.
 - [ ] **Expanded Sourcing:** Add substantially more RSS feeds (TechCrunch, specialized Substacks) to provide a deeper pool of news for the LLM to curate.
 - [ ] **Switch to Dropbox:** For production robustness, configure Dropbox as the image host (ImgBB working for now).
-- [ ] **The Telegram Bot:** Build a Webhook/Telegram integration so co-founders can trigger the agent on-demand.
 - [ ] **Build `x_twitter.py`:** X (Twitter) integration paused (API cost $100/month). Code preserved. Reactivate when other platforms show meaningful traction.
 - [ ] **The Web Hub:** Revive `genai-pro.com` with an integrated Beehiiv newsletter capture form.
 - [ ] **SaaS Abstraction:** Refactor the agent for multi-niche deployment (crypto, finance, real estate) at $99-299/month. Core architecture is already niche-agnostic.

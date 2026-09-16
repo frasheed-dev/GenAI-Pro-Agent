@@ -10,7 +10,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 from core.config import AUTONOMOUS_MODE
 from core.fetcher import fetch_latest_news
 from core.llm_processor import curate_articles, draft_social_post, generate_image_metadata
-from core.image_generator import create_news_image
+from core.image_generator import create_news_image, create_carousel_deck
 from core.video_generator import draft_video_script, generate_audio, compile_video
 from publishers.make_webhook import post_to_make
 from core.state_manager import mark_as_published
@@ -23,21 +23,20 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
     # 1. Fetch
     print("\n[Stage 1] Fetching recent AI news feeds...")
     articles = fetch_latest_news(hours_ago=72)
-    if not articles:
-        print("No articles found.")
-        return
-        
-    # 2. Process
-    print(f"\n[Stage 2] Submitting {len(articles)} headlines to Gemini for curation...")
+    print(f"Found {len(articles)} total articles across all feeds.")
+    
+    # 2. Curate
+    print("\n[Stage 2] Curating top Generative AI developments...")
     curated = curate_articles(articles)
     
     if not curated:
         print("No highly relevant GenAI articles found today matching our standards.")
         return
         
-    # --- NEW: Generate Global Image ---
-    print("\n[Stage 3] Generating universal news image...")
+    # --- NEW: Generate Global Image & Carousel Deck ---
+    print("\n[Stage 3] Generating universal news image & 3-slide Carousel Deck...")
     image_path = None
+    carousel_paths = []
     
     # We ask Gemini to generate metadata based purely on the raw curated news facts
     news_summary = ""
@@ -52,6 +51,11 @@ def main(selected_platforms=None, is_autonomous=AUTONOMOUS_MODE):
             headline=metadata["headline"], 
             output_path="drafts/news_image_universal.png"
         )
+        
+        # Generate 3-slide Carousel Deck
+        carousel_paths = create_carousel_deck(metadata, output_dir="drafts")
+        print(f"✅ Generated Carousel Deck: {len(carousel_paths)} slides ready in drafts/")
+        
         if image_path:
             image_path = os.path.abspath(image_path)
             

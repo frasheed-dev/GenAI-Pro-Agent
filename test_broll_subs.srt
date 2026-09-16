@@ -1,0 +1,16 @@
+1
+00:00:00,100 --> 00:00:03,837
+Meta has hit a wall on AI agent development.
+
+2
+00:00:03,787 --> 00:00:09,687
+Zuckerberg admitted that progress is significantly slower than internal roadmaps anticipated.
+
+3
+00:00:09,687 --> 00:00:15,987
+Meanwhile, startups are funneling millions into native AI suites to challenge tech giants.
+
+4
+00:00:15,987 --> 00:00:21,537
+The lesson is clear: scaling intelligence is harder than scaling a social network.
+

@@ -155,7 +155,7 @@ def wrap_text(text, font, max_width):
         lines.append(" ".join(current_line))
     return lines
 
-def draw_highlighted_text(draw, img_width, img_height, headline, font):
+def draw_highlighted_text(draw, img_width, img_height, headline, font, start_y=None):
     CLR_PRIMARY = "#F4B41A" 
     CLR_FG_ALT = "#cdcdff" 
     CLR_BG = "#143d59" 
@@ -170,7 +170,10 @@ def draw_highlighted_text(draw, img_width, img_height, headline, font):
     
     total_text_height = (line_height * len(lines)) + (line_spacing * (len(lines) - 1))
     
-    current_y = img_height - total_text_height - 180
+    if start_y is not None:
+        current_y = start_y
+    else:
+        current_y = img_height - total_text_height - 180
     
     for line in lines:
         words = line.split(' ')
@@ -422,3 +425,214 @@ def create_slide_image(image_prompt, slide_index, total_slides, output_path, for
     img.save(output_path)
     print(f"Saved slide {slide_index}/{total_slides} image to {output_path}")
     return output_path
+
+def draw_slide_indicator(draw, width, slide_index, total_slides, font_path):
+    try:
+        font_ind = ImageFont.truetype(font_path, size=32)
+    except:
+        font_ind = ImageFont.load_default()
+        
+    text = f"{slide_index} / {total_slides}"
+    ind_w = font_ind.getlength(text)
+    pad_x, pad_y = 18, 8
+    box_x1 = width - ind_w - (pad_x * 2) - 40
+    box_y1 = 40
+    box_x2 = width - 40
+    box_y2 = 40 + 32 + (pad_y * 2)
+    
+    draw.rounded_rectangle([box_x1, box_y1, box_x2, box_y2], radius=16, fill=(20, 61, 89, 220), outline="#F4B41A", width=2)
+    draw.text((box_x1 + pad_x, box_y1 + pad_y), text, font=font_ind, fill="#F4B41A")
+
+def create_carousel_deck(news_item, output_dir="drafts", force_fallback=False):
+    """
+    Creates a 3-slide Carousel Deck (1080x1350 PNGs) with a journalistic, objective tone.
+      - Slide 1: Cover Card (Headline + Highlight Pointers + Centered/Clean Layout + Swipe -> Indicator)
+      - Slide 2: Executive Takeaways (3 Factual Bullet Points, clear of logo badge)
+      - Slide 3: Discussion & Growth CTA (Analytical Question + Follow Request, clear of logo badge)
+    
+    Returns: List of absolute file paths [slide_1_path, slide_2_path, slide_3_path]
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    root_dir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+    font_path = os.path.join(root_dir, "assets", "fonts", "Roboto-Black.ttf")
+    fa_path = os.path.join(root_dir, "assets", "fonts", "fa-brands-400.ttf")
+    
+    headline = news_item.get("headline", "AI Market Intelligence Update")
+    prompt = news_item.get("image_prompt", headline)
+    category = news_item.get("category", "MARKET INTELLIGENCE").upper()
+    bullets = news_item.get("carousel_bullets", [
+        "Major developments shaping enterprise AI adoption.",
+        "Key shifts in open-source vs. proprietary model capabilities.",
+        "Strategic implications for technical leaders and founders."
+    ])
+    question = news_item.get("discussion_question", "How will this development impact your AI roadmap?")
+    
+    slide_paths = []
+    width, height = 1080, 1350
+
+    # Load fonts
+    try:
+        font_cat = ImageFont.truetype(font_path, size=28)
+        font_head = ImageFont.truetype(font_path, size=64)
+        font_swipe = ImageFont.truetype(font_path, size=44)
+        font_title = ImageFont.truetype(font_path, size=52)
+        font_body = ImageFont.truetype(font_path, size=36)
+        font_q_head = ImageFont.truetype(font_path, size=44)
+        font_q_body = ImageFont.truetype(font_path, size=52)
+        font_cta_head = ImageFont.truetype(font_path, size=36)
+        font_cta_sub = ImageFont.truetype(font_path, size=30)
+    except:
+        font_cat = font_head = font_swipe = font_title = font_body = font_q_head = font_q_body = font_cta_head = font_cta_sub = ImageFont.load_default()
+
+    # ─────────────────────────────────────────────────────────
+    # SLIDE 1: Cover Card
+    # ─────────────────────────────────────────────────────────
+    has_ai_bg = False
+    if not force_fallback:
+        img1 = generate_background(prompt, width=width, height=height, force_fallback=False)
+        if img1:
+            has_ai_bg = True
+
+    if not has_ai_bg:
+        img1 = generate_fallback_background(width, height)
+        
+    img1 = img1.resize((width, height)).convert("RGBA")
+    
+    if has_ai_bg:
+        # Bottom gradient overlay for AI artwork
+        overlay1 = Image.new('RGBA', img1.size, (0, 0, 0, 0))
+        draw1_ov = ImageDraw.Draw(overlay1)
+        for y in range(int(height * 0.35), height):
+            alpha = int(((y - (height * 0.35)) / (height * 0.65)) * 240)
+            draw1_ov.line([(0, y), (width, y)], fill=(20, 61, 89, alpha))
+        img1 = Image.alpha_composite(img1, overlay1)
+        
+    draw1 = ImageDraw.Draw(img1)
+    
+    # Render branding (logo at top left X=40, Y=40, diameter ~160)
+    draw_branding(img1, draw1, width, height, font_path, fa_path)
+    
+    cat_text = f"  {category}  "
+    cat_w = font_cat.getlength(cat_text)
+    
+    # Swipe prompt styling: "--- SWIPE ---" with clean side accent lines
+    swipe_word = "SWIPE"
+    swipe_w = font_swipe.getlength(swipe_word)
+    swipe_y = height - 160
+    
+    if not has_ai_bg:
+        # FALLBACK MODE: Center headline and category in the middle of canvas
+        lines = wrap_text(headline, font_head, width - 120)
+        dummy_bbox = font_head.getbbox("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+        line_h = dummy_bbox[3] - dummy_bbox[1]
+        total_text_h = (line_h * len(lines)) + (20 * (len(lines) - 1))
+        
+        start_y = (height - total_text_h) / 2
+        
+        # Category badge centered above headline
+        cat_x1 = (width - cat_w - 20) / 2
+        cat_y1 = start_y - 90
+        draw1.rounded_rectangle([cat_x1, cat_y1, cat_x1 + cat_w + 20, cat_y1 + 50], radius=12, fill=(20, 61, 89, 220), outline="#F4B41A", width=2)
+        draw1.text((cat_x1 + 10, cat_y1 + 10), cat_text, font=font_cat, fill="#F4B41A")
+        
+        # Headline centered
+        draw_highlighted_text(draw1, width, height, headline, font_head, start_y=start_y)
+        
+        # Centered Swipe prompt with vector lines: --- SWIPE ---
+        center_x = width / 2
+        draw1.text((center_x - (swipe_w / 2), swipe_y), swipe_word, font=font_swipe, fill="#F4B41A")
+        
+        # Left and Right side accent lines
+        line_len = 65
+        line_y = swipe_y + 22
+        draw1.line([(center_x - (swipe_w / 2) - 25 - line_len, line_y), (center_x - (swipe_w / 2) - 25, line_y)], fill="#F4B41A", width=3)
+        draw1.line([(center_x + (swipe_w / 2) + 25, line_y), (center_x + (swipe_w / 2) + 25 + line_len, line_y)], fill="#F4B41A", width=3)
+    else:
+        # AI ARTWORK MODE: Category badge clear of logo (X=230, Y=55)
+        draw1.rounded_rectangle([230, 55, 230 + cat_w + 20, 105], radius=12, fill=(20, 61, 89, 220), outline="#F4B41A", width=2)
+        draw1.text((240, 65), cat_text, font=font_cat, fill="#F4B41A")
+        
+        # Lower third headline
+        draw_highlighted_text(draw1, width, height, headline, font_head)
+        
+        # Swipe prompt bottom right with side lines
+        swipe_x = width - swipe_w - 140
+        draw1.text((swipe_x, swipe_y), swipe_word, font=font_swipe, fill="#F4B41A")
+        line_len = 50
+        line_y = swipe_y + 22
+        draw1.line([(swipe_x - 15 - line_len, line_y), (swipe_x - 15, line_y)], fill="#F4B41A", width=3)
+        draw1.line([(swipe_x + swipe_w + 15, line_y), (swipe_x + swipe_w + 15 + line_len, line_y)], fill="#F4B41A", width=3)
+
+    p1 = os.path.join(output_dir, "carousel_slide_1.png")
+    img1.convert("RGB").save(p1)
+    slide_paths.append(p1)
+
+    # ─────────────────────────────────────────────────────────
+    # SLIDE 2: Executive Takeaways (3 Bullet Points)
+    # ─────────────────────────────────────────────────────────
+    img2 = generate_fallback_background(width, height).convert("RGBA")
+    draw2 = ImageDraw.Draw(img2)
+    
+    draw_branding(img2, draw2, width, height, font_path, fa_path)
+    
+    # Header: KEY TAKEAWAYS (Positioned down at Y=240 to clear logo badge!)
+    draw2.text((80, 240), "KEY TAKEAWAYS", font=font_title, fill="#FFFFFF")
+    draw2.line([(80, 305), (380, 305)], fill="#F4B41A", width=5)
+    
+    # Draw 3 bullet points starting comfortably below header
+    curr_y = 355
+    for idx, bullet_text in enumerate(bullets[:3], 1):
+        # Yellow bullet marker box
+        draw2.rounded_rectangle([80, curr_y + 8, 110, curr_y + 38], radius=6, fill="#F4B41A")
+        
+        # Wrap bullet text
+        b_lines = wrap_text(bullet_text, font_body, width - 200)
+        for b_line in b_lines:
+            draw2.text((135, curr_y), b_line, font=font_body, fill="#E6EEF4")
+            curr_y += 50
+        curr_y += 35
+        
+    p2 = os.path.join(output_dir, "carousel_slide_2.png")
+    img2.convert("RGB").save(p2)
+    slide_paths.append(p2)
+
+    # ─────────────────────────────────────────────────────────
+    # SLIDE 3: Community Discussion & Growth CTA
+    # ─────────────────────────────────────────────────────────
+    img3 = generate_fallback_background(width, height).convert("RGBA")
+    draw3 = ImageDraw.Draw(img3)
+    
+    draw_branding(img3, draw3, width, height, font_path, fa_path)
+    
+    # Header: INDUSTRY PERSPECTIVE (Positioned down at Y=240 to clear logo badge!)
+    draw3.text((80, 240), "INDUSTRY PERSPECTIVE", font=font_q_head, fill="#A0B2C6")
+    draw3.line([(80, 305), (380, 305)], fill="#F4B41A", width=4)
+    
+    # Discussion Question
+    q_lines = wrap_text(question, font_q_body, width - 160)
+    q_y = 355
+    for q_line in q_lines:
+        draw3.text((80, q_y), q_line, font=font_q_body, fill="#F4B41A")
+        q_y += 66
+        
+    # Follow CTA Card Box
+    cta_box_y0 = min(q_y + 60, height - 420)
+    cta_box_y1 = cta_box_y0 + 250
+    draw3.rounded_rectangle([80, cta_box_y0, width - 80, cta_box_y1], radius=24, fill=(15, 45, 68, 240), outline="#F4B41A", width=3)
+    
+    # CTA Text
+    draw3.text((120, cta_box_y0 + 35), "Follow GenAI Pro", font=font_cta_head, fill="#FFFFFF")
+    draw3.text((120, cta_box_y0 + 95), "Autonomous daily market intelligence", font=font_cta_sub, fill="#A0B2C6")
+    draw3.text((120, cta_box_y0 + 145), "& executive AI analysis.", font=font_cta_sub, fill="#A0B2C6")
+    
+    # Yellow join button pill
+    draw3.rounded_rectangle([width - 320, cta_box_y0 + 165, width - 120, cta_box_y0 + 220], radius=16, fill="#F4B41A")
+    draw3.text((width - 290, cta_box_y0 + 177), "+ Follow", font=font_cta_sub, fill="#143D59")
+
+    p3 = os.path.join(output_dir, "carousel_slide_3.png")
+    img3.convert("RGB").save(p3)
+    slide_paths.append(p3)
+
+    print(f"✅ Saved 3-slide Carousel Deck to {output_dir}/ (carousel_slide_1.png, slide_2.png, slide_3.png)")
+    return slide_paths
+
