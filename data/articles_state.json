@@ -14398,5 +14398,68 @@
         "published_date": "2026-09-16T00:20:39+00:00",
         "discovered_at": "2026-09-16T04:23:38.730101+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/reimagining-advertising-with-ai": {
+        "title": "Reimagining advertising with AI",
+        "source": "OpenAI",
+        "published_date": "2026-09-16T13:00:00+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632072+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/": {
+        "title": "Threads’ new features let podcasters promote shows and reach listeners",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T14:24:58+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632081+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/": {
+        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T14:15:00+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632085+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
+        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T14:00:00+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632088+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/": {
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T13:23:02+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632091+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/": {
+        "title": "Former Infosys chief’s AI startup nabs another $53M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T13:00:00+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632097+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/": {
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-16T10:34:47+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632101+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/": {
+        "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+        "source": "AI News",
+        "published_date": "2026-09-16T10:31:09+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632109+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/": {
+        "title": "Building the materials foundation for AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-16T12:47:34+00:00",
+        "discovered_at": "2026-09-16T14:45:28.632114+00:00",
+        "status": "PENDING"
     }
 }
