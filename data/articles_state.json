@@ -14559,5 +14559,54 @@
         "published_date": "2026-09-16T14:47:32+00:00",
         "discovered_at": "2026-09-17T04:29:31.398657+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/": {
+        "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T14:06:14+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806526+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
+        "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T14:00:00+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806532+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/": {
+        "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T13:46:16+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806538+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/": {
+        "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T13:38:33+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806542+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/": {
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T05:00:00+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806545+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/": {
+        "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+        "source": "AI News",
+        "published_date": "2026-09-17T11:00:00+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806552+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/": {
+        "title": "Lidl deploys driverless truck for store deliveries in Germany",
+        "source": "AI News",
+        "published_date": "2026-09-17T10:00:00+00:00",
+        "discovered_at": "2026-09-17T14:49:03.806555+00:00",
+        "status": "PENDING"
     }
 }
