@@ -14586,7 +14586,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T13:38:33+00:00",
         "discovered_at": "2026-09-17T14:49:03.806542+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-17T22:47:45.619785+00:00",
+            "linkedin": "2026-09-17T22:48:21.498601+00:00"
+        },
+        "updated_at": "2026-09-17T22:48:21.498616+00:00"
     },
     "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/": {
         "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -14607,6 +14612,88 @@
         "source": "AI News",
         "published_date": "2026-09-17T10:00:00+00:00",
         "discovered_at": "2026-09-17T14:49:03.806555+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/astra-for-law": {
+        "title": "Introducing Astra for Law",
+        "source": "OpenAI",
+        "published_date": "2026-09-17T00:00:00+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484924+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/": {
+        "title": "PrismML hopes its tiny LLM could change how we all use AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T22:34:09+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484935+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/": {
+        "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T22:14:59+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484941+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/": {
+        "title": "The fix for rogue AI agents could be more AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:34:47+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484946+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/": {
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:34:24+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484949+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-17T22:47:45.600325+00:00",
+            "linkedin": "2026-09-17T22:48:21.480120+00:00"
+        },
+        "updated_at": "2026-09-17T22:48:21.480135+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/": {
+        "title": "Is the AI safety debate about safety or control?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:19:37+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484951+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/": {
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:00:00+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484955+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/": {
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T19:46:08+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484959+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/": {
+        "title": "Even the king of England has his hesitations about AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T17:26:25+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484963+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/": {
+        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T17:15:59+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484966+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/": {
+        "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T17:15:00+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484970+00:00",
         "status": "PENDING"
     }
 }
