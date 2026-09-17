@@ -1,3 +1,4 @@
+import os
 import google.generativeai as genai
 from core.config import GEMINI_API_KEY
 import json
@@ -18,17 +19,66 @@ def extract_text(response):
             return "".join([part.text for part in response.candidates[0].content.parts])
         return ""
 
+class LLMResponseWrapper:
+    def __init__(self, text):
+        self.text = text
+        self.candidates = []
+
+def is_prepayment_error(err_str):
+    err_lower = str(err_str).lower()
+    return any(k in err_lower for k in ["prepayment credits", "depleted", "billing", "quota", "resourceexhausted", "429"])
+
+def generate_with_hf_fallback(prompt):
+    """
+    Fallback text generation using Hugging Face Free Inference API (chat_completion) when Gemini prepayment/billing limits are hit.
+    """
+    hf_token = os.getenv("HF_TOKEN")
+    models = [
+        "meta-llama/Llama-3.1-8B-Instruct",
+        "Qwen/Qwen2.5-Coder-32B-Instruct",
+        "mistralai/Mistral-7B-Instruct-v0.3"
+    ]
+    for m in models:
+        try:
+            print(f"[LLM Fallback] Attempting chat completion via Hugging Face ({m})...")
+            from huggingface_hub import InferenceClient
+            client = InferenceClient(token=hf_token)
+            res = client.chat_completion(
+                messages=[{"role": "user", "content": prompt}],
+                model=m,
+                max_tokens=1024
+            )
+            if res and hasattr(res, 'choices') and len(res.choices) > 0:
+                text_out = res.choices[0].message.content
+                if text_out:
+                    return LLMResponseWrapper(text_out)
+        except Exception as ex:
+            print(f"[LLM Fallback] HF model {m} notice: {ex}")
+    return None
+
 def generate_with_retry(prompt, max_retries=5, delay=15):
-    """Wraps the Gemini API call with exponential backoff retry logic to handle 504 timeouts."""
+    """Wraps the Gemini API call with exponential backoff retry logic and prepayment/HF fallback handling."""
     for attempt in range(max_retries):
         try:
             return model.generate_content(prompt)
         except Exception as e:
+            err_msg = str(e)
+            if is_prepayment_error(err_msg):
+                print(f"⚠️ [LLM] Gemini Prepayment/Quota Error: {err_msg}")
+                print("[LLM] Skipping retries and switching to Hugging Face Free Inference API fallback...")
+                hf_res = generate_with_hf_fallback(prompt)
+                if hf_res:
+                    return hf_res
+                raise e
+
             if attempt < max_retries - 1:
                 print(f"[LLM] Gemini API error: {e}. Retrying in {delay} seconds (Attempt {attempt+1}/{max_retries})...")
                 time.sleep(delay)
                 delay *= 2  # Exponential backoff
             else:
+                hf_res = generate_with_hf_fallback(prompt)
+                if hf_res:
+                    return hf_res
                 raise e
 
 def curate_articles(articles):
@@ -64,10 +114,11 @@ def curate_articles(articles):
         
         # Filter the original list based on selected indices
         curated = [articles[i] for i in selected_indices if 0 <= i < len(articles)]
-        return curated
+        return curated if curated else articles[:2]
     except Exception as e:
         print(f"Error during curation: {e}")
-        return []
+        print("⚠️ Curation Fallback: Selecting top 2 fetched articles...")
+        return articles[:2]
 
 def apply_linkedin_company_tags(text: str) -> str:
     """
@@ -261,7 +312,25 @@ def draft_social_post(platform, curated_articles):
         return text
     except Exception as e:
         print(f"Error drafting post: {e}")
-        return f"Error generation failed. {e}"
+        print("⚠️ Post Drafting Fallback: Generating clean summary post...")
+        article = curated_articles[0] if (curated_articles and len(curated_articles) > 0) else {
+            "title": "Generative AI Market Intelligence Update",
+            "summary": "Recent developments in Large Language Models and AI infrastructure.",
+            "link": "https://genai-pro.com",
+            "source": "GenAI Pro"
+        }
+        
+        fallback_text = (
+            f"Key developments in AI infrastructure:\n\n"
+            f"{article['title']}\n\n"
+            f"{article['summary']}\n\n"
+            f"Sources:\n{article.get('link', 'https://genai-pro.com')}\n\n"
+            f"#AI #GenerativeAI #Tech #Innovation\n\n"
+            f"---\n🤖 Transparency Note: Generated autonomously by GenAI Pro Agent."
+        )
+        if platform.lower() == "linkedin":
+            fallback_text = apply_linkedin_company_tags(fallback_text)
+        return fallback_text
 
 def generate_image_metadata(post_content):
     """
@@ -324,10 +393,31 @@ def generate_image_metadata(post_content):
                 except Exception:
                     pass
             print(f"Failed to parse LLM output as JSON:\n{text}")
-            return None
+            return {
+                "headline": "Generative AI Market *Intelligence Update*",
+                "category": "MARKET INTELLIGENCE",
+                "image_prompt": "Futuristic clean data center server racks with blue status lights",
+                "carousel_bullets": [
+                    "Key developments shaping enterprise AI adoption.",
+                    "Shifts in model performance and infrastructure efficiency.",
+                    "Strategic takeaways for technical leaders and founders."
+                ],
+                "discussion_question": "How will these developments impact your AI roadmap?"
+            }
     except Exception as e:
         print(f"Error generating image metadata: {e}")
-        return None
+        print("⚠️ Metadata Fallback: Defaulting to journalistic template metadata...")
+        return {
+            "headline": "Generative AI Market *Intelligence Update*",
+            "category": "MARKET INTELLIGENCE",
+            "image_prompt": "Futuristic clean data center server racks with blue status lights",
+            "carousel_bullets": [
+                "Key developments shaping enterprise AI adoption.",
+                "Shifts in model performance and infrastructure efficiency.",
+                "Strategic takeaways for technical leaders and founders."
+            ],
+            "discussion_question": "How will these developments impact your AI roadmap?"
+        }
 
 def draft_reel_script(curated_articles):
     """
