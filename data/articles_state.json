@@ -14558,14 +14558,24 @@
         "source": "AI News",
         "published_date": "2026-09-16T14:47:32+00:00",
         "discovered_at": "2026-09-17T04:29:31.398657+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.753768+00:00",
+            "linkedin": "2026-09-18T04:15:12.092475+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.092488+00:00"
     },
     "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/": {
         "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T14:06:14+00:00",
         "discovered_at": "2026-09-17T14:49:03.806526+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.735659+00:00",
+            "linkedin": "2026-09-18T04:15:12.074756+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.074770+00:00"
     },
     "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
         "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
@@ -14626,7 +14636,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T22:34:09+00:00",
         "discovered_at": "2026-09-17T22:46:26.484935+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.699866+00:00",
+            "linkedin": "2026-09-18T04:15:12.039428+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.039437+00:00"
     },
     "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/": {
         "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
@@ -14680,7 +14695,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T17:26:25+00:00",
         "discovered_at": "2026-09-17T22:46:26.484963+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.717757+00:00",
+            "linkedin": "2026-09-18T04:15:12.057013+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.057023+00:00"
     },
     "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/": {
         "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
@@ -14694,6 +14714,37 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T17:15:00+00:00",
         "discovered_at": "2026-09-17T22:46:26.484970+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cooley-gopublic": {
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-09-17T12:00:00+00:00",
+        "discovered_at": "2026-09-18T04:13:50.827310+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.681515+00:00",
+            "linkedin": "2026-09-18T04:15:12.021775+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.021786+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/": {
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T23:25:52+00:00",
+        "discovered_at": "2026-09-18T04:13:50.827323+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.662956+00:00",
+            "linkedin": "2026-09-18T04:15:12.003943+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.003961+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/": {
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T23:21:17+00:00",
+        "discovered_at": "2026-09-18T04:13:50.827327+00:00",
         "status": "PENDING"
     }
 }
