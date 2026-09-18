@@ -14467,7 +14467,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-16T16:00:00+00:00",
         "discovered_at": "2026-09-16T22:49:25.378435+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.461234+00:00",
+            "linkedin": "2026-09-18T14:20:37.731652+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.731658+00:00"
     },
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
         "title": "How to connect AI usage to business value",
@@ -14481,7 +14486,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-16T17:00:00+00:00",
         "discovered_at": "2026-09-16T22:49:25.378446+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.443733+00:00",
+            "linkedin": "2026-09-18T14:20:37.714034+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.714040+00:00"
     },
     "https://openai.com/index/unlocking-new-ways-of-working": {
         "title": "How workers are unlocking new ways of working",
@@ -14629,7 +14639,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-17T00:00:00+00:00",
         "discovered_at": "2026-09-17T22:46:26.484924+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.425900+00:00",
+            "linkedin": "2026-09-18T14:20:37.696658+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.696665+00:00"
     },
     "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/": {
         "title": "PrismML hopes its tiny LLM could change how we all use AI",
@@ -14688,7 +14703,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T19:46:08+00:00",
         "discovered_at": "2026-09-17T22:46:26.484959+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.390798+00:00",
+            "linkedin": "2026-09-18T14:20:37.661654+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.661665+00:00"
     },
     "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/": {
         "title": "Even the king of England has his hesitations about AI",
@@ -14707,7 +14727,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T17:15:59+00:00",
         "discovered_at": "2026-09-17T22:46:26.484966+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.408409+00:00",
+            "linkedin": "2026-09-18T14:20:37.679204+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.679211+00:00"
     },
     "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/": {
         "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
@@ -14745,6 +14770,37 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T23:21:17+00:00",
         "discovered_at": "2026-09-18T04:13:50.827327+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.373198+00:00",
+            "linkedin": "2026-09-18T14:20:37.641621+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.641632+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/": {
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T14:00:14+00:00",
+        "discovered_at": "2026-09-18T14:18:06.088999+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.354858+00:00",
+            "linkedin": "2026-09-18T14:20:37.619375+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.619400+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/": {
+        "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T14:00:00+00:00",
+        "discovered_at": "2026-09-18T14:18:06.089006+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/": {
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-18T11:29:22+00:00",
+        "discovered_at": "2026-09-18T14:18:06.089015+00:00",
         "status": "PENDING"
     }
 }
