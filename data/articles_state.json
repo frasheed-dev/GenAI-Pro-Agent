@@ -14853,7 +14853,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-18T17:33:50+00:00",
         "discovered_at": "2026-09-18T22:26:45.492034+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T04:11:33.092057+00:00",
+            "linkedin": "2026-09-19T04:11:57.060529+00:00"
+        },
+        "updated_at": "2026-09-19T04:11:57.060544+00:00"
     },
     "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/": {
         "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
@@ -14915,5 +14920,45 @@
             "linkedin": "2026-09-18T22:29:08.659450+00:00"
         },
         "updated_at": "2026-09-18T22:29:08.659458+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/": {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T01:00:00+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568364+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/": {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T00:12:07+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568371+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/": {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T23:25:01+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568375+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/": {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T23:13:31+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568379+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/": {
+        "title": "AI hallucination nearly triggers US military operation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T23:12:32+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568382+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T04:11:33.072452+00:00",
+            "linkedin": "2026-09-19T04:11:57.041691+00:00"
+        },
+        "updated_at": "2026-09-19T04:11:57.041704+00:00"
     }
 }
