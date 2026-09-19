@@ -14900,14 +14900,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-18T15:00:00+00:00",
         "discovered_at": "2026-09-18T22:26:45.492053+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.184105+00:00",
+            "linkedin": "2026-09-19T13:51:25.197076+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.197080+00:00"
     },
     "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/": {
         "title": "Gartner outlines four AI tiers in warehouse automation",
         "source": "AI News",
         "published_date": "2026-09-18T12:49:34+00:00",
         "discovered_at": "2026-09-18T22:26:45.492059+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.194294+00:00",
+            "linkedin": "2026-09-19T13:51:25.207201+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.207205+00:00"
     },
     "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/": {
         "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
@@ -14960,5 +14970,29 @@
             "linkedin": "2026-09-19T04:11:57.041691+00:00"
         },
         "updated_at": "2026-09-19T04:11:57.041704+00:00"
+    },
+    "https://openai.com/index/australian-youth-safety-blueprint": {
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "source": "OpenAI",
+        "published_date": "2026-09-18T12:00:00+00:00",
+        "discovered_at": "2026-09-19T13:49:35.737661+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.204367+00:00",
+            "linkedin": "2026-09-19T13:51:25.217514+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.217519+00:00"
+    },
+    "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/": {
+        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T13:00:00+00:00",
+        "discovered_at": "2026-09-19T13:49:35.737667+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.172998+00:00",
+            "linkedin": "2026-09-19T13:51:25.186643+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.186653+00:00"
     }
 }
