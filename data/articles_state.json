@@ -14820,7 +14820,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-18T21:44:33+00:00",
         "discovered_at": "2026-09-18T22:26:45.492020+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T04:31:02.655384+00:00",
+            "linkedin": "2026-09-20T04:31:27.466793+00:00"
+        },
+        "updated_at": "2026-09-20T04:31:27.466803+00:00"
     },
     "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/": {
         "title": "World model companies are keeping a lot of secrets",
@@ -14882,7 +14887,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-18T17:06:32+00:00",
         "discovered_at": "2026-09-18T22:26:45.492040+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T04:31:02.672096+00:00",
+            "linkedin": "2026-09-20T04:31:27.485783+00:00"
+        },
+        "updated_at": "2026-09-20T04:31:27.485797+00:00"
     },
     "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/": {
         "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
@@ -15024,7 +15034,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-19T17:30:00+00:00",
         "discovered_at": "2026-09-19T22:17:04.042352+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T04:31:02.640568+00:00",
+            "linkedin": "2026-09-20T04:31:27.452288+00:00"
+        },
+        "updated_at": "2026-09-20T04:31:27.452302+00:00"
     },
     "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/": {
         "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
