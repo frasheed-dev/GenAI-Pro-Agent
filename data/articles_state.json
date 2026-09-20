@@ -14977,7 +14977,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-18T23:13:31+00:00",
         "discovered_at": "2026-09-19T04:10:29.568379+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T22:20:48.792149+00:00",
+            "linkedin": "2026-09-20T22:21:12.009845+00:00"
+        },
+        "updated_at": "2026-09-20T22:21:12.009853+00:00"
     },
     "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/": {
         "title": "AI hallucination nearly triggers US military operation",
@@ -15070,6 +15075,46 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-19T14:00:00+00:00",
         "discovered_at": "2026-09-19T22:17:04.042369+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/": {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T21:41:08+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456531+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T22:20:48.773761+00:00",
+            "linkedin": "2026-09-20T22:21:11.991381+00:00"
+        },
+        "updated_at": "2026-09-20T22:21:11.991394+00:00"
+    },
+    "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/": {
+        "title": "World model companies are keeping a lot of secrets",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T20:29:07+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456537+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/": {
+        "title": "Is the AI industry really ready to slow down?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T18:56:04+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456541+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/": {
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T18:32:52+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456545+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/": {
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T18:00:00+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456548+00:00",
         "status": "PENDING"
     }
 }
