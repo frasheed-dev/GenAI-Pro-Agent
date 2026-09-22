@@ -15217,7 +15217,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-21T12:00:00+00:00",
         "discovered_at": "2026-09-21T23:07:24.949095+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T04:24:40.755240+00:00",
+            "linkedin": "2026-09-22T04:25:04.420185+00:00"
+        },
+        "updated_at": "2026-09-22T04:25:04.420199+00:00"
     },
     "https://openai.com/index/building-standards-next-phase-ai": {
         "title": "Building standards for the next phase of AI",
@@ -15262,7 +15267,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-21T19:19:21+00:00",
         "discovered_at": "2026-09-21T23:07:24.949112+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T04:24:40.736634+00:00",
+            "linkedin": "2026-09-22T04:25:04.405331+00:00"
+        },
+        "updated_at": "2026-09-22T04:25:04.405346+00:00"
     },
     "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/": {
         "title": "Meta’s AI agent has been blocked from using Amazon.com",
@@ -15290,6 +15300,13 @@
         "source": "AI News",
         "published_date": "2026-09-21T07:50:48+00:00",
         "discovered_at": "2026-09-21T23:07:24.949130+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/": {
+        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T23:44:28+00:00",
+        "discovered_at": "2026-09-22T04:23:44.291354+00:00",
         "status": "PENDING"
     }
 }
