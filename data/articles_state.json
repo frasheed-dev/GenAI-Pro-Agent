@@ -15111,7 +15111,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-20T18:56:04+00:00",
         "discovered_at": "2026-09-20T22:19:44.456541+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T14:36:57.501596+00:00",
+            "linkedin": "2026-09-22T14:37:31.571068+00:00"
+        },
+        "updated_at": "2026-09-22T14:37:31.571082+00:00"
     },
     "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/": {
         "title": "Vocci’s ring adds a new form factor to meeting note-taking",
@@ -15293,7 +15298,12 @@
         "source": "AI News",
         "published_date": "2026-09-21T15:32:54+00:00",
         "discovered_at": "2026-09-21T23:07:24.949127+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T14:36:57.516329+00:00",
+            "linkedin": "2026-09-22T14:37:31.585741+00:00"
+        },
+        "updated_at": "2026-09-22T14:37:31.585750+00:00"
     },
     "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/": {
         "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
@@ -15307,6 +15317,69 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-21T23:44:28+00:00",
         "discovered_at": "2026-09-22T04:23:44.291354+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/": {
+        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T14:30:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758382+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/": {
+        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T14:15:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758388+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/": {
+        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T14:00:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758393+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/": {
+        "title": "Everyone can find a reason to dislike data center construction",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T13:00:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758396+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/": {
+        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T12:23:05+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758399+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/": {
+        "title": "AutoScheduler launches warehouse app builder for logistics teams",
+        "source": "AI News",
+        "published_date": "2026-09-22T11:34:39+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758405+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/": {
+        "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+        "source": "AI News",
+        "published_date": "2026-09-22T10:00:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758408+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/": {
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-22T13:42:05+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758411+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/": {
+        "title": "Don’t be fooled by this summer of AI hype",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-22T11:04:51+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758414+00:00",
         "status": "PENDING"
     }
 }
