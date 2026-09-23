@@ -15447,7 +15447,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-22T20:00:00+00:00",
         "discovered_at": "2026-09-22T22:51:04.330608+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T14:51:35.704963+00:00",
+            "linkedin": "2026-09-23T14:52:02.192849+00:00"
+        },
+        "updated_at": "2026-09-23T14:52:02.192856+00:00"
     },
     "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/": {
         "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
@@ -15499,6 +15504,95 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-22T23:21:49+00:00",
         "discovered_at": "2026-09-23T04:20:05.269876+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/two-years-of-openai-academy": {
+        "title": "Two years of OpenAI Academy",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T16:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856747+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T13:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856754+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T00:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856757+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/": {
+        "title": "YouTube will let you build your own algorithm with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:30:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856764+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/": {
+        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:30:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856767+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/": {
+        "title": "YouTube releases new AI features for creators within its Studio app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:30:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856769+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T14:51:35.689669+00:00",
+            "linkedin": "2026-09-23T14:52:02.177827+00:00"
+        },
+        "updated_at": "2026-09-23T14:52:02.177842+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/": {
+        "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856772+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/": {
+        "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T13:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856775+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/": {
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T12:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856778+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/": {
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T04:59:08+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856780+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/": {
+        "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+        "source": "AI News",
+        "published_date": "2026-09-23T13:13:15+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856786+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/": {
+        "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+        "source": "AI News",
+        "published_date": "2026-09-23T07:44:17+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856789+00:00",
         "status": "PENDING"
     }
 }
