@@ -15525,14 +15525,24 @@
         "source": "OpenAI",
         "published_date": "2026-09-23T00:00:00+00:00",
         "discovered_at": "2026-09-23T14:50:26.856757+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.674183+00:00",
+            "linkedin": "2026-09-24T04:17:54.828756+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.828763+00:00"
     },
     "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/": {
         "title": "YouTube will let you build your own algorithm with AI",
         "source": "TechCrunch AI",
         "published_date": "2026-09-23T14:30:00+00:00",
         "discovered_at": "2026-09-23T14:50:26.856764+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.585485+00:00",
+            "linkedin": "2026-09-24T04:17:54.739539+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.739545+00:00"
     },
     "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/": {
         "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
@@ -15624,21 +15634,36 @@
         "source": "OpenAI",
         "published_date": "2026-09-23T12:00:00+00:00",
         "discovered_at": "2026-09-23T22:52:21.428286+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.603081+00:00",
+            "linkedin": "2026-09-24T04:17:54.757635+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.757642+00:00"
     },
     "https://openai.com/index/ringg": {
         "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
         "source": "OpenAI",
         "published_date": "2026-09-23T12:00:00+00:00",
         "discovered_at": "2026-09-23T22:52:21.428290+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.621100+00:00",
+            "linkedin": "2026-09-24T04:17:54.775270+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.775277+00:00"
     },
     "https://openai.com/index/introducing-mentalhealthbench": {
         "title": "Introducing MentalHealthBench",
         "source": "OpenAI",
         "published_date": "2026-09-23T10:00:00+00:00",
         "discovered_at": "2026-09-23T22:52:21.428293+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.638878+00:00",
+            "linkedin": "2026-09-24T04:17:54.793584+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.793591+00:00"
     },
     "https://openai.com/index/airbnb-gpt-6-astra": {
         "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
@@ -15657,7 +15682,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-23T22:17:39+00:00",
         "discovered_at": "2026-09-23T22:52:21.428307+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.549965+00:00",
+            "linkedin": "2026-09-24T04:17:54.704183+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.704190+00:00"
     },
     "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/": {
         "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
@@ -15671,7 +15701,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-23T17:00:00+00:00",
         "discovered_at": "2026-09-23T22:52:21.428315+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.567761+00:00",
+            "linkedin": "2026-09-24T04:17:54.721833+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.721840+00:00"
     },
     "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/": {
         "title": "Even Americans who use AI every day are worried about it",
@@ -15697,6 +15732,44 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-09-23T09:00:00+00:00",
         "discovered_at": "2026-09-23T22:52:21.428330+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+        "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T02:00:00+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568829+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.656573+00:00",
+            "linkedin": "2026-09-24T04:17:54.811184+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.811190+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/": {
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T01:13:32+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568839+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.531122+00:00",
+            "linkedin": "2026-09-24T04:17:54.686367+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.686379+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/": {
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T00:46:17+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568843+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/": {
+        "title": "Meta introduces camera-free AI glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T23:39:44+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568847+00:00",
         "status": "PENDING"
     }
 }
