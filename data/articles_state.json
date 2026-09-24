@@ -15587,7 +15587,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-23T12:00:00+00:00",
         "discovered_at": "2026-09-23T14:50:26.856778+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T14:50:25.510196+00:00",
+            "linkedin": "2026-09-24T14:50:55.156809+00:00"
+        },
+        "updated_at": "2026-09-24T14:50:55.156822+00:00"
     },
     "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/": {
         "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
@@ -15732,7 +15737,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-09-23T09:00:00+00:00",
         "discovered_at": "2026-09-23T22:52:21.428330+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T14:50:25.528418+00:00",
+            "linkedin": "2026-09-24T14:50:55.174880+00:00"
+        },
+        "updated_at": "2026-09-24T14:50:55.174893+00:00"
     },
     "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
         "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
@@ -15771,5 +15781,45 @@
         "published_date": "2026-09-23T23:39:44+00:00",
         "discovered_at": "2026-09-24T04:16:25.568847+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/": {
+        "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:43:25+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024928+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/": {
+        "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:31:00+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024937+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/": {
+        "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:30:00+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024941+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/": {
+        "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:00:00+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024945+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/": {
+        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T12:54:19+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024949+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T14:50:25.491624+00:00",
+            "linkedin": "2026-09-24T14:50:55.138279+00:00"
+        },
+        "updated_at": "2026-09-24T14:50:55.138293+00:00"
     }
 }
