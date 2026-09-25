@@ -14453,7 +14453,12 @@
         "source": "AI News",
         "published_date": "2026-09-16T10:31:09+00:00",
         "discovered_at": "2026-09-16T14:45:28.632109+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T22:28:32.412105+00:00",
+            "linkedin": "2026-09-18T22:29:08.676828+00:00"
+        },
+        "updated_at": "2026-09-18T22:29:08.676835+00:00"
     },
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/": {
         "title": "Building the materials foundation for AI",
@@ -14467,7 +14472,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-16T16:00:00+00:00",
         "discovered_at": "2026-09-16T22:49:25.378435+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.461234+00:00",
+            "linkedin": "2026-09-18T14:20:37.731652+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.731658+00:00"
     },
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
         "title": "How to connect AI usage to business value",
@@ -14481,7 +14491,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-16T17:00:00+00:00",
         "discovered_at": "2026-09-16T22:49:25.378446+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.443733+00:00",
+            "linkedin": "2026-09-18T14:20:37.714034+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.714040+00:00"
     },
     "https://openai.com/index/unlocking-new-ways-of-working": {
         "title": "How workers are unlocking new ways of working",
@@ -14558,14 +14573,24 @@
         "source": "AI News",
         "published_date": "2026-09-16T14:47:32+00:00",
         "discovered_at": "2026-09-17T04:29:31.398657+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.753768+00:00",
+            "linkedin": "2026-09-18T04:15:12.092475+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.092488+00:00"
     },
     "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/": {
         "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T14:06:14+00:00",
         "discovered_at": "2026-09-17T14:49:03.806526+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.735659+00:00",
+            "linkedin": "2026-09-18T04:15:12.074756+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.074770+00:00"
     },
     "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/": {
         "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
@@ -14586,7 +14611,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-17T13:38:33+00:00",
         "discovered_at": "2026-09-17T14:49:03.806542+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-17T22:47:45.619785+00:00",
+            "linkedin": "2026-09-17T22:48:21.498601+00:00"
+        },
+        "updated_at": "2026-09-17T22:48:21.498616+00:00"
     },
     "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/": {
         "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
@@ -14607,6 +14637,1329 @@
         "source": "AI News",
         "published_date": "2026-09-17T10:00:00+00:00",
         "discovered_at": "2026-09-17T14:49:03.806555+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/astra-for-law": {
+        "title": "Introducing Astra for Law",
+        "source": "OpenAI",
+        "published_date": "2026-09-17T00:00:00+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484924+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.425900+00:00",
+            "linkedin": "2026-09-18T14:20:37.696658+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.696665+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/": {
+        "title": "PrismML hopes its tiny LLM could change how we all use AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T22:34:09+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484935+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.699866+00:00",
+            "linkedin": "2026-09-18T04:15:12.039428+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.039437+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/": {
+        "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T22:14:59+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484941+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/": {
+        "title": "The fix for rogue AI agents could be more AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:34:47+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484946+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/": {
+        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:34:24+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484949+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-17T22:47:45.600325+00:00",
+            "linkedin": "2026-09-17T22:48:21.480120+00:00"
+        },
+        "updated_at": "2026-09-17T22:48:21.480135+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/": {
+        "title": "Is the AI safety debate about safety or control?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:19:37+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484951+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/": {
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T20:00:00+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484955+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/": {
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T19:46:08+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484959+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.390798+00:00",
+            "linkedin": "2026-09-18T14:20:37.661654+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.661665+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/": {
+        "title": "Even the king of England has his hesitations about AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T17:26:25+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484963+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.717757+00:00",
+            "linkedin": "2026-09-18T04:15:12.057013+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.057023+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/": {
+        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T17:15:59+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484966+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.408409+00:00",
+            "linkedin": "2026-09-18T14:20:37.679204+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.679211+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/": {
+        "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T17:15:00+00:00",
+        "discovered_at": "2026-09-17T22:46:26.484970+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cooley-gopublic": {
+        "title": "How Cooley is accelerating IPO work with ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-09-17T12:00:00+00:00",
+        "discovered_at": "2026-09-18T04:13:50.827310+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.681515+00:00",
+            "linkedin": "2026-09-18T04:15:12.021775+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.021786+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/": {
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T23:25:52+00:00",
+        "discovered_at": "2026-09-18T04:13:50.827323+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T04:14:47.662956+00:00",
+            "linkedin": "2026-09-18T04:15:12.003943+00:00"
+        },
+        "updated_at": "2026-09-18T04:15:12.003961+00:00"
+    },
+    "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/": {
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-17T23:21:17+00:00",
+        "discovered_at": "2026-09-18T04:13:50.827327+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.373198+00:00",
+            "linkedin": "2026-09-18T14:20:37.641621+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.641632+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/": {
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T14:00:14+00:00",
+        "discovered_at": "2026-09-18T14:18:06.088999+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T14:19:48.354858+00:00",
+            "linkedin": "2026-09-18T14:20:37.619375+00:00"
+        },
+        "updated_at": "2026-09-18T14:20:37.619400+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/": {
+        "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T14:00:00+00:00",
+        "discovered_at": "2026-09-18T14:18:06.089006+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/": {
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-18T11:29:22+00:00",
+        "discovered_at": "2026-09-18T14:18:06.089015+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/hex-gpt-6-astra": {
+        "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-16T12:00:00+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492010+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/": {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T21:44:33+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492020+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T04:31:02.655384+00:00",
+            "linkedin": "2026-09-20T04:31:27.466793+00:00"
+        },
+        "updated_at": "2026-09-20T04:31:27.466803+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/": {
+        "title": "World model companies are keeping a lot of secrets",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T20:18:14+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492024+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/": {
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T18:49:30+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492027+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T22:28:32.376904+00:00",
+            "linkedin": "2026-09-18T22:29:08.641936+00:00"
+        },
+        "updated_at": "2026-09-18T22:29:08.641949+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/": {
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T17:59:53+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492030+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T22:18:44.473358+00:00",
+            "linkedin": "2026-09-19T22:19:14.728609+00:00"
+        },
+        "updated_at": "2026-09-19T22:19:14.728620+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/": {
+        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T17:33:50+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492034+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T04:11:33.092057+00:00",
+            "linkedin": "2026-09-19T04:11:57.060529+00:00"
+        },
+        "updated_at": "2026-09-19T04:11:57.060544+00:00"
+    },
+    "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/": {
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T17:09:56+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492037+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T22:18:44.491423+00:00",
+            "linkedin": "2026-09-19T22:19:14.748446+00:00"
+        },
+        "updated_at": "2026-09-19T22:19:14.748456+00:00"
+    },
+    "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/": {
+        "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T17:06:32+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492040+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T04:31:02.672096+00:00",
+            "linkedin": "2026-09-20T04:31:27.485783+00:00"
+        },
+        "updated_at": "2026-09-20T04:31:27.485797+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/": {
+        "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T16:35:49+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492044+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/": {
+        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T15:30:00+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492047+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/": {
+        "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T15:22:48+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492050+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/": {
+        "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T15:00:00+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492053+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.184105+00:00",
+            "linkedin": "2026-09-19T13:51:25.197076+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.197080+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/": {
+        "title": "Gartner outlines four AI tiers in warehouse automation",
+        "source": "AI News",
+        "published_date": "2026-09-18T12:49:34+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492059+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.194294+00:00",
+            "linkedin": "2026-09-19T13:51:25.207201+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.207205+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/": {
+        "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+        "source": "AI News",
+        "published_date": "2026-09-18T09:15:15+00:00",
+        "discovered_at": "2026-09-18T22:26:45.492062+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-18T22:28:32.394845+00:00",
+            "linkedin": "2026-09-18T22:29:08.659450+00:00"
+        },
+        "updated_at": "2026-09-18T22:29:08.659458+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/": {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T01:00:00+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568364+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/": {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T00:12:07+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568371+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/": {
+        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T23:25:01+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568375+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T04:28:38.364467+00:00",
+            "linkedin": "2026-09-21T04:29:06.928727+00:00"
+        },
+        "updated_at": "2026-09-21T04:29:06.928738+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/": {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T23:13:31+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568379+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T22:20:48.792149+00:00",
+            "linkedin": "2026-09-20T22:21:12.009845+00:00"
+        },
+        "updated_at": "2026-09-20T22:21:12.009853+00:00"
+    },
+    "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/": {
+        "title": "AI hallucination nearly triggers US military operation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-18T23:12:32+00:00",
+        "discovered_at": "2026-09-19T04:10:29.568382+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T04:11:33.072452+00:00",
+            "linkedin": "2026-09-19T04:11:57.041691+00:00"
+        },
+        "updated_at": "2026-09-19T04:11:57.041704+00:00"
+    },
+    "https://openai.com/index/australian-youth-safety-blueprint": {
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "source": "OpenAI",
+        "published_date": "2026-09-18T12:00:00+00:00",
+        "discovered_at": "2026-09-19T13:49:35.737661+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.204367+00:00",
+            "linkedin": "2026-09-19T13:51:25.217514+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.217519+00:00"
+    },
+    "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/": {
+        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T13:00:00+00:00",
+        "discovered_at": "2026-09-19T13:49:35.737667+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-19T13:51:03.172998+00:00",
+            "linkedin": "2026-09-19T13:51:25.186643+00:00"
+        },
+        "updated_at": "2026-09-19T13:51:25.186653+00:00"
+    },
+    "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/": {
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T20:39:13+00:00",
+        "discovered_at": "2026-09-19T22:17:04.042341+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T14:05:06.159627+00:00",
+            "linkedin": "2026-09-20T14:05:35.567292+00:00"
+        },
+        "updated_at": "2026-09-20T14:05:35.567305+00:00"
+    },
+    "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/": {
+        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T19:57:47+00:00",
+        "discovered_at": "2026-09-19T22:17:04.042349+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/": {
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T17:30:00+00:00",
+        "discovered_at": "2026-09-19T22:17:04.042352+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T04:31:02.640568+00:00",
+            "linkedin": "2026-09-20T04:31:27.452288+00:00"
+        },
+        "updated_at": "2026-09-20T04:31:27.452302+00:00"
+    },
+    "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/": {
+        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T15:00:00+00:00",
+        "discovered_at": "2026-09-19T22:17:04.042356+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T14:05:06.177320+00:00",
+            "linkedin": "2026-09-20T14:05:35.585100+00:00"
+        },
+        "updated_at": "2026-09-20T14:05:35.585109+00:00"
+    },
+    "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/": {
+        "title": "AI safety conversations have gotten unbelievable",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T15:00:00+00:00",
+        "discovered_at": "2026-09-19T22:17:04.042362+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/": {
+        "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-19T14:00:00+00:00",
+        "discovered_at": "2026-09-19T22:17:04.042369+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/": {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T21:41:08+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456531+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-20T22:20:48.773761+00:00",
+            "linkedin": "2026-09-20T22:21:11.991381+00:00"
+        },
+        "updated_at": "2026-09-20T22:21:11.991394+00:00"
+    },
+    "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/": {
+        "title": "World model companies are keeping a lot of secrets",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T20:29:07+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456537+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T04:28:38.346135+00:00",
+            "linkedin": "2026-09-21T04:29:06.910645+00:00"
+        },
+        "updated_at": "2026-09-21T04:29:06.910658+00:00"
+    },
+    "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/": {
+        "title": "Is the AI industry really ready to slow down?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T18:56:04+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456541+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T14:36:57.501596+00:00",
+            "linkedin": "2026-09-22T14:37:31.571068+00:00"
+        },
+        "updated_at": "2026-09-22T14:37:31.571082+00:00"
+    },
+    "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/": {
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T18:32:52+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456545+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/": {
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-20T18:00:00+00:00",
+        "discovered_at": "2026-09-20T22:19:44.456548+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T16:23:03.172856+00:00",
+            "linkedin": "2026-09-21T16:23:25.051776+00:00"
+        },
+        "updated_at": "2026-09-21T16:23:25.051786+00:00"
+    },
+    "https://openai.com/index/v7": {
+        "title": "How V7 gives AI agents institutional memory",
+        "source": "OpenAI",
+        "published_date": "2026-09-21T00:00:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020188+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T16:23:03.154077+00:00",
+            "linkedin": "2026-09-21T16:23:25.033383+00:00"
+        },
+        "updated_at": "2026-09-21T16:23:25.033396+00:00"
+    },
+    "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/": {
+        "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T15:00:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020196+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/": {
+        "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T14:39:22+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020201+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/": {
+        "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T14:30:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020204+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/": {
+        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T14:15:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020208+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/": {
+        "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-21T12:00:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020218+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/": {
+        "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-21T12:00:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020222+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/": {
+        "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-21T12:00:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020225+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/": {
+        "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-21T12:00:00+00:00",
+        "discovered_at": "2026-09-21T16:22:06.020229+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "source": "OpenAI",
+        "published_date": "2026-09-21T12:00:00+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949089+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T23:08:50.529263+00:00",
+            "linkedin": "2026-09-21T23:09:32.134871+00:00"
+        },
+        "updated_at": "2026-09-21T23:09:32.134880+00:00"
+    },
+    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+        "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-21T12:00:00+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949095+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T04:24:40.755240+00:00",
+            "linkedin": "2026-09-22T04:25:04.420185+00:00"
+        },
+        "updated_at": "2026-09-22T04:25:04.420199+00:00"
+    },
+    "https://openai.com/index/building-standards-next-phase-ai": {
+        "title": "Building standards for the next phase of AI",
+        "source": "OpenAI",
+        "published_date": "2026-09-21T10:00:00+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949098+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T23:08:50.543094+00:00",
+            "linkedin": "2026-09-21T23:09:32.148389+00:00"
+        },
+        "updated_at": "2026-09-21T23:09:32.148398+00:00"
+    },
+    "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+        "title": "Expanding OpenAI Academy with new learning paths",
+        "source": "OpenAI",
+        "published_date": "2026-09-21T07:00:00+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949101+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/": {
+        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T20:15:58+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949104+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-21T23:08:50.515241+00:00",
+            "linkedin": "2026-09-21T23:09:32.121044+00:00"
+        },
+        "updated_at": "2026-09-21T23:09:32.121060+00:00"
+    },
+    "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/": {
+        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T19:25:00+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949107+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/": {
+        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T19:19:21+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949112+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T04:24:40.736634+00:00",
+            "linkedin": "2026-09-22T04:25:04.405331+00:00"
+        },
+        "updated_at": "2026-09-22T04:25:04.405346+00:00"
+    },
+    "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/": {
+        "title": "Meta’s AI agent has been blocked from using Amazon.com",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T17:55:18+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949116+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/": {
+        "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T16:38:51+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949119+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/": {
+        "title": "Multi-agent AI systems are taking over supply chain execution",
+        "source": "AI News",
+        "published_date": "2026-09-21T15:32:54+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949127+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T14:36:57.516329+00:00",
+            "linkedin": "2026-09-22T14:37:31.585741+00:00"
+        },
+        "updated_at": "2026-09-22T14:37:31.585750+00:00"
+    },
+    "https://www.artificialintelligence-news.com/news/how-to-improve-visibility-across-your-enterprise-ai-ecosystem/": {
+        "title": "How to Improve Visibility Across Your Enterprise AI Ecosystem",
+        "source": "AI News",
+        "published_date": "2026-09-21T07:50:48+00:00",
+        "discovered_at": "2026-09-21T23:07:24.949130+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/": {
+        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-21T23:44:28+00:00",
+        "discovered_at": "2026-09-22T04:23:44.291354+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/": {
+        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T14:30:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758382+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/": {
+        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T14:15:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758388+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/": {
+        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T14:00:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758393+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/": {
+        "title": "Everyone can find a reason to dislike data center construction",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T13:00:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758396+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/": {
+        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T12:23:05+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758399+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/": {
+        "title": "AutoScheduler launches warehouse app builder for logistics teams",
+        "source": "AI News",
+        "published_date": "2026-09-22T11:34:39+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758405+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/": {
+        "title": "Toyota’s $6.4bn robotics estimate puts physical AI in focus",
+        "source": "AI News",
+        "published_date": "2026-09-22T10:00:00+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758408+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/": {
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-22T13:42:05+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758411+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/": {
+        "title": "Don’t be fooled by this summer of AI hype",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-22T11:04:51+00:00",
+        "discovered_at": "2026-09-22T14:35:33.758414+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/better-prompt-caching-for-gpt-6": {
+        "title": "Better prompt caching for GPT-6",
+        "source": "OpenAI",
+        "published_date": "2026-09-22T21:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330583+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T22:52:07.086998+00:00",
+            "linkedin": "2026-09-22T22:52:30.036740+00:00"
+        },
+        "updated_at": "2026-09-22T22:52:30.036759+00:00"
+    },
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
+        "title": "Introducing GPT-6 Sol and Luna",
+        "source": "OpenAI",
+        "published_date": "2026-09-22T18:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330590+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T22:52:07.123467+00:00",
+            "linkedin": "2026-09-22T22:52:30.090542+00:00"
+        },
+        "updated_at": "2026-09-22T22:52:30.090561+00:00"
+    },
+    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
+        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-22T12:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330593+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T04:21:21.051024+00:00",
+            "linkedin": "2026-09-23T04:21:55.844924+00:00"
+        },
+        "updated_at": "2026-09-23T04:21:55.844931+00:00"
+    },
+    "https://openai.com/index/priorities-principles-third-party-assessments": {
+        "title": "Priorities and principles for effective third party assessments",
+        "source": "OpenAI",
+        "published_date": "2026-09-22T00:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330597+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T04:21:21.069468+00:00",
+            "linkedin": "2026-09-23T04:21:55.863226+00:00"
+        },
+        "updated_at": "2026-09-23T04:21:55.863235+00:00"
+    },
+    "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/": {
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T21:56:43+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330604+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T04:21:21.013783+00:00",
+            "linkedin": "2026-09-23T04:21:55.808218+00:00"
+        },
+        "updated_at": "2026-09-23T04:21:55.808231+00:00"
+    },
+    "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/": {
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T20:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330608+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T14:51:35.704963+00:00",
+            "linkedin": "2026-09-23T14:52:02.192849+00:00"
+        },
+        "updated_at": "2026-09-23T14:52:02.192856+00:00"
+    },
+    "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/": {
+        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T19:09:11+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330611+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/": {
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T18:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330614+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-22T22:52:07.103337+00:00",
+            "linkedin": "2026-09-22T22:52:30.053281+00:00"
+        },
+        "updated_at": "2026-09-22T22:52:30.053294+00:00"
+    },
+    "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/": {
+        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T16:30:07+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330617+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T04:21:21.032701+00:00",
+            "linkedin": "2026-09-23T04:21:55.826651+00:00"
+        },
+        "updated_at": "2026-09-23T04:21:55.826659+00:00"
+    },
+    "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/": {
+        "title": "AstroForge is putting AI in command of its next spacecraft",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T15:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330619+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/": {
+        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T15:00:00+00:00",
+        "discovered_at": "2026-09-22T22:51:04.330622+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/": {
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-22T23:21:49+00:00",
+        "discovered_at": "2026-09-23T04:20:05.269876+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/two-years-of-openai-academy": {
+        "title": "Two years of OpenAI Academy",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T16:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856747+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+        "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T13:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856754+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T00:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856757+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.674183+00:00",
+            "linkedin": "2026-09-24T04:17:54.828756+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.828763+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/": {
+        "title": "YouTube will let you build your own algorithm with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:30:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856764+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.585485+00:00",
+            "linkedin": "2026-09-24T04:17:54.739539+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.739545+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/": {
+        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:30:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856767+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/": {
+        "title": "YouTube releases new AI features for creators within its Studio app",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:30:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856769+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T14:51:35.689669+00:00",
+            "linkedin": "2026-09-23T14:52:02.177827+00:00"
+        },
+        "updated_at": "2026-09-23T14:52:02.177842+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/": {
+        "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T14:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856772+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/": {
+        "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T13:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856775+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T22:53:18.794204+00:00",
+            "linkedin": "2026-09-23T22:53:44.098430+00:00"
+        },
+        "updated_at": "2026-09-23T22:53:44.098438+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/": {
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T12:00:00+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856778+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T14:50:25.510196+00:00",
+            "linkedin": "2026-09-24T14:50:55.156809+00:00"
+        },
+        "updated_at": "2026-09-24T14:50:55.156822+00:00"
+    },
+    "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/": {
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T04:59:08+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856780+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/": {
+        "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+        "source": "AI News",
+        "published_date": "2026-09-23T13:13:15+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856786+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/": {
+        "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+        "source": "AI News",
+        "published_date": "2026-09-23T07:44:17+00:00",
+        "discovered_at": "2026-09-23T14:50:26.856789+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/sam-altman-un-security-council-remarks": {
+        "title": "Sam Altman’s remarks at the United Nations Security Council",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T12:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428274+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T12:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428282+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T22:53:18.813336+00:00",
+            "linkedin": "2026-09-23T22:53:44.117510+00:00"
+        },
+        "updated_at": "2026-09-23T22:53:44.117518+00:00"
+    },
+    "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+        "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T12:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428286+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.603081+00:00",
+            "linkedin": "2026-09-24T04:17:54.757635+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.757642+00:00"
+    },
+    "https://openai.com/index/ringg": {
+        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T12:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428290+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.621100+00:00",
+            "linkedin": "2026-09-24T04:17:54.775270+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.775277+00:00"
+    },
+    "https://openai.com/index/introducing-mentalhealthbench": {
+        "title": "Introducing MentalHealthBench",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T10:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428293+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.638878+00:00",
+            "linkedin": "2026-09-24T04:17:54.793584+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.793591+00:00"
+    },
+    "https://openai.com/index/airbnb-gpt-6-astra": {
+        "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T01:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428300+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T22:53:18.832326+00:00",
+            "linkedin": "2026-09-23T22:53:44.136750+00:00"
+        },
+        "updated_at": "2026-09-23T22:53:44.136758+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/": {
+        "title": "Anthropic says its biology lab has already found something big",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T22:17:39+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428307+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.549965+00:00",
+            "linkedin": "2026-09-24T04:17:54.704183+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.704190+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/": {
+        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T19:31:28+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428312+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T23:09:41.401498+00:00",
+            "linkedin": "2026-09-24T23:10:13.047409+00:00"
+        },
+        "updated_at": "2026-09-24T23:10:13.047419+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/": {
+        "title": "ChatGPT mobile app gets voice-based agentic features",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T17:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428315+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.567761+00:00",
+            "linkedin": "2026-09-24T04:17:54.721833+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.721840+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/": {
+        "title": "Even Americans who use AI every day are worried about it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T16:49:58+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428318+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/": {
+        "title": "YouTube Music gets more conversational with new AI features",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T15:19:30+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428321+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-23T22:53:18.774721+00:00",
+            "linkedin": "2026-09-23T22:53:44.079232+00:00"
+        },
+        "updated_at": "2026-09-23T22:53:44.079245+00:00"
+    },
+    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/": {
+        "title": "The AI Hype Index: AI loves cheating",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-23T09:00:00+00:00",
+        "discovered_at": "2026-09-23T22:52:21.428330+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T14:50:25.528418+00:00",
+            "linkedin": "2026-09-24T14:50:55.174880+00:00"
+        },
+        "updated_at": "2026-09-24T14:50:55.174893+00:00"
+    },
+    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+        "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+        "source": "OpenAI",
+        "published_date": "2026-09-23T02:00:00+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568829+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.656573+00:00",
+            "linkedin": "2026-09-24T04:17:54.811184+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.811190+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/": {
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T01:13:32+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568839+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T04:17:33.531122+00:00",
+            "linkedin": "2026-09-24T04:17:54.686367+00:00"
+        },
+        "updated_at": "2026-09-24T04:17:54.686379+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/": {
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T00:46:17+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568843+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T04:29:25.733496+00:00",
+            "linkedin": "2026-09-25T04:29:48.896009+00:00"
+        },
+        "updated_at": "2026-09-25T04:29:48.896019+00:00"
+    },
+    "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/": {
+        "title": "Meta introduces camera-free AI glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-23T23:39:44+00:00",
+        "discovered_at": "2026-09-24T04:16:25.568847+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/": {
+        "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:43:25+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024928+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/": {
+        "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:31:00+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024937+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T15:07:42.580355+00:00",
+            "linkedin": "2026-09-25T15:08:16.285698+00:00"
+        },
+        "updated_at": "2026-09-25T15:08:16.285712+00:00"
+    },
+    "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/": {
+        "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:30:00+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024941+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T15:07:42.598821+00:00",
+            "linkedin": "2026-09-25T15:08:16.303670+00:00"
+        },
+        "updated_at": "2026-09-25T15:08:16.303677+00:00"
+    },
+    "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/": {
+        "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T14:00:00+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024945+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/": {
+        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T12:54:19+00:00",
+        "discovered_at": "2026-09-24T14:49:27.024949+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T14:50:25.491624+00:00",
+            "linkedin": "2026-09-24T14:50:55.138279+00:00"
+        },
+        "updated_at": "2026-09-24T14:50:55.138293+00:00"
+    },
+    "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/": {
+        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T19:15:00+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808150+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/": {
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T19:00:42+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808157+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T23:09:41.363167+00:00",
+            "linkedin": "2026-09-24T23:10:13.009715+00:00"
+        },
+        "updated_at": "2026-09-24T23:10:13.009730+00:00"
+    },
+    "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/": {
+        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T18:11:44+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808162+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/": {
+        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T17:39:24+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808165+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/": {
+        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T17:00:00+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808169+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T04:29:25.715148+00:00",
+            "linkedin": "2026-09-25T04:29:48.877775+00:00"
+        },
+        "updated_at": "2026-09-25T04:29:48.877789+00:00"
+    },
+    "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/": {
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T16:46:47+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808172+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/": {
+        "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T16:35:13+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808175+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/": {
+        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T16:03:36+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808179+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/": {
+        "title": "Google tests letting Gemini call businesses for you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T16:00:00+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808182+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-24T23:09:41.382519+00:00",
+            "linkedin": "2026-09-24T23:10:13.028703+00:00"
+        },
+        "updated_at": "2026-09-24T23:10:13.028716+00:00"
+    },
+    "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/": {
+        "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-24T15:00:00+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808186+00:00",
+        "status": "PENDING"
+    },
+    "https://www.artificialintelligence-news.com/news/google-gemini-3-8-flash-tts-voice-models/": {
+        "title": "Google launches Gemini 3.8 Flash TTS voice models",
+        "source": "AI News",
+        "published_date": "2026-09-24T16:09:02+00:00",
+        "discovered_at": "2026-09-24T23:08:19.808191+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/": {
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T14:15:00+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064413+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/": {
+        "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T14:00:00+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064421+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/": {
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T05:00:00+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064425+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/": {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-25T09:16:25+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064434+00:00",
         "status": "PENDING"
     }
 }
