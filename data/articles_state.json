@@ -15960,6 +15960,148 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-09-25T09:16:25+00:00",
         "discovered_at": "2026-09-25T15:06:20.064434+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T23:14:48.662494+00:00",
+            "linkedin": "2026-09-25T23:15:24.734397+00:00"
+        },
+        "updated_at": "2026-09-25T23:15:24.734406+00:00"
+    },
+    "https://openai.com/index/proaction": {
+        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-09-25T19:00:00+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807402+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/": {
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T23:11:10+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807414+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/": {
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T22:20:47+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807418+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T23:14:48.585035+00:00",
+            "linkedin": "2026-09-25T23:15:24.657546+00:00"
+        },
+        "updated_at": "2026-09-25T23:15:24.657561+00:00"
+    },
+    "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/": {
+        "title": "Meta opens early access program for new Muse features",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T20:34:53+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807420+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/": {
+        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T19:13:38+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807423+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/": {
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T18:48:33+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807425+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/": {
+        "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T18:33:59+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807428+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T23:14:48.600229+00:00",
+            "linkedin": "2026-09-25T23:15:24.672623+00:00"
+        },
+        "updated_at": "2026-09-25T23:15:24.672638+00:00"
+    },
+    "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/": {
+        "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T18:22:47+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807431+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T23:14:48.617945+00:00",
+            "linkedin": "2026-09-25T23:15:24.689913+00:00"
+        },
+        "updated_at": "2026-09-25T23:15:24.689926+00:00"
+    },
+    "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/": {
+        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T17:29:46+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807434+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/": {
+        "title": "Astra and Opus just passed Turing’s other test",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T17:24:36+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807436+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T23:14:48.632656+00:00",
+            "linkedin": "2026-09-25T23:15:24.704513+00:00"
+        },
+        "updated_at": "2026-09-25T23:15:24.704525+00:00"
+    },
+    "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/": {
+        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T16:16:52+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807439+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T23:14:48.647762+00:00",
+            "linkedin": "2026-09-25T23:15:24.719765+00:00"
+        },
+        "updated_at": "2026-09-25T23:15:24.719775+00:00"
+    },
+    "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/": {
+        "title": "Meta’s AI Tamagotchi bet is…working?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T16:00:00+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807441+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/": {
+        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T15:48:14+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807444+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/": {
+        "title": "Anthropic’s founders seek voting control ahead of IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T15:40:03+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807446+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/": {
+        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T15:00:00+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807449+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum/": {
+        "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5 of 5 to attend: Momentum",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T14:00:00+00:00",
+        "discovered_at": "2026-09-25T23:13:14.807451+00:00",
         "status": "PENDING"
     }
 }
