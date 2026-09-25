@@ -53,18 +53,22 @@ def generate_background(prompt, width=1080, height=1350, force_fallback=False):
         print("⚡ Force Fallback requested: Skipping AI services and using programmatic dark bluish background.")
         return generate_fallback_background(width, height)
 
+    # Append strict negative text rules to ensure AI image generators never render ghost text in artwork
+    negative_suffix = ", flat editorial digital illustration, no text, no words, no letters, no typography, no captions, no watermarks, no titles, no logos"
+    clean_prompt = prompt if "no text" in prompt.lower() else f"{prompt}{negative_suffix}"
+
     together_key = os.getenv("TOGETHER_API_KEY")
     hf_token = os.getenv("HF_TOKEN")
     gemini_key = os.getenv("GEMINI_API_KEY")
 
     # 1. Primary Method: Google Nano Banana (gemini-2.5-flash-image)
     if gemini_key:
-        print(f"Generating background image via Google Nano Banana (gemini-2.5-flash-image) for: {prompt}")
+        print(f"Generating background image via Google Nano Banana (gemini-2.5-flash-image) for: {clean_prompt}")
         try:
             import google.generativeai as genai
             genai.configure(api_key=gemini_key)
             model = genai.GenerativeModel('gemini-2.5-flash-image')
-            response = model.generate_content(prompt)
+            response = model.generate_content(clean_prompt)
 
             # Nano Banana returns content parts, we must extract the inline_data
             for part in response.candidates[0].content.parts:
@@ -80,11 +84,11 @@ def generate_background(prompt, width=1080, height=1350, force_fallback=False):
     # 2. Fallback Method: Gradio Free Space (ZeroGPU)
     try:
         from gradio_client import Client
-        print(f"Generating background image via Hugging Face Space (FLUX) for: {prompt}")
+        print(f"Generating background image via Hugging Face Space (FLUX) for: {clean_prompt}")
         client = Client("KingNish/Realtime-FLUX", token=hf_token)
 
         result = client.predict(
-            prompt=prompt,
+            prompt=clean_prompt,
             seed=0,
             width=1024,
             height=1024,
@@ -98,22 +102,22 @@ def generate_background(prompt, width=1080, height=1350, force_fallback=False):
         print("Falling back to Hugging Face SDK...")
 
     if hf_token:
-        print(f"Generating background image via Hugging Face (SDXL) for: {prompt}")
+        print(f"Generating background image via Hugging Face (SDXL) for: {clean_prompt}")
         try:
             # Use the official SDK to handle dynamic routing, endpoints, and DNS issues gracefully
             from huggingface_hub import InferenceClient
             client = InferenceClient(token=hf_token)
 
             # Text-to-image returns a PIL Image directly
-            img = client.text_to_image(prompt, model="stabilityai/stable-diffusion-xl-base-1.0")
+            img = client.text_to_image(clean_prompt, model="stabilityai/stable-diffusion-xl-base-1.0")
             return img
         except Exception as e:
             print(f"Hugging Face API connection error: {e}")
             print("Falling back to pollinations.ai...")
 
-    print(f"Generating background image via pollinations.ai for: {prompt}")
+    print(f"Generating background image via pollinations.ai for: {clean_prompt}")
     try:
-        url = f"https://image.pollinations.ai/prompt/{quote(prompt)}?width={width}&height={height}&nologo=true"
+        url = f"https://image.pollinations.ai/prompt/{quote(clean_prompt)}?width={width}&height={height}&nologo=true"
 
         pollinations_key = os.getenv("POLLINATIONS_API_KEY")
         if pollinations_key:
