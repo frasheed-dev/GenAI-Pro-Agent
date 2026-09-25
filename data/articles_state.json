@@ -15804,14 +15804,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-24T14:31:00+00:00",
         "discovered_at": "2026-09-24T14:49:27.024937+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T15:07:42.580355+00:00",
+            "linkedin": "2026-09-25T15:08:16.285698+00:00"
+        },
+        "updated_at": "2026-09-25T15:08:16.285712+00:00"
     },
     "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/": {
         "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
         "source": "TechCrunch AI",
         "published_date": "2026-09-24T14:30:00+00:00",
         "discovered_at": "2026-09-24T14:49:27.024941+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T15:07:42.598821+00:00",
+            "linkedin": "2026-09-25T15:08:16.303670+00:00"
+        },
+        "updated_at": "2026-09-25T15:08:16.303677+00:00"
     },
     "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/": {
         "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
@@ -15922,6 +15932,34 @@
         "source": "AI News",
         "published_date": "2026-09-24T16:09:02+00:00",
         "discovered_at": "2026-09-24T23:08:19.808191+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/": {
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T14:15:00+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064413+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/": {
+        "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T14:00:00+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064421+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/": {
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-25T05:00:00+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064425+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/": {
+        "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-25T09:16:25+00:00",
+        "discovered_at": "2026-09-25T15:06:20.064434+00:00",
         "status": "PENDING"
     }
 }
