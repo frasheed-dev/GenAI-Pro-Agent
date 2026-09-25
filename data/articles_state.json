@@ -15778,7 +15778,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-24T00:46:17+00:00",
         "discovered_at": "2026-09-24T04:16:25.568843+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T04:29:25.733496+00:00",
+            "linkedin": "2026-09-25T04:29:48.896009+00:00"
+        },
+        "updated_at": "2026-09-25T04:29:48.896019+00:00"
     },
     "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/": {
         "title": "Meta introduces camera-free AI glasses",
@@ -15865,7 +15870,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-24T17:00:00+00:00",
         "discovered_at": "2026-09-24T23:08:19.808169+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-25T04:29:25.715148+00:00",
+            "linkedin": "2026-09-25T04:29:48.877775+00:00"
+        },
+        "updated_at": "2026-09-25T04:29:48.877789+00:00"
     },
     "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/": {
         "title": "TechCrunch Founder Summit 2026: Everything you need to know",
