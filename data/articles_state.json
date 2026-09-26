@@ -16010,7 +16010,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-25T19:13:38+00:00",
         "discovered_at": "2026-09-25T23:13:14.807423+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-26T14:19:21.478510+00:00",
+            "linkedin": "2026-09-26T14:19:46.948816+00:00"
+        },
+        "updated_at": "2026-09-26T14:19:46.948826+00:00"
     },
     "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/": {
         "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
@@ -16091,7 +16096,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-25T15:48:14+00:00",
         "discovered_at": "2026-09-25T23:13:14.807444+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-26T14:19:21.465474+00:00",
+            "linkedin": "2026-09-26T14:19:46.936007+00:00"
+        },
+        "updated_at": "2026-09-26T14:19:46.936023+00:00"
     },
     "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/": {
         "title": "Anthropic’s founders seek voting control ahead of IPO",
@@ -16119,6 +16129,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-26T01:08:57+00:00",
         "discovered_at": "2026-09-26T04:33:10.299363+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/": {
+        "title": "I created an interactive digital avatar of myself — and you can talk to it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-26T14:00:00+00:00",
+        "discovered_at": "2026-09-26T14:18:15.595410+00:00",
         "status": "PENDING"
     }
 }
