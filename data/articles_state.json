@@ -16008,7 +16008,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-25T20:34:53+00:00",
         "discovered_at": "2026-09-25T23:13:14.807420+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-27T22:56:45.501894+00:00",
+            "linkedin": "2026-09-27T22:57:23.147856+00:00"
+        },
+        "updated_at": "2026-09-27T22:57:23.147871+00:00"
     },
     "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/": {
         "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
@@ -16144,7 +16149,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-26T01:08:57+00:00",
         "discovered_at": "2026-09-26T04:33:10.299363+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-27T22:56:45.488123+00:00",
+            "linkedin": "2026-09-27T22:57:23.134949+00:00"
+        },
+        "updated_at": "2026-09-27T22:57:23.134969+00:00"
     },
     "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/": {
         "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -16181,5 +16191,26 @@
             "linkedin": "2026-09-27T04:55:34.840775+00:00"
         },
         "updated_at": "2026-09-27T04:55:34.840790+00:00"
+    },
+    "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/": {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-27T20:34:28+00:00",
+        "discovered_at": "2026-09-27T22:55:40.866081+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/": {
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-27T19:57:30+00:00",
+        "discovered_at": "2026-09-27T22:55:40.866088+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/": {
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-27T16:30:00+00:00",
+        "discovered_at": "2026-09-27T22:55:40.866091+00:00",
+        "status": "PENDING"
     }
 }
