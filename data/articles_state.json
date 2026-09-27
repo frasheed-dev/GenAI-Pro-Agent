@@ -16058,7 +16058,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-25T17:29:46+00:00",
         "discovered_at": "2026-09-25T23:13:14.807434+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-27T15:04:55.361414+00:00",
+            "linkedin": "2026-09-27T15:05:21.200538+00:00"
+        },
+        "updated_at": "2026-09-27T15:05:21.200547+00:00"
     },
     "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/": {
         "title": "Astra and Opus just passed Turing’s other test",
@@ -16146,7 +16151,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-26T14:00:00+00:00",
         "discovered_at": "2026-09-26T14:18:15.595410+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-27T15:04:55.342661+00:00",
+            "linkedin": "2026-09-27T15:05:21.182004+00:00"
+        },
+        "updated_at": "2026-09-27T15:05:21.182018+00:00"
     },
     "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/": {
         "title": "Insurers claim AI is already increasing healthcare costs",
