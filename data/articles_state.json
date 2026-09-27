@@ -16113,7 +16113,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-25T15:40:03+00:00",
         "discovered_at": "2026-09-25T23:13:14.807446+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-27T04:55:02.062466+00:00",
+            "linkedin": "2026-09-27T04:55:34.857997+00:00"
+        },
+        "updated_at": "2026-09-27T04:55:34.858012+00:00"
     },
     "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/": {
         "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
@@ -16154,5 +16159,17 @@
             "linkedin": "2026-09-26T22:38:09.501009+00:00"
         },
         "updated_at": "2026-09-26T22:38:09.501026+00:00"
+    },
+    "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/": {
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-27T01:30:00+00:00",
+        "discovered_at": "2026-09-27T04:51:30.824393+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-27T04:55:02.045413+00:00",
+            "linkedin": "2026-09-27T04:55:34.840775+00:00"
+        },
+        "updated_at": "2026-09-27T04:55:34.840790+00:00"
     }
 }
