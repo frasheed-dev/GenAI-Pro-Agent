@@ -16202,7 +16202,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-27T20:34:28+00:00",
         "discovered_at": "2026-09-27T22:55:40.866081+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T18:04:01.863242+00:00",
+            "linkedin": "2026-09-28T18:04:31.753446+00:00"
+        },
+        "updated_at": "2026-09-28T18:04:31.753460+00:00"
     },
     "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/": {
         "title": "Can Muse overcome Meta’s trust issues?",
@@ -16222,5 +16227,128 @@
         "published_date": "2026-09-27T16:30:00+00:00",
         "discovered_at": "2026-09-27T22:55:40.866091+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/lenfest-ai-collaborative-expansion": {
+        "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "source": "OpenAI",
+        "published_date": "2026-09-28T07:00:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891714+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/": {
+        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T18:00:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891722+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T18:04:01.769946+00:00",
+            "linkedin": "2026-09-28T18:04:31.658340+00:00"
+        },
+        "updated_at": "2026-09-28T18:04:31.658354+00:00"
+    },
+    "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/": {
+        "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T17:29:50+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891726+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/": {
+        "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T17:09:02+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891730+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/": {
+        "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T16:52:38+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891733+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T18:04:01.807959+00:00",
+            "linkedin": "2026-09-28T18:04:31.696344+00:00"
+        },
+        "updated_at": "2026-09-28T18:04:31.696358+00:00"
+    },
+    "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/": {
+        "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T15:30:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891736+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T18:04:01.826447+00:00",
+            "linkedin": "2026-09-28T18:04:31.715376+00:00"
+        },
+        "updated_at": "2026-09-28T18:04:31.715390+00:00"
+    },
+    "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/": {
+        "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T15:00:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891742+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/": {
+        "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T14:30:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891745+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/": {
+        "title": "Modulate raises $25M for its voice models and analysis suite",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T14:05:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891749+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/": {
+        "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T14:00:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891753+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/": {
+        "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T14:00:00+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891756+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/": {
+        "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T13:38:48+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891760+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/": {
+        "title": "When can we say AI made a scientific discovery?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-28T17:03:16+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891766+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T18:04:01.789542+00:00",
+            "linkedin": "2026-09-28T18:04:31.677527+00:00"
+        },
+        "updated_at": "2026-09-28T18:04:31.677541+00:00"
+    },
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/": {
+        "title": "Who’s liable when AI agents go rogue?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-28T08:06:22+00:00",
+        "discovered_at": "2026-09-28T18:03:01.891769+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T18:04:01.844842+00:00",
+            "linkedin": "2026-09-28T18:04:31.734286+00:00"
+        },
+        "updated_at": "2026-09-28T18:04:31.734299+00:00"
     }
 }
