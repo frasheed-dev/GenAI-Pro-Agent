@@ -16032,7 +16032,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-25T18:48:33+00:00",
         "discovered_at": "2026-09-25T23:13:14.807425+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T04:55:02.405299+00:00",
+            "linkedin": "2026-09-28T04:55:53.393925+00:00"
+        },
+        "updated_at": "2026-09-28T04:55:53.393940+00:00"
     },
     "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/": {
         "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
@@ -16204,7 +16209,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-27T19:57:30+00:00",
         "discovered_at": "2026-09-27T22:55:40.866088+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-28T04:55:02.385682+00:00",
+            "linkedin": "2026-09-28T04:55:53.375037+00:00"
+        },
+        "updated_at": "2026-09-28T04:55:53.375051+00:00"
     },
     "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/": {
         "title": "Anthropic’s Dario Amodei gets the SNL treatment",
