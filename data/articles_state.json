@@ -16513,5 +16513,125 @@
         "published_date": "2026-09-29T10:43:45+00:00",
         "discovered_at": "2026-09-29T16:26:29.005634+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-gpt-6-1-sol": {
+        "title": "Introducing GPT-6.1 Sol",
+        "source": "OpenAI",
+        "published_date": "2026-09-29T10:00:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632183+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/devday-2026-recap": {
+        "title": "DevDay 2026 Recap",
+        "source": "OpenAI",
+        "published_date": "2026-09-29T10:00:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632190+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-dots": {
+        "title": "Introducing dots",
+        "source": "OpenAI",
+        "published_date": "2026-09-29T00:00:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632194+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/": {
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T23:30:55+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632201+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/": {
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T22:20:59+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632204+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/": {
+        "title": "OpenAI’s latest features take direct aim at the app store model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T20:15:47+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632208+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/": {
+        "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T19:52:37+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632211+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T23:36:23.749168+00:00",
+            "linkedin": "2026-09-29T23:36:47.783747+00:00"
+        },
+        "updated_at": "2026-09-29T23:36:47.783759+00:00"
+    },
+    "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/": {
+        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T18:35:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632214+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/": {
+        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T17:45:51+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632218+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/": {
+        "title": "AI-powered app maker Wabi pivots to a messaging experience",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T17:20:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632221+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/": {
+        "title": "OpenAI launches Dots, its bubbly agentic avatar",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T17:17:15+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632224+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T23:36:23.770093+00:00",
+            "linkedin": "2026-09-29T23:36:47.802966+00:00"
+        },
+        "updated_at": "2026-09-29T23:36:47.802974+00:00"
+    },
+    "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/": {
+        "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T17:15:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632227+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/": {
+        "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T17:15:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632230+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/": {
+        "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T17:15:00+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632233+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T23:36:23.789480+00:00",
+            "linkedin": "2026-09-29T23:36:47.822276+00:00"
+        },
+        "updated_at": "2026-09-29T23:36:47.822284+00:00"
+    },
+    "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/": {
+        "title": "Can a chatbot fix the government maze? The White House is about to find out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T16:55:56+00:00",
+        "discovered_at": "2026-09-29T23:35:23.632237+00:00",
+        "status": "PENDING"
     }
 }
