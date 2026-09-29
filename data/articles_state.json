@@ -16233,7 +16233,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-28T07:00:00+00:00",
         "discovered_at": "2026-09-28T18:03:01.891714+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T00:19:36.670323+00:00",
+            "linkedin": "2026-09-29T00:20:07.277055+00:00"
+        },
+        "updated_at": "2026-09-29T00:20:07.277063+00:00"
     },
     "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/": {
         "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
@@ -16350,5 +16355,66 @@
             "linkedin": "2026-09-28T18:04:31.734286+00:00"
         },
         "updated_at": "2026-09-28T18:04:31.734299+00:00"
+    },
+    "https://openai.com/form/codex-originals": {
+        "title": "Are you a Codex Original?",
+        "source": "OpenAI",
+        "published_date": "2026-09-28T00:00:00+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500468+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/basis-tax-workbook-with-astra": {
+        "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-09-28T00:00:00+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500475+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/": {
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T23:39:20+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500479+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/": {
+        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T21:29:18+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500483+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/": {
+        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T20:39:33+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500487+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/": {
+        "title": "Shopify opens checkout to browser-based AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T19:33:57+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500490+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/": {
+        "title": "Nvidia launches new platform for reining in rogue AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T18:31:23+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500496+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T00:19:36.651268+00:00",
+            "linkedin": "2026-09-29T00:20:07.258258+00:00"
+        },
+        "updated_at": "2026-09-29T00:20:07.258273+00:00"
+    },
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/": {
+        "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-28T22:17:07+00:00",
+        "discovered_at": "2026-09-29T00:18:08.500505+00:00",
+        "status": "PENDING"
     }
 }
