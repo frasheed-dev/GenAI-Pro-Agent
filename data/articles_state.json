@@ -16257,7 +16257,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-28T17:29:50+00:00",
         "discovered_at": "2026-09-28T18:03:01.891726+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T16:27:35.138142+00:00",
+            "linkedin": "2026-09-29T16:27:58.701529+00:00"
+        },
+        "updated_at": "2026-09-29T16:27:58.701536+00:00"
     },
     "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/": {
         "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
@@ -16295,7 +16300,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-28T15:00:00+00:00",
         "discovered_at": "2026-09-28T18:03:01.891742+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T16:27:35.157608+00:00",
+            "linkedin": "2026-09-29T16:27:58.720639+00:00"
+        },
+        "updated_at": "2026-09-29T16:27:58.720654+00:00"
     },
     "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/": {
         "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
@@ -16396,7 +16406,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-28T19:33:57+00:00",
         "discovered_at": "2026-09-29T00:18:08.500490+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T16:27:35.119033+00:00",
+            "linkedin": "2026-09-29T16:27:58.682913+00:00"
+        },
+        "updated_at": "2026-09-29T16:27:58.682920+00:00"
     },
     "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/": {
         "title": "Nvidia launches new platform for reining in rogue AI agents",
@@ -16415,6 +16430,88 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-09-28T22:17:07+00:00",
         "discovered_at": "2026-09-29T00:18:08.500505+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/how-we-will-do-better-for-australia": {
+        "title": "How we will do better for Australia",
+        "source": "OpenAI",
+        "published_date": "2026-09-28T19:00:00+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005588+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+        "title": "Towards safety cases for frontier AI training",
+        "source": "OpenAI",
+        "published_date": "2026-09-28T19:00:00+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005596+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/": {
+        "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T15:12:07+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005601+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/": {
+        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T13:53:01+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005604+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/": {
+        "title": "Meta is expanding its AI agent Muse to small businesses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T13:47:30+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005610+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/": {
+        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T12:45:05+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005614+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-29T16:27:35.099440+00:00",
+            "linkedin": "2026-09-29T16:27:58.664204+00:00"
+        },
+        "updated_at": "2026-09-29T16:27:58.664218+00:00"
+    },
+    "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/": {
+        "title": "Reco raises $55M as AI agent security startups crowd the market",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T12:30:00+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005617+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/": {
+        "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T05:13:43+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005621+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/": {
+        "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T00:30:00+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005624+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/": {
+        "title": "The AI boom took over Climate Week and not everyone is happy about it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-28T19:21:59+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005629+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/": {
+        "title": "Making AI an asset, not an expense",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-29T10:43:45+00:00",
+        "discovered_at": "2026-09-29T16:26:29.005634+00:00",
         "status": "PENDING"
     }
 }
