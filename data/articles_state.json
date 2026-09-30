@@ -16531,7 +16531,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-29T10:00:00+00:00",
         "discovered_at": "2026-09-29T23:35:23.632190+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T23:39:21.491492+00:00",
+            "linkedin": "2026-09-30T23:40:12.271570+00:00"
+        },
+        "updated_at": "2026-09-30T23:40:12.271576+00:00"
     },
     "https://openai.com/index/introducing-dots": {
         "title": "Introducing dots",
@@ -16664,7 +16669,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T19:52:37+00:00",
         "discovered_at": "2026-09-30T05:06:40.075800+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T23:39:21.480478+00:00",
+            "linkedin": "2026-09-30T23:40:12.218976+00:00"
+        },
+        "updated_at": "2026-09-30T23:40:12.218981+00:00"
     },
     "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
         "title": "Helping small businesses put AI to work",
@@ -16732,6 +16742,60 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-09-30T10:40:30+00:00",
         "discovered_at": "2026-09-30T16:21:02.029649+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+        "title": "Disrupting a coordinated model-distillation campaign",
+        "source": "OpenAI",
+        "published_date": "2026-09-30T10:30:00+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905894+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/": {
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T21:07:40+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905903+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T23:39:21.468252+00:00",
+            "linkedin": "2026-09-30T23:40:12.208281+00:00"
+        },
+        "updated_at": "2026-09-30T23:40:12.208296+00:00"
+    },
+    "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/": {
+        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T19:00:57+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905905+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/": {
+        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T18:23:57+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905907+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/": {
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T17:45:00+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905909+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/": {
+        "title": "The ugly economics of consumer AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T17:24:45+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905910+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/": {
+        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T16:24:23+00:00",
+        "discovered_at": "2026-09-30T23:37:54.905912+00:00",
         "status": "PENDING"
     }
 }
