@@ -16557,14 +16557,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T22:20:59+00:00",
         "discovered_at": "2026-09-29T23:35:23.632204+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T16:22:23.609844+00:00",
+            "linkedin": "2026-09-30T16:23:07.838924+00:00"
+        },
+        "updated_at": "2026-09-30T16:23:07.838938+00:00"
     },
     "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/": {
         "title": "OpenAI’s latest features take direct aim at the app store model",
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T20:15:47+00:00",
         "discovered_at": "2026-09-29T23:35:23.632208+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T16:22:23.623703+00:00",
+            "linkedin": "2026-09-30T16:23:07.854031+00:00"
+        },
+        "updated_at": "2026-09-30T16:23:07.854042+00:00"
     },
     "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/": {
         "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
@@ -16623,7 +16633,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T17:15:00+00:00",
         "discovered_at": "2026-09-29T23:35:23.632230+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T16:22:23.637962+00:00",
+            "linkedin": "2026-09-30T16:23:07.867675+00:00"
+        },
+        "updated_at": "2026-09-30T16:23:07.867686+00:00"
     },
     "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/": {
         "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
@@ -16649,6 +16664,74 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T19:52:37+00:00",
         "discovered_at": "2026-09-30T05:06:40.075800+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+        "title": "Helping small businesses put AI to work",
+        "source": "OpenAI",
+        "published_date": "2026-09-30T10:00:00+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029614+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/": {
+        "title": "DoorDash launches an AI agent you can text to order food",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T16:00:24+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029627+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T16:22:23.595074+00:00",
+            "linkedin": "2026-09-30T16:23:07.824262+00:00"
+        },
+        "updated_at": "2026-09-30T16:23:07.824279+00:00"
+    },
+    "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/": {
+        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T16:00:00+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029631+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/": {
+        "title": "Instinct’s new product recommendations are giving some users the ick",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T15:56:28+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029633+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/": {
+        "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T14:30:00+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029635+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/": {
+        "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T14:27:11+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029637+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/": {
+        "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T14:15:00+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029640+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/": {
+        "title": "Airbnb adds AI search, more social features",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T12:00:00+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029642+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/": {
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-09-30T10:40:30+00:00",
+        "discovered_at": "2026-09-30T16:21:02.029649+00:00",
         "status": "PENDING"
     }
 }
