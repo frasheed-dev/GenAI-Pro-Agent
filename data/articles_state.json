@@ -16519,7 +16519,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-29T10:00:00+00:00",
         "discovered_at": "2026-09-29T23:35:23.632183+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T05:07:45.273613+00:00",
+            "linkedin": "2026-09-30T05:08:09.089915+00:00"
+        },
+        "updated_at": "2026-09-30T05:08:09.089926+00:00"
     },
     "https://openai.com/index/devday-2026-recap": {
         "title": "DevDay 2026 Recap",
@@ -16540,7 +16545,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T23:30:55+00:00",
         "discovered_at": "2026-09-29T23:35:23.632201+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-09-30T05:07:45.260373+00:00",
+            "linkedin": "2026-09-30T05:08:09.076751+00:00"
+        },
+        "updated_at": "2026-09-30T05:08:09.076770+00:00"
     },
     "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/": {
         "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
@@ -16632,6 +16642,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-29T16:55:56+00:00",
         "discovered_at": "2026-09-29T23:35:23.632237+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/": {
+        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-29T19:52:37+00:00",
+        "discovered_at": "2026-09-30T05:06:40.075800+00:00",
         "status": "PENDING"
     }
 }
