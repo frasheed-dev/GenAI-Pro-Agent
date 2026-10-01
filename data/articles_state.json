@@ -16543,7 +16543,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-29T00:00:00+00:00",
         "discovered_at": "2026-09-29T23:35:23.632194+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T05:22:17.137859+00:00",
+            "linkedin": "2026-10-01T05:22:40.187913+00:00"
+        },
+        "updated_at": "2026-10-01T05:22:40.187919+00:00"
     },
     "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/": {
         "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
@@ -16749,7 +16754,12 @@
         "source": "OpenAI",
         "published_date": "2026-09-30T10:30:00+00:00",
         "discovered_at": "2026-09-30T23:37:54.905894+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T05:22:17.127272+00:00",
+            "linkedin": "2026-10-01T05:22:40.177403+00:00"
+        },
+        "updated_at": "2026-10-01T05:22:40.177411+00:00"
     },
     "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/": {
         "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -16782,7 +16792,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-09-30T17:45:00+00:00",
         "discovered_at": "2026-09-30T23:37:54.905909+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T05:22:17.116429+00:00",
+            "linkedin": "2026-10-01T05:22:40.166768+00:00"
+        },
+        "updated_at": "2026-10-01T05:22:40.166779+00:00"
     },
     "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/": {
         "title": "The ugly economics of consumer AI",
@@ -16797,5 +16812,17 @@
         "published_date": "2026-09-30T16:24:23+00:00",
         "discovered_at": "2026-09-30T23:37:54.905912+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/": {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-09-30T23:43:07+00:00",
+        "discovered_at": "2026-10-01T05:21:11.855910+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T05:22:17.105323+00:00",
+            "linkedin": "2026-10-01T05:22:40.155805+00:00"
+        },
+        "updated_at": "2026-10-01T05:22:40.155821+00:00"
     }
 }
