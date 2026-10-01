@@ -16830,7 +16830,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-01T16:00:00+00:00",
         "discovered_at": "2026-10-01T17:01:50.418683+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T23:51:08.598153+00:00",
+            "linkedin": "2026-10-01T23:51:34.151903+00:00"
+        },
+        "updated_at": "2026-10-01T23:51:34.151911+00:00"
     },
     "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/": {
         "title": "Amazon releases its own Jev clone as decision models flood the web",
@@ -16868,7 +16873,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-01T14:00:00+00:00",
         "discovered_at": "2026-10-01T17:01:50.418707+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T23:51:08.576873+00:00",
+            "linkedin": "2026-10-01T23:51:34.132582+00:00"
+        },
+        "updated_at": "2026-10-01T23:51:34.132594+00:00"
     },
     "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/": {
         "title": "Hearing tech startup Legato launches its AI hearing glasses",
@@ -16882,6 +16892,60 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-01T12:00:00+00:00",
         "discovered_at": "2026-10-01T17:01:50.418713+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/the-eternal-complement": {
+        "title": "The eternal complement",
+        "source": "OpenAI",
+        "published_date": "2026-10-01T17:00:00+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118396+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/the-den-family-social": {
+        "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+        "source": "OpenAI",
+        "published_date": "2026-10-01T00:00:00+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118403+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/": {
+        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-01T21:08:11+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118412+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/": {
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-01T19:21:53+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118415+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-01T23:51:08.557151+00:00",
+            "linkedin": "2026-10-01T23:51:34.112994+00:00"
+        },
+        "updated_at": "2026-10-01T23:51:34.113007+00:00"
+    },
+    "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/": {
+        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-01T19:18:03+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118419+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/": {
+        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-01T18:14:42+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118422+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/": {
+        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-01T17:50:19+00:00",
+        "discovered_at": "2026-10-01T23:50:13.118425+00:00",
         "status": "PENDING"
     }
 }
