@@ -16944,7 +16944,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-01T18:14:42+00:00",
         "discovered_at": "2026-10-01T23:50:13.118422+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T16:13:36.842591+00:00",
+            "linkedin": "2026-10-02T16:14:03.033432+00:00"
+        },
+        "updated_at": "2026-10-02T16:14:03.033449+00:00"
     },
     "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/": {
         "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
@@ -16957,5 +16962,64 @@
             "linkedin": "2026-10-02T05:11:02.375474+00:00"
         },
         "updated_at": "2026-10-02T05:11:02.375492+00:00"
+    },
+    "https://openai.com/index/practical-guide-building-gpt-6": {
+        "title": "A model guide for the GPT-6 family",
+        "source": "OpenAI",
+        "published_date": "2026-10-02T16:15:00+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359620+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T16:13:36.801391+00:00",
+            "linkedin": "2026-10-02T16:14:02.991566+00:00"
+        },
+        "updated_at": "2026-10-02T16:14:02.991584+00:00"
+    },
+    "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/": {
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T15:39:41+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359632+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/": {
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T15:00:00+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359639+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/": {
+        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T14:30:00+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359643+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/": {
+        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T14:00:00+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359646+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/": {
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-02T15:49:04+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359655+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T16:13:36.822149+00:00",
+            "linkedin": "2026-10-02T16:14:03.012744+00:00"
+        },
+        "updated_at": "2026-10-02T16:14:03.012764+00:00"
+    },
+    "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/": {
+        "title": "Don’t be fooled—LLMs don’t reason",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-02T08:00:00+00:00",
+        "discovered_at": "2026-10-02T16:12:26.359658+00:00",
+        "status": "PENDING"
     }
 }
