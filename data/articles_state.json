@@ -17020,6 +17020,65 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-10-02T08:00:00+00:00",
         "discovered_at": "2026-10-02T16:12:26.359658+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T23:40:55.752293+00:00",
+            "linkedin": "2026-10-02T23:41:21.845776+00:00"
+        },
+        "updated_at": "2026-10-02T23:41:21.845790+00:00"
+    },
+    "https://openai.com/index/chatham-financial": {
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-02T00:00:00+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394844+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T23:40:55.769408+00:00",
+            "linkedin": "2026-10-02T23:41:21.861418+00:00"
+        },
+        "updated_at": "2026-10-02T23:41:21.861428+00:00"
+    },
+    "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/": {
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T21:09:14+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394853+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/": {
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T19:15:51+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394856+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/": {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T18:11:27+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394858+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/": {
+        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T17:56:00+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394861+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/": {
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T17:48:16+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394863+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/": {
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-02T17:00:00+00:00",
+        "discovered_at": "2026-10-02T23:39:58.394865+00:00",
         "status": "PENDING"
     }
 }
