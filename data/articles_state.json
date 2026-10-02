@@ -16906,7 +16906,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-01T00:00:00+00:00",
         "discovered_at": "2026-10-01T23:50:13.118403+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T05:10:37.270107+00:00",
+            "linkedin": "2026-10-02T05:11:02.393267+00:00"
+        },
+        "updated_at": "2026-10-02T05:11:02.393279+00:00"
     },
     "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/": {
         "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
@@ -16946,6 +16951,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-01T17:50:19+00:00",
         "discovered_at": "2026-10-01T23:50:13.118425+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-02T05:10:37.251494+00:00",
+            "linkedin": "2026-10-02T05:11:02.375474+00:00"
+        },
+        "updated_at": "2026-10-02T05:11:02.375492+00:00"
     }
 }
