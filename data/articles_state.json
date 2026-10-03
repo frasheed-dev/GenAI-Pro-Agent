@@ -16909,7 +16909,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-01T17:00:00+00:00",
         "discovered_at": "2026-10-01T23:50:13.118396+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T14:39:08.170818+00:00",
+            "linkedin": "2026-10-03T14:39:32.320391+00:00"
+        },
+        "updated_at": "2026-10-03T14:39:32.320406+00:00"
     },
     "https://openai.com/index/the-den-family-social": {
         "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
@@ -17104,7 +17109,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-02T17:00:00+00:00",
         "discovered_at": "2026-10-02T23:39:58.394865+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T14:39:08.148732+00:00",
+            "linkedin": "2026-10-03T14:39:32.300359+00:00"
+        },
+        "updated_at": "2026-10-03T14:39:32.300374+00:00"
     },
     "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/": {
         "title": "Meta wants your next gadget to be Muse-infused",
@@ -17117,5 +17127,12 @@
             "linkedin": "2026-10-03T04:53:27.435187+00:00"
         },
         "updated_at": "2026-10-03T04:53:27.435201+00:00"
+    },
+    "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/": {
+        "title": "All the AI agents that can live in your text messages",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-03T14:00:00+00:00",
+        "discovered_at": "2026-10-03T14:38:00.152467+00:00",
+        "status": "PENDING"
     }
 }
