@@ -16747,7 +16747,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-09-30T10:40:30+00:00",
         "discovered_at": "2026-09-30T16:21:02.029649+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T04:52:58.283324+00:00",
+            "linkedin": "2026-10-03T04:53:27.533370+00:00"
+        },
+        "updated_at": "2026-10-03T04:53:27.533382+00:00"
     },
     "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
         "title": "Disrupting a coordinated model-distillation campaign",
@@ -16866,7 +16871,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-01T15:12:00+00:00",
         "discovered_at": "2026-10-01T17:01:50.418704+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T04:52:58.263702+00:00",
+            "linkedin": "2026-10-03T04:53:27.513708+00:00"
+        },
+        "updated_at": "2026-10-03T04:53:27.513721+00:00"
     },
     "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/": {
         "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
@@ -17058,21 +17068,36 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-02T18:11:27+00:00",
         "discovered_at": "2026-10-02T23:39:58.394858+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T04:52:58.204978+00:00",
+            "linkedin": "2026-10-03T04:53:27.454892+00:00"
+        },
+        "updated_at": "2026-10-03T04:53:27.454905+00:00"
     },
     "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/": {
         "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
         "source": "TechCrunch AI",
         "published_date": "2026-10-02T17:56:00+00:00",
         "discovered_at": "2026-10-02T23:39:58.394861+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T04:52:58.224588+00:00",
+            "linkedin": "2026-10-03T04:53:27.474625+00:00"
+        },
+        "updated_at": "2026-10-03T04:53:27.474638+00:00"
     },
     "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/": {
         "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
         "source": "TechCrunch AI",
         "published_date": "2026-10-02T17:48:16+00:00",
         "discovered_at": "2026-10-02T23:39:58.394863+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T04:52:58.244129+00:00",
+            "linkedin": "2026-10-03T04:53:27.494011+00:00"
+        },
+        "updated_at": "2026-10-03T04:53:27.494024+00:00"
     },
     "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/": {
         "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -17080,5 +17105,17 @@
         "published_date": "2026-10-02T17:00:00+00:00",
         "discovered_at": "2026-10-02T23:39:58.394865+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/": {
+        "title": "Meta wants your next gadget to be Muse-infused",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-03T00:45:39+00:00",
+        "discovered_at": "2026-10-03T04:51:53.857858+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T04:52:58.182729+00:00",
+            "linkedin": "2026-10-03T04:53:27.435187+00:00"
+        },
+        "updated_at": "2026-10-03T04:53:27.435201+00:00"
     }
 }
