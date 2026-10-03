@@ -16933,7 +16933,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-01T21:08:11+00:00",
         "discovered_at": "2026-10-01T23:50:13.118412+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T22:48:36.380623+00:00",
+            "linkedin": "2026-10-03T22:49:00.663273+00:00"
+        },
+        "updated_at": "2026-10-03T22:49:00.663280+00:00"
     },
     "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/": {
         "title": "ChatGPT can now virtually try on clothes for you",
@@ -16995,7 +17000,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-02T15:39:41+00:00",
         "discovered_at": "2026-10-02T16:12:26.359632+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-03T22:48:36.359311+00:00",
+            "linkedin": "2026-10-03T22:49:00.643937+00:00"
+        },
+        "updated_at": "2026-10-03T22:49:00.643950+00:00"
     },
     "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/": {
         "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
@@ -17133,6 +17143,20 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-03T14:00:00+00:00",
         "discovered_at": "2026-10-03T14:38:00.152467+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/": {
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-03T18:43:57+00:00",
+        "discovered_at": "2026-10-03T22:47:41.108833+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/": {
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-03T16:30:01+00:00",
+        "discovered_at": "2026-10-03T22:47:41.108840+00:00",
         "status": "PENDING"
     }
 }
