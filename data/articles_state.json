@@ -17196,13 +17196,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-04T20:08:34+00:00",
         "discovered_at": "2026-10-04T22:56:38.646220+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-05T05:08:56.982852+00:00",
+            "linkedin": "2026-10-05T05:09:24.333547+00:00"
+        },
+        "updated_at": "2026-10-05T05:09:24.333559+00:00"
     },
     "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/": {
         "title": "Trump unveils his new Super Intelligence Force",
         "source": "TechCrunch AI",
         "published_date": "2026-10-04T15:15:10+00:00",
         "discovered_at": "2026-10-04T22:56:38.646222+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-05T05:08:57.004595+00:00",
+            "linkedin": "2026-10-05T05:09:24.353015+00:00"
+        },
+        "updated_at": "2026-10-05T05:09:24.353022+00:00"
     }
 }
