@@ -17430,5 +17430,90 @@
         "published_date": "2026-10-06T14:00:00+00:00",
         "discovered_at": "2026-10-06T16:38:08.020054+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/jump-trading": {
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-10-06T12:00:00+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583410+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-06T23:43:23.464671+00:00",
+            "linkedin": "2026-10-06T23:43:47.559664+00:00"
+        },
+        "updated_at": "2026-10-06T23:43:47.559679+00:00"
+    },
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+        "title": "Sharing AI progress in mathematics",
+        "source": "OpenAI",
+        "published_date": "2026-10-06T12:00:00+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583417+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/advancing-computer-use-with-ironclad": {
+        "title": "Advancing computer use with Ironclad",
+        "source": "OpenAI",
+        "published_date": "2026-10-06T10:00:00+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583421+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/atlassian-partnership": {
+        "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "source": "OpenAI",
+        "published_date": "2026-10-06T16:00:00+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583424+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-06T23:43:23.444015+00:00",
+            "linkedin": "2026-10-06T23:43:47.538640+00:00"
+        },
+        "updated_at": "2026-10-06T23:43:47.538653+00:00"
+    },
+    "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/": {
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-06T22:34:03+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583428+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/": {
+        "title": "How AI decision models could change content moderation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-06T20:35:20+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583434+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-06T23:43:23.423165+00:00",
+            "linkedin": "2026-10-06T23:43:47.518193+00:00"
+        },
+        "updated_at": "2026-10-06T23:43:47.518206+00:00"
+    },
+    "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/": {
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-06T20:00:30+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583437+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/": {
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-06T19:56:50+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583441+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/": {
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-06T18:22:45+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583444+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/": {
+        "title": "Mirror Particle is building a ‘world model’ of human behavior",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-06T16:35:00+00:00",
+        "discovered_at": "2026-10-06T23:42:25.583447+00:00",
+        "status": "PENDING"
     }
 }
