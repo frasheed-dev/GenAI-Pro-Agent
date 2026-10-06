@@ -17258,7 +17258,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-05T17:29:22+00:00",
         "discovered_at": "2026-10-05T19:21:11.519634+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-06T01:16:08.203778+00:00",
+            "linkedin": "2026-10-06T01:16:27.368138+00:00"
+        },
+        "updated_at": "2026-10-06T01:16:27.368149+00:00"
     },
     "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/": {
         "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
@@ -17277,7 +17282,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-05T15:14:24+00:00",
         "discovered_at": "2026-10-05T19:21:11.519640+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-06T01:16:08.219566+00:00",
+            "linkedin": "2026-10-06T01:16:27.384090+00:00"
+        },
+        "updated_at": "2026-10-06T01:16:27.384101+00:00"
     },
     "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/": {
         "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
@@ -17345,6 +17355,25 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-10-05T04:00:00+00:00",
         "discovered_at": "2026-10-05T19:21:11.519670+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/": {
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-05T20:36:48+00:00",
+        "discovered_at": "2026-10-06T01:15:20.007559+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-06T01:16:08.187505+00:00",
+            "linkedin": "2026-10-06T01:16:27.351839+00:00"
+        },
+        "updated_at": "2026-10-06T01:16:27.351852+00:00"
+    },
+    "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/": {
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-05T19:33:53+00:00",
+        "discovered_at": "2026-10-06T01:15:20.007566+00:00",
         "status": "PENDING"
     }
 }
