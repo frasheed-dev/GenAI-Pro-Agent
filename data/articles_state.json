@@ -17657,5 +17657,99 @@
         "published_date": "2026-10-07T18:00:19+00:00",
         "discovered_at": "2026-10-08T00:06:41.264873+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/oracle": {
+        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+        "source": "OpenAI",
+        "published_date": "2026-10-08T16:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568952+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-08T17:43:52.508339+00:00",
+            "linkedin": "2026-10-08T17:44:08.854186+00:00"
+        },
+        "updated_at": "2026-10-08T17:44:08.854201+00:00"
+    },
+    "https://openai.com/index/pollo-ai": {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-08T12:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568957+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+        "title": "Disrupting AI-enabled “false front” operations",
+        "source": "OpenAI",
+        "published_date": "2026-10-08T00:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568959+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/": {
+        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T16:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568965+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-08T17:43:52.521177+00:00",
+            "linkedin": "2026-10-08T17:44:08.866144+00:00"
+        },
+        "updated_at": "2026-10-08T17:44:08.866152+00:00"
+    },
+    "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/": {
+        "title": "Natura’s $99 smart ring puts AI agents on your finger",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T16:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568968+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/": {
+        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T15:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568970+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/": {
+        "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T14:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568973+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/": {
+        "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T14:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568975+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/": {
+        "title": "Google releases a new local-first Granola competitor",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T13:28:39+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568977+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/": {
+        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T13:20:32+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568979+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/": {
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-08T09:00:00+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568984+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/": {
+        "title": "Building a safer path to autonomous industrial AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-08T08:17:32+00:00",
+        "discovered_at": "2026-10-08T17:43:09.568986+00:00",
+        "status": "PENDING"
     }
 }
