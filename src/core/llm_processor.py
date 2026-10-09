@@ -180,6 +180,39 @@ def apply_linkedin_company_tags(text: str) -> str:
 
     return text
 
+def clean_llm_post_text(text: str) -> str:
+    """
+    Cleans conversational preamble, bot chatter, and LLM artifacts from drafted posts.
+    Strips intros like 'Here's the post:', 'Sure, here is...', 'Key developments in...', etc.
+    """
+    if not text:
+        return ""
+
+    # Strip markdown code blocks if the LLM wrapped the output
+    text = re.sub(r'^```(?:markdown|text)?\s*\n', '', text.strip(), flags=re.IGNORECASE)
+    text = re.sub(r'\n```$', '', text.strip())
+    text = text.strip()
+
+    # Regex patterns for conversational preambles at the start of LLM generations
+    preamble_patterns = [
+        r'^(?:Sure|Certainly|Of course)[\s,!.-]*(?:here[\'’]s|here is)?[^\n:]*:\s*',
+        r'^(?:Here[\'’]s|Here is) (?:a |the |your )?(?:draft|post|LinkedIn post|Facebook post|summary|update|analysis)[^\n:]*:\s*',
+        r'^Key developments in [^\n:]*:\s*',
+        r'^(?:Post|Draft|Caption|Content|Update):\s*',
+    ]
+
+    for pattern in preamble_patterns:
+        text = re.sub(pattern, '', text, flags=re.IGNORECASE).strip()
+
+    # Strip residual markdown bold asterisks since social platforms render them literally
+    text = text.replace("**", "")
+
+    # Strip wrapping quotes if the LLM enclosed the whole post in quotation marks
+    if (text.startswith('"') and text.endswith('"')) or (text.startswith("'") and text.endswith("'")):
+        text = text[1:-1].strip()
+
+    return text
+
 def draft_social_post(platform, curated_articles):
     """
     Drafts a social media post based on the curated articles, tailored for the given platform.
@@ -190,15 +223,16 @@ def draft_social_post(platform, curated_articles):
     # ── Platform-specific voice ───────────────────────────────────────────────
     if platform.lower() == "linkedin":
         platform_instructions = (
-            "PLATFORM: LinkedIn\n"
-            "- Voice: Write like a senior AI researcher sharing insights with industry peers over coffee. "
-            "Knowledgeable, direct, occasionally dry about AI hype. Never corporate or press-release-y.\n"
-            "- Structure: Start with a single punchy sentence that earns the stop-scroll. "
-            "Next, provide a 'Key Highlights' section with 2-3 short, distinct bullet points (using standard '•' or '-' characters on separate lines) summarizing the core facts. "
-            "Then, provide a brief executive summary (1-2 short paragraphs) delivering your analysis and opinion on why it matters. "
-            "Close with a statement or question that invites real disagreement.\n"
-            "- Length: 500-900 characters. Keep it extremely scannable.\n"
-            "- Format: MUST include a bulleted list for the facts. Blank lines between sections. No walls of text.\n"
+            "PLATFORM: LinkedIn — Strict 1-5-1 Executive Intelligence Format:\n"
+            "- Voice: A practitioner who reads the research papers, direct, analytical, zero fluff.\n"
+            "- Structure:\n"
+            "  1. Line 1 (The Hook): Exactly one scroll-stopping sentence stating the core development. No rhetorical questions.\n"
+            "  2. Blank line.\n"
+            "  3. 5 Key Takeaway Bullets: EXACTLY 5 distinct bullet points using standard '•' characters (one bullet per line). "
+            "Each bullet must deliver a specific technical spec, benchmark result, enterprise deployment detail, competitive impact, or key limitation.\n"
+            "  4. Blank line.\n"
+            "  5. Final Line (Analyst Perspective): Exactly one sharp sentence delivering your opinion or asking a technical discussion question.\n"
+            "- Length: 500-900 characters. Highly scannable on mobile. No narrative walls of text.\n"
         )
     elif platform.lower() == "x" or platform.lower() == "twitter":
         platform_instructions = (
@@ -263,6 +297,9 @@ def draft_social_post(platform, curated_articles):
         "'The future of AI', 'rapidly evolving', 'landscape'.\n\n"
 
         "FORMATTING RULES — these are non-negotiable:\n"
+        "- STRICT: NEVER include any conversational intro, chatbot greeting, or preamble like 'Here is the post:', "
+        "'Here's the post:', 'Sure, here's...', 'Key developments in...', or 'Draft:'. "
+        "Start IMMEDIATELY with the very first sentence of the actual post body.\n"
         "- Do NOT use markdown like **bold** or *italics* — social platforms show these as literal asterisks.\n"
         "- Do NOT output any section headings or labels from these instructions.\n"
         "- AERATED FORMAT IS MANDATORY: Write in short sentences. Put a blank line after every 1-2 sentences. "
@@ -291,8 +328,9 @@ def draft_social_post(platform, curated_articles):
     try:
         response = generate_with_retry(prompt)
         text = extract_text(response).strip()
-        # Strip out any residual markdown bold tags since social platforms render them literally
-        text = text.replace("**", "")
+        
+        # Clean conversational intro, bot chatter, and residual markdown asterisks
+        text = clean_llm_post_text(text)
         
         # Append the automated agent disclaimer to all platforms except X (due to char limits)
         if not is_x:
@@ -312,7 +350,7 @@ def draft_social_post(platform, curated_articles):
         return text
     except Exception as e:
         print(f"Error drafting post: {e}")
-        print("⚠️ Post Drafting Fallback: Generating clean summary post...")
+        print("⚠️ Post Drafting Fallback: Generating clean 1-5-1 summary post...")
         article = curated_articles[0] if (curated_articles and len(curated_articles) > 0) else {
             "title": "Generative AI Market Intelligence Update",
             "summary": "Recent developments in Large Language Models and AI infrastructure.",
@@ -320,10 +358,27 @@ def draft_social_post(platform, curated_articles):
             "source": "GenAI Pro"
         }
         
+        # Dynamically build 5 crisp bullets for LinkedIn/Facebook
+        summary_text = article.get('summary', '')
+        sents = [s.strip() for s in re.split(r'\. |\.\n', summary_text) if len(s.strip()) > 10]
+        bullets = [f"• {s}." if not s.endswith('.') else f"• {s}" for s in sents[:5]]
+        
+        default_takeaways = [
+            f"• Strategic development: {article['title']}.",
+            "• Direct enterprise impact on model capabilities and infrastructure costs.",
+            "• Performance gains reflect ongoing shifts in model optimization.",
+            "• Open-weights and proprietary model trade-offs continue to evolve.",
+            "• Technical founders should monitor roadmap shifts over the next quarter."
+        ]
+        for dt in default_takeaways:
+            if len(bullets) < 5 and dt not in bullets:
+                bullets.append(dt)
+        bullets_block = "\n".join(bullets[:5])
+        
         fallback_text = (
-            f"Key developments in AI infrastructure:\n\n"
             f"{article['title']}\n\n"
-            f"{article['summary']}\n\n"
+            f"{bullets_block}\n\n"
+            f"Key Takeaway: The deployment calculus for engineering teams is moving toward faster, specialized execution.\n\n"
             f"Sources:\n{article.get('link', 'https://genai-pro.com')}\n\n"
             f"#AI #GenerativeAI #Tech #Innovation\n\n"
             f"---\n🤖 Transparency Note: Generated autonomously by GenAI Pro Agent."
@@ -331,6 +386,98 @@ def draft_social_post(platform, curated_articles):
         if platform.lower() == "linkedin":
             fallback_text = apply_linkedin_company_tags(fallback_text)
         return fallback_text
+
+def build_dynamic_image_metadata(post_content: str) -> dict:
+    """
+    Dynamically extracts a story-specific headline, visual image prompt, category, and bullet takeaways
+    directly from the curated post text, ensuring fallback posts are always 100% unique!
+    """
+    # Clean any LinkedIn URN organization tags before parsing: @[Company](urn:li:organization:123) -> Company
+    clean_post = re.sub(r'@\[([^\]]+)\]\(urn:li:organization:\d+\)', r'\1', post_content)
+    
+    lines = [l.strip() for l in clean_post.splitlines() if l.strip()]
+    first_line = lines[0] if lines else "AI Market Intelligence Update"
+    
+    # Strip any leading numbering like '1. ' or '2. '
+    first_line = re.sub(r'^\d+\.\s*', '', first_line).strip()
+    
+    # Check if format is "Title: Summary" or just "Title"
+    if ":" in first_line:
+        parts = first_line.split(":", 1)
+        raw_title = parts[0].strip()
+        summary_intro = parts[1].strip()
+    else:
+        raw_title = first_line
+        summary_intro = lines[1] if len(lines) > 1 else ""
+        
+    # Clean title
+    clean_title = re.sub(r'[^\w\s-]', '', raw_title).strip()
+    if not clean_title:
+        clean_title = "Generative AI Industry Development"
+        
+    # Dynamic highlight in headline: wrap 1 or 2 core keywords in asterisks for Pillow highlighter
+    words = clean_title.split()
+    highlighted_words = []
+    highlight_done = False
+    keywords = ["AI", "LLM", "Agent", "Agents", "Model", "Models", "Chip", "Chips", "Compute", "Cloud", "OpenAI", "Google", "Meta", "NVIDIA", "Anthropic", "Apple", "Microsoft", "Intelligence", "Photos", "Virtual", "Search"]
+    
+    for w in words:
+        clean_w = re.sub(r'[^\w]', '', w)
+        if not highlight_done and any(k.lower() == clean_w.lower() for k in keywords):
+            highlighted_words.append(f"*{w}*")
+            highlight_done = True
+        else:
+            highlighted_words.append(w)
+            
+    if not highlight_done and len(words) >= 3:
+        mid = len(words) // 2
+        highlighted_words[mid] = f"*{highlighted_words[mid]}*"
+        
+    dynamic_headline = " ".join(highlighted_words[:12])
+    
+    # Dynamic Category based on keywords
+    title_lower = clean_title.lower()
+    if any(k in title_lower for k in ["hardware", "chip", "nvidia", "gpu", "silicon", "semiconductor"]):
+        category = "AI HARDWARE"
+    elif any(k in title_lower for k in ["agent", "agents", "autonomous", "workflow"]):
+        category = "AI AGENTS"
+    elif any(k in title_lower for k in ["model", "llm", "weights", "reasoning", "benchmark"]):
+        category = "FOUNDATIONAL MODELS"
+    elif any(k in title_lower for k in ["enterprise", "infrastructure", "cloud", "security"]):
+        category = "ENTERPRISE AI"
+    else:
+        category = "MARKET INTELLIGENCE"
+        
+    # Dynamic Story-Specific Image Prompt (reflects the real news, never repetitive server racks!)
+    image_prompt = (
+        f"Editorial flat digital illustration representing {clean_title}. "
+        f"Futuristic clean tech atmosphere with deep navy, electric teal, and subtle amber accents. "
+        f"Strong geometric silhouettes, lower 40% darker for text contrast. "
+        f"No text, no words, no letters, no typography, no watermarks, no titles, no logos"
+    )
+    
+    # Dynamic Bullets from summary
+    bullets = []
+    if summary_intro:
+        sents = [s.strip() for s in re.split(r'\. |\.\n', summary_intro) if len(s.strip()) > 15]
+        bullets = sents[:3]
+    if len(bullets) < 3:
+        bullets.extend([
+            f"Key strategic implications of {clean_title}.",
+            "Significant shifts in enterprise AI performance and adoption.",
+            "Technical takeaways for engineering leaders and founders."
+        ])
+    bullets = bullets[:3]
+    
+    question = f"How will {clean_title} impact your team's technical roadmap?"
+    
+    return {
+        "headline": dynamic_headline,
+        "category": category,
+        "image_prompt": image_prompt,
+        "carousel_bullets": bullets,
+        "discussion_question": question
+    }
 
 def generate_image_metadata(post_content):
     """
@@ -394,31 +541,12 @@ def generate_image_metadata(post_content):
                 except Exception:
                     pass
             print(f"Failed to parse LLM output as JSON:\n{text}")
-            return {
-                "headline": "Generative AI Market *Intelligence Update*",
-                "category": "MARKET INTELLIGENCE",
-                "image_prompt": "Futuristic clean data center server racks with blue status lights",
-                "carousel_bullets": [
-                    "Key developments shaping enterprise AI adoption.",
-                    "Shifts in model performance and infrastructure efficiency.",
-                    "Strategic takeaways for technical leaders and founders."
-                ],
-                "discussion_question": "How will these developments impact your AI roadmap?"
-            }
+            print("⚠️ Metadata Fallback: Dynamically extracting story-specific metadata from news content...")
+            return build_dynamic_image_metadata(post_content)
     except Exception as e:
         print(f"Error generating image metadata: {e}")
-        print("⚠️ Metadata Fallback: Defaulting to journalistic template metadata...")
-        return {
-            "headline": "Generative AI Market *Intelligence Update*",
-            "category": "MARKET INTELLIGENCE",
-            "image_prompt": "Futuristic clean data center server racks with blue status lights",
-            "carousel_bullets": [
-                "Key developments shaping enterprise AI adoption.",
-                "Shifts in model performance and infrastructure efficiency.",
-                "Strategic takeaways for technical leaders and founders."
-            ],
-            "discussion_question": "How will these developments impact your AI roadmap?"
-        }
+        print("⚠️ Metadata Fallback: Dynamically extracting story-specific metadata from news content...")
+        return build_dynamic_image_metadata(post_content)
 
 def draft_reel_script(curated_articles):
     """
