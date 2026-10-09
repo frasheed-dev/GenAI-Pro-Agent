@@ -17824,5 +17824,71 @@
         "published_date": "2026-10-08T18:10:55+00:00",
         "discovered_at": "2026-10-09T00:13:51.630244+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/sophos": {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "source": "OpenAI",
+        "published_date": "2026-10-09T07:00:00+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460803+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/": {
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T16:53:02+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460817+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-09T16:55:43.936906+00:00",
+            "linkedin": "2026-10-09T16:56:00.353109+00:00"
+        },
+        "updated_at": "2026-10-09T16:56:00.353126+00:00"
+    },
+    "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/": {
+        "title": "Danu Robotics’ fight to build a better recycling robot",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T16:45:00+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460822+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-09T16:55:43.955709+00:00",
+            "linkedin": "2026-10-09T16:56:00.372606+00:00"
+        },
+        "updated_at": "2026-10-09T16:56:00.372621+00:00"
+    },
+    "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/": {
+        "title": "We can’t help treating AI like it’s human. But should we?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T16:40:14+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460825+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/": {
+        "title": "a16z’s Olivia Moore on the state of consumer AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T15:43:33+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460828+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/": {
+        "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T14:00:00+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460832+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/": {
+        "title": "We’re putting too much faith in AI’s ability to say no",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-09T09:00:00+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460840+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-09T00:08:24+00:00",
+        "discovered_at": "2026-10-09T16:54:58.460844+00:00",
+        "status": "PENDING"
     }
 }
