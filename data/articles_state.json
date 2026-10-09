@@ -17751,5 +17751,78 @@
         "published_date": "2026-10-08T08:17:32+00:00",
         "discovered_at": "2026-10-08T17:43:09.568986+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/legalon-halves-codex-costs": {
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "source": "OpenAI",
+        "published_date": "2026-10-08T12:00:00+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630217+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/": {
+        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T21:00:00+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630225+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-09T00:14:33.776589+00:00",
+            "linkedin": "2026-10-09T00:14:50.112910+00:00"
+        },
+        "updated_at": "2026-10-09T00:14:50.112926+00:00"
+    },
+    "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/": {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T20:04:26+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630228+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-09T00:14:33.788877+00:00",
+            "linkedin": "2026-10-09T00:14:50.125346+00:00"
+        },
+        "updated_at": "2026-10-09T00:14:50.125352+00:00"
+    },
+    "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/": {
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T18:20:32+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630231+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/": {
+        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T18:19:45+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630233+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/": {
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T18:19:42+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630236+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/": {
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T18:18:00+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630239+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/": {
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T18:16:24+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630241+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/": {
+        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-08T18:10:55+00:00",
+        "discovered_at": "2026-10-09T00:13:51.630244+00:00",
+        "status": "PENDING"
     }
 }
