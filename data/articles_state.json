@@ -17890,5 +17890,43 @@
         "published_date": "2026-10-09T00:08:24+00:00",
         "discovered_at": "2026-10-09T16:54:58.460844+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/asana-browser-agent": {
+        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+        "source": "OpenAI",
+        "published_date": "2026-10-09T07:00:00+00:00",
+        "discovered_at": "2026-10-09T23:55:57.328138+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/": {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T21:41:29+00:00",
+        "discovered_at": "2026-10-09T23:55:57.328151+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-09T23:56:39.432703+00:00",
+            "linkedin": "2026-10-09T23:56:55.834904+00:00"
+        },
+        "updated_at": "2026-10-09T23:56:55.834922+00:00"
+    },
+    "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/": {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T19:36:56+00:00",
+        "discovered_at": "2026-10-09T23:55:57.328154+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-09T23:56:39.448195+00:00",
+            "linkedin": "2026-10-09T23:56:55.849871+00:00"
+        },
+        "updated_at": "2026-10-09T23:56:55.849885+00:00"
+    },
+    "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/": {
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-09T16:56:42+00:00",
+        "discovered_at": "2026-10-09T23:55:57.328157+00:00",
+        "status": "PENDING"
     }
 }
