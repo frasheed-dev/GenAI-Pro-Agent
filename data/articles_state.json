@@ -17927,6 +17927,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-09T16:56:42+00:00",
         "discovered_at": "2026-10-09T23:55:57.328157+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-10T05:28:51.674847+00:00",
+            "linkedin": "2026-10-10T05:29:08.076231+00:00"
+        },
+        "updated_at": "2026-10-10T05:29:08.076241+00:00"
+    },
+    "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/": {
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-10T00:18:32+00:00",
+        "discovered_at": "2026-10-10T05:28:07.501256+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-10T05:28:51.658256+00:00",
+            "linkedin": "2026-10-10T05:29:08.059483+00:00"
+        },
+        "updated_at": "2026-10-10T05:29:08.059497+00:00"
     }
 }
