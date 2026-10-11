@@ -17885,7 +17885,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-09T14:00:00+00:00",
         "discovered_at": "2026-10-09T16:54:58.460832+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-11T16:13:59.106220+00:00",
+            "linkedin": "2026-10-11T16:14:15.231102+00:00"
+        },
+        "updated_at": "2026-10-11T16:14:15.231109+00:00"
     },
     "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/": {
         "title": "We’re putting too much faith in AI’s ability to say no",
@@ -18003,5 +18008,17 @@
             "linkedin": "2026-10-10T23:26:21.606895+00:00"
         },
         "updated_at": "2026-10-10T23:26:21.606905+00:00"
+    },
+    "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/": {
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-11T14:00:00+00:00",
+        "discovered_at": "2026-10-11T16:13:14.850620+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-11T16:13:59.085694+00:00",
+            "linkedin": "2026-10-11T16:14:15.210664+00:00"
+        },
+        "updated_at": "2026-10-11T16:14:15.210674+00:00"
     }
 }
