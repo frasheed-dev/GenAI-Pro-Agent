@@ -17861,14 +17861,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-09T16:40:14+00:00",
         "discovered_at": "2026-10-09T16:54:58.460825+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-11T05:18:58.707533+00:00",
+            "linkedin": "2026-10-11T05:19:14.724030+00:00"
+        },
+        "updated_at": "2026-10-11T05:19:14.724046+00:00"
     },
     "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/": {
         "title": "a16z’s Olivia Moore on the state of consumer AI",
         "source": "TechCrunch AI",
         "published_date": "2026-10-09T15:43:33+00:00",
         "discovered_at": "2026-10-09T16:54:58.460828+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-11T05:18:58.723048+00:00",
+            "linkedin": "2026-10-11T05:19:14.736309+00:00"
+        },
+        "updated_at": "2026-10-11T05:19:14.736321+00:00"
     },
     "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/": {
         "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
