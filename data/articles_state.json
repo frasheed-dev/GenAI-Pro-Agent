@@ -18020,5 +18020,36 @@
             "linkedin": "2026-10-11T16:14:15.210664+00:00"
         },
         "updated_at": "2026-10-11T16:14:15.210674+00:00"
+    },
+    "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/": {
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-11T21:14:40+00:00",
+        "discovered_at": "2026-10-11T23:32:53.703684+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-11T23:35:31.761303+00:00",
+            "linkedin": "2026-10-11T23:35:47.721881+00:00"
+        },
+        "updated_at": "2026-10-11T23:35:47.721895+00:00"
+    },
+    "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/": {
+        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-11T19:00:00+00:00",
+        "discovered_at": "2026-10-11T23:32:53.703689+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-11T23:35:31.776072+00:00",
+            "linkedin": "2026-10-11T23:35:47.733271+00:00"
+        },
+        "updated_at": "2026-10-11T23:35:47.733276+00:00"
+    },
+    "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/": {
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-11T16:52:33+00:00",
+        "discovered_at": "2026-10-11T23:32:53.703692+00:00",
+        "status": "PENDING"
     }
 }
