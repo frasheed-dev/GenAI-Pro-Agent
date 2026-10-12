@@ -17897,7 +17897,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-10-09T09:00:00+00:00",
         "discovered_at": "2026-10-09T16:54:58.460840+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-12T05:31:41.844437+00:00",
+            "linkedin": "2026-10-12T05:31:58.024732+00:00"
+        },
+        "updated_at": "2026-10-12T05:31:58.024752+00:00"
     },
     "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -18050,6 +18055,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-11T16:52:33+00:00",
         "discovered_at": "2026-10-11T23:32:53.703692+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-12T05:31:41.819615+00:00",
+            "linkedin": "2026-10-12T05:31:58.002561+00:00"
+        },
+        "updated_at": "2026-10-12T05:31:58.002575+00:00"
     }
 }
