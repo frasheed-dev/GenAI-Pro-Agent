@@ -18130,5 +18130,85 @@
         "published_date": "2026-10-12T12:47:59+00:00",
         "discovered_at": "2026-10-12T19:44:15.752273+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/": {
+        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T17:18:25+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214331+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-13T17:31:51.650727+00:00",
+            "linkedin": "2026-10-13T17:32:07.968885+00:00"
+        },
+        "updated_at": "2026-10-13T17:32:07.968893+00:00"
+    },
+    "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/": {
+        "title": "Google Play now supports private, vibe-coded apps built just for you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T17:00:00+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214336+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-13T17:31:51.664719+00:00",
+            "linkedin": "2026-10-13T17:32:07.980239+00:00"
+        },
+        "updated_at": "2026-10-13T17:32:07.980243+00:00"
+    },
+    "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/": {
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T16:30:00+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214338+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/": {
+        "title": "TechCrunch Disrupt 2026: Day 1",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T14:00:00+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214341+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/": {
+        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T13:50:19+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214342+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/": {
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T13:28:06+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214344+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/": {
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T13:00:00+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214346+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/": {
+        "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-13T12:23:42+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214350+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/": {
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-13T10:00:00+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214355+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/": {
+        "title": "AI labs are buying data from dead startups to train their models",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-13T09:00:00+00:00",
+        "discovered_at": "2026-10-13T17:29:07.214356+00:00",
+        "status": "PENDING"
     }
 }
