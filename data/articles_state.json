@@ -18293,5 +18293,36 @@
         "published_date": "2026-10-13T17:30:00+00:00",
         "discovered_at": "2026-10-13T23:41:31.120600+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+        "title": "The EU’s next chapter in AI is agentic",
+        "source": "OpenAI",
+        "published_date": "2026-10-14T00:00:00+00:00",
+        "discovered_at": "2026-10-14T14:58:25.286336+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/": {
+        "title": "TechCrunch Disrupt 2026: Day 2",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T14:30:00+00:00",
+        "discovered_at": "2026-10-14T14:58:25.286343+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-14T14:59:07.541480+00:00",
+            "linkedin": "2026-10-14T14:59:23.668788+00:00"
+        },
+        "updated_at": "2026-10-14T14:59:23.668803+00:00"
+    },
+    "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/": {
+        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T11:00:00+00:00",
+        "discovered_at": "2026-10-14T14:58:25.286345+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-14T14:59:07.553815+00:00",
+            "linkedin": "2026-10-14T14:59:23.681273+00:00"
+        },
+        "updated_at": "2026-10-14T14:59:23.681282+00:00"
     }
 }
