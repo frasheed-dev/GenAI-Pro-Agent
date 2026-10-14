@@ -18324,5 +18324,92 @@
             "linkedin": "2026-10-14T14:59:23.681273+00:00"
         },
         "updated_at": "2026-10-14T14:59:23.681282+00:00"
+    },
+    "https://openai.com/index/amp-beyond-coding": {
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "source": "OpenAI",
+        "published_date": "2026-10-14T12:00:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710122+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/sentinelone": {
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "source": "OpenAI",
+        "published_date": "2026-10-14T12:00:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710130+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/third-moment-research": {
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "source": "OpenAI",
+        "published_date": "2026-10-14T07:00:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710133+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/block-ai-powered-security": {
+        "title": "How Block is building AI-powered security with OpenAI technology",
+        "source": "OpenAI",
+        "published_date": "2026-10-14T07:00:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710135+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/": {
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T21:30:33+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710138+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-14T23:06:48.216029+00:00",
+            "linkedin": "2026-10-14T23:07:04.989916+00:00"
+        },
+        "updated_at": "2026-10-14T23:07:04.989932+00:00"
+    },
+    "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/": {
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T18:23:46+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710143+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-14T23:06:48.230586+00:00",
+            "linkedin": "2026-10-14T23:07:05.006012+00:00"
+        },
+        "updated_at": "2026-10-14T23:07:05.006027+00:00"
+    },
+    "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/": {
+        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T18:00:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710147+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/": {
+        "title": "Deezer will soon let you filter out AI-generated music",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T15:16:04+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710150+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/": {
+        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T15:13:24+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710152+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/": {
+        "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T15:08:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710155+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/": {
+        "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-14T15:00:00+00:00",
+        "discovered_at": "2026-10-14T23:06:02.710157+00:00",
+        "status": "PENDING"
     }
 }
