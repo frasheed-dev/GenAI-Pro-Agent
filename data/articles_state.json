@@ -18411,5 +18411,29 @@
         "published_date": "2026-10-14T15:00:00+00:00",
         "discovered_at": "2026-10-14T23:06:02.710157+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/": {
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T01:01:32+00:00",
+        "discovered_at": "2026-10-15T04:10:39.872031+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-15T04:11:23.609346+00:00",
+            "linkedin": "2026-10-15T04:11:40.110451+00:00"
+        },
+        "updated_at": "2026-10-15T04:11:40.110466+00:00"
+    },
+    "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/": {
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T00:00:00+00:00",
+        "discovered_at": "2026-10-15T04:10:39.872039+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-15T04:11:23.628182+00:00",
+            "linkedin": "2026-10-15T04:11:40.127788+00:00"
+        },
+        "updated_at": "2026-10-15T04:11:40.127809+00:00"
     }
 }
