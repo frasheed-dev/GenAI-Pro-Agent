@@ -18480,5 +18480,64 @@
         "published_date": "2026-10-15T04:30:00+00:00",
         "discovered_at": "2026-10-15T14:47:44.016580+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-the-rosalind-academic-plan": {
+        "title": "Bringing GPT-Rosalind to academic research labs",
+        "source": "OpenAI",
+        "published_date": "2026-10-15T19:00:00+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229495+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/": {
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T20:04:53+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229505+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-15T22:59:56.014498+00:00",
+            "linkedin": "2026-10-15T23:00:12.301839+00:00"
+        },
+        "updated_at": "2026-10-15T23:00:12.301854+00:00"
+    },
+    "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/": {
+        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T19:55:25+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229508+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-15T22:59:56.033132+00:00",
+            "linkedin": "2026-10-15T23:00:12.319189+00:00"
+        },
+        "updated_at": "2026-10-15T23:00:12.319196+00:00"
+    },
+    "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/": {
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T19:14:26+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229511+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/": {
+        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T18:56:46+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229513+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/": {
+        "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T18:00:00+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229516+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/": {
+        "title": "AI agents are coming to Rivian’s cars",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T15:02:36+00:00",
+        "discovered_at": "2026-10-15T22:59:12.229519+00:00",
+        "status": "PENDING"
     }
 }
