@@ -18435,5 +18435,50 @@
             "linkedin": "2026-10-15T04:11:40.127788+00:00"
         },
         "updated_at": "2026-10-15T04:11:40.127809+00:00"
+    },
+    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+        "title": "Teaching students to think and learn through questions",
+        "source": "OpenAI",
+        "published_date": "2026-10-15T13:00:00+00:00",
+        "discovered_at": "2026-10-15T14:47:44.016562+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/": {
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T14:29:33+00:00",
+        "discovered_at": "2026-10-15T14:47:44.016572+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-15T14:48:26.142050+00:00",
+            "linkedin": "2026-10-15T14:48:42.397249+00:00"
+        },
+        "updated_at": "2026-10-15T14:48:42.397266+00:00"
+    },
+    "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/": {
+        "title": "TechCrunch Disrupt 2026: Last day",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T14:00:00+00:00",
+        "discovered_at": "2026-10-15T14:47:44.016575+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-15T14:48:26.155972+00:00",
+            "linkedin": "2026-10-15T14:48:42.409703+00:00"
+        },
+        "updated_at": "2026-10-15T14:48:42.409710+00:00"
+    },
+    "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/": {
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T12:00:00+00:00",
+        "discovered_at": "2026-10-15T14:47:44.016577+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/": {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T04:30:00+00:00",
+        "discovered_at": "2026-10-15T14:47:44.016580+00:00",
+        "status": "PENDING"
     }
 }
