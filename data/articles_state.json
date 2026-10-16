@@ -18517,7 +18517,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-15T19:14:26+00:00",
         "discovered_at": "2026-10-15T22:59:12.229511+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-16T04:06:52.521072+00:00",
+            "linkedin": "2026-10-16T04:07:08.812815+00:00"
+        },
+        "updated_at": "2026-10-16T04:07:08.812828+00:00"
     },
     "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/": {
         "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
@@ -18539,5 +18544,24 @@
         "published_date": "2026-10-15T15:02:36+00:00",
         "discovered_at": "2026-10-15T22:59:12.229519+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/sullivan-cromwell": {
+        "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+        "source": "OpenAI",
+        "published_date": "2026-10-15T00:00:00+00:00",
+        "discovered_at": "2026-10-16T04:06:09.302893+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/": {
+        "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-15T23:44:56+00:00",
+        "discovered_at": "2026-10-16T04:06:09.302918+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-16T04:06:52.499398+00:00",
+            "linkedin": "2026-10-16T04:07:08.793037+00:00"
+        },
+        "updated_at": "2026-10-16T04:07:08.793052+00:00"
     }
 }
