@@ -18587,5 +18587,78 @@
             "linkedin": "2026-10-16T14:45:13.404272+00:00"
         },
         "updated_at": "2026-10-16T14:45:13.404279+00:00"
+    },
+    "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+        "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+        "source": "OpenAI",
+        "published_date": "2026-10-16T00:00:00+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174957+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/": {
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T21:22:28+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174974+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-16T22:43:57.314162+00:00",
+            "linkedin": "2026-10-16T22:44:13.745256+00:00"
+        },
+        "updated_at": "2026-10-16T22:44:13.745268+00:00"
+    },
+    "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/": {
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T17:52:24+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174979+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/": {
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T16:30:00+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174982+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/": {
+        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T16:30:00+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174986+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/": {
+        "title": "Elorian’s first AI model wants to reason with images, not just about them",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T16:01:37+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174989+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/": {
+        "title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T15:33:49+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174992+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/": {
+        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-16T14:26:51+00:00",
+        "discovered_at": "2026-10-16T22:43:13.174995+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-16T18:00:00+00:00",
+        "discovered_at": "2026-10-16T22:43:13.175002+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-16T22:43:57.336880+00:00",
+            "linkedin": "2026-10-16T22:44:13.766302+00:00"
+        },
+        "updated_at": "2026-10-16T22:44:13.766309+00:00"
     }
 }
