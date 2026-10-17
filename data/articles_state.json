@@ -18472,7 +18472,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-15T12:00:00+00:00",
         "discovered_at": "2026-10-15T14:47:44.016577+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-17T13:34:27.972658+00:00",
+            "linkedin": "2026-10-17T13:34:43.787848+00:00"
+        },
+        "updated_at": "2026-10-17T13:34:43.787860+00:00"
     },
     "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/": {
         "title": "Figma announces new features to define how agents work on its platform",
@@ -18638,7 +18643,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-16T16:01:37+00:00",
         "discovered_at": "2026-10-16T22:43:13.174989+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-17T13:34:27.950354+00:00",
+            "linkedin": "2026-10-17T13:34:43.766327+00:00"
+        },
+        "updated_at": "2026-10-17T13:34:43.766340+00:00"
     },
     "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/": {
         "title": "Jev is Vercel’s fastest-adopted AI model ever",
@@ -18677,5 +18687,12 @@
             "linkedin": "2026-10-17T03:59:58.028155+00:00"
         },
         "updated_at": "2026-10-17T03:59:58.028170+00:00"
+    },
+    "https://openai.com/index/benefit-street-partners": {
+        "title": "Benefit Street Partners answers questions faster with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-10-16T00:00:00+00:00",
+        "discovered_at": "2026-10-17T13:33:43.143858+00:00",
+        "status": "PENDING"
     }
 }
