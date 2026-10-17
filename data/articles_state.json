@@ -18694,5 +18694,36 @@
         "published_date": "2026-10-16T00:00:00+00:00",
         "discovered_at": "2026-10-17T13:33:43.143858+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/": {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-17T21:31:32+00:00",
+        "discovered_at": "2026-10-17T22:07:26.497554+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-17T22:08:10.757548+00:00",
+            "linkedin": "2026-10-17T22:08:27.139706+00:00"
+        },
+        "updated_at": "2026-10-17T22:08:27.139721+00:00"
+    },
+    "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/": {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-17T20:21:19+00:00",
+        "discovered_at": "2026-10-17T22:07:26.497561+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-17T22:08:10.771597+00:00",
+            "linkedin": "2026-10-17T22:08:27.152294+00:00"
+        },
+        "updated_at": "2026-10-17T22:08:27.152299+00:00"
+    },
+    "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/": {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-17T18:48:08+00:00",
+        "discovered_at": "2026-10-17T22:07:26.497565+00:00",
+        "status": "PENDING"
     }
 }
