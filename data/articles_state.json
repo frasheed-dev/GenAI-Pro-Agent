@@ -18612,7 +18612,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-16T17:52:24+00:00",
         "discovered_at": "2026-10-16T22:43:13.174979+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-17T03:59:41.679463+00:00",
+            "linkedin": "2026-10-17T03:59:58.051050+00:00"
+        },
+        "updated_at": "2026-10-17T03:59:58.051064+00:00"
     },
     "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/": {
         "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
@@ -18660,5 +18665,17 @@
             "linkedin": "2026-10-16T22:44:13.766302+00:00"
         },
         "updated_at": "2026-10-16T22:44:13.766309+00:00"
+    },
+    "https://openai.com/index/itau-generative-ai": {
+        "title": "How Itaú is building generative AI for its entire customer base",
+        "source": "OpenAI",
+        "published_date": "2026-10-16T19:00:00+00:00",
+        "discovered_at": "2026-10-17T03:56:57.909730+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-17T03:59:41.658354+00:00",
+            "linkedin": "2026-10-17T03:59:58.028155+00:00"
+        },
+        "updated_at": "2026-10-17T03:59:58.028170+00:00"
     }
 }
