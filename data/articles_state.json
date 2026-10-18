@@ -18641,7 +18641,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-16T16:30:00+00:00",
         "discovered_at": "2026-10-16T22:43:13.174986+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-18T13:56:03.841720+00:00",
+            "linkedin": "2026-10-18T13:56:20.154064+00:00"
+        },
+        "updated_at": "2026-10-18T13:56:20.154083+00:00"
     },
     "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/": {
         "title": "Elorian’s first AI model wants to reason with images, not just about them",
@@ -18660,7 +18665,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-16T15:33:49+00:00",
         "discovered_at": "2026-10-16T22:43:13.174992+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-18T13:56:03.860033+00:00",
+            "linkedin": "2026-10-18T13:56:20.172687+00:00"
+        },
+        "updated_at": "2026-10-18T13:56:20.172696+00:00"
     },
     "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/": {
         "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
