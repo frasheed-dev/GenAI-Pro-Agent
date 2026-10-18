@@ -18745,5 +18745,29 @@
             "linkedin": "2026-10-18T04:05:19.992905+00:00"
         },
         "updated_at": "2026-10-18T04:05:19.992921+00:00"
+    },
+    "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/": {
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-18T20:37:40+00:00",
+        "discovered_at": "2026-10-18T22:20:54.834237+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-18T22:21:44.611434+00:00",
+            "linkedin": "2026-10-18T22:22:00.865222+00:00"
+        },
+        "updated_at": "2026-10-18T22:22:00.865238+00:00"
+    },
+    "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/": {
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-18T16:30:00+00:00",
+        "discovered_at": "2026-10-18T22:20:54.834245+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-18T22:21:44.630992+00:00",
+            "linkedin": "2026-10-18T22:22:00.883359+00:00"
+        },
+        "updated_at": "2026-10-18T22:22:00.883375+00:00"
     }
 }
