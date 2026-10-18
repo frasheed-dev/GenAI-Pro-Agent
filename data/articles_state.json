@@ -18629,7 +18629,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-16T16:30:00+00:00",
         "discovered_at": "2026-10-16T22:43:13.174982+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-18T04:05:04.126785+00:00",
+            "linkedin": "2026-10-18T04:05:20.015510+00:00"
+        },
+        "updated_at": "2026-10-18T04:05:20.015526+00:00"
     },
     "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/": {
         "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
@@ -18724,6 +18729,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-17T18:48:08+00:00",
         "discovered_at": "2026-10-17T22:07:26.497565+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-18T04:05:04.100736+00:00",
+            "linkedin": "2026-10-18T04:05:19.992905+00:00"
+        },
+        "updated_at": "2026-10-18T04:05:19.992921+00:00"
     }
 }
