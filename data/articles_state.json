@@ -18774,5 +18774,36 @@
             "linkedin": "2026-10-18T22:22:00.883359+00:00"
         },
         "updated_at": "2026-10-18T22:22:00.883375+00:00"
+    },
+    "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/": {
+        "title": "People are using AI to make their smart TVs dumb again",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-19T16:13:22+00:00",
+        "discovered_at": "2026-10-19T16:53:30.242656+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-19T16:56:11.438400+00:00",
+            "linkedin": "2026-10-19T16:56:27.405160+00:00"
+        },
+        "updated_at": "2026-10-19T16:56:27.405176+00:00"
+    },
+    "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/": {
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-19T15:37:09+00:00",
+        "discovered_at": "2026-10-19T16:53:30.242665+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-19T16:56:11.460866+00:00",
+            "linkedin": "2026-10-19T16:56:27.428564+00:00"
+        },
+        "updated_at": "2026-10-19T16:56:27.428577+00:00"
+    },
+    "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/": {
+        "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-19T09:08:05+00:00",
+        "discovered_at": "2026-10-19T16:53:30.242675+00:00",
+        "status": "PENDING"
     }
 }
