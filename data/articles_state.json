@@ -18677,7 +18677,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-16T14:26:51+00:00",
         "discovered_at": "2026-10-16T22:43:13.174995+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-19T04:13:14.584296+00:00",
+            "linkedin": "2026-10-19T04:13:30.760430+00:00"
+        },
+        "updated_at": "2026-10-19T04:13:30.760443+00:00"
     },
     "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/": {
         "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
