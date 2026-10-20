@@ -18975,5 +18975,106 @@
         "published_date": "2026-10-20T09:00:00+00:00",
         "discovered_at": "2026-10-20T14:53:17.530627+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/ted-taylor-restaurant": {
+        "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+        "source": "OpenAI",
+        "published_date": "2026-10-20T10:00:00+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788510+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-to-acquire-orchestra-bio": {
+        "title": "OpenAI acquires Orchestra Bio",
+        "source": "OpenAI",
+        "published_date": "2026-10-20T00:00:00+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788515+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/": {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T23:01:23+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788517+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-20T23:05:30.673494+00:00",
+            "linkedin": "2026-10-20T23:05:46.893815+00:00"
+        },
+        "updated_at": "2026-10-20T23:05:46.893831+00:00"
+    },
+    "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/": {
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T22:24:02+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788519+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-20T23:05:30.687647+00:00",
+            "linkedin": "2026-10-20T23:05:46.906327+00:00"
+        },
+        "updated_at": "2026-10-20T23:05:46.906334+00:00"
+    },
+    "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/": {
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T21:25:22+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788521+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/": {
+        "title": "SpaceX’s AI business is beating expectations",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T20:40:41+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788523+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/": {
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T20:35:10+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788527+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/": {
+        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T18:38:24+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788529+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/": {
+        "title": "ChatGPT now lets you lock your chats",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T18:36:53+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788531+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/": {
+        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T17:55:12+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788533+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/": {
+        "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T17:12:48+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788534+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/": {
+        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T16:00:00+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788536+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/": {
+        "title": "The new economics of enterprise AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-20T15:20:25+00:00",
+        "discovered_at": "2026-10-20T23:04:42.788540+00:00",
+        "status": "PENDING"
     }
 }
