@@ -18892,5 +18892,29 @@
         "published_date": "2026-10-19T17:45:55+00:00",
         "discovered_at": "2026-10-19T23:30:25.540823+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/": {
+        "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T01:27:03+00:00",
+        "discovered_at": "2026-10-20T04:24:36.462478+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-20T04:25:19.574882+00:00",
+            "linkedin": "2026-10-20T04:25:36.525176+00:00"
+        },
+        "updated_at": "2026-10-20T04:25:36.525189+00:00"
+    },
+    "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/": {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-19T23:39:38+00:00",
+        "discovered_at": "2026-10-20T04:24:36.462485+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-20T04:25:19.597724+00:00",
+            "linkedin": "2026-10-20T04:25:36.546722+00:00"
+        },
+        "updated_at": "2026-10-20T04:25:36.546729+00:00"
     }
 }
