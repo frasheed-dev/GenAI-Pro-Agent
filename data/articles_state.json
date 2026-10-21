@@ -19145,5 +19145,92 @@
             "linkedin": "2026-10-21T15:03:10.619879+00:00"
         },
         "updated_at": "2026-10-21T15:03:10.619897+00:00"
+    },
+    "https://openai.com/index/att-legal": {
+        "title": "How AT&T is rethinking in-house legal work with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T17:00:00+00:00",
+        "discovered_at": "2026-10-21T23:09:29.634999+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/broad-access-through-consistent-standards": {
+        "title": "Broad access through consistent standards",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T21:00:00+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635010+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+        "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T07:00:00+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635015+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/empowering-cyber-defenders": {
+        "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T00:00:00+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635024+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/": {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T22:51:22+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635032+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-21T23:10:10.290281+00:00",
+            "linkedin": "2026-10-21T23:10:26.348352+00:00"
+        },
+        "updated_at": "2026-10-21T23:10:26.348370+00:00"
+    },
+    "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/": {
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T21:16:20+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635037+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-21T23:10:10.316227+00:00",
+            "linkedin": "2026-10-21T23:10:26.371608+00:00"
+        },
+        "updated_at": "2026-10-21T23:10:26.371625+00:00"
+    },
+    "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/": {
+        "title": "Meta says Muse has over 10M users, with shopping a top activity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T21:14:19+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635041+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/": {
+        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T20:27:41+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635046+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/": {
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T19:30:00+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635050+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/": {
+        "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T17:59:12+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635054+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/": {
+        "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T17:18:27+00:00",
+        "discovered_at": "2026-10-21T23:09:29.635058+00:00",
+        "status": "PENDING"
     }
 }
