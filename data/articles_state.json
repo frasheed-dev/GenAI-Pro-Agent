@@ -19019,14 +19019,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-20T21:25:22+00:00",
         "discovered_at": "2026-10-20T23:04:42.788521+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-21T04:15:49.258594+00:00",
+            "linkedin": "2026-10-21T04:16:05.239804+00:00"
+        },
+        "updated_at": "2026-10-21T04:16:05.239822+00:00"
     },
     "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/": {
         "title": "SpaceX’s AI business is beating expectations",
         "source": "TechCrunch AI",
         "published_date": "2026-10-20T20:40:41+00:00",
         "discovered_at": "2026-10-20T23:04:42.788523+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-21T04:15:49.284609+00:00",
+            "linkedin": "2026-10-21T04:16:05.263713+00:00"
+        },
+        "updated_at": "2026-10-21T04:16:05.263730+00:00"
     },
     "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/": {
         "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -19075,6 +19085,20 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-10-20T15:20:25+00:00",
         "discovered_at": "2026-10-20T23:04:42.788540+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/terminal-x": {
+        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+        "source": "OpenAI",
+        "published_date": "2026-10-20T07:00:00+00:00",
+        "discovered_at": "2026-10-21T04:14:58.175191+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
+        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-20T16:20:06+00:00",
+        "discovered_at": "2026-10-21T04:14:58.175214+00:00",
         "status": "PENDING"
     }
 }
