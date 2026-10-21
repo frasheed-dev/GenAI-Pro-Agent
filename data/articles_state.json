@@ -19100,5 +19100,50 @@
         "published_date": "2026-10-20T16:20:06+00:00",
         "discovered_at": "2026-10-21T04:14:58.175214+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/openai-models-google-cloud": {
+        "title": "OpenAI models are coming to Google Cloud",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T12:00:00+00:00",
+        "discovered_at": "2026-10-21T15:00:10.576951+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+        "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T13:00:00+00:00",
+        "discovered_at": "2026-10-21T15:00:10.576961+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-21T15:02:54.418969+00:00",
+            "linkedin": "2026-10-21T15:03:10.634564+00:00"
+        },
+        "updated_at": "2026-10-21T15:03:10.634578+00:00"
+    },
+    "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+        "title": "Using thousands of AI agents to uncover new leads in biological data",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T04:50:00+00:00",
+        "discovered_at": "2026-10-21T15:00:10.576965+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/building-chatgpt-ad-stack": {
+        "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T07:00:00+00:00",
+        "discovered_at": "2026-10-21T15:00:10.576967+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/": {
+        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T14:00:00+00:00",
+        "discovered_at": "2026-10-21T15:00:10.576976+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-21T15:02:54.405521+00:00",
+            "linkedin": "2026-10-21T15:03:10.619879+00:00"
+        },
+        "updated_at": "2026-10-21T15:03:10.619897+00:00"
     }
 }
