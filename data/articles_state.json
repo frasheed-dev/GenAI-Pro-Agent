@@ -19301,5 +19301,106 @@
         "published_date": "2026-10-22T08:41:18+00:00",
         "discovered_at": "2026-10-22T14:59:51.851119+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/decisions-api": {
+        "title": "Build more responsive apps with the Decisions API",
+        "source": "OpenAI",
+        "published_date": "2026-10-22T19:00:00+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287123+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/uber-chatgpt-work-rollout": {
+        "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-22T00:00:00+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287132+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/": {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T22:08:24+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287142+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-22T23:09:33.251519+00:00",
+            "linkedin": "2026-10-22T23:09:49.195842+00:00"
+        },
+        "updated_at": "2026-10-22T23:09:49.195854+00:00"
+    },
+    "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/": {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T19:07:09+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287145+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/": {
+        "title": "Canva releases its first image generation model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T19:00:00+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287149+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/": {
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T19:00:00+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287152+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/": {
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T18:43:53+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287156+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/": {
+        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T16:47:17+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287159+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/": {
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T16:00:00+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287162+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/": {
+        "title": "Spotify’s current AI bet is about being the music service that agents choose",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T15:03:58+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287165+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/": {
+        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-21T22:45:34+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287169+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/": {
+        "title": "Designing an AI serving harness built to last",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-22T21:17:29+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287174+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-22T23:09:33.275544+00:00",
+            "linkedin": "2026-10-22T23:09:49.217881+00:00"
+        },
+        "updated_at": "2026-10-22T23:09:49.217888+00:00"
+    },
+    "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/": {
+        "title": "The Foundations of Scalable AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-22T18:48:04+00:00",
+        "discovered_at": "2026-10-22T23:08:52.287177+00:00",
+        "status": "PENDING"
     }
 }
