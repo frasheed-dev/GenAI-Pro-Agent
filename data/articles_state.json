@@ -19249,5 +19249,57 @@
         "published_date": "2026-10-21T00:00:00+00:00",
         "discovered_at": "2026-10-22T04:15:37.733381+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/forward-deployed-engineering-means": {
+        "title": "What FDE means at OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-22T06:00:00+00:00",
+        "discovered_at": "2026-10-22T14:59:51.851084+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/": {
+        "title": "Claude Duet app is Anthropic’s bet on agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T13:53:26+00:00",
+        "discovered_at": "2026-10-22T14:59:51.851099+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-22T15:02:56.153546+00:00",
+            "linkedin": "2026-10-22T15:03:11.971366+00:00"
+        },
+        "updated_at": "2026-10-22T15:03:11.971384+00:00"
+    },
+    "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/": {
+        "title": "Nirva raises $33M for a pendant that only listens to you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T13:26:52+00:00",
+        "discovered_at": "2026-10-22T14:59:51.851103+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-22T15:02:56.188512+00:00",
+            "linkedin": "2026-10-22T15:03:11.993490+00:00"
+        },
+        "updated_at": "2026-10-22T15:03:11.993500+00:00"
+    },
+    "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/": {
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-22T13:11:13+00:00",
+        "discovered_at": "2026-10-22T14:59:51.851107+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/": {
+        "title": "Making the case for context-aware AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-22T10:00:00+00:00",
+        "discovered_at": "2026-10-22T14:59:51.851115+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/": {
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-22T08:41:18+00:00",
+        "discovered_at": "2026-10-22T14:59:51.851119+00:00",
+        "status": "PENDING"
     }
 }
