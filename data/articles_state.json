@@ -19158,7 +19158,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-21T21:00:00+00:00",
         "discovered_at": "2026-10-21T23:09:29.635010+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-22T04:16:19.960025+00:00",
+            "linkedin": "2026-10-22T04:16:36.281192+00:00"
+        },
+        "updated_at": "2026-10-22T04:16:36.281201+00:00"
     },
     "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
         "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
@@ -19203,7 +19208,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-21T21:14:19+00:00",
         "discovered_at": "2026-10-21T23:09:29.635041+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-22T04:16:19.940706+00:00",
+            "linkedin": "2026-10-22T04:16:36.263508+00:00"
+        },
+        "updated_at": "2026-10-22T04:16:36.263523+00:00"
     },
     "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/": {
         "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
@@ -19231,6 +19241,13 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-21T17:18:27+00:00",
         "discovered_at": "2026-10-21T23:09:29.635058+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cloudflare-cyber": {
+        "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-21T00:00:00+00:00",
+        "discovered_at": "2026-10-22T04:15:37.733381+00:00",
         "status": "PENDING"
     }
 }
