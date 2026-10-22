@@ -255,5 +255,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 ## Author & Contact
 
-Developed by **[Farhan Rasheed, PhD](https://www.linkedin.com/in/frasheed-dev/)**  
+Developed by **[Farhan Rasheed, PhD](https://www.linkedin.com/in/frasheedf)**  
 *Building Autonomous Agentic Systems & Generative AI Infrastructure.*
+
+See the live automated output in action on LinkedIn: **[GenAI Pro Company Page](https://www.linkedin.com/company/102614443)**
