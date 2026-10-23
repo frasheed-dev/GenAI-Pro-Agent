@@ -19419,5 +19419,29 @@
             "linkedin": "2026-10-23T04:19:56.262938+00:00"
         },
         "updated_at": "2026-10-23T04:19:56.262955+00:00"
+    },
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
+        "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+        "source": "OpenAI",
+        "published_date": "2026-10-23T00:00:00+00:00",
+        "discovered_at": "2026-10-23T15:11:55.663985+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-23T15:14:40.065977+00:00",
+            "linkedin": "2026-10-23T15:14:56.260039+00:00"
+        },
+        "updated_at": "2026-10-23T15:14:56.260055+00:00"
+    },
+    "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/": {
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-23T04:00:00+00:00",
+        "discovered_at": "2026-10-23T15:11:55.664002+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-23T15:14:40.041740+00:00",
+            "linkedin": "2026-10-23T15:14:56.233478+00:00"
+        },
+        "updated_at": "2026-10-23T15:14:56.233497+00:00"
     }
 }
