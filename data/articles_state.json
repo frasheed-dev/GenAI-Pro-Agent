@@ -19443,5 +19443,50 @@
             "linkedin": "2026-10-23T15:14:56.233478+00:00"
         },
         "updated_at": "2026-10-23T15:14:56.233497+00:00"
+    },
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "source": "OpenAI",
+        "published_date": "2026-10-23T17:00:00+00:00",
+        "discovered_at": "2026-10-23T23:25:04.636998+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/securing-our-frontier-model-training-environment": {
+        "title": "Securing our frontier model training environment",
+        "source": "OpenAI",
+        "published_date": "2026-10-23T10:00:00+00:00",
+        "discovered_at": "2026-10-23T23:25:04.637002+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/": {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-23T23:05:49+00:00",
+        "discovered_at": "2026-10-23T23:25:04.637009+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-23T23:27:47.529255+00:00",
+            "linkedin": "2026-10-23T23:28:03.752422+00:00"
+        },
+        "updated_at": "2026-10-23T23:28:03.752438+00:00"
+    },
+    "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/": {
+        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-23T21:59:19+00:00",
+        "discovered_at": "2026-10-23T23:25:04.637011+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-23T23:27:47.544617+00:00",
+            "linkedin": "2026-10-23T23:28:03.766282+00:00"
+        },
+        "updated_at": "2026-10-23T23:28:03.766290+00:00"
+    },
+    "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/": {
+        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-23T19:06:23+00:00",
+        "discovered_at": "2026-10-23T23:25:04.637013+00:00",
+        "status": "PENDING"
     }
 }
