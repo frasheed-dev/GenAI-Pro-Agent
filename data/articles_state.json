@@ -19307,7 +19307,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-22T19:00:00+00:00",
         "discovered_at": "2026-10-22T23:08:52.287123+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-24T13:55:30.509772+00:00",
+            "linkedin": "2026-10-24T13:55:46.722156+00:00"
+        },
+        "updated_at": "2026-10-24T13:55:46.722173+00:00"
     },
     "https://openai.com/index/uber-chatgpt-work-rollout": {
         "title": "Uber brings ChatGPT Work to all employees with OpenAI",
@@ -19461,7 +19466,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-23T10:00:00+00:00",
         "discovered_at": "2026-10-23T23:25:04.637002+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-24T13:55:30.486893+00:00",
+            "linkedin": "2026-10-24T13:55:46.697870+00:00"
+        },
+        "updated_at": "2026-10-24T13:55:46.697886+00:00"
     },
     "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/": {
         "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
