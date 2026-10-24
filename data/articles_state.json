@@ -19449,7 +19449,12 @@
         "source": "OpenAI",
         "published_date": "2026-10-23T17:00:00+00:00",
         "discovered_at": "2026-10-23T23:25:04.636998+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-24T04:11:50.818984+00:00",
+            "linkedin": "2026-10-24T04:12:07.057126+00:00"
+        },
+        "updated_at": "2026-10-24T04:12:07.057133+00:00"
     },
     "https://openai.com/index/securing-our-frontier-model-training-environment": {
         "title": "Securing our frontier model training environment",
@@ -19487,6 +19492,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-23T19:06:23+00:00",
         "discovered_at": "2026-10-23T23:25:04.637013+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-24T04:11:50.799894+00:00",
+            "linkedin": "2026-10-24T04:12:07.038978+00:00"
+        },
+        "updated_at": "2026-10-24T04:12:07.038992+00:00"
     }
 }
