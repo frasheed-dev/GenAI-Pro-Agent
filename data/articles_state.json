@@ -19508,5 +19508,43 @@
             "linkedin": "2026-10-24T04:12:07.038978+00:00"
         },
         "updated_at": "2026-10-24T04:12:07.038992+00:00"
+    },
+    "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-24T19:00:00+00:00",
+        "discovered_at": "2026-10-24T22:22:08.567510+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-24T22:22:51.907205+00:00",
+            "linkedin": "2026-10-24T22:23:08.194781+00:00"
+        },
+        "updated_at": "2026-10-24T22:23:08.194795+00:00"
+    },
+    "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/": {
+        "title": "Block’s new voice model sounds eerily human",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-24T16:00:00+00:00",
+        "discovered_at": "2026-10-24T22:22:08.567517+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-24T22:22:51.920706+00:00",
+            "linkedin": "2026-10-24T22:23:08.207896+00:00"
+        },
+        "updated_at": "2026-10-24T22:23:08.207901+00:00"
+    },
+    "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/": {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-24T15:00:00+00:00",
+        "discovered_at": "2026-10-24T22:22:08.567519+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/": {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-24T14:00:00+00:00",
+        "discovered_at": "2026-10-24T22:22:08.567522+00:00",
+        "status": "PENDING"
     }
 }
