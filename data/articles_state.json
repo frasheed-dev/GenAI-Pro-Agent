@@ -19538,13 +19538,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-24T15:00:00+00:00",
         "discovered_at": "2026-10-24T22:22:08.567519+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-25T04:13:04.214252+00:00",
+            "linkedin": "2026-10-25T04:13:20.209432+00:00"
+        },
+        "updated_at": "2026-10-25T04:13:20.209444+00:00"
     },
     "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/": {
         "title": "Here are the top AI agents that can live in your text messages",
         "source": "TechCrunch AI",
         "published_date": "2026-10-24T14:00:00+00:00",
         "discovered_at": "2026-10-24T22:22:08.567522+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-25T04:13:04.236272+00:00",
+            "linkedin": "2026-10-25T04:13:20.231428+00:00"
+        },
+        "updated_at": "2026-10-25T04:13:20.231437+00:00"
     }
 }
