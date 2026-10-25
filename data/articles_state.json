@@ -19573,5 +19573,29 @@
             "linkedin": "2026-10-25T14:16:07.749659+00:00"
         },
         "updated_at": "2026-10-25T14:16:07.749676+00:00"
+    },
+    "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/": {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-25T21:31:16+00:00",
+        "discovered_at": "2026-10-25T22:24:53.098198+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-25T22:25:37.511775+00:00",
+            "linkedin": "2026-10-25T22:25:54.123178+00:00"
+        },
+        "updated_at": "2026-10-25T22:25:54.123191+00:00"
+    },
+    "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/": {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-25T16:57:32+00:00",
+        "discovered_at": "2026-10-25T22:24:53.098205+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-25T22:25:37.535027+00:00",
+            "linkedin": "2026-10-25T22:25:54.145624+00:00"
+        },
+        "updated_at": "2026-10-25T22:25:54.145636+00:00"
     }
 }
