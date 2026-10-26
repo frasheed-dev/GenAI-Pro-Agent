@@ -19597,5 +19597,36 @@
             "linkedin": "2026-10-25T22:25:54.145624+00:00"
         },
         "updated_at": "2026-10-25T22:25:54.145636+00:00"
+    },
+    "https://openai.com/index/fanatics-streamline-fan-experience": {
+        "title": "How Fanatics and OpenAI streamline the fan experience",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T07:00:00+00:00",
+        "discovered_at": "2026-10-26T16:41:44.246374+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/": {
+        "title": "Anthropic officially files for its public debut",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-26T14:35:22+00:00",
+        "discovered_at": "2026-10-26T16:41:44.246382+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-26T16:44:27.283086+00:00",
+            "linkedin": "2026-10-26T16:44:43.263856+00:00"
+        },
+        "updated_at": "2026-10-26T16:44:43.263866+00:00"
+    },
+    "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/": {
+        "title": "The focus on AI safety disasters ignores everyday harms",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-26T09:01:00+00:00",
+        "discovered_at": "2026-10-26T16:41:44.246392+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-26T16:44:27.310438+00:00",
+            "linkedin": "2026-10-26T16:44:43.285815+00:00"
+        },
+        "updated_at": "2026-10-26T16:44:43.285822+00:00"
     }
 }
