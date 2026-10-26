@@ -19628,5 +19628,85 @@
             "linkedin": "2026-10-26T16:44:43.285815+00:00"
         },
         "updated_at": "2026-10-26T16:44:43.285822+00:00"
+    },
+    "https://openai.com/index/greptile-code-review-codex-astra": {
+        "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T22:00:00+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397245+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-26T23:41:46.676593+00:00",
+            "linkedin": "2026-10-26T23:42:02.625207+00:00"
+        },
+        "updated_at": "2026-10-26T23:42:02.625217+00:00"
+    },
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+        "title": "Working with academic communities to build scientific understanding",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T14:30:00+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397252+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+        "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T13:45:00+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397255+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-expanding-world-of-work": {
+        "title": "ChatGPT’s expanding world of work",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T10:00:00+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397258+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/openai-cut-incident-investigation": {
+        "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T07:00:00+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397262+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-gpt-6-1-terra": {
+        "title": "Introducing GPT-6.1 Terra",
+        "source": "OpenAI",
+        "published_date": "2026-10-26T00:00:00+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397265+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/": {
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-26T16:49:42+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397270+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/": {
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-26T16:46:36+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397274+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/": {
+        "title": "Will AI expose the rickety infrastructure of the internet?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-24T20:15:33+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397278+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/": {
+        "title": "Will the real Anthropic please stand up",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-26T17:45:43+00:00",
+        "discovered_at": "2026-10-26T23:41:05.397282+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-26T23:41:46.698939+00:00",
+            "linkedin": "2026-10-26T23:42:02.647258+00:00"
+        },
+        "updated_at": "2026-10-26T23:42:02.647265+00:00"
     }
 }
