@@ -19881,5 +19881,64 @@
             "linkedin": "2026-10-28T05:13:35.811291+00:00"
         },
         "updated_at": "2026-10-28T05:13:35.811304+00:00"
+    },
+    "https://openai.com/index/legora-agentic-operating-system-for-legal-work": {
+        "title": "Legora is building the agentic operating system for legal work",
+        "source": "OpenAI",
+        "published_date": "2026-10-28T09:30:00+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802433+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/legora": {
+        "title": "Legora is building the agentic operating system for legal work",
+        "source": "OpenAI",
+        "published_date": "2026-10-28T09:30:00+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802441+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/": {
+        "title": "AI execs may be too out of touch to build for the general public",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-28T15:53:52+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802449+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-28T16:32:56.819361+00:00",
+            "linkedin": "2026-10-28T16:33:13.335678+00:00"
+        },
+        "updated_at": "2026-10-28T16:33:13.335690+00:00"
+    },
+    "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/": {
+        "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-28T15:41:18+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802453+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-28T16:32:56.844878+00:00",
+            "linkedin": "2026-10-28T16:33:13.359482+00:00"
+        },
+        "updated_at": "2026-10-28T16:33:13.359494+00:00"
+    },
+    "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/": {
+        "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-28T15:00:00+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802456+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/": {
+        "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-28T13:00:00+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802459+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/": {
+        "title": "Pairing industrial AI autonomy and human control",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-28T12:00:00+00:00",
+        "discovered_at": "2026-10-28T16:32:11.802468+00:00",
+        "status": "PENDING"
     }
 }
