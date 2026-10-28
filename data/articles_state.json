@@ -19835,7 +19835,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-27T21:44:34+00:00",
         "discovered_at": "2026-10-27T23:40:26.072965+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-28T05:13:19.477846+00:00",
+            "linkedin": "2026-10-28T05:13:35.834273+00:00"
+        },
+        "updated_at": "2026-10-28T05:13:35.834279+00:00"
     },
     "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/": {
         "title": "Who’s really in charge at Anthropic after the IPO?",
@@ -19864,5 +19869,17 @@
         "published_date": "2026-10-27T16:30:57+00:00",
         "discovered_at": "2026-10-27T23:40:26.072976+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/": {
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-28T01:15:28+00:00",
+        "discovered_at": "2026-10-28T05:10:34.039618+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-28T05:13:19.453297+00:00",
+            "linkedin": "2026-10-28T05:13:35.811291+00:00"
+        },
+        "updated_at": "2026-10-28T05:13:35.811304+00:00"
     }
 }
