@@ -19984,14 +19984,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-28T21:34:30+00:00",
         "discovered_at": "2026-10-28T23:57:57.098844+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-29T05:37:00.894288+00:00",
+            "linkedin": "2026-10-29T05:37:16.859733+00:00"
+        },
+        "updated_at": "2026-10-29T05:37:16.859749+00:00"
     },
     "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/": {
         "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
         "source": "TechCrunch AI",
         "published_date": "2026-10-28T21:25:30+00:00",
         "discovered_at": "2026-10-28T23:57:57.098847+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-29T05:37:00.909859+00:00",
+            "linkedin": "2026-10-29T05:37:16.873086+00:00"
+        },
+        "updated_at": "2026-10-29T05:37:16.873092+00:00"
     },
     "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/": {
         "title": "Anthropic just launched tools to show companies what their AI spending is buying",
