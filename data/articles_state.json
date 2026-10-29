@@ -20044,5 +20044,57 @@
         "published_date": "2026-10-28T20:32:02+00:00",
         "discovered_at": "2026-10-28T23:57:57.098866+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/": {
+        "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T16:42:32+00:00",
+        "discovered_at": "2026-10-29T16:50:01.338595+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-29T16:52:43.831872+00:00",
+            "linkedin": "2026-10-29T16:53:00.134232+00:00"
+        },
+        "updated_at": "2026-10-29T16:53:00.134246+00:00"
+    },
+    "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/": {
+        "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T16:21:00+00:00",
+        "discovered_at": "2026-10-29T16:50:01.338603+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-29T16:52:43.857520+00:00",
+            "linkedin": "2026-10-29T16:53:00.157223+00:00"
+        },
+        "updated_at": "2026-10-29T16:53:00.157230+00:00"
+    },
+    "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/": {
+        "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T14:35:26+00:00",
+        "discovered_at": "2026-10-29T16:50:01.338607+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/": {
+        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T13:00:00+00:00",
+        "discovered_at": "2026-10-29T16:50:01.338610+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/": {
+        "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T13:00:00+00:00",
+        "discovered_at": "2026-10-29T16:50:01.338614+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/": {
+        "title": "We urgently need to monitor AI agents’ actions in real time",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-10-29T10:11:12+00:00",
+        "discovered_at": "2026-10-29T16:50:01.338621+00:00",
+        "status": "PENDING"
     }
 }
