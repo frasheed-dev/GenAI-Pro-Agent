@@ -20096,5 +20096,85 @@
         "published_date": "2026-10-29T10:11:12+00:00",
         "discovered_at": "2026-10-29T16:50:01.338621+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/updated-model-spec": {
+        "title": "An updated Model Spec for more capable and beneficial AI",
+        "source": "OpenAI",
+        "published_date": "2026-10-29T17:00:00+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932069+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+        "title": "How we detect frontier model misalignment",
+        "source": "OpenAI",
+        "published_date": "2026-10-29T09:00:00+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932080+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/ropes-gray-ai-diligence": {
+        "title": "How Ropes & Gray is developing AI for transactional diligence",
+        "source": "OpenAI",
+        "published_date": "2026-10-29T07:00:00+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932084+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/": {
+        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T23:42:22+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932094+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-29T23:53:23.594763+00:00",
+            "linkedin": "2026-10-29T23:53:39.831836+00:00"
+        },
+        "updated_at": "2026-10-29T23:53:39.831854+00:00"
+    },
+    "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/": {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T20:08:31+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932098+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-29T23:53:23.623576+00:00",
+            "linkedin": "2026-10-29T23:53:39.856576+00:00"
+        },
+        "updated_at": "2026-10-29T23:53:39.856593+00:00"
+    },
+    "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/": {
+        "title": "Rivian expands joint venture with VW to include AI assistant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T20:05:47+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932102+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/": {
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T19:56:19+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932106+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/": {
+        "title": "Meta quietly launches an AI fashion app called Style Sketch",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T19:14:36+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932109+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/": {
+        "title": "Granola crunches up a dictation feature to compete with Wispr",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T17:54:38+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932113+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/": {
+        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-29T17:00:00+00:00",
+        "discovered_at": "2026-10-29T23:52:40.932117+00:00",
+        "status": "PENDING"
     }
 }
