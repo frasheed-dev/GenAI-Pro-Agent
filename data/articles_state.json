@@ -20193,5 +20193,57 @@
             "linkedin": "2026-10-30T05:22:50.371601+00:00"
         },
         "updated_at": "2026-10-30T05:22:50.371616+00:00"
+    },
+    "https://openai.com/index/credit-saison": {
+        "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+        "source": "OpenAI",
+        "published_date": "2026-10-29T00:00:00+00:00",
+        "discovered_at": "2026-10-30T16:37:17.751210+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/": {
+        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T16:03:45+00:00",
+        "discovered_at": "2026-10-30T16:37:17.751220+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-30T16:38:00.515647+00:00",
+            "linkedin": "2026-10-30T16:38:16.569206+00:00"
+        },
+        "updated_at": "2026-10-30T16:38:16.569217+00:00"
+    },
+    "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/": {
+        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T14:00:00+00:00",
+        "discovered_at": "2026-10-30T16:37:17.751223+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-30T16:38:00.534301+00:00",
+            "linkedin": "2026-10-30T16:38:16.587573+00:00"
+        },
+        "updated_at": "2026-10-30T16:38:16.587582+00:00"
+    },
+    "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/": {
+        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T13:54:25+00:00",
+        "discovered_at": "2026-10-30T16:37:17.751226+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/": {
+        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T13:00:00+00:00",
+        "discovered_at": "2026-10-30T16:37:17.751229+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/": {
+        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T13:00:00+00:00",
+        "discovered_at": "2026-10-30T16:37:17.751231+00:00",
+        "status": "PENDING"
     }
 }
