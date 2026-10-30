@@ -20245,5 +20245,85 @@
         "published_date": "2026-10-30T13:00:00+00:00",
         "discovered_at": "2026-10-30T16:37:17.751231+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+        "title": "Making it easier for websites to express AI training preferences",
+        "source": "OpenAI",
+        "published_date": "2026-10-30T09:30:00+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327388+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+        "title": "Community safety report and new protections for teens",
+        "source": "OpenAI",
+        "published_date": "2026-10-30T09:00:00+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327396+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/fair-use-benefits-everyone": {
+        "title": "Fair use benefits everyone",
+        "source": "OpenAI",
+        "published_date": "2026-10-30T00:00:00+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327400+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/": {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T22:56:13+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327407+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-30T23:34:08.226392+00:00",
+            "linkedin": "2026-10-30T23:34:24.051615+00:00"
+        },
+        "updated_at": "2026-10-30T23:34:24.051629+00:00"
+    },
+    "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/": {
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T21:54:34+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327411+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-30T23:34:08.249673+00:00",
+            "linkedin": "2026-10-30T23:34:24.074473+00:00"
+        },
+        "updated_at": "2026-10-30T23:34:24.074482+00:00"
+    },
+    "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/": {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T21:52:03+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327415+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/": {
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T21:26:59+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327419+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/": {
+        "title": "Cracks are emerging in the AI spending boom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T21:17:40+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327422+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/": {
+        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T17:47:12+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327425+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": {
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T17:00:00+00:00",
+        "discovered_at": "2026-10-30T23:33:28.327428+00:00",
+        "status": "PENDING"
     }
 }
