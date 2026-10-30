@@ -20147,7 +20147,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-29T20:05:47+00:00",
         "discovered_at": "2026-10-29T23:52:40.932102+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-30T05:22:34.172623+00:00",
+            "linkedin": "2026-10-30T05:22:50.390308+00:00"
+        },
+        "updated_at": "2026-10-30T05:22:50.390317+00:00"
     },
     "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/": {
         "title": "OpenAI-backed Thrive Holdings acquires ADT",
@@ -20176,5 +20181,17 @@
         "published_date": "2026-10-29T17:00:00+00:00",
         "discovered_at": "2026-10-29T23:52:40.932117+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/": {
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-30T01:20:48+00:00",
+        "discovered_at": "2026-10-30T05:19:52.704487+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-30T05:22:34.151749+00:00",
+            "linkedin": "2026-10-30T05:22:50.371601+00:00"
+        },
+        "updated_at": "2026-10-30T05:22:50.371616+00:00"
     }
 }
