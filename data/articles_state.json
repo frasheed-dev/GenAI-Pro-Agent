@@ -20296,7 +20296,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T21:52:03+00:00",
         "discovered_at": "2026-10-30T23:33:28.327415+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-31T05:02:51.015481+00:00",
+            "linkedin": "2026-10-31T05:03:07.113526+00:00"
+        },
+        "updated_at": "2026-10-31T05:03:07.113533+00:00"
     },
     "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/": {
         "title": "Last-minute Halloween costumes for tech nerds",
@@ -20325,5 +20330,17 @@
         "published_date": "2026-10-30T17:00:00+00:00",
         "discovered_at": "2026-10-30T23:33:28.327428+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/": {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-31T01:20:05+00:00",
+        "discovered_at": "2026-10-31T05:02:08.773560+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-31T05:02:50.992457+00:00",
+            "linkedin": "2026-10-31T05:03:07.090700+00:00"
+        },
+        "updated_at": "2026-10-31T05:03:07.090712+00:00"
     }
 }
