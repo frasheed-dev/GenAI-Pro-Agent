@@ -20352,5 +20352,43 @@
             "linkedin": "2026-10-31T05:03:07.090700+00:00"
         },
         "updated_at": "2026-10-31T05:03:07.090712+00:00"
+    },
+    "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/": {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-31T21:41:00+00:00",
+        "discovered_at": "2026-10-31T23:16:38.625071+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-31T23:17:21.350742+00:00",
+            "linkedin": "2026-10-31T23:17:37.605827+00:00"
+        },
+        "updated_at": "2026-10-31T23:17:37.605841+00:00"
+    },
+    "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/": {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-31T21:36:07+00:00",
+        "discovered_at": "2026-10-31T23:16:38.625076+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-31T23:17:21.365224+00:00",
+            "linkedin": "2026-10-31T23:17:37.619588+00:00"
+        },
+        "updated_at": "2026-10-31T23:17:37.619593+00:00"
+    },
+    "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/": {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-31T21:17:03+00:00",
+        "discovered_at": "2026-10-31T23:16:38.625090+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/": {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "source": "TechCrunch AI",
+        "published_date": "2026-10-31T16:12:55+00:00",
+        "discovered_at": "2026-10-31T23:16:38.625092+00:00",
+        "status": "PENDING"
     }
 }
