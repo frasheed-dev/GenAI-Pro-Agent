@@ -20308,14 +20308,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T21:26:59+00:00",
         "discovered_at": "2026-10-30T23:33:28.327419+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-31T15:45:07.566985+00:00",
+            "linkedin": "2026-10-31T15:45:23.621973+00:00"
+        },
+        "updated_at": "2026-10-31T15:45:23.621994+00:00"
     },
     "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/": {
         "title": "Cracks are emerging in the AI spending boom",
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T21:17:40+00:00",
         "discovered_at": "2026-10-30T23:33:28.327422+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-10-31T15:45:07.598182+00:00",
+            "linkedin": "2026-10-31T15:45:23.647688+00:00"
+        },
+        "updated_at": "2026-10-31T15:45:23.647706+00:00"
     },
     "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/": {
         "title": "Zest’s new AI agent finds restaurants and books reservations over text",
