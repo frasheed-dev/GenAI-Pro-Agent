@@ -20382,13 +20382,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-31T21:17:03+00:00",
         "discovered_at": "2026-10-31T23:16:38.625090+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-01T05:36:13.237966+00:00",
+            "linkedin": "2026-11-01T05:36:29.220761+00:00"
+        },
+        "updated_at": "2026-11-01T05:36:29.220778+00:00"
     },
     "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/": {
         "title": "OpenAI reportedly lowers funding target for new round",
         "source": "TechCrunch AI",
         "published_date": "2026-10-31T16:12:55+00:00",
         "discovered_at": "2026-10-31T23:16:38.625092+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-01T05:36:13.264061+00:00",
+            "linkedin": "2026-11-01T05:36:29.244077+00:00"
+        },
+        "updated_at": "2026-11-01T05:36:29.244084+00:00"
     }
 }
