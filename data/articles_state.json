@@ -20410,5 +20410,29 @@
             "linkedin": "2026-11-01T05:36:29.244077+00:00"
         },
         "updated_at": "2026-11-01T05:36:29.244084+00:00"
+    },
+    "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/": {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-01T21:55:23+00:00",
+        "discovered_at": "2026-11-01T23:27:26.934682+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-01T23:28:10.350242+00:00",
+            "linkedin": "2026-11-01T23:28:26.884207+00:00"
+        },
+        "updated_at": "2026-11-01T23:28:26.884221+00:00"
+    },
+    "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/": {
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-01T20:57:58+00:00",
+        "discovered_at": "2026-11-01T23:27:26.934689+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-01T23:28:10.401415+00:00",
+            "linkedin": "2026-11-01T23:28:26.903662+00:00"
+        },
+        "updated_at": "2026-11-01T23:28:26.903677+00:00"
     }
 }
