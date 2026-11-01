@@ -20332,14 +20332,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T17:47:12+00:00",
         "discovered_at": "2026-10-30T23:33:28.327425+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-01T16:43:15.360453+00:00",
+            "linkedin": "2026-11-01T16:43:31.412805+00:00"
+        },
+        "updated_at": "2026-11-01T16:43:31.412815+00:00"
     },
     "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/": {
         "title": "Google’s first data center satellite is online and writing poetry",
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T17:00:00+00:00",
         "discovered_at": "2026-10-30T23:33:28.327428+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-01T16:43:15.374487+00:00",
+            "linkedin": "2026-11-01T16:43:31.426568+00:00"
+        },
+        "updated_at": "2026-11-01T16:43:31.426573+00:00"
     },
     "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/": {
         "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
