@@ -20444,5 +20444,106 @@
             "linkedin": "2026-11-01T23:28:26.903662+00:00"
         },
         "updated_at": "2026-11-01T23:28:26.903677+00:00"
+    },
+    "https://openai.com/index/grid-protectors-program": {
+        "title": "Introducing the Grid Protectors Program",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T15:00:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676407+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/lifeval": {
+        "title": "LifeVal",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T09:00:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676412+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/qodo-codex-plugin": {
+        "title": "Qodo builds context into AI code review with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T00:00:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676415+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/": {
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T19:19:17+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676417+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-02T20:09:36.144815+00:00",
+            "linkedin": "2026-11-02T20:09:52.250634+00:00"
+        },
+        "updated_at": "2026-11-02T20:09:52.250644+00:00"
+    },
+    "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/": {
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T16:30:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676418+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/": {
+        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T16:23:21+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676420+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/": {
+        "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T15:00:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676422+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/": {
+        "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T14:00:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676426+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/": {
+        "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T13:57:53+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676429+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/": {
+        "title": "Data centers are now a midterm issue, even in Brooklyn",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-01T02:22:10+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676431+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/": {
+        "title": "Raising the quality of insights in agentic analytics",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-02T17:00:00+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676435+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-02T20:09:36.158816+00:00",
+            "linkedin": "2026-11-02T20:09:52.264189+00:00"
+        },
+        "updated_at": "2026-11-02T20:09:52.264194+00:00"
+    },
+    "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/": {
+        "title": "Stop counting tokens, start counting what ships",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-02T13:10:32+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676437+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/": {
+        "title": "The agentic web is here",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-02T09:35:19+00:00",
+        "discovered_at": "2026-11-02T20:08:54.676439+00:00",
+        "status": "PENDING"
     }
 }
