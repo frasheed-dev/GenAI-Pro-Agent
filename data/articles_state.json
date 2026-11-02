@@ -20230,14 +20230,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T13:54:25+00:00",
         "discovered_at": "2026-10-30T16:37:17.751226+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-02T05:32:14.548274+00:00",
+            "linkedin": "2026-11-02T05:32:30.830371+00:00"
+        },
+        "updated_at": "2026-11-02T05:32:30.830388+00:00"
     },
     "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/": {
         "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
         "source": "TechCrunch AI",
         "published_date": "2026-10-30T13:00:00+00:00",
         "discovered_at": "2026-10-30T16:37:17.751229+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-02T05:32:14.563032+00:00",
+            "linkedin": "2026-11-02T05:32:30.844821+00:00"
+        },
+        "updated_at": "2026-11-02T05:32:30.844833+00:00"
     },
     "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/": {
         "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
