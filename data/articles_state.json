@@ -20545,5 +20545,92 @@
         "published_date": "2026-11-02T09:35:19+00:00",
         "discovered_at": "2026-11-02T20:08:54.676439+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/scaling-git-at-openai": {
+        "title": "Scaling Git at OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T15:30:00+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256926+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+        "title": "Rewarding defenders with bigger bug bounties",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T18:00:00+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256931+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": {
+        "title": "Preparing our next security sprint to harden OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T18:00:00+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256934+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/dan-driscoll-joins-openai": {
+        "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+        "source": "OpenAI",
+        "published_date": "2026-11-02T00:00:00+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256936+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/": {
+        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T03:30:00+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256940+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-03T06:13:27.609937+00:00",
+            "linkedin": "2026-11-03T06:13:43.781099+00:00"
+        },
+        "updated_at": "2026-11-03T06:13:43.781113+00:00"
+    },
+    "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/": {
+        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T01:49:52+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256943+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/": {
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T00:35:52+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256945+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/": {
+        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T23:13:53+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256947+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/": {
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T22:14:50+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256949+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/": {
+        "title": "Web host Squarespace lays off 19% of its employees",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-02T19:25:59+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256951+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/": {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-03T04:18:47+00:00",
+        "discovered_at": "2026-11-03T06:10:46.256956+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-03T06:13:27.595488+00:00",
+            "linkedin": "2026-11-03T06:13:43.766446+00:00"
+        },
+        "updated_at": "2026-11-03T06:13:43.766464+00:00"
     }
 }
