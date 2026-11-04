@@ -20698,5 +20698,78 @@
         "published_date": "2026-11-03T10:43:41+00:00",
         "discovered_at": "2026-11-03T17:39:56.566165+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+        "title": "Accelerating engineering for the physical world",
+        "source": "OpenAI",
+        "published_date": "2026-11-03T12:00:00+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622646+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cisco-cyber": {
+        "title": "How Cisco defends at machine speed with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-11-03T08:00:00+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622653+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+        "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "source": "OpenAI",
+        "published_date": "2026-11-03T00:00:00+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622656+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/": {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T22:41:03+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622664+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-04T00:33:52.157706+00:00",
+            "linkedin": "2026-11-04T00:34:08.154056+00:00"
+        },
+        "updated_at": "2026-11-04T00:34:08.154076+00:00"
+    },
+    "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/": {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T22:19:53+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622666+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-04T00:33:52.172873+00:00",
+            "linkedin": "2026-11-04T00:34:08.169343+00:00"
+        },
+        "updated_at": "2026-11-04T00:34:08.169359+00:00"
+    },
+    "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/": {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T21:43:08+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622669+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/": {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T21:05:55+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622671+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/": {
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T19:34:43+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622674+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/": {
+        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-03T18:42:16+00:00",
+        "discovered_at": "2026-11-04T00:31:10.622676+00:00",
+        "status": "PENDING"
     }
 }
