@@ -20771,5 +20771,57 @@
         "published_date": "2026-11-03T18:42:16+00:00",
         "discovered_at": "2026-11-04T00:31:10.622676+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/openai-to-acquire-pierre": {
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "source": "OpenAI",
+        "published_date": "2026-11-04T14:30:00+00:00",
+        "discovered_at": "2026-11-04T17:54:09.339491+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/daybreak-red-aws-govcloud": {
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "source": "OpenAI",
+        "published_date": "2026-11-04T07:00:00+00:00",
+        "discovered_at": "2026-11-04T17:54:09.339497+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/": {
+        "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T16:51:35+00:00",
+        "discovered_at": "2026-11-04T17:54:09.339505+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-04T17:56:52.427851+00:00",
+            "linkedin": "2026-11-04T17:57:08.792150+00:00"
+        },
+        "updated_at": "2026-11-04T17:57:08.792164+00:00"
+    },
+    "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/": {
+        "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T16:17:22+00:00",
+        "discovered_at": "2026-11-04T17:54:09.339508+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-04T17:56:52.447615+00:00",
+            "linkedin": "2026-11-04T17:57:08.811700+00:00"
+        },
+        "updated_at": "2026-11-04T17:57:08.811716+00:00"
+    },
+    "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/": {
+        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T13:00:00+00:00",
+        "discovered_at": "2026-11-04T17:54:09.339511+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/": {
+        "title": "Securing the agentic enterprise with data lineage",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-04T13:00:00+00:00",
+        "discovered_at": "2026-11-04T17:54:09.339516+00:00",
+        "status": "PENDING"
     }
 }
