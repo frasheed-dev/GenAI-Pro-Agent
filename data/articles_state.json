@@ -20917,5 +20917,78 @@
         "published_date": "2026-11-04T18:50:55+00:00",
         "discovered_at": "2026-11-05T00:49:37.830404+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+        "title": "Setting a new standard for responsible AI infrastructure",
+        "source": "OpenAI",
+        "published_date": "2026-11-05T02:00:00+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474122+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/": {
+        "title": "Axiom Math wants to keep AI slop out of mathematics",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T16:16:45+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474136+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-05T17:59:36.401824+00:00",
+            "linkedin": "2026-11-05T17:59:52.639794+00:00"
+        },
+        "updated_at": "2026-11-05T17:59:52.639805+00:00"
+    },
+    "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/": {
+        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T15:19:05+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474140+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-05T17:59:36.426543+00:00",
+            "linkedin": "2026-11-05T17:59:52.663932+00:00"
+        },
+        "updated_at": "2026-11-05T17:59:52.663939+00:00"
+    },
+    "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/": {
+        "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T14:42:00+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474144+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/": {
+        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T14:00:00+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474147+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/": {
+        "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T13:00:00+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474151+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/": {
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T12:00:00+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474154+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/": {
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T01:26:22+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474157+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/": {
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-05T01:02:14+00:00",
+        "discovered_at": "2026-11-05T17:56:53.474160+00:00",
+        "status": "PENDING"
     }
 }
