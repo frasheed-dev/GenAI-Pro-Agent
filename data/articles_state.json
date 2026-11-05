@@ -20823,5 +20823,99 @@
         "published_date": "2026-11-04T13:00:00+00:00",
         "discovered_at": "2026-11-04T17:54:09.339516+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/a-thousand-fewer-paths-to-root": {
+        "title": "A thousand fewer paths to root",
+        "source": "OpenAI",
+        "published_date": "2026-11-04T08:00:00+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830357+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-images-2-6": {
+        "title": "Introducing Images 2.6",
+        "source": "OpenAI",
+        "published_date": "2026-11-04T00:00:00+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830364+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/devrev-enterprise-self-service": {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "source": "OpenAI",
+        "published_date": "2026-11-04T00:00:00+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830367+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/": {
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T22:45:09+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830375+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-05T00:50:22.118590+00:00",
+            "linkedin": "2026-11-05T00:50:38.409384+00:00"
+        },
+        "updated_at": "2026-11-05T00:50:38.409393+00:00"
+    },
+    "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/": {
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T22:13:16+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830379+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-05T00:50:22.142137+00:00",
+            "linkedin": "2026-11-05T00:50:38.432866+00:00"
+        },
+        "updated_at": "2026-11-05T00:50:38.432873+00:00"
+    },
+    "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/": {
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T21:56:01+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830383+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/": {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T21:25:44+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830386+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/": {
+        "title": "Meta acquires AI coding startup Conductor",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T21:10:56+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830389+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/": {
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T19:30:04+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830392+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/": {
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T19:29:52+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830395+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/": {
+        "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-04T18:44:57+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830398+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/": {
+        "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-04T18:50:55+00:00",
+        "discovered_at": "2026-11-05T00:49:37.830404+00:00",
+        "status": "PENDING"
     }
 }
