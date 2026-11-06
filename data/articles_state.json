@@ -21063,5 +21063,92 @@
         "published_date": "2026-11-05T18:00:00+00:00",
         "discovered_at": "2026-11-06T00:56:11.036950+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/australian-universities-ai-native-graduates": {
+        "title": "Australian universities are creating AI-native graduates",
+        "source": "OpenAI",
+        "published_date": "2026-11-05T17:00:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802289+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cultfit-builds-with-codex": {
+        "title": "Cult.fit builds operational muscle with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-11-05T20:00:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802296+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/franklin-templeton": {
+        "title": "Franklin Templeton uses OpenAI to support investment research",
+        "source": "OpenAI",
+        "published_date": "2026-11-05T00:00:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802301+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/": {
+        "title": "How a Blue Wave midterm might reshape the AI industry",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T18:00:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802308+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-06T18:12:49.665504+00:00",
+            "linkedin": "2026-11-06T18:13:05.969016+00:00"
+        },
+        "updated_at": "2026-11-06T18:13:05.969028+00:00"
+    },
+    "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/": {
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T17:23:52+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802312+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-06T18:12:49.690356+00:00",
+            "linkedin": "2026-11-06T18:13:05.992693+00:00"
+        },
+        "updated_at": "2026-11-06T18:13:05.992700+00:00"
+    },
+    "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/": {
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T15:54:47+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802315+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": {
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T14:10:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802319+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": {
+        "title": "Underdog shows off a 32MB speech model in new demo",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T13:02:16+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802325+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
+        "title": "Physicl raises $10M to make the digital world real enough for robots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T13:00:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802328+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/": {
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T06:28:32+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802331+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/": {
+        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-06T10:00:00+00:00",
+        "discovered_at": "2026-11-06T18:10:06.802337+00:00",
+        "status": "PENDING"
     }
 }
