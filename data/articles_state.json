@@ -21150,5 +21150,50 @@
         "published_date": "2026-11-06T10:00:00+00:00",
         "discovered_at": "2026-11-06T18:10:06.802337+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/partnering-with-hacktron": {
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "source": "OpenAI",
+        "published_date": "2026-11-06T08:00:00+00:00",
+        "discovered_at": "2026-11-07T00:01:59.415487+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "source": "OpenAI",
+        "published_date": "2026-11-06T00:00:00+00:00",
+        "discovered_at": "2026-11-07T00:01:59.415494+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/": {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T22:53:46+00:00",
+        "discovered_at": "2026-11-07T00:01:59.415502+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-07T00:02:41.706259+00:00",
+            "linkedin": "2026-11-07T00:02:57.575021+00:00"
+        },
+        "updated_at": "2026-11-07T00:02:57.575034+00:00"
+    },
+    "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/": {
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T18:44:38+00:00",
+        "discovered_at": "2026-11-07T00:01:59.415506+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-07T00:02:41.731140+00:00",
+            "linkedin": "2026-11-07T00:02:57.599596+00:00"
+        },
+        "updated_at": "2026-11-07T00:02:57.599606+00:00"
+    },
+    "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/": {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-06T18:44:20+00:00",
+        "discovered_at": "2026-11-07T00:01:59.415510+00:00",
+        "status": "PENDING"
     }
 }
