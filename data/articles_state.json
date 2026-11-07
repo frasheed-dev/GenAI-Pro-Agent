@@ -21194,6 +21194,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-06T18:44:20+00:00",
         "discovered_at": "2026-11-07T00:01:59.415510+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-07T16:16:23.767352+00:00",
+            "linkedin": "2026-11-07T16:16:39.548277+00:00"
+        },
+        "updated_at": "2026-11-07T16:16:39.548285+00:00"
+    },
+    "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/": {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-07T01:40:28+00:00",
+        "discovered_at": "2026-11-07T16:13:44.640566+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-07T16:16:23.747406+00:00",
+            "linkedin": "2026-11-07T16:16:39.528711+00:00"
+        },
+        "updated_at": "2026-11-07T16:16:39.528726+00:00"
     }
 }
