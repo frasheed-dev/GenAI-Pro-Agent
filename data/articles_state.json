@@ -21212,5 +21212,29 @@
             "linkedin": "2026-11-07T16:16:39.528711+00:00"
         },
         "updated_at": "2026-11-07T16:16:39.528726+00:00"
+    },
+    "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/": {
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-07T22:07:22+00:00",
+        "discovered_at": "2026-11-07T23:33:24.592653+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-07T23:34:09.305964+00:00",
+            "linkedin": "2026-11-07T23:34:25.622021+00:00"
+        },
+        "updated_at": "2026-11-07T23:34:25.622034+00:00"
+    },
+    "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/": {
+        "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-07T21:17:08+00:00",
+        "discovered_at": "2026-11-07T23:33:24.592658+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-07T23:34:09.325877+00:00",
+            "linkedin": "2026-11-07T23:34:25.641811+00:00"
+        },
+        "updated_at": "2026-11-07T23:34:25.641819+00:00"
     }
 }
