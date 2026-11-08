@@ -21138,14 +21138,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-06T13:02:16+00:00",
         "discovered_at": "2026-11-06T18:10:06.802325+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-08T16:35:49.797678+00:00",
+            "linkedin": "2026-11-08T16:36:06.154086+00:00"
+        },
+        "updated_at": "2026-11-08T16:36:06.154102+00:00"
     },
     "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
         "title": "Physicl raises $10M to make the digital world real enough for robots",
         "source": "TechCrunch AI",
         "published_date": "2026-11-06T13:00:00+00:00",
         "discovered_at": "2026-11-06T18:10:06.802328+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-08T16:35:49.822417+00:00",
+            "linkedin": "2026-11-08T16:36:06.178881+00:00"
+        },
+        "updated_at": "2026-11-08T16:36:06.178891+00:00"
     },
     "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/": {
         "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
