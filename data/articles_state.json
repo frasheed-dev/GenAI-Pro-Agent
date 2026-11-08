@@ -21114,14 +21114,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-06T15:54:47+00:00",
         "discovered_at": "2026-11-06T18:10:06.802315+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-08T05:36:20.027862+00:00",
+            "linkedin": "2026-11-08T05:36:35.757094+00:00"
+        },
+        "updated_at": "2026-11-08T05:36:35.757105+00:00"
     },
     "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/": {
         "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
         "source": "TechCrunch AI",
         "published_date": "2026-11-06T14:10:00+00:00",
         "discovered_at": "2026-11-06T18:10:06.802319+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-08T05:36:20.052342+00:00",
+            "linkedin": "2026-11-08T05:36:35.781508+00:00"
+        },
+        "updated_at": "2026-11-08T05:36:35.781514+00:00"
     },
     "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/": {
         "title": "Underdog shows off a 32MB speech model in new demo",
