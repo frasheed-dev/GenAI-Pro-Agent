@@ -21169,7 +21169,12 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-11-06T10:00:00+00:00",
         "discovered_at": "2026-11-06T18:10:06.802337+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-08T23:33:09.761581+00:00",
+            "linkedin": "2026-11-08T23:33:25.709609+00:00"
+        },
+        "updated_at": "2026-11-08T23:33:25.709623+00:00"
     },
     "https://openai.com/index/partnering-with-hacktron": {
         "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
@@ -21256,5 +21261,17 @@
             "linkedin": "2026-11-07T23:34:25.641811+00:00"
         },
         "updated_at": "2026-11-07T23:34:25.641819+00:00"
+    },
+    "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/": {
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-08T21:00:11+00:00",
+        "discovered_at": "2026-11-08T23:32:28.449624+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-08T23:33:09.736749+00:00",
+            "linkedin": "2026-11-08T23:33:25.684688+00:00"
+        },
+        "updated_at": "2026-11-08T23:33:25.684701+00:00"
     }
 }
