@@ -21290,5 +21290,106 @@
             "linkedin": "2026-11-09T05:48:00.500351+00:00"
         },
         "updated_at": "2026-11-09T05:48:00.500369+00:00"
+    },
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T19:00:00+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242417+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/kuken": {
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T08:00:00+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242425+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/": {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T20:09:06+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242429+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-09T20:38:29.166114+00:00",
+            "linkedin": "2026-11-09T20:38:45.138788+00:00"
+        },
+        "updated_at": "2026-11-09T20:38:45.138802+00:00"
+    },
+    "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/": {
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T19:24:51+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242432+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/": {
+        "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T18:09:52+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242435+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/": {
+        "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T18:00:00+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242439+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/": {
+        "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T16:56:54+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242443+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/": {
+        "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T16:12:28+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242448+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/": {
+        "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T14:00:00+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242452+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/": {
+        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-07T04:16:43+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242456+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/": {
+        "title": "The backlash about data centers might really just be about electricity",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-09T19:35:33+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242460+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-09T20:38:29.192969+00:00",
+            "linkedin": "2026-11-09T20:38:45.163551+00:00"
+        },
+        "updated_at": "2026-11-09T20:38:45.163558+00:00"
+    },
+    "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/": {
+        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-09T17:05:43+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242463+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/": {
+        "title": "Innovating with AI in the special chemicals industry",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-09T13:00:00+00:00",
+        "discovered_at": "2026-11-09T20:35:49.242466+00:00",
+        "status": "PENDING"
     }
 }
