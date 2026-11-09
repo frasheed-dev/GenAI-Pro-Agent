@@ -21181,7 +21181,12 @@
         "source": "OpenAI",
         "published_date": "2026-11-06T08:00:00+00:00",
         "discovered_at": "2026-11-07T00:01:59.415487+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-09T05:47:44.425491+00:00",
+            "linkedin": "2026-11-09T05:48:00.515417+00:00"
+        },
+        "updated_at": "2026-11-09T05:48:00.515428+00:00"
     },
     "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
         "title": "Measuring how AI agents handle everyday wet-lab science",
@@ -21273,5 +21278,17 @@
             "linkedin": "2026-11-08T23:33:25.684688+00:00"
         },
         "updated_at": "2026-11-08T23:33:25.684701+00:00"
+    },
+    "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/": {
+        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T05:26:29+00:00",
+        "discovered_at": "2026-11-09T05:45:03.793890+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-09T05:47:44.409305+00:00",
+            "linkedin": "2026-11-09T05:48:00.500351+00:00"
+        },
+        "updated_at": "2026-11-09T05:48:00.500369+00:00"
     }
 }
