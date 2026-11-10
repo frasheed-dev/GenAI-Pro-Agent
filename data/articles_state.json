@@ -21443,5 +21443,106 @@
         "published_date": "2026-11-09T22:23:42+00:00",
         "discovered_at": "2026-11-10T06:57:20.958158+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+        "title": "Helping caregivers use AI in everyday life",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T12:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986596+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/closing-ai-guidance-gap-education": {
+        "title": "Closing the AI guidance gap in education",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T09:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986609+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/ai-effect-on-freelance-work": {
+        "title": "Work at the Frontier: AI’s effect on freelance work",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T07:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986616+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/": {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T17:30:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986628+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-10T17:40:15.367588+00:00",
+            "linkedin": "2026-11-10T17:40:31.324616+00:00"
+        },
+        "updated_at": "2026-11-10T17:40:31.324632+00:00"
+    },
+    "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+        "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T17:04:19+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986636+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-10T17:40:15.393103+00:00",
+            "linkedin": "2026-11-10T17:40:31.350244+00:00"
+        },
+        "updated_at": "2026-11-10T17:40:31.350253+00:00"
+    },
+    "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/": {
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T15:54:08+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986641+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/": {
+        "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T15:29:30+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986644+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/": {
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T14:05:10+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986648+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/": {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T14:01:39+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986652+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/": {
+        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T14:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986655+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/": {
+        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T14:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986659+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/": {
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T13:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986663+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/": {
+        "title": "Otter AI can now follow conversations across 30+ languages",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T07:00:00+00:00",
+        "discovered_at": "2026-11-10T17:37:35.986666+00:00",
+        "status": "PENDING"
     }
 }
