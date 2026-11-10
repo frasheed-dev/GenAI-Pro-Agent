@@ -56,15 +56,26 @@ def generate_with_hf_fallback(prompt):
             print(f"[LLM Fallback] HF model {m} notice: {ex}")
     return None
 
+def is_unretryable_gemini_error(err_msg: str) -> bool:
+    """Returns True if the error is unrecoverable via retries (auth, invalid key, or quota exhaustion)."""
+    return (
+        is_prepayment_error(err_msg) or
+        "401" in err_msg or
+        "API_KEY_INVALID" in err_msg or
+        "ACCESS_TOKEN_TYPE_UNSUPPORTED" in err_msg or
+        "API key not valid" in err_msg or
+        "403" in err_msg
+    )
+
 def generate_with_retry(prompt, max_retries=5, delay=15):
-    """Wraps the Gemini API call with exponential backoff retry logic and prepayment/HF fallback handling."""
+    """Wraps the Gemini API call with exponential backoff retry logic and fast-fail auth/quota fallback handling."""
     for attempt in range(max_retries):
         try:
             return model.generate_content(prompt)
         except Exception as e:
             err_msg = str(e)
-            if is_prepayment_error(err_msg):
-                print(f"⚠️ [LLM] Gemini Prepayment/Quota Error: {err_msg}")
+            if is_unretryable_gemini_error(err_msg):
+                print(f"⚠️ [LLM] Gemini Auth/Quota Error: {err_msg[:120]}...")
                 print("[LLM] Skipping retries and switching to Hugging Face Free Inference API fallback...")
                 hf_res = generate_with_hf_fallback(prompt)
                 if hf_res:

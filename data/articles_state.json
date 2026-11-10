@@ -21236,5 +21236,236 @@
             "linkedin": "2026-11-07T23:34:25.641811+00:00"
         },
         "updated_at": "2026-11-07T23:34:25.641819+00:00"
+    },
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+        "title": "Helping caregivers use AI in everyday life",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T11:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-businesses-chatgpt": {
+        "title": "Introducing Businesses in ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T09:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/closing-ai-guidance-gap-education": {
+        "title": "Closing the AI guidance gap in education",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T08:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/ai-effect-on-freelance-work": {
+        "title": "Work at the Frontier: AI’s effect on freelance work",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T06:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+        "title": "ChatGPT Enterprise now available in AWS Marketplace",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T18:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/control-room": {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T12:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/coderabbit-codex-daybreak": {
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T07:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/kuken": {
+        "title": "Kuken Industries searches 70 years of drawings in minutes",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T07:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/": {
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T18:57:52+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/": {
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T18:23:34+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/": {
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T18:03:52+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/": {
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T17:49:52+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/": {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T16:30:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+        "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T16:04:19+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/": {
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T14:54:08+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/": {
+        "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T14:29:30+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/": {
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T13:05:10+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/": {
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T13:01:39+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/": {
+        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T13:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/": {
+        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T13:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/": {
+        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T12:30:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/": {
+        "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T12:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/": {
+        "title": "Otter AI can now follow conversations across 30+ languages",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T06:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/": {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T00:27:12+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/": {
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T22:28:37+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/": {
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T21:46:09+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/": {
+        "title": "The race is on to sue Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T21:23:42+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/": {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T19:09:06+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/": {
+        "title": "The backlash about data centers might really just be about electricity",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-09T18:35:33+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/": {
+        "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-09T16:05:43+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/": {
+        "title": "Innovating with AI in the special chemicals industry",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-09T12:00:00+00:00",
+        "discovered_at": "2026-11-10T20:50:50.547594+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/": {
+        "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T20:08:52+00:00",
+        "discovered_at": "2026-11-10T21:18:41.323326+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/": {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T19:52:13+00:00",
+        "discovered_at": "2026-11-10T21:18:41.323326+00:00",
+        "status": "PENDING"
     }
 }
