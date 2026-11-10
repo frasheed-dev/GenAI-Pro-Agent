@@ -29,6 +29,14 @@ copy_*.py
 # But we can ignore general logs if we have them
 logs/
 
+# Archive and backup files
+*.tar.gz
+*.tar
+*.zip
+*.7z
+*.rar
+*.bak
+
 # Exclude other unrelated projects from this repository
 GenAI-main/
 VibeVoice-main/
