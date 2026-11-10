@@ -21391,5 +21391,57 @@
         "published_date": "2026-11-09T13:00:00+00:00",
         "discovered_at": "2026-11-09T20:35:49.242466+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/control-room": {
+        "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T13:00:00+00:00",
+        "discovered_at": "2026-11-10T06:57:20.958130+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/coderabbit-codex-daybreak": {
+        "title": "CodeRabbit scales agentic software development and ships 20x more",
+        "source": "OpenAI",
+        "published_date": "2026-11-09T08:00:00+00:00",
+        "discovered_at": "2026-11-10T06:57:20.958139+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/": {
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-10T01:27:12+00:00",
+        "discovered_at": "2026-11-10T06:57:20.958143+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-10T06:59:59.917379+00:00",
+            "linkedin": "2026-11-10T07:00:15.751790+00:00"
+        },
+        "updated_at": "2026-11-10T07:00:15.751809+00:00"
+    },
+    "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/": {
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T23:28:37+00:00",
+        "discovered_at": "2026-11-10T06:57:20.958147+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-10T06:59:59.944160+00:00",
+            "linkedin": "2026-11-10T07:00:15.778869+00:00"
+        },
+        "updated_at": "2026-11-10T07:00:15.778885+00:00"
+    },
+    "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/": {
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T22:46:09+00:00",
+        "discovered_at": "2026-11-10T06:57:20.958150+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/": {
+        "title": "The race is on to sue Nvidia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-09T22:23:42+00:00",
+        "discovered_at": "2026-11-10T06:57:20.958158+00:00",
+        "status": "PENDING"
     }
 }
