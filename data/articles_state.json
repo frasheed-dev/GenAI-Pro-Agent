@@ -21459,13 +21459,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-10T20:08:52+00:00",
         "discovered_at": "2026-11-10T21:18:41.323326+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-11T00:31:28.739544+00:00",
+            "linkedin": "2026-11-11T00:31:45.111345+00:00"
+        },
+        "updated_at": "2026-11-11T00:31:45.111358+00:00"
     },
     "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/": {
         "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
         "source": "TechCrunch AI",
         "published_date": "2026-11-10T19:52:13+00:00",
         "discovered_at": "2026-11-10T21:18:41.323326+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-11T00:31:28.763953+00:00",
+            "linkedin": "2026-11-11T00:31:45.135886+00:00"
+        },
+        "updated_at": "2026-11-11T00:31:45.135893+00:00"
     }
 }
