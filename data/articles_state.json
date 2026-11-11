@@ -21477,5 +21477,78 @@
             "linkedin": "2026-11-11T00:31:45.135886+00:00"
         },
         "updated_at": "2026-11-11T00:31:45.135893+00:00"
+    },
+    "https://openai.com/index/gilbert-tobin-sam-nickless": {
+        "title": "Gilbert + Tobin rethinks the business of law with AI",
+        "source": "OpenAI",
+        "published_date": "2026-11-12T00:00:00+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678705+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-11T17:50:22.943196+00:00",
+            "linkedin": "2026-11-11T17:50:39.236524+00:00"
+        },
+        "updated_at": "2026-11-11T17:50:39.236542+00:00"
+    },
+    "https://openai.com/index/chatgpt-plus-for-veterans": {
+        "title": "ChatGPT Plus for veterans and servicemembers",
+        "source": "OpenAI",
+        "published_date": "2026-11-11T08:00:00+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678713+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/singapore-airlines-travel-work": {
+        "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T08:00:00+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678718+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/cogent-security": {
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "source": "OpenAI",
+        "published_date": "2026-11-10T00:00:00+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678724+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/": {
+        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T16:16:07+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678729+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-11T17:50:22.966127+00:00",
+            "linkedin": "2026-11-11T17:50:39.259340+00:00"
+        },
+        "updated_at": "2026-11-11T17:50:39.259351+00:00"
+    },
+    "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/": {
+        "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T16:14:44+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678733+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/": {
+        "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T15:00:00+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678736+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/": {
+        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T14:00:00+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678739+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/": {
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T07:30:51+00:00",
+        "discovered_at": "2026-11-11T17:49:17.678742+00:00",
+        "status": "PENDING"
     }
 }
