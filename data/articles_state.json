@@ -21550,5 +21550,85 @@
         "published_date": "2026-11-11T07:30:51+00:00",
         "discovered_at": "2026-11-11T17:49:17.678742+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/jiostar-vijay-seshadri": {
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "source": "OpenAI",
+        "published_date": "2026-11-11T00:00:00+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346823+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T23:50:00+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346832+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-12T01:54:40.758986+00:00",
+            "linkedin": "2026-11-12T01:54:56.865305+00:00"
+        },
+        "updated_at": "2026-11-12T01:54:56.865319+00:00"
+    },
+    "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/": {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T23:28:45+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346835+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-12T01:54:40.779850+00:00",
+            "linkedin": "2026-11-12T01:54:56.885429+00:00"
+        },
+        "updated_at": "2026-11-12T01:54:56.885438+00:00"
+    },
+    "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/": {
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T23:17:05+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346838+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/": {
+        "title": "Why the data center you dread might never even be built",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T20:15:15+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346840+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/": {
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T20:12:01+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346843+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/": {
+        "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T20:02:14+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346845+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/": {
+        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T19:54:00+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346847+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/": {
+        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T19:34:55+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346849+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/": {
+        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-11T19:22:22+00:00",
+        "discovered_at": "2026-11-12T01:51:59.346851+00:00",
+        "status": "PENDING"
     }
 }
