@@ -21630,5 +21630,113 @@
         "published_date": "2026-11-11T19:22:22+00:00",
         "discovered_at": "2026-11-12T01:51:59.346851+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/business/customer-stories/holidays-extras-codex": {
+        "title": "Holiday Extras is rethinking what it can build with Codex",
+        "source": "OpenAI",
+        "published_date": "2026-11-12T09:30:00+00:00",
+        "discovered_at": "2026-11-12T18:03:22.996985+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/children-first-declaration": {
+        "title": "Supporting research on AI and children’s safety",
+        "source": "OpenAI",
+        "published_date": "2026-11-12T00:00:00+00:00",
+        "discovered_at": "2026-11-12T18:03:22.996993+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/": {
+        "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T17:36:40+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997003+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-12T18:04:07.835523+00:00",
+            "linkedin": "2026-11-12T18:04:24.185082+00:00"
+        },
+        "updated_at": "2026-11-12T18:04:24.185096+00:00"
+    },
+    "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/": {
+        "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T17:00:52+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997007+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-12T18:04:07.863278+00:00",
+            "linkedin": "2026-11-12T18:04:24.212520+00:00"
+        },
+        "updated_at": "2026-11-12T18:04:24.212530+00:00"
+    },
+    "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/": {
+        "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T17:00:00+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997011+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/": {
+        "title": "Jensen Huang agrees to testify before Congress",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T16:36:37+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997014+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/": {
+        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T16:32:33+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997017+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/": {
+        "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T16:12:44+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997020+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/": {
+        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T15:37:29+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997024+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/": {
+        "title": "Norwest pushes deeper into AI with new $4B fund",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T15:18:14+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997028+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/": {
+        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T15:02:28+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997031+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T14:30:01+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997034+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/": {
+        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T13:26:25+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997037+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/": {
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-12T03:13:10+00:00",
+        "discovered_at": "2026-11-12T18:03:22.997040+00:00",
+        "status": "PENDING"
     }
 }
