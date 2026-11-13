@@ -21825,5 +21825,57 @@
         "published_date": "2026-11-12T20:16:24+00:00",
         "discovered_at": "2026-11-13T00:58:53.936450+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-chatgpt-wallet": {
+        "title": "Introducing ChatGPT Wallet",
+        "source": "OpenAI",
+        "published_date": "2026-11-13T15:00:00+00:00",
+        "discovered_at": "2026-11-13T17:36:43.814674+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/": {
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T16:00:12+00:00",
+        "discovered_at": "2026-11-13T17:36:43.814689+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-13T17:39:23.216778+00:00",
+            "linkedin": "2026-11-13T17:39:39.104520+00:00"
+        },
+        "updated_at": "2026-11-13T17:39:39.104535+00:00"
+    },
+    "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T15:58:00+00:00",
+        "discovered_at": "2026-11-13T17:36:43.814693+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-13T17:39:23.244083+00:00",
+            "linkedin": "2026-11-13T17:39:39.131353+00:00"
+        },
+        "updated_at": "2026-11-13T17:39:39.131367+00:00"
+    },
+    "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/": {
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T14:44:48+00:00",
+        "discovered_at": "2026-11-13T17:36:43.814697+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/": {
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T12:52:19+00:00",
+        "discovered_at": "2026-11-13T17:36:43.814701+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/": {
+        "title": "Jensen Huang didn’t show confidence in his successor, report says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T12:28:23+00:00",
+        "discovered_at": "2026-11-13T17:36:43.814705+00:00",
+        "status": "PENDING"
     }
 }
