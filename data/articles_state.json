@@ -21877,5 +21877,43 @@
         "published_date": "2026-11-13T12:28:23+00:00",
         "discovered_at": "2026-11-13T17:36:43.814705+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/business/customer-stories/shield": {
+        "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+        "source": "OpenAI",
+        "published_date": "2026-11-13T08:00:00+00:00",
+        "discovered_at": "2026-11-14T00:49:40.682402+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/": {
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T22:43:00+00:00",
+        "discovered_at": "2026-11-14T00:49:40.682416+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-14T00:52:23.940307+00:00",
+            "linkedin": "2026-11-14T00:52:40.151326+00:00"
+        },
+        "updated_at": "2026-11-14T00:52:40.151344+00:00"
+    },
+    "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/": {
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T19:37:57+00:00",
+        "discovered_at": "2026-11-14T00:49:40.682420+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-14T00:52:23.964389+00:00",
+            "linkedin": "2026-11-14T00:52:40.175135+00:00"
+        },
+        "updated_at": "2026-11-14T00:52:40.175147+00:00"
+    },
+    "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/": {
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-13T18:40:30+00:00",
+        "discovered_at": "2026-11-14T00:49:40.682423+00:00",
+        "status": "PENDING"
     }
 }
