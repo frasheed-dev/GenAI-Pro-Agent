@@ -21831,7 +21831,12 @@
         "source": "OpenAI",
         "published_date": "2026-11-13T15:00:00+00:00",
         "discovered_at": "2026-11-13T17:36:43.814674+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-14T16:31:29.466356+00:00",
+            "linkedin": "2026-11-14T16:31:45.677214+00:00"
+        },
+        "updated_at": "2026-11-14T16:31:45.677234+00:00"
     },
     "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/": {
         "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -21914,6 +21919,11 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-13T18:40:30+00:00",
         "discovered_at": "2026-11-14T00:49:40.682423+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-14T16:31:29.449100+00:00",
+            "linkedin": "2026-11-14T16:31:45.659476+00:00"
+        },
+        "updated_at": "2026-11-14T16:31:45.659499+00:00"
     }
 }
