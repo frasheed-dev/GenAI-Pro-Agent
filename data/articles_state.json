@@ -21925,5 +21925,36 @@
             "linkedin": "2026-11-14T16:31:45.659476+00:00"
         },
         "updated_at": "2026-11-14T16:31:45.659499+00:00"
+    },
+    "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/": {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-14T21:41:22+00:00",
+        "discovered_at": "2026-11-14T23:47:31.099364+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-14T23:48:17.322619+00:00",
+            "linkedin": "2026-11-14T23:48:33.177359+00:00"
+        },
+        "updated_at": "2026-11-14T23:48:33.177375+00:00"
+    },
+    "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/": {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-14T17:30:00+00:00",
+        "discovered_at": "2026-11-14T23:47:31.099374+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-14T23:48:17.345349+00:00",
+            "linkedin": "2026-11-14T23:48:33.200807+00:00"
+        },
+        "updated_at": "2026-11-14T23:48:33.200830+00:00"
+    },
+    "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/": {
+        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-14T16:34:15+00:00",
+        "discovered_at": "2026-11-14T23:47:31.099378+00:00",
+        "status": "PENDING"
     }
 }
