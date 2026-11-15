@@ -21983,5 +21983,50 @@
             "linkedin": "2026-11-15T05:55:52.410050+00:00"
         },
         "updated_at": "2026-11-15T05:55:52.410067+00:00"
+    },
+    "https://openai.com/index/step-toward-defining-the-standard-model": {
+        "title": "A step toward defining the Standard Model on a lattice",
+        "source": "OpenAI",
+        "published_date": "2026-11-15T22:00:01+00:00",
+        "discovered_at": "2026-11-15T23:53:17.719304+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-15T23:54:00.581714+00:00",
+            "linkedin": "2026-11-15T23:54:16.970568+00:00"
+        },
+        "updated_at": "2026-11-15T23:54:16.970579+00:00"
+    },
+    "https://openai.com/index/our-new-blog-for-science": {
+        "title": "Our new blog for science",
+        "source": "OpenAI",
+        "published_date": "2026-11-15T22:00:00+00:00",
+        "discovered_at": "2026-11-15T23:53:17.719310+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/": {
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-15T23:30:00+00:00",
+        "discovered_at": "2026-11-15T23:53:17.719312+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-15T23:54:00.567647+00:00",
+            "linkedin": "2026-11-15T23:54:16.956119+00:00"
+        },
+        "updated_at": "2026-11-15T23:54:16.956136+00:00"
+    },
+    "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/": {
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-15T21:56:35+00:00",
+        "discovered_at": "2026-11-15T23:53:17.719314+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/": {
+        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-15T20:20:57+00:00",
+        "discovered_at": "2026-11-15T23:53:17.719316+00:00",
+        "status": "PENDING"
     }
 }
