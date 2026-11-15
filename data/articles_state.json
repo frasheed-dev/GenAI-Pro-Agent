@@ -21867,14 +21867,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-13T14:44:48+00:00",
         "discovered_at": "2026-11-13T17:36:43.814697+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-15T16:55:31.778263+00:00",
+            "linkedin": "2026-11-15T16:55:47.541410+00:00"
+        },
+        "updated_at": "2026-11-15T16:55:47.541420+00:00"
     },
     "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/": {
         "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
         "source": "TechCrunch AI",
         "published_date": "2026-11-13T12:52:19+00:00",
         "discovered_at": "2026-11-13T17:36:43.814701+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-15T16:55:31.796168+00:00",
+            "linkedin": "2026-11-15T16:55:47.559499+00:00"
+        },
+        "updated_at": "2026-11-15T16:55:47.559506+00:00"
     },
     "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/": {
         "title": "Jensen Huang didn’t show confidence in his successor, report says",
