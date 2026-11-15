@@ -21955,6 +21955,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-14T16:34:15+00:00",
         "discovered_at": "2026-11-14T23:47:31.099378+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-15T05:55:36.538990+00:00",
+            "linkedin": "2026-11-15T05:55:52.429275+00:00"
+        },
+        "updated_at": "2026-11-15T05:55:52.429289+00:00"
+    },
+    "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/": {
+        "title": "Where was Nvidia’s security team?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-15T00:08:07+00:00",
+        "discovered_at": "2026-11-15T05:54:26.407208+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-15T05:55:36.520460+00:00",
+            "linkedin": "2026-11-15T05:55:52.410050+00:00"
+        },
+        "updated_at": "2026-11-15T05:55:52.410067+00:00"
     }
 }
