@@ -22254,5 +22254,127 @@
         "published_date": "2026-11-16T22:03:02+00:00",
         "discovered_at": "2026-11-17T07:30:52.277599+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+        "title": "Introducing GPT-6.2 Astra and Sol",
+        "source": "OpenAI",
+        "published_date": "2026-11-17T17:45:00+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197346+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-openai-for-chile": {
+        "title": "Introducing OpenAI for Chile",
+        "source": "OpenAI",
+        "published_date": "2026-11-17T00:00:00+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197361+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/astra-law-6-2": {
+        "title": "Astra for Law leads in legal intelligence",
+        "source": "OpenAI",
+        "published_date": "2026-11-17T00:00:00+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197366+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/": {
+        "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T18:48:23+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197381+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-17T19:04:34.091721+00:00",
+            "linkedin": "2026-11-17T19:04:50.633196+00:00"
+        },
+        "updated_at": "2026-11-17T19:04:50.633215+00:00"
+    },
+    "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/": {
+        "title": "As decision model use skyrockets, is customization the next frontier?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T18:10:00+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197386+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-17T19:04:34.115222+00:00",
+            "linkedin": "2026-11-17T19:04:50.653824+00:00"
+        },
+        "updated_at": "2026-11-17T19:04:50.653842+00:00"
+    },
+    "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/": {
+        "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T18:04:16+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197389+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/": {
+        "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T17:32:25+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197393+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/": {
+        "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T17:20:41+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197397+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/": {
+        "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T16:44:15+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197400+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/": {
+        "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T16:32:55+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197403+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/": {
+        "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T15:00:00+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197406+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/": {
+        "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T14:50:58+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197409+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/": {
+        "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T14:26:46+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197412+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/": {
+        "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T14:05:30+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197415+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/": {
+        "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T14:00:00+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197419+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/17/1148203/research-reports/": {
+        "title": "Research Reports",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-17T14:39:46+00:00",
+        "discovered_at": "2026-11-17T19:01:50.197426+00:00",
+        "status": "PENDING"
     }
 }
