@@ -22209,5 +22209,50 @@
         "published_date": "2026-11-16T13:00:00+00:00",
         "discovered_at": "2026-11-16T20:12:27.750325+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+        "title": "Strengthening NATO and allied cyber defenses with AI",
+        "source": "OpenAI",
+        "published_date": "2026-11-17T00:00:00+00:00",
+        "discovered_at": "2026-11-17T07:30:52.277575+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-17T07:31:33.162967+00:00",
+            "linkedin": "2026-11-17T07:31:49.161892+00:00"
+        },
+        "updated_at": "2026-11-17T07:31:49.161907+00:00"
+    },
+    "https://openai.com/business/customer-stories/revolut": {
+        "title": "How Revolut raises ambition without lowering the bar",
+        "source": "OpenAI",
+        "published_date": "2026-11-16T09:30:00+00:00",
+        "discovered_at": "2026-11-17T07:30:52.277584+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/customer-stories/holiday-extras-dots": {
+        "title": "At Holiday Extras, dots get to work before anyone asks",
+        "source": "OpenAI",
+        "published_date": "2026-11-16T00:00:00+00:00",
+        "discovered_at": "2026-11-17T07:30:52.277591+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/": {
+        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-16T23:32:32+00:00",
+        "discovered_at": "2026-11-17T07:30:52.277596+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-17T07:31:33.185702+00:00",
+            "linkedin": "2026-11-17T07:31:49.181950+00:00"
+        },
+        "updated_at": "2026-11-17T07:31:49.181964+00:00"
+    },
+    "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/": {
+        "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-16T22:03:02+00:00",
+        "discovered_at": "2026-11-17T07:30:52.277599+00:00",
+        "status": "PENDING"
     }
 }
