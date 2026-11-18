@@ -22376,5 +22376,92 @@
         "published_date": "2026-11-17T14:39:46+00:00",
         "discovered_at": "2026-11-17T19:01:50.197426+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-chatgpt-for-sales": {
+        "title": "Introducing ChatGPT for Sales",
+        "source": "OpenAI",
+        "published_date": "2026-11-17T08:00:00+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402844+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/": {
+        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T01:44:21+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402858+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-18T02:19:45.247091+00:00",
+            "linkedin": "2026-11-18T02:20:01.777862+00:00"
+        },
+        "updated_at": "2026-11-18T02:20:01.777875+00:00"
+    },
+    "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/": {
+        "title": "Nvidia promises that revenue will keep soaring — for now",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T00:16:50+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402862+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-18T02:19:45.275606+00:00",
+            "linkedin": "2026-11-18T02:20:01.802348+00:00"
+        },
+        "updated_at": "2026-11-18T02:20:01.802365+00:00"
+    },
+    "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/": {
+        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T23:37:48+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402866+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/": {
+        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T23:04:35+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402869+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/": {
+        "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T22:42:27+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402872+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/": {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T22:29:05+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402875+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/": {
+        "title": "SEC reportedly investigating Nvidia amid Huang exit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T21:48:07+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402878+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/": {
+        "title": "Google joins the tech outage trend by announcing it’s not having one",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T21:34:50+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402882+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/": {
+        "title": "Model ML raises $250M to automate investment banking grunt work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T19:32:11+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402884+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/": {
+        "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-17T19:02:20+00:00",
+        "discovered_at": "2026-11-18T02:17:01.402887+00:00",
+        "status": "PENDING"
     }
 }
