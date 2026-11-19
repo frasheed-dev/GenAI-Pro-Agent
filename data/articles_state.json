@@ -22564,5 +22564,113 @@
         "published_date": "2026-11-18T10:20:30+00:00",
         "discovered_at": "2026-11-18T18:45:16.314149+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/research-acceleration-jagged-frontier": {
+        "title": "Research acceleration: The jagged frontier",
+        "source": "OpenAI",
+        "published_date": "2026-11-18T08:00:00+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017056+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/customer-stories/sumitomo-life": {
+        "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+        "source": "OpenAI",
+        "published_date": "2026-11-18T08:00:00+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017066+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/managing-frontier-ai-risk": {
+        "title": "Managing frontier AI risk: From training to deployment",
+        "source": "OpenAI",
+        "published_date": "2026-11-18T06:00:00+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017070+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/": {
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T00:42:56+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017087+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-19T02:05:39.346557+00:00",
+            "linkedin": "2026-11-19T02:05:55.648098+00:00"
+        },
+        "updated_at": "2026-11-19T02:05:55.648121+00:00"
+    },
+    "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/": {
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T23:45:00+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017091+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-19T02:05:39.366917+00:00",
+            "linkedin": "2026-11-19T02:05:55.667206+00:00"
+        },
+        "updated_at": "2026-11-19T02:05:55.667224+00:00"
+    },
+    "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/": {
+        "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T23:25:17+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017094+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/": {
+        "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T23:17:28+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017097+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/": {
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T22:58:11+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017101+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/": {
+        "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T22:11:15+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017103+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/": {
+        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T21:57:40+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017106+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/": {
+        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T21:34:13+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017109+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/": {
+        "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T21:31:21+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017112+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/": {
+        "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T20:07:01+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017115+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/": {
+        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-18T19:56:39+00:00",
+        "discovered_at": "2026-11-19T02:02:58.017118+00:00",
+        "status": "PENDING"
     }
 }
