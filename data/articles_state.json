@@ -22672,5 +22672,71 @@
         "published_date": "2026-11-18T19:56:39+00:00",
         "discovered_at": "2026-11-19T02:02:58.017118+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+        "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+        "source": "OpenAI",
+        "published_date": "2026-11-19T08:00:00+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565673+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/": {
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T18:09:11+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565683+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-19T18:58:41.737120+00:00",
+            "linkedin": "2026-11-19T18:58:57.583218+00:00"
+        },
+        "updated_at": "2026-11-19T18:58:57.583230+00:00"
+    },
+    "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/": {
+        "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T17:38:40+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565686+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-19T18:58:41.754376+00:00",
+            "linkedin": "2026-11-19T18:58:57.597229+00:00"
+        },
+        "updated_at": "2026-11-19T18:58:57.597234+00:00"
+    },
+    "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/": {
+        "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T17:00:00+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565688+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/": {
+        "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T16:59:23+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565690+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/": {
+        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T16:19:41+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565693+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/": {
+        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T14:54:39+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565695+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/": {
+        "title": "Superhuman pushes its Go assistant everywhere",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T14:00:00+00:00",
+        "discovered_at": "2026-11-19T18:56:03.565697+00:00",
+        "status": "PENDING"
     }
 }
