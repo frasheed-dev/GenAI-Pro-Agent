@@ -22818,5 +22818,36 @@
         "published_date": "2026-11-19T19:10:45+00:00",
         "discovered_at": "2026-11-20T01:43:56.584617+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/": {
+        "title": "Chips can survive the space environment. Can their financing?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T17:40:01+00:00",
+        "discovered_at": "2026-11-20T18:27:03.680960+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-20T18:29:42.643692+00:00",
+            "linkedin": "2026-11-20T18:29:58.411519+00:00"
+        },
+        "updated_at": "2026-11-20T18:29:58.411534+00:00"
+    },
+    "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/": {
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T14:55:44+00:00",
+        "discovered_at": "2026-11-20T18:27:03.680965+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-20T18:29:42.666132+00:00",
+            "linkedin": "2026-11-20T18:29:58.430803+00:00"
+        },
+        "updated_at": "2026-11-20T18:29:58.430809+00:00"
+    },
+    "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/": {
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T14:00:00+00:00",
+        "discovered_at": "2026-11-20T18:27:03.680968+00:00",
+        "status": "PENDING"
     }
 }
