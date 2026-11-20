@@ -22738,5 +22738,85 @@
         "published_date": "2026-11-19T14:00:00+00:00",
         "discovered_at": "2026-11-19T18:56:03.565697+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/business/learn/deploying-daybreak-red": {
+        "title": "Deploying Daybreak Red",
+        "source": "OpenAI",
+        "published_date": "2026-11-19T00:00:00+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584593+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/learn/pr-scans-demo": {
+        "title": "See PR scans in action",
+        "source": "OpenAI",
+        "published_date": "2026-11-19T00:00:00+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584598+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/learn/codex-security-plugin-demo": {
+        "title": "Explore the Codex Security Plugin",
+        "source": "OpenAI",
+        "published_date": "2026-11-19T00:00:00+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584600+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+        "title": "Get started with Daybreak Blue",
+        "source": "OpenAI",
+        "published_date": "2026-11-19T00:00:00+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584602+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/": {
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T00:56:01+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584607+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-20T01:46:38.395960+00:00",
+            "linkedin": "2026-11-20T01:46:54.329671+00:00"
+        },
+        "updated_at": "2026-11-20T01:46:54.329687+00:00"
+    },
+    "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/": {
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T00:43:50+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584610+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-20T01:46:38.410761+00:00",
+            "linkedin": "2026-11-20T01:46:54.344465+00:00"
+        },
+        "updated_at": "2026-11-20T01:46:54.344480+00:00"
+    },
+    "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/": {
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T21:58:06+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584612+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/": {
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T21:42:31+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584613+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/": {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T20:18:49+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584615+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/": {
+        "title": "Anthropic’s IPO could deliver $156B to charity",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-19T19:10:45+00:00",
+        "discovered_at": "2026-11-20T01:43:56.584617+00:00",
+        "status": "PENDING"
     }
 }
