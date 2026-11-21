@@ -22849,5 +22849,57 @@
         "published_date": "2026-11-20T14:00:00+00:00",
         "discovered_at": "2026-11-20T18:27:03.680968+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/combatting-adversarial-distillation": {
+        "title": "Combatting adversarial distillation",
+        "source": "OpenAI",
+        "published_date": "2026-11-20T10:00:00+00:00",
+        "discovered_at": "2026-11-21T01:16:18.641743+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/customer-stories/hebbia": {
+        "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+        "source": "OpenAI",
+        "published_date": "2026-11-20T00:00:00+00:00",
+        "discovered_at": "2026-11-21T01:16:18.641749+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-medchembench": {
+        "title": "Can AI help scientists identify promising drug candidates?",
+        "source": "OpenAI",
+        "published_date": "2026-11-20T00:00:00+00:00",
+        "discovered_at": "2026-11-21T01:16:18.641751+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/": {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T19:53:41+00:00",
+        "discovered_at": "2026-11-21T01:16:18.641757+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-21T01:18:56.240336+00:00",
+            "linkedin": "2026-11-21T01:19:11.981357+00:00"
+        },
+        "updated_at": "2026-11-21T01:19:11.981370+00:00"
+    },
+    "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/": {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-20T19:32:08+00:00",
+        "discovered_at": "2026-11-21T01:16:18.641759+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-21T01:18:56.255144+00:00",
+            "linkedin": "2026-11-21T01:19:11.996892+00:00"
+        },
+        "updated_at": "2026-11-21T01:19:11.996899+00:00"
+    },
+    "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/": {
+        "title": "The most misunderstood graph in AI just got a major update",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-20T18:15:15+00:00",
+        "discovered_at": "2026-11-21T01:16:18.641765+00:00",
+        "status": "PENDING"
     }
 }
