@@ -22900,6 +22900,23 @@
         "source": "MIT Tech Review AI",
         "published_date": "2026-11-20T18:15:15+00:00",
         "discovered_at": "2026-11-21T01:16:18.641765+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-21T17:16:44.610069+00:00",
+            "linkedin": "2026-11-21T17:17:01.055085+00:00"
+        },
+        "updated_at": "2026-11-21T17:17:01.055095+00:00"
+    },
+    "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/": {
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-21T16:00:00+00:00",
+        "discovered_at": "2026-11-21T17:15:58.267903+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-21T17:16:44.585654+00:00",
+            "linkedin": "2026-11-21T17:17:01.030492+00:00"
+        },
+        "updated_at": "2026-11-21T17:17:01.030505+00:00"
     }
 }
