@@ -22918,5 +22918,36 @@
             "linkedin": "2026-11-21T17:17:01.030492+00:00"
         },
         "updated_at": "2026-11-21T17:17:01.030505+00:00"
+    },
+    "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/": {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-21T21:37:10+00:00",
+        "discovered_at": "2026-11-22T00:12:55.495295+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-22T00:13:37.450041+00:00",
+            "linkedin": "2026-11-22T00:13:53.590381+00:00"
+        },
+        "updated_at": "2026-11-22T00:13:53.590398+00:00"
+    },
+    "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/": {
+        "title": "A tale of two Nvidias",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-21T21:07:42+00:00",
+        "discovered_at": "2026-11-22T00:12:55.495304+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-22T00:13:37.466250+00:00",
+            "linkedin": "2026-11-22T00:13:53.606217+00:00"
+        },
+        "updated_at": "2026-11-22T00:13:53.606229+00:00"
+    },
+    "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/": {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-21T17:00:00+00:00",
+        "discovered_at": "2026-11-22T00:12:55.495307+00:00",
+        "status": "PENDING"
     }
 }
