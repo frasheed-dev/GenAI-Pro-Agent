@@ -23105,5 +23105,36 @@
         "published_date": "2026-11-23T17:36:08+00:00",
         "discovered_at": "2026-11-23T21:58:11.765277+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/introducing-shirudo": {
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "source": "OpenAI",
+        "published_date": "2026-11-23T21:20:00+00:00",
+        "discovered_at": "2026-11-24T09:27:05.561960+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/": {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-23T22:05:50+00:00",
+        "discovered_at": "2026-11-24T09:27:05.561970+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-24T09:27:52.935640+00:00",
+            "linkedin": "2026-11-24T09:28:09.363361+00:00"
+        },
+        "updated_at": "2026-11-24T09:28:09.363378+00:00"
+    },
+    "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/": {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-23T22:02:05+00:00",
+        "discovered_at": "2026-11-24T09:27:05.561974+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-24T09:27:52.961614+00:00",
+            "linkedin": "2026-11-24T09:28:09.389513+00:00"
+        },
+        "updated_at": "2026-11-24T09:28:09.389530+00:00"
     }
 }
