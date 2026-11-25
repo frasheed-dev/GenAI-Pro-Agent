@@ -23289,5 +23289,64 @@
         "published_date": "2026-11-24T21:19:52+00:00",
         "discovered_at": "2026-11-25T07:58:21.147584+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/": {
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T19:44:24+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963160+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-25T19:54:03.172131+00:00",
+            "linkedin": "2026-11-25T19:54:19.014472+00:00"
+        },
+        "updated_at": "2026-11-25T19:54:19.014486+00:00"
+    },
+    "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/": {
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T18:11:46+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963166+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-25T19:54:03.192730+00:00",
+            "linkedin": "2026-11-25T19:54:19.035782+00:00"
+        },
+        "updated_at": "2026-11-25T19:54:19.035792+00:00"
+    },
+    "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/": {
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T17:35:58+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963169+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/": {
+        "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T15:41:43+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963172+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/": {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T14:10:18+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963174+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/": {
+        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T13:00:00+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963177+00:00",
+        "status": "PENDING"
+    },
+    "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/": {
+        "title": "AI is straining America’s open records systems",
+        "source": "MIT Tech Review AI",
+        "published_date": "2026-11-25T10:00:00+00:00",
+        "discovered_at": "2026-11-25T19:51:22.963183+00:00",
+        "status": "PENDING"
     }
 }
