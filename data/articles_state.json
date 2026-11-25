@@ -23223,5 +23223,71 @@
         "published_date": "2026-11-24T15:15:16+00:00",
         "discovered_at": "2026-11-24T20:34:03.959443+00:00",
         "status": "PENDING"
+    },
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "source": "OpenAI",
+        "published_date": "2026-11-24T13:00:00+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147553+00:00",
+        "status": "PENDING"
+    },
+    "https://openai.com/business/customer-stories/clay-plugins-openai": {
+        "title": "Clay helps sales teams win with Codex and ChatGPT",
+        "source": "OpenAI",
+        "published_date": "2026-11-24T00:00:00+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147562+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/": {
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T00:12:02+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147569+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-25T08:01:02.734815+00:00",
+            "linkedin": "2026-11-25T08:01:18.777587+00:00"
+        },
+        "updated_at": "2026-11-25T08:01:18.777603+00:00"
+    },
+    "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/": {
+        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-24T22:27:52+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147573+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-25T08:01:02.755205+00:00",
+            "linkedin": "2026-11-25T08:01:18.797168+00:00"
+        },
+        "updated_at": "2026-11-25T08:01:18.797178+00:00"
+    },
+    "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/": {
+        "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-24T21:48:27+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147576+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/": {
+        "title": "Even the best AI agents struggle with everyday life",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-24T21:33:29+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147579+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/": {
+        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-24T21:32:38+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147582+00:00",
+        "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/": {
+        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-24T21:19:52+00:00",
+        "discovered_at": "2026-11-25T07:58:21.147584+00:00",
+        "status": "PENDING"
     }
 }
