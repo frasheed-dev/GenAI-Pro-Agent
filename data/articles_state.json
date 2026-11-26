@@ -23378,6 +23378,23 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-25T19:54:57+00:00",
         "discovered_at": "2026-11-26T02:43:23.101277+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-26T19:29:34.645592+00:00",
+            "linkedin": "2026-11-26T19:29:50.965274+00:00"
+        },
+        "updated_at": "2026-11-26T19:29:50.965289+00:00"
+    },
+    "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/": {
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-26T16:00:00+00:00",
+        "discovered_at": "2026-11-26T19:28:39.762726+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-26T19:29:34.619883+00:00",
+            "linkedin": "2026-11-26T19:29:50.940824+00:00"
+        },
+        "updated_at": "2026-11-26T19:29:50.940841+00:00"
     }
 }
