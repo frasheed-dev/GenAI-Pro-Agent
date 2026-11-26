@@ -23348,5 +23348,36 @@
         "published_date": "2026-11-25T10:00:00+00:00",
         "discovered_at": "2026-11-25T19:51:22.963183+00:00",
         "status": "PENDING"
+    },
+    "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/": {
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T22:44:32+00:00",
+        "discovered_at": "2026-11-26T02:43:23.101263+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-26T02:46:02.024050+00:00",
+            "linkedin": "2026-11-26T02:46:18.083034+00:00"
+        },
+        "updated_at": "2026-11-26T02:46:18.083048+00:00"
+    },
+    "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/": {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T20:03:27+00:00",
+        "discovered_at": "2026-11-26T02:43:23.101271+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-26T02:46:02.049826+00:00",
+            "linkedin": "2026-11-26T02:46:18.108667+00:00"
+        },
+        "updated_at": "2026-11-26T02:46:18.108681+00:00"
+    },
+    "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/": {
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-25T19:54:57+00:00",
+        "discovered_at": "2026-11-26T02:43:23.101277+00:00",
+        "status": "PENDING"
     }
 }
