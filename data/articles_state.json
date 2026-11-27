@@ -23331,14 +23331,24 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-25T15:41:43+00:00",
         "discovered_at": "2026-11-25T19:51:22.963172+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-27T19:27:28.501453+00:00",
+            "linkedin": "2026-11-27T19:27:44.779259+00:00"
+        },
+        "updated_at": "2026-11-27T19:27:44.779275+00:00"
     },
     "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/": {
         "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
         "source": "TechCrunch AI",
         "published_date": "2026-11-25T14:10:18+00:00",
         "discovered_at": "2026-11-25T19:51:22.963174+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-27T19:27:28.527696+00:00",
+            "linkedin": "2026-11-27T19:27:44.805429+00:00"
+        },
+        "updated_at": "2026-11-27T19:27:44.805441+00:00"
     },
     "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/": {
         "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
