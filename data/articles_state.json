@@ -23319,7 +23319,12 @@
         "source": "TechCrunch AI",
         "published_date": "2026-11-25T17:35:58+00:00",
         "discovered_at": "2026-11-25T19:51:22.963169+00:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-27T02:46:53.681532+00:00",
+            "linkedin": "2026-11-27T02:47:09.356191+00:00"
+        },
+        "updated_at": "2026-11-27T02:47:09.356212+00:00"
     },
     "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/": {
         "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
@@ -23396,5 +23401,17 @@
             "linkedin": "2026-11-26T19:29:50.940824+00:00"
         },
         "updated_at": "2026-11-26T19:29:50.940841+00:00"
+    },
+    "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/": {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "source": "TechCrunch AI",
+        "published_date": "2026-11-26T20:03:54+00:00",
+        "discovered_at": "2026-11-27T02:44:15.060989+00:00",
+        "status": "PUBLISHED",
+        "publish_history": {
+            "facebook": "2026-11-27T02:46:53.654484+00:00",
+            "linkedin": "2026-11-27T02:47:09.329494+00:00"
+        },
+        "updated_at": "2026-11-27T02:47:09.329507+00:00"
     }
 }
